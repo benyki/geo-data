@@ -1,0 +1,802 @@
+Unnamed: 0,City,Country,Population (2024),Population (2023),Growth Rate,slug
+0,Tokyo,Japan,37115035,37194105,-0.0021,tokyo
+1,Delhi,India,33807403,32941309,0.0263,delhi
+2,Shanghai,China,29867918,29210808,0.0225,shanghai
+3,Dhaka,Bangladesh,23935652,23209616,0.0313,dhaka
+4,Sao Paulo,Brazil,22806704,22619736,0.0083,sao-paulo
+5,Cairo,Egypt,22623874,22183201,0.0199,cairo
+6,Mexico City,Mexico,22505315,22281442,0.01,mexico-city
+7,Beijing,China,22189082,21766214,0.0194,beijing
+8,Mumbai,India,21673149,21296517,0.0177,mumbai
+9,Osaka,Japan,18967459,19013434,-0.0024,osaka
+10,Chongqing,China,17773923,17340704,0.025,chongqing
+11,Karachi,Pakistan,17648555,17236230,0.0239,karachi
+12,Kinshasa,DR Congo,17032322,16315534,0.0439,kinshasa
+13,Lagos,Nigeria,16536018,15945912,0.037,lagos
+14,Istanbul,Turkey,16047350,15847768,0.0126,istanbul
+15,Buenos Aires,Argentina,15618288,15490415,0.0083,buenos-aires
+16,Kolkata,India,15570786,15332793,0.0155,kolkata
+17,Manila,Philippines,14941953,14667089,0.0187,manila
+18,Guangzhou,China,14590096,14284353,0.0214,guangzhou
+19,Tianjin,China,14470873,14238643,0.0163,tianjin
+20,Lahore,Pakistan,14407074,13979390,0.0306,lahore
+21,Bangalore,India,14008262,13607800,0.0294,bangalore
+22,Rio De Janeiro,Brazil,13824347,13727720,0.007,rio-de-janeiro
+23,Shenzhen,China,13311855,13072633,0.0183,shenzhen
+24,Moscow,Russia,12712305,12680389,0.0025,moscow
+25,Chennai,India,12053697,11776147,0.0236,chennai
+26,Bogota,Colombia,11658211,11507960,0.0131,bogota
+27,Jakarta,Indonesia,11436004,11248839,0.0166,jakarta
+28,Lima,Peru,11361938,11204382,0.0141,lima
+29,Paris,France,11276701,11208440,0.0061,paris
+30,Bangkok,Thailand,11233869,11069982,0.0148,bangkok
+31,Hyderabad,India,11068877,10801163,0.0248,hyderabad
+32,Seoul,South Korea,10004840,9988049,0.0017,seoul
+33,Nanjing,China,9947548,9698464,0.0257,nanjing
+34,Chengdu,China,9828110,9653772,0.0181,chengdu
+35,London,United Kingdom,9748033,9648110,0.0104,london
+36,Luanda,Angola,9651032,9292336,0.0386,luanda
+37,Tehran,Iran,9616007,9499781,0.0122,tehran
+38,Ho Chi Minh City,Vietnam,9567656,9320866,0.0265,ho-chi-minh-city
+39,Nagoya,Japan,9556879,9569328,-0.0013,nagoya
+40,Xi An Shaanxi,China,9013837,8785174,0.026,xi-an-shaanxi
+41,Ahmedabad,India,8854444,8650605,0.0236,ahmedabad
+42,Wuhan,China,8850850,8718250,0.0152,wuhan
+43,Kuala Lumpur,Malaysia,8815630,8621724,0.0225,kuala-lumpur
+44,Hangzhou,China,8419842,8237206,0.0222,hangzhou
+45,Suzhou,China,8350625,8074031,0.0343,suzhou
+46,Surat,India,8330528,8064949,0.0329,surat
+47,Dar Es Salaam,Tanzania,8161231,7775865,0.0496,dar-es-salaam
+48,New York,United States,7931147,8133522,-0.0249,new-york
+49,Baghdad,Iraq,7921134,7711305,0.0272,baghdad
+50,Shenyang,China,7830377,7680967,0.0195,shenyang
+51,Riyadh,Saudi Arabia,7820551,7682430,0.018,riyadh
+52,Hong Kong,Hong Kong,7725859,7684801,0.0053,hong-kong
+53,Foshan,China,7704935,7597386,0.0142,foshan
+54,Dongguan,China,7675146,7587049,0.0116,dongguan
+55,Pune,India,7345848,7166374,0.025,pune
+56,Santiago,Chile,6950952,6903392,0.0069,santiago
+57,Haerbin,China,6938008,6803811,0.0197,haerbin
+58,Madrid,Spain,6783241,6751374,0.0047,madrid
+59,Khartoum,Sudan,6542070,6344348,0.0312,khartoum
+60,Toronto,Canada,6431430,6371958,0.0093,toronto
+61,Johannesburg,South Africa,6324351,6198016,0.0204,johannesburg
+62,Belo Horizonte,Brazil,6300409,6247889,0.0084,belo-horizonte
+63,Dalian,China,6217487,6077995,0.023,dalian
+64,Singapore,Singapore,6119203,6080859,0.0063,singapore
+65,Qingdao,China,6104597,5986525,0.0197,qingdao
+66,Zhengzhou,China,6014887,5859272,0.0266,zhengzhou
+67,Ji Nan Shandong,China,5940698,5806031,0.0232,ji-nan-shandong
+68,Abidjan,Ivory Coast,5866704,5686350,0.0317,abidjan
+69,Barcelona,Spain,5711917,5687356,0.0043,barcelona
+70,Yangon,Myanmar,5709678,5610241,0.0177,yangon
+71,Addis Ababa,Ethiopia,5703628,5460591,0.0445,addis-ababa
+72,Alexandria,Egypt,5696131,5588477,0.0193,alexandria
+73,Saint Petersburg,Russia,5581707,5561294,0.0037,saint-petersburg
+74,Nairobi,Kenya,5541172,5325160,0.0406,nairobi
+75,Chittagong,Bangladesh,5513609,5379660,0.0249,chittagong
+76,Guadalajara,Mexico,5499678,5419880,0.0147,guadalajara
+77,Fukuoka,Japan,5478076,5490271,-0.0022,fukuoka
+78,Ankara,Turkey,5477087,5397098,0.0148,ankara
+79,Hanoi,Vietnam,5431801,5253385,0.034,hanoi
+80,Melbourne,Australia,5315600,5235407,0.0153,melbourne
+81,Monterrey,Mexico,5195355,5116647,0.0154,monterrey
+82,Sydney,Australia,5184896,5120894,0.0125,sydney
+83,Changsha,China,5027975,4921487,0.0216,changsha
+84,Urumqi,China,5005964,4865038,0.029,urumqi
+85,Cape Town,South Africa,4977833,4890280,0.0179,cape-town
+86,Jiddah,Saudi Arabia,4943210,4862941,0.0165,jiddah
+87,Brasilia,Brazil,4935274,4873048,0.0128,brasilia
+88,Kunming,China,4861079,4761284,0.021,kunming
+89,Changchun,China,4802447,4710382,0.0195,changchun
+90,Kabul,Afghanistan,4728384,4588666,0.0304,kabul
+91,Hefei,China,4727290,4615758,0.0242,hefei
+92,Yaounde,Cameroon,4681768,4509287,0.0383,yaounde
+93,Ningbo,China,4659830,4537901,0.0269,ningbo
+94,Shantou,China,4656525,4573713,0.0181,shantou
+95,New Taipei,Taiwan,4534877,4504147,0.0068,new-taipei
+96,Tel Aviv,Israel,4495727,4420855,0.0169,tel-aviv
+97,Kano,Nigeria,4490734,4348481,0.0327,kano
+98,Shijiazhuang,China,4454132,4370473,0.0191,shijiazhuang
+99,Montreal,Canada,4341638,4307958,0.0078,montreal
+100,Rome,Italy,4331974,4315671,0.0038,rome
+101,Jaipur,India,4308510,4207084,0.0241,jaipur
+102,Recife,Brazil,4305127,4263940,0.0097,recife
+103,Nanning,China,4291463,4191890,0.0238,nanning
+104,Fortaleza,Brazil,4246399,4206240,0.0095,fortaleza
+105,Kozhikode,India,4243962,4088555,0.038,kozhikode
+106,Porto Alegre,Brazil,4239867,4211933,0.0066,porto-alegre
+107,Taiyuan Shanxi,China,4226782,4145010,0.0197,taiyuan-shanxi
+108,Douala,Cameroon,4203108,4063200,0.0344,douala
+109,Ekurhuleni,South Africa,4190832,4118327,0.0176,ekurhuleni
+110,Malappuram,India,4184921,4009087,0.0439,malappuram
+111,Medellin,Colombia,4137386,4102308,0.0086,medellin
+112,Changzhou,China,4085502,3981658,0.0261,changzhou
+113,Kampala,Uganda,4050826,3846102,0.0532,kampala
+114,Antananarivo,Madagascar,4048666,3872264,0.0456,antananarivo
+115,Lucknow,India,4038214,3945409,0.0235,lucknow
+116,Abuja,Nigeria,4025735,3839646,0.0485,abuja
+117,Nanchang,China,4016037,3920379,0.0244,nanchang
+118,Wenzhou,China,4009531,3919724,0.0229,wenzhou
+119,Xiamen,China,4007468,3935484,0.0183,xiamen
+120,Ibadan,Nigeria,4004316,3874908,0.0334,ibadan
+121,Fuzhou Fujian,China,3998754,3922202,0.0195,fuzhou-fujian
+122,Salvador,Brazil,3994982,3958384,0.0092,salvador
+123,Casablanca,Morocco,3950408,3892837,0.0148,casablanca
+124,Tangshan Hebei,China,3925206,3814702,0.029,tangshan-hebei
+125,Kumasi,Ghana,3903481,3768239,0.0359,kumasi
+126,Curitiba,Brazil,3852459,3813082,0.0103,curitiba
+127,Bekasi,Indonesia,3830678,3729351,0.0272,bekasi
+128,Faisalabad,Pakistan,3800193,3710845,0.0241,faisalabad
+129,Los Angeles,United States,3748640,3785439,-0.0097,los-angeles
+130,Guiyang,China,3661446,3580904,0.0225,guiyang
+131,Port Harcourt,Nigeria,3636547,3480101,0.045,port-harcourt
+132,Thrissur,India,3605238,3482456,0.0353,thrissur
+133,Santo Domingo,Dominican Republic,3587402,3523890,0.018,santo-domingo
+134,Berlin,Germany,3576873,3573938,0.0008,berlin
+135,Asuncion,Paraguay,3568830,3510511,0.0166,asuncion
+136,Dakar,Senegal,3540462,3429536,0.0323,dakar
+137,Kochi,India,3507053,3406055,0.0297,kochi
+138,Wuxi,China,3498740,3437346,0.0179,wuxi
+139,Busan,South Korea,3477419,3471949,0.0016,busan
+140,Campinas,Brazil,3458441,3422796,0.0104,campinas
+141,Mashhad,Iran,3415532,3367852,0.0142,mashhad
+142,Sanaa,Yemen,3407814,3292497,0.035,sanaa
+143,Puebla,Mexico,3394342,3344761,0.0148,puebla
+144,Indore,India,3393380,3302077,0.0277,indore
+145,Lanzhou,China,3365910,3297528,0.0207,lanzhou
+146,Ouagadougou,Burkina Faso,3358934,3203923,0.0484,ouagadougou
+147,Kuwait City,Kuwait,3353602,3297759,0.0169,kuwait-city
+148,Lusaka,Zambia,3324219,3181250,0.0449,lusaka
+149,Kanpur,India,3286142,3234160,0.0161,kanpur
+150,Durban,South Africa,3262128,3228003,0.0106,durban
+151,Guayaquil,Ecuador,3193267,3142466,0.0162,guayaquil
+152,Pyongyang,North Korea,3183135,3157538,0.0081,pyongyang
+153,Milan,Italy,3160631,3154570,0.0019,milan
+154,Guatemala City,Guatemala,3159631,3095099,0.0208,guatemala-city
+155,Athens,Greece,3154591,3154463,0.0,athens
+156,Depok,Indonesia,3133298,3041229,0.0303,depok
+157,Izmir,Turkey,3120340,3088414,0.0103,izmir
+158,Nagpur,India,3106340,3046687,0.0196,nagpur
+159,Surabaya,Indonesia,3088748,3044413,0.0146,surabaya
+160,Handan,China,3085998,3005409,0.0268,handan
+161,Coimbatore,India,3083721,3009047,0.0248,coimbatore
+162,Huaian,China,3071048,2979893,0.0306,huaian
+163,Port Au Prince,Haiti,3060169,2987455,0.0243,port-au-prince
+164,Zhongshan,China,3051065,3010685,0.0134,zhongshan
+165,Dubai,United Arab Emirates,3051016,3007583,0.0144,dubai
+166,Bamako,Mali,3050570,2929373,0.0414,bamako
+167,Mbuji Mayi,DR Congo,3022855,2891746,0.0453,mbuji-mayi
+168,Kiev,Ukraine,3020228,3016789,0.0011,kiev
+169,Lisbon,Portugal,3014607,3000536,0.0047,lisbon
+170,Weifang,China,2994537,2917819,0.0263,weifang
+171,Caracas,Venezuela,2991727,2972145,0.0066,caracas
+172,Thiruvananthapuram,India,2984154,2891119,0.0322,thiruvananthapuram
+173,Algiers,Algeria,2952115,2901810,0.0173,algiers
+174,Shizuoka,Japan,2935527,2937359,-0.0006,shizuoka
+175,Lubumbashi,DR Congo,2933962,2811959,0.0434,lubumbashi
+176,Cali,Colombia,2890433,2863730,0.0093,cali
+177,Goiania,Brazil,2890418,2848473,0.0147,goiania
+178,Pretoria,South Africa,2889899,2818100,0.0255,pretoria
+179,Shaoxing,China,2882171,2805654,0.0273,shaoxing
+180,Incheon,South Korea,2861686,2848557,0.0046,incheon
+181,Yantai,China,2834508,2764584,0.0253,yantai
+182,Zibo,China,2828435,2780142,0.0174,zibo
+183,Huizhou,China,2827610,2758593,0.025,huizhou
+184,Manchester,United Kingdom,2811756,2791005,0.0074,manchester
+185,Taipei,Taiwan,2766334,2754196,0.0044,taipei
+186,Mogadishu,Somalia,2726815,2610483,0.0446,mogadishu
+187,Brazzaville,Republic of the Congo,2724566,2637733,0.0329,brazzaville
+188,Accra,Ghana,2721165,2660072,0.023,accra
+189,Bandung,Indonesia,2714215,2674000,0.015,bandung
+190,Damascus,Syria,2685361,2584771,0.0389,damascus
+191,Birmingham,United Kingdom,2684807,2665100,0.0074,birmingham
+192,Vancouver,Canada,2682509,2657088,0.0096,vancouver
+193,Toluca De Lerdo,Mexico,2674336,2626368,0.0183,toluca-de-lerdo
+194,Luoyang,China,2666744,2602793,0.0246,luoyang
+195,Sapporo,Japan,2660947,2666112,-0.0019,sapporo
+196,Tashkent,Uzbekistan,2633661,2603243,0.0117,tashkent
+197,Patna,India,2633243,2579762,0.0207,patna
+198,Bhopal,India,2624865,2564502,0.0235,bhopal
+199,Chicago,United States,2590002,2627520,-0.0143,chicago
+200,Tangerang,Indonesia,2570980,2514077,0.0226,tangerang
+201,Nantong,China,2555722,2492230,0.0255,nantong
+202,Brisbane,Australia,2536449,2504505,0.0128,brisbane
+203,Tunis,Tunisia,2510673,2475446,0.0142,tunis
+204,Peshawar,Pakistan,2480546,2411785,0.0285,peshawar
+205,Medan,Indonesia,2479070,2439054,0.0164,medan
+206,Gujranwala,Pakistan,2479058,2415416,0.0263,gujranwala
+207,Baku,Azerbaijan,2464162,2432304,0.0131,baku
+208,Hohhot,China,2443686,2380636,0.0265,hohhot
+209,San Juan,Puerto Rico,2436620,2439564,-0.0012,san-juan
+210,Belem,Brazil,2432177,2409409,0.0094,belem
+211,Rawalpindi,Pakistan,2430388,2377325,0.0223,rawalpindi
+212,Agra,India,2422342,2367554,0.0231,agra
+213,Manaus,Brazil,2406854,2375636,0.0131,manaus
+214,Kannur,India,2405664,2346137,0.0254,kannur
+215,Beirut,Lebanon,2402485,2421354,-0.0078,beirut
+216,Maracaibo,Venezuela,2400826,2367626,0.014,maracaibo
+217,Liuzhou,China,2397410,2343452,0.023,liuzhou
+218,Visakhapatnam,India,2385110,2330928,0.0232,visakhapatnam
+219,Baotou,China,2381242,2334878,0.0199,baotou
+220,Vadodara,India,2373365,2324084,0.0212,vadodara
+221,Barranquilla,Colombia,2373302,2349400,0.0102,barranquilla
+222,Phnom Penh,Cambodia,2352680,2281198,0.0313,phnom-penh
+223,Sendai,Japan,2341433,2342302,-0.0004,sendai
+224,Taoyuan,Taiwan,2338724,2318850,0.0086,taoyuan
+225,Xuzhou,China,2332531,2287166,0.0198,xuzhou
+226,Aleppo,Syria,2317650,2203025,0.052,aleppo
+227,Houston,United States,2305889,2304383,0.0007,houston
+228,Tijuana,Mexico,2297216,2259787,0.0166,tijuana
+229,Esfahan,Iran,2294589,2258396,0.016,esfahan
+230,Nashik,India,2294299,2237369,0.0254,nashik
+231,Vijayawada,India,2290785,2229765,0.0274,vijayawada
+232,Amman,Jordan,2252688,2232240,0.0092,amman
+233,Putian,China,2250104,2176022,0.034,putian
+234,Multan,Pakistan,2205407,2154600,0.0236,multan
+235,Grande Vitoria,Brazil,2196818,2170513,0.0121,grande-vitoria
+236,Wuhu Anhui,China,2195262,2124797,0.0332,wuhu-anhui
+237,Mecca,Saudi Arabia,2184560,2149928,0.0161,mecca
+238,Kollam,India,2181940,2106606,0.0358,kollam
+239,Naples,Italy,2180027,2179384,0.0003,naples
+240,Daegu,South Korea,2179929,2180997,-0.0005,daegu
+241,Conakry,Guinea,2178596,2110937,0.0321,conakry
+242,Yangzhou,China,2175102,2131291,0.0206,yangzhou
+243,Havana,Cuba,2152518,2148930,0.0017,havana
+244,Taizhou Zhejiang,China,2152226,2102143,0.0238,taizhou-zhejiang
+245,Baoding,China,2149703,2107539,0.02,baoding
+246,Perth,Australia,2143491,2117997,0.012,perth
+247,Brussels,Belgium,2132178,2121992,0.0048,brussels
+248,Linyi Shandong,China,2120049,2076364,0.021,linyi-shandong
+249,Bursa,Turkey,2115513,2086324,0.014,bursa
+250,Rajkot,India,2096981,2043107,0.0264,rajkot
+251,Minsk,Belarus,2064733,2057257,0.0036,minsk
+252,Hiroshima,Japan,2062884,2067591,-0.0023,hiroshima
+253,Haikou,China,2056646,2016092,0.0201,haikou
+254,Daqing,China,2044371,2000656,0.0219,daqing
+255,Lome,Togo,2042734,1981615,0.0308,lome
+256,Lianyungang,China,2035631,1986439,0.0248,lianyungang
+257,Yancheng Jiangsu,China,2034326,1993463,0.0205,yancheng-jiangsu
+258,Panama City,Panama,2015735,1976866,0.0197,panama-city
+259,Almaty,Kazakhstan,2015209,1987301,0.014,almaty
+260,Semarang,Indonesia,2013571,1975306,0.0194,semarang
+261,Hyderabad,Pakistan,2011964,1967684,0.0225,hyderabad
+262,Valencia,Venezuela,2007265,1983445,0.012,valencia
+263,Davao City,Philippines,1991457,1949400,0.0216,davao-city
+264,Vienna,Austria,1990487,1975271,0.0077,vienna
+265,Rabat,Morocco,1989197,1959388,0.0152,rabat
+266,Ludhiana,India,1988438,1951085,0.0191,ludhiana
+267,Quito,Ecuador,1986667,1956995,0.0152,quito
+268,Benin City,Nigeria,1972558,1904631,0.0357,benin-city
+269,La Paz,Bolivia,1965570,1935619,0.0155,la-paz
+270,Baixada Santista,Brazil,1965110,1947785,0.0089,baixada-santista
+271,West Yorkshire,United Kingdom,1942470,1928661,0.0072,west-yorkshire
+272,Can Tho,Vietnam,1938915,1865172,0.0395,can-tho
+273,Zhuhai,China,1930373,1889829,0.0215,zhuhai
+274,Leon De Los Aldamas,Mexico,1924435,1898749,0.0135,leon-de-los-aldamas
+275,Quanzhou,China,1920733,1869994,0.0271,quanzhou
+276,Matola,Mozambique,1915035,1852405,0.0338,matola
+277,Datong,China,1913674,1873693,0.0213,datong
+278,Sharjah,United Arab Emirates,1872199,1830858,0.0226,sharjah
+279,Madurai,India,1871912,1834279,0.0205,madurai
+280,Raipur,India,1871107,1816813,0.0299,raipur
+281,Adana,Turkey,1856638,1835895,0.0113,adana
+282,Santa Cruz,Bolivia,1855732,1820114,0.0196,santa-cruz
+283,Palembang,Indonesia,1852673,1818421,0.0188,palembang
+284,Mosul,Iraq,1847691,1792020,0.0311,mosul
+285,Cixi,China,1840039,1788871,0.0286,cixi
+286,Meerut,India,1835403,1797805,0.0209,meerut
+287,Gaziantep,Turkey,1833006,1804704,0.0157,gaziantep
+288,La Laguna,Mexico,1826135,1780592,0.0256,la-laguna
+289,Batam,Indonesia,1806147,1748142,0.0332,batam
+290,Turin,Italy,1805727,1801944,0.0021,turin
+291,Warsaw,Poland,1799451,1797516,0.0011,warsaw
+292,Jiangmen,China,1797469,1768511,0.0164,jiangmen
+293,Varanasi,India,1789047,1754425,0.0197,varanasi
+294,Hamburg,Germany,1787280,1787520,-0.0001,hamburg
+295,Montevideo,Uruguay,1781363,1774396,0.0039,montevideo
+296,Budapest,Hungary,1780391,1778052,0.0013,budapest
+297,Lyon,France,1774395,1761188,0.0075,lyon
+298,Xiangyang,China,1772318,1742706,0.017,xiangyang
+299,Bucharest,Romania,1767520,1776385,-0.005,bucharest
+300,Yichang,China,1758100,1711244,0.0274,yichang
+301,Yinchuan,China,1757699,1716591,0.0239,yinchuan
+302,Shiraz,Iran,1742750,1720954,0.0127,shiraz
+303,Kananga,DR Congo,1738716,1664442,0.0446,kananga
+304,Srinagar,India,1737502,1698277,0.0231,srinagar
+305,Monrovia,Liberia,1735365,1678020,0.0342,monrovia
+306,Tiruppur,India,1731862,1677173,0.0326,tiruppur
+307,Jamshedpur,India,1730521,1695060,0.0209,jamshedpur
+308,Suqian,China,1726327,1664968,0.0369,suqian
+309,Aurangabad,India,1725283,1683389,0.0249,aurangabad
+310,Qinhuangdao,China,1723728,1680962,0.0254,qinhuangdao
+311,Stockholm,Sweden,1719604,1700066,0.0115,stockholm
+312,Anshan,China,1713452,1689499,0.0142,anshan
+313,Glasgow,United Kingdom,1708147,1698088,0.0059,glasgow
+314,Xining,China,1705078,1666605,0.0231,xining
+315,Makassar,Indonesia,1704930,1673094,0.019,makassar
+316,Hengyang,China,1702012,1661854,0.0242,hengyang
+317,Novosibirsk,Russia,1701510,1694765,0.004,novosibirsk
+318,Ulaanbaatar,Mongolia,1699363,1672627,0.016,ulaanbaatar
+319,Onitsha,Nigeria,1694913,1623382,0.0441,onitsha
+320,Jilin,China,1693701,1668785,0.0149,jilin
+321,Anyang,China,1693375,1642347,0.0311,anyang
+322,Auckland,New Zealand,1692770,1673220,0.0117,auckland
+323,Tabriz,Iran,1678028,1660737,0.0104,tabriz
+324,Phoenix,United States,1676481,1660445,0.0097,phoenix
+325,Muscat,Oman,1676167,1650319,0.0157,muscat
+326,Calgary,Canada,1665023,1639613,0.0155,calgary
+327,Qiqihaer,China,1662407,1635458,0.0165,qiqihaer
+328,N Djamena,Chad,1655618,1592324,0.0397,n-djamena
+329,Marseille,France,1635707,1627549,0.005,marseille
+330,Cordoba,Argentina,1625937,1611651,0.0089,cordoba
+331,Jodhpur,India,1625325,1586547,0.0244,jodhpur
+332,Kathmandu,Nepal,1621642,1571010,0.0322,kathmandu
+333,Rosario,Argentina,1613041,1594096,0.0119,rosario
+334,Tegucigalpa,Honduras,1609261,1568025,0.0263,tegucigalpa
+335,Ciudad Juarez,Mexico,1604085,1582313,0.0138,ciudad-juarez
+336,Harare,Zimbabwe,1603201,1578128,0.0159,harare
+337,Karaj,Iran,1603011,1593608,0.0059,karaj
+338,Medina,Saudi Arabia,1598976,1572571,0.0168,medina
+339,Jining Shandong,China,1595963,1569560,0.0168,jining-shandong
+340,Abu Dhabi,United Arab Emirates,1593284,1566999,0.0168,abu-dhabi
+341,Munich,Germany,1584507,1576416,0.0051,munich
+342,Ranchi,India,1584237,1547258,0.0239,ranchi
+343,Daejon,South Korea,1581705,1577436,0.0027,daejon
+344,Zhangjiakou,China,1568122,1536171,0.0208,zhangjiakou
+345,Edmonton,Canada,1567615,1544448,0.015,edmonton
+346,Mandalay,Myanmar,1563021,1531860,0.0203,mandalay
+347,Gaoxiong,Taiwan,1559085,1552899,0.004,gaoxiong
+348,Kota,India,1558468,1516795,0.0275,kota
+349,Natal,Brazil,1556413,1535316,0.0137,natal
+350,Nouakchott,Mauritania,1552146,1491958,0.0403,nouakchott
+351,Jabalpur,India,1551004,1522121,0.019,jabalpur
+352,Huainan,China,1538603,1512668,0.0171,huainan
+353,Grande Sao Luis,Brazil,1536017,1523629,0.0081,grande-sao-luis
+354,Asansol,India,1534081,1505033,0.0193,asansol
+355,Philadelphia,United States,1533916,1550587,-0.0107,philadelphia
+356,Yekaterinburg,Russia,1532970,1527728,0.0034,yekaterinburg
+357,Gwangju,South Korea,1532902,1529472,0.0022,gwangju
+358,Yiwu,China,1525749,1483320,0.0286,yiwu
+359,Chaozhou,China,1520628,1496298,0.0163,chaozhou
+360,Gwalior,India,1508846,1475016,0.0229,gwalior
+361,Ganzhou,China,1508037,1459678,0.0331,ganzhou
+362,San Antonio,United States,1506593,1489751,0.0113,san-antonio
+363,Homs,Syria,1499603,1443429,0.0389,homs
+364,Niamey,Niger,1496258,1437233,0.0411,niamey
+365,Mombasa,Kenya,1495223,1440396,0.0381,mombasa
+366,Allahabad,India,1493346,1465152,0.0192,allahabad
+367,Basra,Iraq,1485156,1448124,0.0256,basra
+368,Kisangani,DR Congo,1483513,1423395,0.0422,kisangani
+369,San Jose,Costa Rica,1482460,1461989,0.014,san-jose
+370,Amritsar,India,1480470,1451748,0.0198,amritsar
+371,Taizhou Jiangsu,China,1477600,1446810,0.0213,taizhou-jiangsu
+372,Chon Buri,Thailand,1472709,1454222,0.0127,chon-buri
+373,Jiaxing,China,1470917,1424982,0.0322,jiaxing
+374,Weihai,China,1465926,1429315,0.0256,weihai
+375,Hai Phong,Vietnam,1463650,1422974,0.0286,hai-phong
+376,Ottawa,Canada,1451571,1437188,0.01,ottawa
+377,Zurich,Switzerland,1443349,1431538,0.0083,zurich
+378,Taian Shandong,China,1441911,1416064,0.0183,taian-shandong
+379,Queretaro,Mexico,1436818,1413474,0.0165,queretaro
+380,Joao Pessoa,Brazil,1435125,1421827,0.0094,joao-pessoa
+381,Kaifeng,China,1434463,1398262,0.0259,kaifeng
+382,Cochabamba,Bolivia,1430688,1400250,0.0217,cochabamba
+383,Konya,Turkey,1429935,1407632,0.0158,konya
+384,Liuyang,China,1428802,1373523,0.0402,liuyang
+385,Liuan,China,1427894,1378077,0.0361,liuan
+386,Rizhao,China,1426583,1391258,0.0254,rizhao
+387,Kharkiv,Ukraine,1418978,1421052,-0.0015,kharkiv
+388,Dhanbad,India,1414532,1389776,0.0178,dhanbad
+389,Nanchong,China,1412714,1377572,0.0255,nanchong
+390,Dongying,China,1410791,1379377,0.0228,dongying
+391,Belgrade,Serbia,1410697,1408144,0.0018,belgrade
+392,Zunyi,China,1406091,1376453,0.0215,zunyi
+393,Zhanjiang,China,1399310,1371998,0.0199,zhanjiang
+394,Bucaramanga,Colombia,1396632,1381498,0.011,bucaramanga
+395,Uyo,Nigeria,1393453,1329284,0.0483,uyo
+396,Copenhagen,Denmark,1391205,1381005,0.0074,copenhagen
+397,Shiyan,China,1387377,1354025,0.0246,shiyan
+398,Taizhong,Taiwan,1381855,1369066,0.0093,taizhong
+399,Bareilly,India,1380715,1348664,0.0238,bareilly
+400,Pointe Noire,Republic of the Congo,1379368,1336387,0.0322,pointe-noire
+401,Adelaide,Australia,1379280,1366783,0.0091,adelaide
+402,Suweon,South Korea,1378229,1365352,0.0094,suweon
+403,Mwanza,Tanzania,1378014,1310754,0.0513,mwanza
+404,Mianyang Sichuan,China,1376449,1351383,0.0185,mianyang-sichuan
+405,Samut Prakan,Thailand,1376146,1358871,0.0127,samut-prakan
+406,Maceio,Brazil,1375984,1363510,0.0091,maceio
+407,San Diego,United States,1375452,1378307,-0.0021,san-diego
+408,Qom,Iran,1373800,1354174,0.0145,qom
+409,Antalya,Turkey,1372400,1347240,0.0187,antalya
+410,Joinville,Brazil,1361992,1348521,0.01,joinville
+411,Tengzhou,China,1360779,1322916,0.0286,tengzhou
+412,Yingkou,China,1355564,1323174,0.0245,yingkou
+413,Ad Dammam,Saudi Arabia,1352912,1329291,0.0178,ad-dammam
+414,Suzhou,China,1349994,1310433,0.0302,suzhou
+415,Tanger,Morocco,1348848,1314178,0.0264,tanger
+416,Freetown,Sierra Leone,1347559,1309168,0.0293,freetown
+417,Helsinki,Finland,1346810,1337786,0.0067,helsinki
+418,Aligarh,India,1346018,1312369,0.0256,aligarh
+419,Moradabad,India,1335966,1301740,0.0263,moradabad
+420,Pekan Baru,Indonesia,1334532,1303355,0.0239,pekan-baru
+421,Maoming,China,1333930,1303900,0.023,maoming
+422,Lilongwe,Malawi,1333096,1276316,0.0445,lilongwe
+423,Porto,Portugal,1329301,1324652,0.0035,porto
+424,Prague,Czech Republic,1327947,1323339,0.0035,prague
+425,Astana,Kazakhstan,1324111,1291280,0.0254,astana
+426,Jieyang,China,1320779,1282479,0.0299,jieyang
+427,Fushun Liaoning,China,1317276,1304565,0.0097,fushun-liaoning
+428,Mysore,India,1316461,1288245,0.0219,mysore
+429,Abomey Calavi,Benin,1314916,1252890,0.0495,abomey-calavi
+430,Ruian,China,1314784,1281790,0.0257,ruian
+431,Fes,Morocco,1313311,1290039,0.018,fes
+432,Port Elizabeth,South Africa,1312631,1295928,0.0129,port-elizabeth
+433,Florianopolis,Brazil,1309895,1294486,0.0119,florianopolis
+434,Ahvaz,Iran,1309372,1293619,0.0122,ahvaz
+435,Bukavu,DR Congo,1308469,1248783,0.0478,bukavu
+436,Nnewi,Nigeria,1300993,1239186,0.0499,nnewi
+437,Kazan,Russia,1296232,1291884,0.0034,kazan
+438,Jinhua,China,1296065,1257941,0.0303,jinhua
+439,Dallas,United States,1295447,1297495,-0.0016,dallas
+440,San Luis Potosi,Mexico,1292133,1273325,0.0148,san-luis-potosi
+441,Baoji,China,1290231,1261077,0.0231,baoji
+442,Durg Bhilainagar,India,1289673,1266034,0.0187,durg-bhilainagar
+443,Bhubaneswar,India,1289254,1257642,0.0251,bhubaneswar
+444,Kigali,Rwanda,1287952,1247551,0.0324,kigali
+445,Sofia,Bulgaria,1287540,1288114,-0.0004,sofia
+446,Pingdingshan Henan,China,1285750,1256581,0.0232,pingdingshan-henan
+447,Dublin,Ireland,1284551,1270172,0.0113,dublin
+448,Puning,China,1282756,1254160,0.0228,puning
+449,Chifeng,China,1279544,1252414,0.0217,chifeng
+450,Zhuzhou,China,1277238,1254519,0.0181,zhuzhou
+451,Bujumbura,Burundi,1277050,1206767,0.0582,bujumbura
+452,Zhenjiang Jiangsu,China,1275395,1250668,0.0198,zhenjiang-jiangsu
+453,Liupanshui,China,1272872,1230644,0.0343,liupanshui
+454,Barquisimeto,Venezuela,1267872,1254192,0.0109,barquisimeto
+455,Islamabad,Pakistan,1266792,1232447,0.0279,islamabad
+456,Huaibei,China,1264856,1236271,0.0231,huaibei
+457,Tasikmalaya,Indonesia,1258124,1213778,0.0365,tasikmalaya
+458,Maracay,Venezuela,1256553,1242945,0.0109,maracay
+459,Bogor,Indonesia,1256155,1231445,0.0201,bogor
+460,Da Nang,Vietnam,1253228,1220634,0.0267,da-nang
+461,Nizhniy Novgorod,Russia,1250302,1251332,-0.0008,nizhniy-novgorod
+462,Nanyang Henan,China,1250300,1224629,0.021,nanyang-henan
+463,Xiangtan Hunan,China,1249380,1223912,0.0208,xiangtan-hunan
+464,Pizhou,China,1247177,1207275,0.0331,pizhou
+465,Tiruchirappalli,India,1244978,1221960,0.0188,tiruchirappalli
+466,Chelyabinsk,Russia,1243883,1240926,0.0024,chelyabinsk
+467,Mendoza,Argentina,1242319,1226427,0.013,mendoza
+468,Luohe,China,1241152,1197935,0.0361,luohe
+469,Xiongan,China,1240158,1183042,0.0483,xiongan
+470,Chandigarh,India,1239699,1214775,0.0205,chandigarh
+471,Merida,Mexico,1239654,1220603,0.0156,merida
+472,Jinzhou,China,1238377,1215376,0.0189,jinzhou
+473,Benxi,China,1237550,1216852,0.017,benxi
+474,Binzhou,China,1233584,1200222,0.0278,binzhou
+475,Aba,Nigeria,1230407,1188803,0.035,aba
+476,Chiang Mai,Thailand,1228773,1213348,0.0127,chiang-mai
+477,Bazhong,China,1225591,1175989,0.0422,bazhong
+478,Quetta,Pakistan,1221495,1190348,0.0262,quetta
+479,Kaduna,Nigeria,1221451,1187398,0.0287,kaduna
+480,Guilin,China,1218067,1196841,0.0177,guilin
+481,Saharanpur,India,1207856,1171689,0.0309,saharanpur
+482,Hubli Dharwad,India,1205428,1181194,0.0205,hubli-dharwad
+483,Yueqing,China,1201400,1169864,0.027,yueqing
+484,Guwahati,India,1199455,1176330,0.0197,guwahati
+485,Mexicali,Mexico,1196982,1178477,0.0157,mexicali
+486,Salem,India,1194757,1169953,0.0212,salem
+487,Maputo,Mozambique,1193253,1162793,0.0262,maputo
+488,Tripoli,Libya,1192436,1183292,0.0077,tripoli
+489,Haifa,Israel,1186475,1174429,0.0103,haifa
+490,Bandar Lampung,Indonesia,1186233,1162242,0.0206,bandar-lampung
+491,Bobo Dioulasso,Burkina Faso,1185053,1128646,0.05,bobo-dioulasso
+492,Amsterdam,Netherlands,1181817,1174025,0.0066,amsterdam
+493,Shimkent,Kazakhstan,1181020,1155073,0.0225,shimkent
+494,Omsk,Russia,1180677,1180745,-0.0001,omsk
+495,Aguascalientes,Mexico,1179301,1161448,0.0154,aguascalientes
+496,Hargeysa,Somalia,1176617,1127198,0.0438,hargeysa
+497,Krasnoyarsk,Russia,1173095,1166792,0.0054,krasnoyarsk
+498,Xinxiang,China,1160840,1140599,0.0177,xinxiang
+499,Siliguri,India,1159371,1126249,0.0294,siliguri
+500,Wenling,China,1159259,1131361,0.0247,wenling
+501,Samara,Russia,1154451,1155732,-0.0011,samara
+502,Zaozhuang,China,1150859,1133629,0.0152,zaozhuang
+503,Cologne,Germany,1149014,1143715,0.0046,cologne
+504,Yongin,South Korea,1147967,1135671,0.0108,yongin
+505,Ufa,Russia,1146786,1144799,0.0017,ufa
+506,Fuyang,China,1146343,1120694,0.0229,fuyang
+507,Ikorodu,Nigeria,1145224,1093308,0.0475,ikorodu
+508,Bien Hoa,Vietnam,1142997,1110824,0.029,bien-hoa
+509,Jalandhar,India,1142682,1118826,0.0213,jalandhar
+510,Panjin,China,1142542,1120675,0.0195,panjin
+511,Ma'anshan,China,1140264,1112680,0.0248,ma-anshan
+512,Cuernavaca,Mexico,1140169,1123843,0.0145,cuernavaca
+513,Rostov on Don,Russia,1139641,1138854,0.0007,rostov-on-don
+514,Chihuahua,Mexico,1135342,1116295,0.0171,chihuahua
+515,Fuzhou Jiangxi,China,1131718,1100271,0.0286,fuzhou-jiangxi
+516,Tshikapa,DR Congo,1131226,1077108,0.0502,tshikapa
+517,Shangrao,China,1130887,1106736,0.0218,shangrao
+518,Samarinda,Indonesia,1128176,1100324,0.0253,samarinda
+519,Bishkek,Kyrgyzstan,1127721,1104742,0.0208,bishkek
+520,Zhaoqing,China,1127601,1103202,0.0221,zhaoqing
+521,San Salvador,El Salvador,1123376,1116052,0.0066,san-salvador
+522,Yichun Jiangxi,China,1122041,1078630,0.0402,yichun-jiangxi
+523,Chenzhou,China,1119791,1084969,0.0321,chenzhou
+524,Sekondi Takoradi,Ghana,1119534,1077929,0.0386,sekondi-takoradi
+525,Leshan,China,1116497,1087409,0.0267,leshan
+526,Aden,Yemen,1116193,1079670,0.0338,aden
+527,Goyang,South Korea,1114079,1105283,0.008,goyang
+528,Diyarbakir,Turkey,1113333,1096937,0.0149,diyarbakir
+529,Asmara,Eritrea,1111748,1072666,0.0364,asmara
+530,Dezhou,China,1108356,1080680,0.0256,dezhou
+531,Jingzhou Hubei,China,1108067,1089886,0.0167,jingzhou-hubei
+532,Managua,Nicaragua,1107118,1094510,0.0115,managua
+533,Johor Bahru,Malaysia,1107001,1086214,0.0191,johor-bahru
+534,Kermanshah,Iran,1101611,1084623,0.0157,kermanshah
+535,Nyala,Sudan,1101314,1056952,0.042,nyala
+536,Oslo,Norway,1100868,1085992,0.0137,oslo
+537,Kirkuk,Iraq,1100390,1074884,0.0237,kirkuk
+538,Yerevan,Armenia,1097542,1094813,0.0025,yerevan
+539,Cartagena,Colombia,1096463,1087599,0.0082,cartagena
+540,Changshu,China,1093687,1059902,0.0319,changshu
+541,Huzhou,China,1091811,1067651,0.0226,huzhou
+542,Xuchang,China,1091744,1063876,0.0262,xuchang
+543,Solapur,India,1088131,1070322,0.0166,solapur
+544,Lille,France,1085199,1079120,0.0056,lille
+545,Mersin,Turkey,1084817,1069402,0.0144,mersin
+546,Tbilisi,Georgia,1084471,1082245,0.0021,tbilisi
+547,Perm,Russia,1084120,1081768,0.0022,perm
+548,Voronezh,Russia,1083724,1080808,0.0027,voronezh
+549,Denpasar,Indonesia,1075244,1053041,0.0211,denpasar
+550,Toulouse,France,1070746,1060460,0.0097,toulouse
+551,Blantyre Limbe,Malawi,1070625,1030974,0.0385,blantyre-limbe
+552,Aracaju,Brazil,1070122,1056986,0.0124,aracaju
+553,Marrakech,Morocco,1067172,1049690,0.0167,marrakech
+554,Qujing,China,1066897,1038964,0.0269,qujing
+555,Yueyang,China,1064166,1048889,0.0146,yueyang
+556,Ilorin,Nigeria,1063713,1030498,0.0322,ilorin
+557,Tampico,Mexico,1062567,1047251,0.0146,tampico
+558,Antwerp,Belgium,1061089,1057215,0.0037,antwerp
+559,Teresina,Brazil,1059657,1050459,0.0088,teresina
+560,Guiping,China,1055921,1020399,0.0348,guiping
+561,Warangal,India,1055604,1031090,0.0238,warangal
+562,Changwon,South Korea,1055373,1054442,0.0009,changwon
+563,Padang,Indonesia,1052849,1033645,0.0186,padang
+564,Saltillo,Mexico,1050320,1034126,0.0157,saltillo
+565,Xintai,China,1049486,1023756,0.0251,xintai
+566,Cancun,Mexico,1045005,1022604,0.0219,cancun
+567,Cebu City,Philippines,1042613,1024945,0.0172,cebu-city
+568,San Miguel De Tucuman,Argentina,1039226,1026767,0.0121,san-miguel-de-tucuman
+569,Hamah,Syria,1034498,995747,0.0389,hamah
+570,Acapulco De Juarez,Mexico,1032772,1018976,0.0135,acapulco-de-juarez
+571,Warri,Nigeria,1031425,986921,0.0451,warri
+572,Kayseri,Turkey,1025507,1013240,0.0121,kayseri
+573,Chengde,China,1024521,993097,0.0316,chengde
+574,Owerri,Nigeria,1022922,983352,0.0402,owerri
+575,Rotterdam,Netherlands,1021919,1018012,0.0038,rotterdam
+576,Pingxiang Jiangxi,China,1021575,999721,0.0219,pingxiang-jiangxi
+577,Zhucheng,China,1019600,991208,0.0286,zhucheng
+578,Songkhla,Thailand,1017784,1005007,0.0127,songkhla
+579,Valparaiso,Chile,1016585,1008599,0.0079,valparaiso
+580,Dehradun,India,1016402,991876,0.0247,dehradun
+581,Nonthaburi,Thailand,1013672,1000947,0.0127,nonthaburi
+582,Leiyang,China,1013191,978327,0.0356,leiyang
+583,Dushanbe,Tajikistan,1012794,986899,0.0262,dushanbe
+584,Nampula,Mozambique,1012582,969322,0.0446,nampula
+585,Misratah,Libya,1011119,984193,0.0274,misratah
+586,Krasnodar,Russia,1010552,1001155,0.0094,krasnodar
+587,Laiwu,China,1009727,986248,0.0238,laiwu
+588,Bordeaux,France,1009594,1000475,0.0091,bordeaux
+589,Jixi Heilongjiang,China,1008989,993175,0.0159,jixi-heilongjiang
+590,San Pedro Sula,Honduras,1008220,982021,0.0267,san-pedro-sula
+591,Odesa,Ukraine,1007596,1007716,-0.0001,odesa
+592,Jiujiang,China,1004247,982777,0.0218,jiujiang
+593,Lubango,Angola,1003016,958548,0.0464,lubango
+594,Morelia,Mexico,1002461,988744,0.0139,morelia
+595,Jos,Nigeria,1001155,970129,0.032,jos
+596,Sylhet,Bangladesh,999374,964291,0.0364,sylhet
+597,Agadir,Morocco,998146,979248,0.0193,agadir
+598,Volgograd,Russia,993352,995078,-0.0017,volgograd
+599,Mudanjiang,China,992414,975348,0.0175,mudanjiang
+600,Jacksonville,United States,990931,981125,0.01,jacksonville
+601,Guigang,China,990310,967428,0.0237,guigang
+602,Fort Worth,United States,989842,973275,0.017,fort-worth
+603,Najaf,Iraq,987814,958487,0.0306,najaf
+604,Bangui,Central African Republic,985965,958335,0.0288,bangui
+605,Rajshahi,Bangladesh,983707,961991,0.0226,rajshahi
+606,Hengshui,China,983694,955663,0.0293,hengshui
+607,Austin,United States,983126,978786,0.0044,austin
+608,Jerusalem,Israel,983097,969804,0.0137,jerusalem
+609,Zhangzhou,China,980054,955519,0.0257,zhangzhou
+610,Xinyu,China,979303,952278,0.0284,xinyu
+611,Linfen,China,978614,951822,0.0281,linfen
+612,Tianmen,China,978317,953768,0.0257,tianmen
+613,Ciudad Guayana,Venezuela,978202,964266,0.0145,ciudad-guayana
+614,Zamboanga City,Philippines,977081,960349,0.0174,zamboanga-city
+615,Yangjiang,China,976606,956079,0.0215,yangjiang
+616,Taiz,Yemen,974518,940600,0.0361,taiz
+617,Cucuta,Colombia,972485,963045,0.0098,cucuta
+618,Arequipa,Peru,971296,958998,0.0128,arequipa
+619,Liling,China,970907,936997,0.0362,liling
+620,Antipolo,Philippines,968288,946653,0.0229,antipolo
+621,Veracruz,Mexico,968070,955226,0.0134,veracruz
+622,Reynosa,Mexico,967627,951417,0.017,reynosa
+623,Khulna,Bangladesh,965483,955104,0.0109,khulna
+624,Deyang,China,963160,939166,0.0255,deyang
+625,Pathum Thani,Thailand,962126,950048,0.0127,pathum-thani
+626,Bengbu,China,959784,944465,0.0162,bengbu
+627,Jiangyin,China,959250,933395,0.0277,jiangyin
+628,Southampton,United Kingdom,959202,951531,0.0081,southampton
+629,Villahermosa,Mexico,958118,943530,0.0155,villahermosa
+630,Baishan,China,956976,927532,0.0317,baishan
+631,Nice,France,951808,948149,0.0039,nice
+632,Oran,Algeria,950768,935947,0.0158,oran
+633,West Rand,South Africa,947734,934341,0.0143,west-rand
+634,Cabinda,Angola,947634,904676,0.0475,cabinda
+635,Umuahia,Nigeria,947460,904139,0.0479,umuahia
+636,Bogra,Bangladesh,944877,905814,0.0431,bogra
+637,Bahawalpur,Pakistan,944812,919654,0.0274,bahawalpur
+638,Seongnam,South Korea,942159,941508,0.0007,seongnam
+639,Guntur,India,940205,918324,0.0238,guntur
+640,Dnipro,Ukraine,936766,941586,-0.0051,dnipro
+641,Campo Grande,Brazil,934936,926095,0.0095,campo-grande
+642,Malang,Indonesia,933392,919443,0.0152,malang
+643,Londrina,Brazil,932892,922425,0.0113,londrina
+644,Dandong,China,932648,917936,0.016,dandong
+645,San Jose,United States,932636,951934,-0.0203,san-jose
+646,Changzhi,China,930620,910743,0.0218,changzhi
+647,Hermosillo,Mexico,929961,915060,0.0163,hermosillo
+648,Bhiwandi,India,924670,906581,0.02,bhiwandi
+649,La Plata,Argentina,923715,914036,0.0106,la-plata
+650,Liverpool,United Kingdom,922871,917032,0.0064,liverpool
+651,Ashgabat,Turkmenistan,921601,902353,0.0213,ashgabat
+652,Concepcion,Chile,920916,911862,0.0099,concepcion
+653,Charlotte,United States,920325,909022,0.0124,charlotte
+654,Puducherry,India,919280,897983,0.0237,puducherry
+655,Changde,China,919026,898338,0.023,changde
+656,Bergamo,Italy,918675,913376,0.0058,bergamo
+657,Firozabad,India,918218,894388,0.0266,firozabad
+658,Erbil,Iraq,917639,896716,0.0233,erbil
+659,Tyumen,Russia,916862,903815,0.0144,tyumen
+660,Trujillo,Peru,916632,903896,0.0141,trujillo
+661,Liaoyang,China,916238,900692,0.0173,liaoyang
+662,Shangqiu,China,915823,895111,0.0231,shangqiu
+663,Ulsan,South Korea,914300,912734,0.0017,ulsan
+664,Tuxtla Gutierrez,Mexico,913075,897694,0.0171,tuxtla-gutierrez
+665,Columbus,United States,909676,908823,0.0009,columbus
+666,Kuerle,China,906765,875496,0.0357,kuerle
+667,Soshanguve,South Africa,905868,892254,0.0153,soshanguve
+668,Xingtai,China,904070,886381,0.02,xingtai
+669,Culiacan,Mexico,903910,888620,0.0172,culiacan
+670,Quzhou,China,902621,871457,0.0358,quzhou
+671,Cherthala,India,901820,870465,0.036,cherthala
+672,Huangshi,China,893107,876930,0.0184,huangshi
+673,Fuxin,China,889767,876131,0.0156,fuxin
+674,Lokoja,Nigeria,885882,839046,0.0558,lokoja
+675,Hufuf Mubarraz,Saudi Arabia,884753,872438,0.0141,hufuf-mubarraz
+676,Libreville,Gabon,883920,869773,0.0163,libreville
+677,Yongzhou,China,883326,860522,0.0265,yongzhou
+678,Xinghua,China,882986,861978,0.0244,xinghua
+679,Donetsk,Ukraine,882209,887716,-0.0062,donetsk
+680,Yibin,China,881480,864910,0.0192,yibin
+681,Enugu,Nigeria,875552,846560,0.0342,enugu
+682,Tainan,Taiwan,875392,869625,0.0066,tainan
+683,Indianapolis (balance),United States,874089,877355,-0.0037,indianapolis-balance
+684,Xinyang,China,873268,855191,0.0211,xinyang
+685,Ipoh,Malaysia,872424,857225,0.0177,ipoh
+686,Luzhou,China,870714,857683,0.0152,luzhou
+687,Banghazi,Libya,870502,859209,0.0131,banghazi
+688,Maiduguri,Nigeria,870201,844747,0.0301,maiduguri
+689,Yangquan,China,869585,851630,0.0211,yangquan
+690,Huaihua,China,869575,843754,0.0306,huaihua
+691,Xiaogan,China,869479,849580,0.0234,xiaogan
+692,Tianshui,China,858672,837479,0.0253,tianshui
+693,Bunia,DR Congo,856339,812090,0.0545,bunia
+694,Bozhou,China,854946,830125,0.0299,bozhou
+695,Kottayam,India,853635,818628,0.0428,kottayam
+696,Zhuji,China,852608,834782,0.0214,zhuji
+697,Kunshan,China,851399,826414,0.0302,kunshan
+698,Quebec City,Canada,851061,844249,0.0081,quebec-city
+699,Palermo,Italy,850233,849687,0.0006,palermo
+700,Winnipeg,Canada,849251,841108,0.0097,winnipeg
+701,Orumiyeh,Iran,848443,835900,0.015,orumiyeh
+702,Eskisehir,Turkey,848002,834065,0.0167,eskisehir
+703,Benguela,Angola,843207,809468,0.0417,benguela
+704,Jincheng,China,841928,818057,0.0292,jincheng
+705,Valencia,Spain,839770,838301,0.0018,valencia
+706,Heze,China,838928,826777,0.0147,heze
+707,Saratov,Russia,837687,838377,-0.0008,saratov
+708,Nellore,India,837660,816293,0.0262,nellore
+709,Huludao,China,836344,821132,0.0185,huludao
+710,Zanzibar,Tanzania,835850,800010,0.0448,zanzibar
+711,Barcelona Puerto La Cruz,Venezuela,835805,825581,0.0124,barcelona-puerto-la-cruz
+712,Bikaner,India,835802,818566,0.0211,bikaner
+713,Haicheng,China,834639,821192,0.0164,haicheng
+714,Gebze,Turkey,831360,813394,0.0221,gebze
+715,Taixing,China,830623,811451,0.0236,taixing
+716,Liaocheng,China,830004,813369,0.0205,liaocheng
+717,Zhumadian,China,829361,804537,0.0309,zhumadian
+718,Newcastle Upon Tyne,United Kingdom,828712,823431,0.0064,newcastle-upon-tyne
+719,Langfang,China,827967,807833,0.0249,langfang
+720,Bucheon,South Korea,826919,826981,-0.0001,bucheon
+721,Sulaimaniya,Iraq,823199,800793,0.028,sulaimaniya
+722,Xalapa,Mexico,822863,811041,0.0146,xalapa
+723,Malanje,Angola,822471,783243,0.0501,malanje
+724,Anqiu,China,821765,791931,0.0377,anqiu
+725,Sorocaba,Brazil,821435,813320,0.01,sorocaba
+726,Gaomi,China,821154,797964,0.0291,gaomi
+727,Dasmarinas,Philippines,820886,802600,0.0228,dasmarinas
+728,Cagayan De Oro City,Philippines,820297,803194,0.0213,cagayan-de-oro-city
+729,Hanchuan,China,818761,795835,0.0288,hanchuan
+730,Meishan,China,818037,796756,0.0267,meishan
+731,Bologna,Italy,816848,814332,0.0031,bologna
+732,Ar Rayyan,Qatar,815869,798382,0.0219,ar-rayyan
+733,Thessaloniki,Greece,814980,814524,0.0006,thessaloniki
+734,Muzaffarnagar,India,814491,791214,0.0294,muzaffarnagar
+735,Kayamkulam,India,813379,786192,0.0346,kayamkulam
+736,Nottingham,United Kingdom,813078,806757,0.0078,nottingham
+737,Nakhon Ratchasima,Thailand,811446,801853,0.012,nakhon-ratchasima
+738,Danyang,China,810450,789755,0.0262,danyang
+739,Ibb,Yemen,810149,771514,0.0501,ibb
+740,Amravati,India,808263,792620,0.0197,amravati
+741,Jiaozuo,China,808079,796509,0.0145,jiaozuo
+742,Vereeniging,South Africa,802900,793927,0.0113,vereeniging
+743,Gorakhpur,India,801634,788276,0.0169,gorakhpur
+744,Gaza,Palestine,800636,778187,0.0288,gaza
+745,Frankfurt,Germany,800529,796437,0.0051,frankfurt
+746,Anqing,China,795987,779535,0.0211,anqing
+747,Niigata,Japan,795916,797865,-0.0024,niigata
+748,Oshogbo,Nigeria,795808,771515,0.0315,oshogbo
+749,Linhai,China,795777,776076,0.0254,linhai
+750,Shaoguan,China,794279,784230,0.0128,shaoguan
+751,Erduosi Ordoss,China,794143,774321,0.0256,erduosi-ordoss
+752,Merca,Somalia,793545,760129,0.044,merca
+753,Bur Sa'id,Egypt,792925,778280,0.0188,bur-sa-id
+754,Kitwe,Zambia,792350,762981,0.0385,kitwe
+755,Yan'an,China,791839,767188,0.0321,yan-an
+756,Cuttack,India,789558,775559,0.0181,cuttack
+757,Hamilton,Canada,786843,781047,0.0074,hamilton
+758,Zaria,Nigeria,786197,766007,0.0264,zaria
+759,Banjarmasin,Indonesia,785125,770959,0.0184,banjarmasin
+760,Dengzhou,China,783041,759150,0.0315,dengzhou
+761,Belgaum,India,783020,767161,0.0207,belgaum
+762,Malegaon,India,781925,764628,0.0226,malegaon
+763,Goma,DR Congo,781875,744247,0.0506,goma
+764,Zigong,China,779684,768075,0.0151,zigong
+765,Qingyuan,China,778628,766782,0.0154,qingyuan
+766,Yuncheng,China,777193,754711,0.0298,yuncheng
+767,Shaoyang,China,776404,761169,0.02,shaoyang
+768,Yanji,China,775672,757224,0.0244,yanji
+769,Tirupati,India,775455,752744,0.0302,tirupati
+770,Maturin,Venezuela,775097,758185,0.0223,maturin
+771,Yuxi,China,774356,750102,0.0323,yuxi
+772,Akure,Nigeria,773141,744371,0.0387,akure
+773,Tongliao,China,772756,756158,0.022,tongliao
+774,Sialkot,Pakistan,770962,753325,0.0234,sialkot
+775,Tongling,China,770032,752916,0.0227,tongling
+776,Krakow,Poland,769396,769417,0.0,krakow
+777,Ansan,South Korea,768822,766703,0.0028,ansan
+778,Wuzhou,China,768512,751679,0.0224,wuzhou
+779,Dazhou,China,767532,748257,0.0258,dazhou
+780,Suining Sichuan,China,765887,750097,0.0211,suining-sichuan
+781,Mangalore,India,763312,749073,0.019,mangalore
+782,Jiamusi,China,761903,749763,0.0162,jiamusi
+783,Al Hudaydah,Yemen,759157,734699,0.0333,al-hudaydah
+784,Seattle,United States,757992,753624,0.0058,seattle
+785,Sargodha,Pakistan,757915,741818,0.0217,sargodha
+786,Nay Pyi Taw,Myanmar,757823,722836,0.0484,nay-pyi-taw
+787,Tamale,Ghana,757506,729768,0.038,tamale
+788,Sao Jose Dos Campos,Brazil,757137,749188,0.0106,sao-jose-dos-campos
+789,Bacoor,Philippines,757035,739682,0.0235,bacoor
+790,Dongtai,China,756344,738200,0.0246,dongtai
+791,Zhangjiagang,China,755752,733810,0.0299,zhangjiagang
+792,Nanded Waghala,India,755577,738552,0.0231,nanded-waghala
+793,Xianyang Shaanxi,China,754446,743491,0.0147,xianyang-shaanxi
+794,Amara,Iraq,753708,729276,0.0335,amara
+795,Zarqa,Jordan,753392,748428,0.0066,zarqa
+796,Bhavnagar,India,751493,737128,0.0195,bhavnagar
+797,Sheffield,United Kingdom,751303,745876,0.0073,sheffield
+798,Huambo,Angola,751297,727641,0.0325,huambo
+799,Ribeirao Preto,Brazil,750174,742115,0.0109,ribeirao-preto
+800,Panzhihua,China,750036,738495,0.0156,panzhihua
