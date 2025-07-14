@@ -1,0 +1,7211 @@
+[
+  {
+    "Unnamed: 0":0,
+    "City":"Tokyo",
+    "Country":"Japan",
+    "Population (2024)":37115035,
+    "Population (2023)":37194105,
+    "Growth Rate":-0.0021,
+    "slug":"tokyo"
+  },
+  {
+    "Unnamed: 0":1,
+    "City":"Delhi",
+    "Country":"India",
+    "Population (2024)":33807403,
+    "Population (2023)":32941309,
+    "Growth Rate":0.0263,
+    "slug":"delhi"
+  },
+  {
+    "Unnamed: 0":2,
+    "City":"Shanghai",
+    "Country":"China",
+    "Population (2024)":29867918,
+    "Population (2023)":29210808,
+    "Growth Rate":0.0225,
+    "slug":"shanghai"
+  },
+  {
+    "Unnamed: 0":3,
+    "City":"Dhaka",
+    "Country":"Bangladesh",
+    "Population (2024)":23935652,
+    "Population (2023)":23209616,
+    "Growth Rate":0.0313,
+    "slug":"dhaka"
+  },
+  {
+    "Unnamed: 0":4,
+    "City":"Sao Paulo",
+    "Country":"Brazil",
+    "Population (2024)":22806704,
+    "Population (2023)":22619736,
+    "Growth Rate":0.0083,
+    "slug":"sao-paulo"
+  },
+  {
+    "Unnamed: 0":5,
+    "City":"Cairo",
+    "Country":"Egypt",
+    "Population (2024)":22623874,
+    "Population (2023)":22183201,
+    "Growth Rate":0.0199,
+    "slug":"cairo"
+  },
+  {
+    "Unnamed: 0":6,
+    "City":"Mexico City",
+    "Country":"Mexico",
+    "Population (2024)":22505315,
+    "Population (2023)":22281442,
+    "Growth Rate":0.01,
+    "slug":"mexico-city"
+  },
+  {
+    "Unnamed: 0":7,
+    "City":"Beijing",
+    "Country":"China",
+    "Population (2024)":22189082,
+    "Population (2023)":21766214,
+    "Growth Rate":0.0194,
+    "slug":"beijing"
+  },
+  {
+    "Unnamed: 0":8,
+    "City":"Mumbai",
+    "Country":"India",
+    "Population (2024)":21673149,
+    "Population (2023)":21296517,
+    "Growth Rate":0.0177,
+    "slug":"mumbai"
+  },
+  {
+    "Unnamed: 0":9,
+    "City":"Osaka",
+    "Country":"Japan",
+    "Population (2024)":18967459,
+    "Population (2023)":19013434,
+    "Growth Rate":-0.0024,
+    "slug":"osaka"
+  },
+  {
+    "Unnamed: 0":10,
+    "City":"Chongqing",
+    "Country":"China",
+    "Population (2024)":17773923,
+    "Population (2023)":17340704,
+    "Growth Rate":0.025,
+    "slug":"chongqing"
+  },
+  {
+    "Unnamed: 0":11,
+    "City":"Karachi",
+    "Country":"Pakistan",
+    "Population (2024)":17648555,
+    "Population (2023)":17236230,
+    "Growth Rate":0.0239,
+    "slug":"karachi"
+  },
+  {
+    "Unnamed: 0":12,
+    "City":"Kinshasa",
+    "Country":"DR Congo",
+    "Population (2024)":17032322,
+    "Population (2023)":16315534,
+    "Growth Rate":0.0439,
+    "slug":"kinshasa"
+  },
+  {
+    "Unnamed: 0":13,
+    "City":"Lagos",
+    "Country":"Nigeria",
+    "Population (2024)":16536018,
+    "Population (2023)":15945912,
+    "Growth Rate":0.037,
+    "slug":"lagos"
+  },
+  {
+    "Unnamed: 0":14,
+    "City":"Istanbul",
+    "Country":"Turkey",
+    "Population (2024)":16047350,
+    "Population (2023)":15847768,
+    "Growth Rate":0.0126,
+    "slug":"istanbul"
+  },
+  {
+    "Unnamed: 0":15,
+    "City":"Buenos Aires",
+    "Country":"Argentina",
+    "Population (2024)":15618288,
+    "Population (2023)":15490415,
+    "Growth Rate":0.0083,
+    "slug":"buenos-aires"
+  },
+  {
+    "Unnamed: 0":16,
+    "City":"Kolkata",
+    "Country":"India",
+    "Population (2024)":15570786,
+    "Population (2023)":15332793,
+    "Growth Rate":0.0155,
+    "slug":"kolkata"
+  },
+  {
+    "Unnamed: 0":17,
+    "City":"Manila",
+    "Country":"Philippines",
+    "Population (2024)":14941953,
+    "Population (2023)":14667089,
+    "Growth Rate":0.0187,
+    "slug":"manila"
+  },
+  {
+    "Unnamed: 0":18,
+    "City":"Guangzhou",
+    "Country":"China",
+    "Population (2024)":14590096,
+    "Population (2023)":14284353,
+    "Growth Rate":0.0214,
+    "slug":"guangzhou"
+  },
+  {
+    "Unnamed: 0":19,
+    "City":"Tianjin",
+    "Country":"China",
+    "Population (2024)":14470873,
+    "Population (2023)":14238643,
+    "Growth Rate":0.0163,
+    "slug":"tianjin"
+  },
+  {
+    "Unnamed: 0":20,
+    "City":"Lahore",
+    "Country":"Pakistan",
+    "Population (2024)":14407074,
+    "Population (2023)":13979390,
+    "Growth Rate":0.0306,
+    "slug":"lahore"
+  },
+  {
+    "Unnamed: 0":21,
+    "City":"Bangalore",
+    "Country":"India",
+    "Population (2024)":14008262,
+    "Population (2023)":13607800,
+    "Growth Rate":0.0294,
+    "slug":"bangalore"
+  },
+  {
+    "Unnamed: 0":22,
+    "City":"Rio De Janeiro",
+    "Country":"Brazil",
+    "Population (2024)":13824347,
+    "Population (2023)":13727720,
+    "Growth Rate":0.007,
+    "slug":"rio-de-janeiro"
+  },
+  {
+    "Unnamed: 0":23,
+    "City":"Shenzhen",
+    "Country":"China",
+    "Population (2024)":13311855,
+    "Population (2023)":13072633,
+    "Growth Rate":0.0183,
+    "slug":"shenzhen"
+  },
+  {
+    "Unnamed: 0":24,
+    "City":"Moscow",
+    "Country":"Russia",
+    "Population (2024)":12712305,
+    "Population (2023)":12680389,
+    "Growth Rate":0.0025,
+    "slug":"moscow"
+  },
+  {
+    "Unnamed: 0":25,
+    "City":"Chennai",
+    "Country":"India",
+    "Population (2024)":12053697,
+    "Population (2023)":11776147,
+    "Growth Rate":0.0236,
+    "slug":"chennai"
+  },
+  {
+    "Unnamed: 0":26,
+    "City":"Bogota",
+    "Country":"Colombia",
+    "Population (2024)":11658211,
+    "Population (2023)":11507960,
+    "Growth Rate":0.0131,
+    "slug":"bogota"
+  },
+  {
+    "Unnamed: 0":27,
+    "City":"Jakarta",
+    "Country":"Indonesia",
+    "Population (2024)":11436004,
+    "Population (2023)":11248839,
+    "Growth Rate":0.0166,
+    "slug":"jakarta"
+  },
+  {
+    "Unnamed: 0":28,
+    "City":"Lima",
+    "Country":"Peru",
+    "Population (2024)":11361938,
+    "Population (2023)":11204382,
+    "Growth Rate":0.0141,
+    "slug":"lima"
+  },
+  {
+    "Unnamed: 0":29,
+    "City":"Paris",
+    "Country":"France",
+    "Population (2024)":11276701,
+    "Population (2023)":11208440,
+    "Growth Rate":0.0061,
+    "slug":"paris"
+  },
+  {
+    "Unnamed: 0":30,
+    "City":"Bangkok",
+    "Country":"Thailand",
+    "Population (2024)":11233869,
+    "Population (2023)":11069982,
+    "Growth Rate":0.0148,
+    "slug":"bangkok"
+  },
+  {
+    "Unnamed: 0":31,
+    "City":"Hyderabad",
+    "Country":"India",
+    "Population (2024)":11068877,
+    "Population (2023)":10801163,
+    "Growth Rate":0.0248,
+    "slug":"hyderabad"
+  },
+  {
+    "Unnamed: 0":32,
+    "City":"Seoul",
+    "Country":"South Korea",
+    "Population (2024)":10004840,
+    "Population (2023)":9988049,
+    "Growth Rate":0.0017,
+    "slug":"seoul"
+  },
+  {
+    "Unnamed: 0":33,
+    "City":"Nanjing",
+    "Country":"China",
+    "Population (2024)":9947548,
+    "Population (2023)":9698464,
+    "Growth Rate":0.0257,
+    "slug":"nanjing"
+  },
+  {
+    "Unnamed: 0":34,
+    "City":"Chengdu",
+    "Country":"China",
+    "Population (2024)":9828110,
+    "Population (2023)":9653772,
+    "Growth Rate":0.0181,
+    "slug":"chengdu"
+  },
+  {
+    "Unnamed: 0":35,
+    "City":"London",
+    "Country":"United Kingdom",
+    "Population (2024)":9748033,
+    "Population (2023)":9648110,
+    "Growth Rate":0.0104,
+    "slug":"london"
+  },
+  {
+    "Unnamed: 0":36,
+    "City":"Luanda",
+    "Country":"Angola",
+    "Population (2024)":9651032,
+    "Population (2023)":9292336,
+    "Growth Rate":0.0386,
+    "slug":"luanda"
+  },
+  {
+    "Unnamed: 0":37,
+    "City":"Tehran",
+    "Country":"Iran",
+    "Population (2024)":9616007,
+    "Population (2023)":9499781,
+    "Growth Rate":0.0122,
+    "slug":"tehran"
+  },
+  {
+    "Unnamed: 0":38,
+    "City":"Ho Chi Minh City",
+    "Country":"Vietnam",
+    "Population (2024)":9567656,
+    "Population (2023)":9320866,
+    "Growth Rate":0.0265,
+    "slug":"ho-chi-minh-city"
+  },
+  {
+    "Unnamed: 0":39,
+    "City":"Nagoya",
+    "Country":"Japan",
+    "Population (2024)":9556879,
+    "Population (2023)":9569328,
+    "Growth Rate":-0.0013,
+    "slug":"nagoya"
+  },
+  {
+    "Unnamed: 0":40,
+    "City":"Xi An Shaanxi",
+    "Country":"China",
+    "Population (2024)":9013837,
+    "Population (2023)":8785174,
+    "Growth Rate":0.026,
+    "slug":"xi-an-shaanxi"
+  },
+  {
+    "Unnamed: 0":41,
+    "City":"Ahmedabad",
+    "Country":"India",
+    "Population (2024)":8854444,
+    "Population (2023)":8650605,
+    "Growth Rate":0.0236,
+    "slug":"ahmedabad"
+  },
+  {
+    "Unnamed: 0":42,
+    "City":"Wuhan",
+    "Country":"China",
+    "Population (2024)":8850850,
+    "Population (2023)":8718250,
+    "Growth Rate":0.0152,
+    "slug":"wuhan"
+  },
+  {
+    "Unnamed: 0":43,
+    "City":"Kuala Lumpur",
+    "Country":"Malaysia",
+    "Population (2024)":8815630,
+    "Population (2023)":8621724,
+    "Growth Rate":0.0225,
+    "slug":"kuala-lumpur"
+  },
+  {
+    "Unnamed: 0":44,
+    "City":"Hangzhou",
+    "Country":"China",
+    "Population (2024)":8419842,
+    "Population (2023)":8237206,
+    "Growth Rate":0.0222,
+    "slug":"hangzhou"
+  },
+  {
+    "Unnamed: 0":45,
+    "City":"Suzhou",
+    "Country":"China",
+    "Population (2024)":8350625,
+    "Population (2023)":8074031,
+    "Growth Rate":0.0343,
+    "slug":"suzhou"
+  },
+  {
+    "Unnamed: 0":46,
+    "City":"Surat",
+    "Country":"India",
+    "Population (2024)":8330528,
+    "Population (2023)":8064949,
+    "Growth Rate":0.0329,
+    "slug":"surat"
+  },
+  {
+    "Unnamed: 0":47,
+    "City":"Dar Es Salaam",
+    "Country":"Tanzania",
+    "Population (2024)":8161231,
+    "Population (2023)":7775865,
+    "Growth Rate":0.0496,
+    "slug":"dar-es-salaam"
+  },
+  {
+    "Unnamed: 0":48,
+    "City":"New York",
+    "Country":"United States",
+    "Population (2024)":7931147,
+    "Population (2023)":8133522,
+    "Growth Rate":-0.0249,
+    "slug":"new-york"
+  },
+  {
+    "Unnamed: 0":49,
+    "City":"Baghdad",
+    "Country":"Iraq",
+    "Population (2024)":7921134,
+    "Population (2023)":7711305,
+    "Growth Rate":0.0272,
+    "slug":"baghdad"
+  },
+  {
+    "Unnamed: 0":50,
+    "City":"Shenyang",
+    "Country":"China",
+    "Population (2024)":7830377,
+    "Population (2023)":7680967,
+    "Growth Rate":0.0195,
+    "slug":"shenyang"
+  },
+  {
+    "Unnamed: 0":51,
+    "City":"Riyadh",
+    "Country":"Saudi Arabia",
+    "Population (2024)":7820551,
+    "Population (2023)":7682430,
+    "Growth Rate":0.018,
+    "slug":"riyadh"
+  },
+  {
+    "Unnamed: 0":52,
+    "City":"Hong Kong",
+    "Country":"Hong Kong",
+    "Population (2024)":7725859,
+    "Population (2023)":7684801,
+    "Growth Rate":0.0053,
+    "slug":"hong-kong"
+  },
+  {
+    "Unnamed: 0":53,
+    "City":"Foshan",
+    "Country":"China",
+    "Population (2024)":7704935,
+    "Population (2023)":7597386,
+    "Growth Rate":0.0142,
+    "slug":"foshan"
+  },
+  {
+    "Unnamed: 0":54,
+    "City":"Dongguan",
+    "Country":"China",
+    "Population (2024)":7675146,
+    "Population (2023)":7587049,
+    "Growth Rate":0.0116,
+    "slug":"dongguan"
+  },
+  {
+    "Unnamed: 0":55,
+    "City":"Pune",
+    "Country":"India",
+    "Population (2024)":7345848,
+    "Population (2023)":7166374,
+    "Growth Rate":0.025,
+    "slug":"pune"
+  },
+  {
+    "Unnamed: 0":56,
+    "City":"Santiago",
+    "Country":"Chile",
+    "Population (2024)":6950952,
+    "Population (2023)":6903392,
+    "Growth Rate":0.0069,
+    "slug":"santiago"
+  },
+  {
+    "Unnamed: 0":57,
+    "City":"Haerbin",
+    "Country":"China",
+    "Population (2024)":6938008,
+    "Population (2023)":6803811,
+    "Growth Rate":0.0197,
+    "slug":"haerbin"
+  },
+  {
+    "Unnamed: 0":58,
+    "City":"Madrid",
+    "Country":"Spain",
+    "Population (2024)":6783241,
+    "Population (2023)":6751374,
+    "Growth Rate":0.0047,
+    "slug":"madrid"
+  },
+  {
+    "Unnamed: 0":59,
+    "City":"Khartoum",
+    "Country":"Sudan",
+    "Population (2024)":6542070,
+    "Population (2023)":6344348,
+    "Growth Rate":0.0312,
+    "slug":"khartoum"
+  },
+  {
+    "Unnamed: 0":60,
+    "City":"Toronto",
+    "Country":"Canada",
+    "Population (2024)":6431430,
+    "Population (2023)":6371958,
+    "Growth Rate":0.0093,
+    "slug":"toronto"
+  },
+  {
+    "Unnamed: 0":61,
+    "City":"Johannesburg",
+    "Country":"South Africa",
+    "Population (2024)":6324351,
+    "Population (2023)":6198016,
+    "Growth Rate":0.0204,
+    "slug":"johannesburg"
+  },
+  {
+    "Unnamed: 0":62,
+    "City":"Belo Horizonte",
+    "Country":"Brazil",
+    "Population (2024)":6300409,
+    "Population (2023)":6247889,
+    "Growth Rate":0.0084,
+    "slug":"belo-horizonte"
+  },
+  {
+    "Unnamed: 0":63,
+    "City":"Dalian",
+    "Country":"China",
+    "Population (2024)":6217487,
+    "Population (2023)":6077995,
+    "Growth Rate":0.023,
+    "slug":"dalian"
+  },
+  {
+    "Unnamed: 0":64,
+    "City":"Singapore",
+    "Country":"Singapore",
+    "Population (2024)":6119203,
+    "Population (2023)":6080859,
+    "Growth Rate":0.0063,
+    "slug":"singapore"
+  },
+  {
+    "Unnamed: 0":65,
+    "City":"Qingdao",
+    "Country":"China",
+    "Population (2024)":6104597,
+    "Population (2023)":5986525,
+    "Growth Rate":0.0197,
+    "slug":"qingdao"
+  },
+  {
+    "Unnamed: 0":66,
+    "City":"Zhengzhou",
+    "Country":"China",
+    "Population (2024)":6014887,
+    "Population (2023)":5859272,
+    "Growth Rate":0.0266,
+    "slug":"zhengzhou"
+  },
+  {
+    "Unnamed: 0":67,
+    "City":"Ji Nan Shandong",
+    "Country":"China",
+    "Population (2024)":5940698,
+    "Population (2023)":5806031,
+    "Growth Rate":0.0232,
+    "slug":"ji-nan-shandong"
+  },
+  {
+    "Unnamed: 0":68,
+    "City":"Abidjan",
+    "Country":"Ivory Coast",
+    "Population (2024)":5866704,
+    "Population (2023)":5686350,
+    "Growth Rate":0.0317,
+    "slug":"abidjan"
+  },
+  {
+    "Unnamed: 0":69,
+    "City":"Barcelona",
+    "Country":"Spain",
+    "Population (2024)":5711917,
+    "Population (2023)":5687356,
+    "Growth Rate":0.0043,
+    "slug":"barcelona"
+  },
+  {
+    "Unnamed: 0":70,
+    "City":"Yangon",
+    "Country":"Myanmar",
+    "Population (2024)":5709678,
+    "Population (2023)":5610241,
+    "Growth Rate":0.0177,
+    "slug":"yangon"
+  },
+  {
+    "Unnamed: 0":71,
+    "City":"Addis Ababa",
+    "Country":"Ethiopia",
+    "Population (2024)":5703628,
+    "Population (2023)":5460591,
+    "Growth Rate":0.0445,
+    "slug":"addis-ababa"
+  },
+  {
+    "Unnamed: 0":72,
+    "City":"Alexandria",
+    "Country":"Egypt",
+    "Population (2024)":5696131,
+    "Population (2023)":5588477,
+    "Growth Rate":0.0193,
+    "slug":"alexandria"
+  },
+  {
+    "Unnamed: 0":73,
+    "City":"Saint Petersburg",
+    "Country":"Russia",
+    "Population (2024)":5581707,
+    "Population (2023)":5561294,
+    "Growth Rate":0.0037,
+    "slug":"saint-petersburg"
+  },
+  {
+    "Unnamed: 0":74,
+    "City":"Nairobi",
+    "Country":"Kenya",
+    "Population (2024)":5541172,
+    "Population (2023)":5325160,
+    "Growth Rate":0.0406,
+    "slug":"nairobi"
+  },
+  {
+    "Unnamed: 0":75,
+    "City":"Chittagong",
+    "Country":"Bangladesh",
+    "Population (2024)":5513609,
+    "Population (2023)":5379660,
+    "Growth Rate":0.0249,
+    "slug":"chittagong"
+  },
+  {
+    "Unnamed: 0":76,
+    "City":"Guadalajara",
+    "Country":"Mexico",
+    "Population (2024)":5499678,
+    "Population (2023)":5419880,
+    "Growth Rate":0.0147,
+    "slug":"guadalajara"
+  },
+  {
+    "Unnamed: 0":77,
+    "City":"Fukuoka",
+    "Country":"Japan",
+    "Population (2024)":5478076,
+    "Population (2023)":5490271,
+    "Growth Rate":-0.0022,
+    "slug":"fukuoka"
+  },
+  {
+    "Unnamed: 0":78,
+    "City":"Ankara",
+    "Country":"Turkey",
+    "Population (2024)":5477087,
+    "Population (2023)":5397098,
+    "Growth Rate":0.0148,
+    "slug":"ankara"
+  },
+  {
+    "Unnamed: 0":79,
+    "City":"Hanoi",
+    "Country":"Vietnam",
+    "Population (2024)":5431801,
+    "Population (2023)":5253385,
+    "Growth Rate":0.034,
+    "slug":"hanoi"
+  },
+  {
+    "Unnamed: 0":80,
+    "City":"Melbourne",
+    "Country":"Australia",
+    "Population (2024)":5315600,
+    "Population (2023)":5235407,
+    "Growth Rate":0.0153,
+    "slug":"melbourne"
+  },
+  {
+    "Unnamed: 0":81,
+    "City":"Monterrey",
+    "Country":"Mexico",
+    "Population (2024)":5195355,
+    "Population (2023)":5116647,
+    "Growth Rate":0.0154,
+    "slug":"monterrey"
+  },
+  {
+    "Unnamed: 0":82,
+    "City":"Sydney",
+    "Country":"Australia",
+    "Population (2024)":5184896,
+    "Population (2023)":5120894,
+    "Growth Rate":0.0125,
+    "slug":"sydney"
+  },
+  {
+    "Unnamed: 0":83,
+    "City":"Changsha",
+    "Country":"China",
+    "Population (2024)":5027975,
+    "Population (2023)":4921487,
+    "Growth Rate":0.0216,
+    "slug":"changsha"
+  },
+  {
+    "Unnamed: 0":84,
+    "City":"Urumqi",
+    "Country":"China",
+    "Population (2024)":5005964,
+    "Population (2023)":4865038,
+    "Growth Rate":0.029,
+    "slug":"urumqi"
+  },
+  {
+    "Unnamed: 0":85,
+    "City":"Cape Town",
+    "Country":"South Africa",
+    "Population (2024)":4977833,
+    "Population (2023)":4890280,
+    "Growth Rate":0.0179,
+    "slug":"cape-town"
+  },
+  {
+    "Unnamed: 0":86,
+    "City":"Jiddah",
+    "Country":"Saudi Arabia",
+    "Population (2024)":4943210,
+    "Population (2023)":4862941,
+    "Growth Rate":0.0165,
+    "slug":"jiddah"
+  },
+  {
+    "Unnamed: 0":87,
+    "City":"Brasilia",
+    "Country":"Brazil",
+    "Population (2024)":4935274,
+    "Population (2023)":4873048,
+    "Growth Rate":0.0128,
+    "slug":"brasilia"
+  },
+  {
+    "Unnamed: 0":88,
+    "City":"Kunming",
+    "Country":"China",
+    "Population (2024)":4861079,
+    "Population (2023)":4761284,
+    "Growth Rate":0.021,
+    "slug":"kunming"
+  },
+  {
+    "Unnamed: 0":89,
+    "City":"Changchun",
+    "Country":"China",
+    "Population (2024)":4802447,
+    "Population (2023)":4710382,
+    "Growth Rate":0.0195,
+    "slug":"changchun"
+  },
+  {
+    "Unnamed: 0":90,
+    "City":"Kabul",
+    "Country":"Afghanistan",
+    "Population (2024)":4728384,
+    "Population (2023)":4588666,
+    "Growth Rate":0.0304,
+    "slug":"kabul"
+  },
+  {
+    "Unnamed: 0":91,
+    "City":"Hefei",
+    "Country":"China",
+    "Population (2024)":4727290,
+    "Population (2023)":4615758,
+    "Growth Rate":0.0242,
+    "slug":"hefei"
+  },
+  {
+    "Unnamed: 0":92,
+    "City":"Yaounde",
+    "Country":"Cameroon",
+    "Population (2024)":4681768,
+    "Population (2023)":4509287,
+    "Growth Rate":0.0383,
+    "slug":"yaounde"
+  },
+  {
+    "Unnamed: 0":93,
+    "City":"Ningbo",
+    "Country":"China",
+    "Population (2024)":4659830,
+    "Population (2023)":4537901,
+    "Growth Rate":0.0269,
+    "slug":"ningbo"
+  },
+  {
+    "Unnamed: 0":94,
+    "City":"Shantou",
+    "Country":"China",
+    "Population (2024)":4656525,
+    "Population (2023)":4573713,
+    "Growth Rate":0.0181,
+    "slug":"shantou"
+  },
+  {
+    "Unnamed: 0":95,
+    "City":"New Taipei",
+    "Country":"Taiwan",
+    "Population (2024)":4534877,
+    "Population (2023)":4504147,
+    "Growth Rate":0.0068,
+    "slug":"new-taipei"
+  },
+  {
+    "Unnamed: 0":96,
+    "City":"Tel Aviv",
+    "Country":"Israel",
+    "Population (2024)":4495727,
+    "Population (2023)":4420855,
+    "Growth Rate":0.0169,
+    "slug":"tel-aviv"
+  },
+  {
+    "Unnamed: 0":97,
+    "City":"Kano",
+    "Country":"Nigeria",
+    "Population (2024)":4490734,
+    "Population (2023)":4348481,
+    "Growth Rate":0.0327,
+    "slug":"kano"
+  },
+  {
+    "Unnamed: 0":98,
+    "City":"Shijiazhuang",
+    "Country":"China",
+    "Population (2024)":4454132,
+    "Population (2023)":4370473,
+    "Growth Rate":0.0191,
+    "slug":"shijiazhuang"
+  },
+  {
+    "Unnamed: 0":99,
+    "City":"Montreal",
+    "Country":"Canada",
+    "Population (2024)":4341638,
+    "Population (2023)":4307958,
+    "Growth Rate":0.0078,
+    "slug":"montreal"
+  },
+  {
+    "Unnamed: 0":100,
+    "City":"Rome",
+    "Country":"Italy",
+    "Population (2024)":4331974,
+    "Population (2023)":4315671,
+    "Growth Rate":0.0038,
+    "slug":"rome"
+  },
+  {
+    "Unnamed: 0":101,
+    "City":"Jaipur",
+    "Country":"India",
+    "Population (2024)":4308510,
+    "Population (2023)":4207084,
+    "Growth Rate":0.0241,
+    "slug":"jaipur"
+  },
+  {
+    "Unnamed: 0":102,
+    "City":"Recife",
+    "Country":"Brazil",
+    "Population (2024)":4305127,
+    "Population (2023)":4263940,
+    "Growth Rate":0.0097,
+    "slug":"recife"
+  },
+  {
+    "Unnamed: 0":103,
+    "City":"Nanning",
+    "Country":"China",
+    "Population (2024)":4291463,
+    "Population (2023)":4191890,
+    "Growth Rate":0.0238,
+    "slug":"nanning"
+  },
+  {
+    "Unnamed: 0":104,
+    "City":"Fortaleza",
+    "Country":"Brazil",
+    "Population (2024)":4246399,
+    "Population (2023)":4206240,
+    "Growth Rate":0.0095,
+    "slug":"fortaleza"
+  },
+  {
+    "Unnamed: 0":105,
+    "City":"Kozhikode",
+    "Country":"India",
+    "Population (2024)":4243962,
+    "Population (2023)":4088555,
+    "Growth Rate":0.038,
+    "slug":"kozhikode"
+  },
+  {
+    "Unnamed: 0":106,
+    "City":"Porto Alegre",
+    "Country":"Brazil",
+    "Population (2024)":4239867,
+    "Population (2023)":4211933,
+    "Growth Rate":0.0066,
+    "slug":"porto-alegre"
+  },
+  {
+    "Unnamed: 0":107,
+    "City":"Taiyuan Shanxi",
+    "Country":"China",
+    "Population (2024)":4226782,
+    "Population (2023)":4145010,
+    "Growth Rate":0.0197,
+    "slug":"taiyuan-shanxi"
+  },
+  {
+    "Unnamed: 0":108,
+    "City":"Douala",
+    "Country":"Cameroon",
+    "Population (2024)":4203108,
+    "Population (2023)":4063200,
+    "Growth Rate":0.0344,
+    "slug":"douala"
+  },
+  {
+    "Unnamed: 0":109,
+    "City":"Ekurhuleni",
+    "Country":"South Africa",
+    "Population (2024)":4190832,
+    "Population (2023)":4118327,
+    "Growth Rate":0.0176,
+    "slug":"ekurhuleni"
+  },
+  {
+    "Unnamed: 0":110,
+    "City":"Malappuram",
+    "Country":"India",
+    "Population (2024)":4184921,
+    "Population (2023)":4009087,
+    "Growth Rate":0.0439,
+    "slug":"malappuram"
+  },
+  {
+    "Unnamed: 0":111,
+    "City":"Medellin",
+    "Country":"Colombia",
+    "Population (2024)":4137386,
+    "Population (2023)":4102308,
+    "Growth Rate":0.0086,
+    "slug":"medellin"
+  },
+  {
+    "Unnamed: 0":112,
+    "City":"Changzhou",
+    "Country":"China",
+    "Population (2024)":4085502,
+    "Population (2023)":3981658,
+    "Growth Rate":0.0261,
+    "slug":"changzhou"
+  },
+  {
+    "Unnamed: 0":113,
+    "City":"Kampala",
+    "Country":"Uganda",
+    "Population (2024)":4050826,
+    "Population (2023)":3846102,
+    "Growth Rate":0.0532,
+    "slug":"kampala"
+  },
+  {
+    "Unnamed: 0":114,
+    "City":"Antananarivo",
+    "Country":"Madagascar",
+    "Population (2024)":4048666,
+    "Population (2023)":3872264,
+    "Growth Rate":0.0456,
+    "slug":"antananarivo"
+  },
+  {
+    "Unnamed: 0":115,
+    "City":"Lucknow",
+    "Country":"India",
+    "Population (2024)":4038214,
+    "Population (2023)":3945409,
+    "Growth Rate":0.0235,
+    "slug":"lucknow"
+  },
+  {
+    "Unnamed: 0":116,
+    "City":"Abuja",
+    "Country":"Nigeria",
+    "Population (2024)":4025735,
+    "Population (2023)":3839646,
+    "Growth Rate":0.0485,
+    "slug":"abuja"
+  },
+  {
+    "Unnamed: 0":117,
+    "City":"Nanchang",
+    "Country":"China",
+    "Population (2024)":4016037,
+    "Population (2023)":3920379,
+    "Growth Rate":0.0244,
+    "slug":"nanchang"
+  },
+  {
+    "Unnamed: 0":118,
+    "City":"Wenzhou",
+    "Country":"China",
+    "Population (2024)":4009531,
+    "Population (2023)":3919724,
+    "Growth Rate":0.0229,
+    "slug":"wenzhou"
+  },
+  {
+    "Unnamed: 0":119,
+    "City":"Xiamen",
+    "Country":"China",
+    "Population (2024)":4007468,
+    "Population (2023)":3935484,
+    "Growth Rate":0.0183,
+    "slug":"xiamen"
+  },
+  {
+    "Unnamed: 0":120,
+    "City":"Ibadan",
+    "Country":"Nigeria",
+    "Population (2024)":4004316,
+    "Population (2023)":3874908,
+    "Growth Rate":0.0334,
+    "slug":"ibadan"
+  },
+  {
+    "Unnamed: 0":121,
+    "City":"Fuzhou Fujian",
+    "Country":"China",
+    "Population (2024)":3998754,
+    "Population (2023)":3922202,
+    "Growth Rate":0.0195,
+    "slug":"fuzhou-fujian"
+  },
+  {
+    "Unnamed: 0":122,
+    "City":"Salvador",
+    "Country":"Brazil",
+    "Population (2024)":3994982,
+    "Population (2023)":3958384,
+    "Growth Rate":0.0092,
+    "slug":"salvador"
+  },
+  {
+    "Unnamed: 0":123,
+    "City":"Casablanca",
+    "Country":"Morocco",
+    "Population (2024)":3950408,
+    "Population (2023)":3892837,
+    "Growth Rate":0.0148,
+    "slug":"casablanca"
+  },
+  {
+    "Unnamed: 0":124,
+    "City":"Tangshan Hebei",
+    "Country":"China",
+    "Population (2024)":3925206,
+    "Population (2023)":3814702,
+    "Growth Rate":0.029,
+    "slug":"tangshan-hebei"
+  },
+  {
+    "Unnamed: 0":125,
+    "City":"Kumasi",
+    "Country":"Ghana",
+    "Population (2024)":3903481,
+    "Population (2023)":3768239,
+    "Growth Rate":0.0359,
+    "slug":"kumasi"
+  },
+  {
+    "Unnamed: 0":126,
+    "City":"Curitiba",
+    "Country":"Brazil",
+    "Population (2024)":3852459,
+    "Population (2023)":3813082,
+    "Growth Rate":0.0103,
+    "slug":"curitiba"
+  },
+  {
+    "Unnamed: 0":127,
+    "City":"Bekasi",
+    "Country":"Indonesia",
+    "Population (2024)":3830678,
+    "Population (2023)":3729351,
+    "Growth Rate":0.0272,
+    "slug":"bekasi"
+  },
+  {
+    "Unnamed: 0":128,
+    "City":"Faisalabad",
+    "Country":"Pakistan",
+    "Population (2024)":3800193,
+    "Population (2023)":3710845,
+    "Growth Rate":0.0241,
+    "slug":"faisalabad"
+  },
+  {
+    "Unnamed: 0":129,
+    "City":"Los Angeles",
+    "Country":"United States",
+    "Population (2024)":3748640,
+    "Population (2023)":3785439,
+    "Growth Rate":-0.0097,
+    "slug":"los-angeles"
+  },
+  {
+    "Unnamed: 0":130,
+    "City":"Guiyang",
+    "Country":"China",
+    "Population (2024)":3661446,
+    "Population (2023)":3580904,
+    "Growth Rate":0.0225,
+    "slug":"guiyang"
+  },
+  {
+    "Unnamed: 0":131,
+    "City":"Port Harcourt",
+    "Country":"Nigeria",
+    "Population (2024)":3636547,
+    "Population (2023)":3480101,
+    "Growth Rate":0.045,
+    "slug":"port-harcourt"
+  },
+  {
+    "Unnamed: 0":132,
+    "City":"Thrissur",
+    "Country":"India",
+    "Population (2024)":3605238,
+    "Population (2023)":3482456,
+    "Growth Rate":0.0353,
+    "slug":"thrissur"
+  },
+  {
+    "Unnamed: 0":133,
+    "City":"Santo Domingo",
+    "Country":"Dominican Republic",
+    "Population (2024)":3587402,
+    "Population (2023)":3523890,
+    "Growth Rate":0.018,
+    "slug":"santo-domingo"
+  },
+  {
+    "Unnamed: 0":134,
+    "City":"Berlin",
+    "Country":"Germany",
+    "Population (2024)":3576873,
+    "Population (2023)":3573938,
+    "Growth Rate":0.0008,
+    "slug":"berlin"
+  },
+  {
+    "Unnamed: 0":135,
+    "City":"Asuncion",
+    "Country":"Paraguay",
+    "Population (2024)":3568830,
+    "Population (2023)":3510511,
+    "Growth Rate":0.0166,
+    "slug":"asuncion"
+  },
+  {
+    "Unnamed: 0":136,
+    "City":"Dakar",
+    "Country":"Senegal",
+    "Population (2024)":3540462,
+    "Population (2023)":3429536,
+    "Growth Rate":0.0323,
+    "slug":"dakar"
+  },
+  {
+    "Unnamed: 0":137,
+    "City":"Kochi",
+    "Country":"India",
+    "Population (2024)":3507053,
+    "Population (2023)":3406055,
+    "Growth Rate":0.0297,
+    "slug":"kochi"
+  },
+  {
+    "Unnamed: 0":138,
+    "City":"Wuxi",
+    "Country":"China",
+    "Population (2024)":3498740,
+    "Population (2023)":3437346,
+    "Growth Rate":0.0179,
+    "slug":"wuxi"
+  },
+  {
+    "Unnamed: 0":139,
+    "City":"Busan",
+    "Country":"South Korea",
+    "Population (2024)":3477419,
+    "Population (2023)":3471949,
+    "Growth Rate":0.0016,
+    "slug":"busan"
+  },
+  {
+    "Unnamed: 0":140,
+    "City":"Campinas",
+    "Country":"Brazil",
+    "Population (2024)":3458441,
+    "Population (2023)":3422796,
+    "Growth Rate":0.0104,
+    "slug":"campinas"
+  },
+  {
+    "Unnamed: 0":141,
+    "City":"Mashhad",
+    "Country":"Iran",
+    "Population (2024)":3415532,
+    "Population (2023)":3367852,
+    "Growth Rate":0.0142,
+    "slug":"mashhad"
+  },
+  {
+    "Unnamed: 0":142,
+    "City":"Sanaa",
+    "Country":"Yemen",
+    "Population (2024)":3407814,
+    "Population (2023)":3292497,
+    "Growth Rate":0.035,
+    "slug":"sanaa"
+  },
+  {
+    "Unnamed: 0":143,
+    "City":"Puebla",
+    "Country":"Mexico",
+    "Population (2024)":3394342,
+    "Population (2023)":3344761,
+    "Growth Rate":0.0148,
+    "slug":"puebla"
+  },
+  {
+    "Unnamed: 0":144,
+    "City":"Indore",
+    "Country":"India",
+    "Population (2024)":3393380,
+    "Population (2023)":3302077,
+    "Growth Rate":0.0277,
+    "slug":"indore"
+  },
+  {
+    "Unnamed: 0":145,
+    "City":"Lanzhou",
+    "Country":"China",
+    "Population (2024)":3365910,
+    "Population (2023)":3297528,
+    "Growth Rate":0.0207,
+    "slug":"lanzhou"
+  },
+  {
+    "Unnamed: 0":146,
+    "City":"Ouagadougou",
+    "Country":"Burkina Faso",
+    "Population (2024)":3358934,
+    "Population (2023)":3203923,
+    "Growth Rate":0.0484,
+    "slug":"ouagadougou"
+  },
+  {
+    "Unnamed: 0":147,
+    "City":"Kuwait City",
+    "Country":"Kuwait",
+    "Population (2024)":3353602,
+    "Population (2023)":3297759,
+    "Growth Rate":0.0169,
+    "slug":"kuwait-city"
+  },
+  {
+    "Unnamed: 0":148,
+    "City":"Lusaka",
+    "Country":"Zambia",
+    "Population (2024)":3324219,
+    "Population (2023)":3181250,
+    "Growth Rate":0.0449,
+    "slug":"lusaka"
+  },
+  {
+    "Unnamed: 0":149,
+    "City":"Kanpur",
+    "Country":"India",
+    "Population (2024)":3286142,
+    "Population (2023)":3234160,
+    "Growth Rate":0.0161,
+    "slug":"kanpur"
+  },
+  {
+    "Unnamed: 0":150,
+    "City":"Durban",
+    "Country":"South Africa",
+    "Population (2024)":3262128,
+    "Population (2023)":3228003,
+    "Growth Rate":0.0106,
+    "slug":"durban"
+  },
+  {
+    "Unnamed: 0":151,
+    "City":"Guayaquil",
+    "Country":"Ecuador",
+    "Population (2024)":3193267,
+    "Population (2023)":3142466,
+    "Growth Rate":0.0162,
+    "slug":"guayaquil"
+  },
+  {
+    "Unnamed: 0":152,
+    "City":"Pyongyang",
+    "Country":"North Korea",
+    "Population (2024)":3183135,
+    "Population (2023)":3157538,
+    "Growth Rate":0.0081,
+    "slug":"pyongyang"
+  },
+  {
+    "Unnamed: 0":153,
+    "City":"Milan",
+    "Country":"Italy",
+    "Population (2024)":3160631,
+    "Population (2023)":3154570,
+    "Growth Rate":0.0019,
+    "slug":"milan"
+  },
+  {
+    "Unnamed: 0":154,
+    "City":"Guatemala City",
+    "Country":"Guatemala",
+    "Population (2024)":3159631,
+    "Population (2023)":3095099,
+    "Growth Rate":0.0208,
+    "slug":"guatemala-city"
+  },
+  {
+    "Unnamed: 0":155,
+    "City":"Athens",
+    "Country":"Greece",
+    "Population (2024)":3154591,
+    "Population (2023)":3154463,
+    "Growth Rate":0.0,
+    "slug":"athens"
+  },
+  {
+    "Unnamed: 0":156,
+    "City":"Depok",
+    "Country":"Indonesia",
+    "Population (2024)":3133298,
+    "Population (2023)":3041229,
+    "Growth Rate":0.0303,
+    "slug":"depok"
+  },
+  {
+    "Unnamed: 0":157,
+    "City":"Izmir",
+    "Country":"Turkey",
+    "Population (2024)":3120340,
+    "Population (2023)":3088414,
+    "Growth Rate":0.0103,
+    "slug":"izmir"
+  },
+  {
+    "Unnamed: 0":158,
+    "City":"Nagpur",
+    "Country":"India",
+    "Population (2024)":3106340,
+    "Population (2023)":3046687,
+    "Growth Rate":0.0196,
+    "slug":"nagpur"
+  },
+  {
+    "Unnamed: 0":159,
+    "City":"Surabaya",
+    "Country":"Indonesia",
+    "Population (2024)":3088748,
+    "Population (2023)":3044413,
+    "Growth Rate":0.0146,
+    "slug":"surabaya"
+  },
+  {
+    "Unnamed: 0":160,
+    "City":"Handan",
+    "Country":"China",
+    "Population (2024)":3085998,
+    "Population (2023)":3005409,
+    "Growth Rate":0.0268,
+    "slug":"handan"
+  },
+  {
+    "Unnamed: 0":161,
+    "City":"Coimbatore",
+    "Country":"India",
+    "Population (2024)":3083721,
+    "Population (2023)":3009047,
+    "Growth Rate":0.0248,
+    "slug":"coimbatore"
+  },
+  {
+    "Unnamed: 0":162,
+    "City":"Huaian",
+    "Country":"China",
+    "Population (2024)":3071048,
+    "Population (2023)":2979893,
+    "Growth Rate":0.0306,
+    "slug":"huaian"
+  },
+  {
+    "Unnamed: 0":163,
+    "City":"Port Au Prince",
+    "Country":"Haiti",
+    "Population (2024)":3060169,
+    "Population (2023)":2987455,
+    "Growth Rate":0.0243,
+    "slug":"port-au-prince"
+  },
+  {
+    "Unnamed: 0":164,
+    "City":"Zhongshan",
+    "Country":"China",
+    "Population (2024)":3051065,
+    "Population (2023)":3010685,
+    "Growth Rate":0.0134,
+    "slug":"zhongshan"
+  },
+  {
+    "Unnamed: 0":165,
+    "City":"Dubai",
+    "Country":"United Arab Emirates",
+    "Population (2024)":3051016,
+    "Population (2023)":3007583,
+    "Growth Rate":0.0144,
+    "slug":"dubai"
+  },
+  {
+    "Unnamed: 0":166,
+    "City":"Bamako",
+    "Country":"Mali",
+    "Population (2024)":3050570,
+    "Population (2023)":2929373,
+    "Growth Rate":0.0414,
+    "slug":"bamako"
+  },
+  {
+    "Unnamed: 0":167,
+    "City":"Mbuji Mayi",
+    "Country":"DR Congo",
+    "Population (2024)":3022855,
+    "Population (2023)":2891746,
+    "Growth Rate":0.0453,
+    "slug":"mbuji-mayi"
+  },
+  {
+    "Unnamed: 0":168,
+    "City":"Kiev",
+    "Country":"Ukraine",
+    "Population (2024)":3020228,
+    "Population (2023)":3016789,
+    "Growth Rate":0.0011,
+    "slug":"kiev"
+  },
+  {
+    "Unnamed: 0":169,
+    "City":"Lisbon",
+    "Country":"Portugal",
+    "Population (2024)":3014607,
+    "Population (2023)":3000536,
+    "Growth Rate":0.0047,
+    "slug":"lisbon"
+  },
+  {
+    "Unnamed: 0":170,
+    "City":"Weifang",
+    "Country":"China",
+    "Population (2024)":2994537,
+    "Population (2023)":2917819,
+    "Growth Rate":0.0263,
+    "slug":"weifang"
+  },
+  {
+    "Unnamed: 0":171,
+    "City":"Caracas",
+    "Country":"Venezuela",
+    "Population (2024)":2991727,
+    "Population (2023)":2972145,
+    "Growth Rate":0.0066,
+    "slug":"caracas"
+  },
+  {
+    "Unnamed: 0":172,
+    "City":"Thiruvananthapuram",
+    "Country":"India",
+    "Population (2024)":2984154,
+    "Population (2023)":2891119,
+    "Growth Rate":0.0322,
+    "slug":"thiruvananthapuram"
+  },
+  {
+    "Unnamed: 0":173,
+    "City":"Algiers",
+    "Country":"Algeria",
+    "Population (2024)":2952115,
+    "Population (2023)":2901810,
+    "Growth Rate":0.0173,
+    "slug":"algiers"
+  },
+  {
+    "Unnamed: 0":174,
+    "City":"Shizuoka",
+    "Country":"Japan",
+    "Population (2024)":2935527,
+    "Population (2023)":2937359,
+    "Growth Rate":-0.0006,
+    "slug":"shizuoka"
+  },
+  {
+    "Unnamed: 0":175,
+    "City":"Lubumbashi",
+    "Country":"DR Congo",
+    "Population (2024)":2933962,
+    "Population (2023)":2811959,
+    "Growth Rate":0.0434,
+    "slug":"lubumbashi"
+  },
+  {
+    "Unnamed: 0":176,
+    "City":"Cali",
+    "Country":"Colombia",
+    "Population (2024)":2890433,
+    "Population (2023)":2863730,
+    "Growth Rate":0.0093,
+    "slug":"cali"
+  },
+  {
+    "Unnamed: 0":177,
+    "City":"Goiania",
+    "Country":"Brazil",
+    "Population (2024)":2890418,
+    "Population (2023)":2848473,
+    "Growth Rate":0.0147,
+    "slug":"goiania"
+  },
+  {
+    "Unnamed: 0":178,
+    "City":"Pretoria",
+    "Country":"South Africa",
+    "Population (2024)":2889899,
+    "Population (2023)":2818100,
+    "Growth Rate":0.0255,
+    "slug":"pretoria"
+  },
+  {
+    "Unnamed: 0":179,
+    "City":"Shaoxing",
+    "Country":"China",
+    "Population (2024)":2882171,
+    "Population (2023)":2805654,
+    "Growth Rate":0.0273,
+    "slug":"shaoxing"
+  },
+  {
+    "Unnamed: 0":180,
+    "City":"Incheon",
+    "Country":"South Korea",
+    "Population (2024)":2861686,
+    "Population (2023)":2848557,
+    "Growth Rate":0.0046,
+    "slug":"incheon"
+  },
+  {
+    "Unnamed: 0":181,
+    "City":"Yantai",
+    "Country":"China",
+    "Population (2024)":2834508,
+    "Population (2023)":2764584,
+    "Growth Rate":0.0253,
+    "slug":"yantai"
+  },
+  {
+    "Unnamed: 0":182,
+    "City":"Zibo",
+    "Country":"China",
+    "Population (2024)":2828435,
+    "Population (2023)":2780142,
+    "Growth Rate":0.0174,
+    "slug":"zibo"
+  },
+  {
+    "Unnamed: 0":183,
+    "City":"Huizhou",
+    "Country":"China",
+    "Population (2024)":2827610,
+    "Population (2023)":2758593,
+    "Growth Rate":0.025,
+    "slug":"huizhou"
+  },
+  {
+    "Unnamed: 0":184,
+    "City":"Manchester",
+    "Country":"United Kingdom",
+    "Population (2024)":2811756,
+    "Population (2023)":2791005,
+    "Growth Rate":0.0074,
+    "slug":"manchester"
+  },
+  {
+    "Unnamed: 0":185,
+    "City":"Taipei",
+    "Country":"Taiwan",
+    "Population (2024)":2766334,
+    "Population (2023)":2754196,
+    "Growth Rate":0.0044,
+    "slug":"taipei"
+  },
+  {
+    "Unnamed: 0":186,
+    "City":"Mogadishu",
+    "Country":"Somalia",
+    "Population (2024)":2726815,
+    "Population (2023)":2610483,
+    "Growth Rate":0.0446,
+    "slug":"mogadishu"
+  },
+  {
+    "Unnamed: 0":187,
+    "City":"Brazzaville",
+    "Country":"Republic of the Congo",
+    "Population (2024)":2724566,
+    "Population (2023)":2637733,
+    "Growth Rate":0.0329,
+    "slug":"brazzaville"
+  },
+  {
+    "Unnamed: 0":188,
+    "City":"Accra",
+    "Country":"Ghana",
+    "Population (2024)":2721165,
+    "Population (2023)":2660072,
+    "Growth Rate":0.023,
+    "slug":"accra"
+  },
+  {
+    "Unnamed: 0":189,
+    "City":"Bandung",
+    "Country":"Indonesia",
+    "Population (2024)":2714215,
+    "Population (2023)":2674000,
+    "Growth Rate":0.015,
+    "slug":"bandung"
+  },
+  {
+    "Unnamed: 0":190,
+    "City":"Damascus",
+    "Country":"Syria",
+    "Population (2024)":2685361,
+    "Population (2023)":2584771,
+    "Growth Rate":0.0389,
+    "slug":"damascus"
+  },
+  {
+    "Unnamed: 0":191,
+    "City":"Birmingham",
+    "Country":"United Kingdom",
+    "Population (2024)":2684807,
+    "Population (2023)":2665100,
+    "Growth Rate":0.0074,
+    "slug":"birmingham"
+  },
+  {
+    "Unnamed: 0":192,
+    "City":"Vancouver",
+    "Country":"Canada",
+    "Population (2024)":2682509,
+    "Population (2023)":2657088,
+    "Growth Rate":0.0096,
+    "slug":"vancouver"
+  },
+  {
+    "Unnamed: 0":193,
+    "City":"Toluca De Lerdo",
+    "Country":"Mexico",
+    "Population (2024)":2674336,
+    "Population (2023)":2626368,
+    "Growth Rate":0.0183,
+    "slug":"toluca-de-lerdo"
+  },
+  {
+    "Unnamed: 0":194,
+    "City":"Luoyang",
+    "Country":"China",
+    "Population (2024)":2666744,
+    "Population (2023)":2602793,
+    "Growth Rate":0.0246,
+    "slug":"luoyang"
+  },
+  {
+    "Unnamed: 0":195,
+    "City":"Sapporo",
+    "Country":"Japan",
+    "Population (2024)":2660947,
+    "Population (2023)":2666112,
+    "Growth Rate":-0.0019,
+    "slug":"sapporo"
+  },
+  {
+    "Unnamed: 0":196,
+    "City":"Tashkent",
+    "Country":"Uzbekistan",
+    "Population (2024)":2633661,
+    "Population (2023)":2603243,
+    "Growth Rate":0.0117,
+    "slug":"tashkent"
+  },
+  {
+    "Unnamed: 0":197,
+    "City":"Patna",
+    "Country":"India",
+    "Population (2024)":2633243,
+    "Population (2023)":2579762,
+    "Growth Rate":0.0207,
+    "slug":"patna"
+  },
+  {
+    "Unnamed: 0":198,
+    "City":"Bhopal",
+    "Country":"India",
+    "Population (2024)":2624865,
+    "Population (2023)":2564502,
+    "Growth Rate":0.0235,
+    "slug":"bhopal"
+  },
+  {
+    "Unnamed: 0":199,
+    "City":"Chicago",
+    "Country":"United States",
+    "Population (2024)":2590002,
+    "Population (2023)":2627520,
+    "Growth Rate":-0.0143,
+    "slug":"chicago"
+  },
+  {
+    "Unnamed: 0":200,
+    "City":"Tangerang",
+    "Country":"Indonesia",
+    "Population (2024)":2570980,
+    "Population (2023)":2514077,
+    "Growth Rate":0.0226,
+    "slug":"tangerang"
+  },
+  {
+    "Unnamed: 0":201,
+    "City":"Nantong",
+    "Country":"China",
+    "Population (2024)":2555722,
+    "Population (2023)":2492230,
+    "Growth Rate":0.0255,
+    "slug":"nantong"
+  },
+  {
+    "Unnamed: 0":202,
+    "City":"Brisbane",
+    "Country":"Australia",
+    "Population (2024)":2536449,
+    "Population (2023)":2504505,
+    "Growth Rate":0.0128,
+    "slug":"brisbane"
+  },
+  {
+    "Unnamed: 0":203,
+    "City":"Tunis",
+    "Country":"Tunisia",
+    "Population (2024)":2510673,
+    "Population (2023)":2475446,
+    "Growth Rate":0.0142,
+    "slug":"tunis"
+  },
+  {
+    "Unnamed: 0":204,
+    "City":"Peshawar",
+    "Country":"Pakistan",
+    "Population (2024)":2480546,
+    "Population (2023)":2411785,
+    "Growth Rate":0.0285,
+    "slug":"peshawar"
+  },
+  {
+    "Unnamed: 0":205,
+    "City":"Medan",
+    "Country":"Indonesia",
+    "Population (2024)":2479070,
+    "Population (2023)":2439054,
+    "Growth Rate":0.0164,
+    "slug":"medan"
+  },
+  {
+    "Unnamed: 0":206,
+    "City":"Gujranwala",
+    "Country":"Pakistan",
+    "Population (2024)":2479058,
+    "Population (2023)":2415416,
+    "Growth Rate":0.0263,
+    "slug":"gujranwala"
+  },
+  {
+    "Unnamed: 0":207,
+    "City":"Baku",
+    "Country":"Azerbaijan",
+    "Population (2024)":2464162,
+    "Population (2023)":2432304,
+    "Growth Rate":0.0131,
+    "slug":"baku"
+  },
+  {
+    "Unnamed: 0":208,
+    "City":"Hohhot",
+    "Country":"China",
+    "Population (2024)":2443686,
+    "Population (2023)":2380636,
+    "Growth Rate":0.0265,
+    "slug":"hohhot"
+  },
+  {
+    "Unnamed: 0":209,
+    "City":"San Juan",
+    "Country":"Puerto Rico",
+    "Population (2024)":2436620,
+    "Population (2023)":2439564,
+    "Growth Rate":-0.0012,
+    "slug":"san-juan"
+  },
+  {
+    "Unnamed: 0":210,
+    "City":"Belem",
+    "Country":"Brazil",
+    "Population (2024)":2432177,
+    "Population (2023)":2409409,
+    "Growth Rate":0.0094,
+    "slug":"belem"
+  },
+  {
+    "Unnamed: 0":211,
+    "City":"Rawalpindi",
+    "Country":"Pakistan",
+    "Population (2024)":2430388,
+    "Population (2023)":2377325,
+    "Growth Rate":0.0223,
+    "slug":"rawalpindi"
+  },
+  {
+    "Unnamed: 0":212,
+    "City":"Agra",
+    "Country":"India",
+    "Population (2024)":2422342,
+    "Population (2023)":2367554,
+    "Growth Rate":0.0231,
+    "slug":"agra"
+  },
+  {
+    "Unnamed: 0":213,
+    "City":"Manaus",
+    "Country":"Brazil",
+    "Population (2024)":2406854,
+    "Population (2023)":2375636,
+    "Growth Rate":0.0131,
+    "slug":"manaus"
+  },
+  {
+    "Unnamed: 0":214,
+    "City":"Kannur",
+    "Country":"India",
+    "Population (2024)":2405664,
+    "Population (2023)":2346137,
+    "Growth Rate":0.0254,
+    "slug":"kannur"
+  },
+  {
+    "Unnamed: 0":215,
+    "City":"Beirut",
+    "Country":"Lebanon",
+    "Population (2024)":2402485,
+    "Population (2023)":2421354,
+    "Growth Rate":-0.0078,
+    "slug":"beirut"
+  },
+  {
+    "Unnamed: 0":216,
+    "City":"Maracaibo",
+    "Country":"Venezuela",
+    "Population (2024)":2400826,
+    "Population (2023)":2367626,
+    "Growth Rate":0.014,
+    "slug":"maracaibo"
+  },
+  {
+    "Unnamed: 0":217,
+    "City":"Liuzhou",
+    "Country":"China",
+    "Population (2024)":2397410,
+    "Population (2023)":2343452,
+    "Growth Rate":0.023,
+    "slug":"liuzhou"
+  },
+  {
+    "Unnamed: 0":218,
+    "City":"Visakhapatnam",
+    "Country":"India",
+    "Population (2024)":2385110,
+    "Population (2023)":2330928,
+    "Growth Rate":0.0232,
+    "slug":"visakhapatnam"
+  },
+  {
+    "Unnamed: 0":219,
+    "City":"Baotou",
+    "Country":"China",
+    "Population (2024)":2381242,
+    "Population (2023)":2334878,
+    "Growth Rate":0.0199,
+    "slug":"baotou"
+  },
+  {
+    "Unnamed: 0":220,
+    "City":"Vadodara",
+    "Country":"India",
+    "Population (2024)":2373365,
+    "Population (2023)":2324084,
+    "Growth Rate":0.0212,
+    "slug":"vadodara"
+  },
+  {
+    "Unnamed: 0":221,
+    "City":"Barranquilla",
+    "Country":"Colombia",
+    "Population (2024)":2373302,
+    "Population (2023)":2349400,
+    "Growth Rate":0.0102,
+    "slug":"barranquilla"
+  },
+  {
+    "Unnamed: 0":222,
+    "City":"Phnom Penh",
+    "Country":"Cambodia",
+    "Population (2024)":2352680,
+    "Population (2023)":2281198,
+    "Growth Rate":0.0313,
+    "slug":"phnom-penh"
+  },
+  {
+    "Unnamed: 0":223,
+    "City":"Sendai",
+    "Country":"Japan",
+    "Population (2024)":2341433,
+    "Population (2023)":2342302,
+    "Growth Rate":-0.0004,
+    "slug":"sendai"
+  },
+  {
+    "Unnamed: 0":224,
+    "City":"Taoyuan",
+    "Country":"Taiwan",
+    "Population (2024)":2338724,
+    "Population (2023)":2318850,
+    "Growth Rate":0.0086,
+    "slug":"taoyuan"
+  },
+  {
+    "Unnamed: 0":225,
+    "City":"Xuzhou",
+    "Country":"China",
+    "Population (2024)":2332531,
+    "Population (2023)":2287166,
+    "Growth Rate":0.0198,
+    "slug":"xuzhou"
+  },
+  {
+    "Unnamed: 0":226,
+    "City":"Aleppo",
+    "Country":"Syria",
+    "Population (2024)":2317650,
+    "Population (2023)":2203025,
+    "Growth Rate":0.052,
+    "slug":"aleppo"
+  },
+  {
+    "Unnamed: 0":227,
+    "City":"Houston",
+    "Country":"United States",
+    "Population (2024)":2305889,
+    "Population (2023)":2304383,
+    "Growth Rate":0.0007,
+    "slug":"houston"
+  },
+  {
+    "Unnamed: 0":228,
+    "City":"Tijuana",
+    "Country":"Mexico",
+    "Population (2024)":2297216,
+    "Population (2023)":2259787,
+    "Growth Rate":0.0166,
+    "slug":"tijuana"
+  },
+  {
+    "Unnamed: 0":229,
+    "City":"Esfahan",
+    "Country":"Iran",
+    "Population (2024)":2294589,
+    "Population (2023)":2258396,
+    "Growth Rate":0.016,
+    "slug":"esfahan"
+  },
+  {
+    "Unnamed: 0":230,
+    "City":"Nashik",
+    "Country":"India",
+    "Population (2024)":2294299,
+    "Population (2023)":2237369,
+    "Growth Rate":0.0254,
+    "slug":"nashik"
+  },
+  {
+    "Unnamed: 0":231,
+    "City":"Vijayawada",
+    "Country":"India",
+    "Population (2024)":2290785,
+    "Population (2023)":2229765,
+    "Growth Rate":0.0274,
+    "slug":"vijayawada"
+  },
+  {
+    "Unnamed: 0":232,
+    "City":"Amman",
+    "Country":"Jordan",
+    "Population (2024)":2252688,
+    "Population (2023)":2232240,
+    "Growth Rate":0.0092,
+    "slug":"amman"
+  },
+  {
+    "Unnamed: 0":233,
+    "City":"Putian",
+    "Country":"China",
+    "Population (2024)":2250104,
+    "Population (2023)":2176022,
+    "Growth Rate":0.034,
+    "slug":"putian"
+  },
+  {
+    "Unnamed: 0":234,
+    "City":"Multan",
+    "Country":"Pakistan",
+    "Population (2024)":2205407,
+    "Population (2023)":2154600,
+    "Growth Rate":0.0236,
+    "slug":"multan"
+  },
+  {
+    "Unnamed: 0":235,
+    "City":"Grande Vitoria",
+    "Country":"Brazil",
+    "Population (2024)":2196818,
+    "Population (2023)":2170513,
+    "Growth Rate":0.0121,
+    "slug":"grande-vitoria"
+  },
+  {
+    "Unnamed: 0":236,
+    "City":"Wuhu Anhui",
+    "Country":"China",
+    "Population (2024)":2195262,
+    "Population (2023)":2124797,
+    "Growth Rate":0.0332,
+    "slug":"wuhu-anhui"
+  },
+  {
+    "Unnamed: 0":237,
+    "City":"Mecca",
+    "Country":"Saudi Arabia",
+    "Population (2024)":2184560,
+    "Population (2023)":2149928,
+    "Growth Rate":0.0161,
+    "slug":"mecca"
+  },
+  {
+    "Unnamed: 0":238,
+    "City":"Kollam",
+    "Country":"India",
+    "Population (2024)":2181940,
+    "Population (2023)":2106606,
+    "Growth Rate":0.0358,
+    "slug":"kollam"
+  },
+  {
+    "Unnamed: 0":239,
+    "City":"Naples",
+    "Country":"Italy",
+    "Population (2024)":2180027,
+    "Population (2023)":2179384,
+    "Growth Rate":0.0003,
+    "slug":"naples"
+  },
+  {
+    "Unnamed: 0":240,
+    "City":"Daegu",
+    "Country":"South Korea",
+    "Population (2024)":2179929,
+    "Population (2023)":2180997,
+    "Growth Rate":-0.0005,
+    "slug":"daegu"
+  },
+  {
+    "Unnamed: 0":241,
+    "City":"Conakry",
+    "Country":"Guinea",
+    "Population (2024)":2178596,
+    "Population (2023)":2110937,
+    "Growth Rate":0.0321,
+    "slug":"conakry"
+  },
+  {
+    "Unnamed: 0":242,
+    "City":"Yangzhou",
+    "Country":"China",
+    "Population (2024)":2175102,
+    "Population (2023)":2131291,
+    "Growth Rate":0.0206,
+    "slug":"yangzhou"
+  },
+  {
+    "Unnamed: 0":243,
+    "City":"Havana",
+    "Country":"Cuba",
+    "Population (2024)":2152518,
+    "Population (2023)":2148930,
+    "Growth Rate":0.0017,
+    "slug":"havana"
+  },
+  {
+    "Unnamed: 0":244,
+    "City":"Taizhou Zhejiang",
+    "Country":"China",
+    "Population (2024)":2152226,
+    "Population (2023)":2102143,
+    "Growth Rate":0.0238,
+    "slug":"taizhou-zhejiang"
+  },
+  {
+    "Unnamed: 0":245,
+    "City":"Baoding",
+    "Country":"China",
+    "Population (2024)":2149703,
+    "Population (2023)":2107539,
+    "Growth Rate":0.02,
+    "slug":"baoding"
+  },
+  {
+    "Unnamed: 0":246,
+    "City":"Perth",
+    "Country":"Australia",
+    "Population (2024)":2143491,
+    "Population (2023)":2117997,
+    "Growth Rate":0.012,
+    "slug":"perth"
+  },
+  {
+    "Unnamed: 0":247,
+    "City":"Brussels",
+    "Country":"Belgium",
+    "Population (2024)":2132178,
+    "Population (2023)":2121992,
+    "Growth Rate":0.0048,
+    "slug":"brussels"
+  },
+  {
+    "Unnamed: 0":248,
+    "City":"Linyi Shandong",
+    "Country":"China",
+    "Population (2024)":2120049,
+    "Population (2023)":2076364,
+    "Growth Rate":0.021,
+    "slug":"linyi-shandong"
+  },
+  {
+    "Unnamed: 0":249,
+    "City":"Bursa",
+    "Country":"Turkey",
+    "Population (2024)":2115513,
+    "Population (2023)":2086324,
+    "Growth Rate":0.014,
+    "slug":"bursa"
+  },
+  {
+    "Unnamed: 0":250,
+    "City":"Rajkot",
+    "Country":"India",
+    "Population (2024)":2096981,
+    "Population (2023)":2043107,
+    "Growth Rate":0.0264,
+    "slug":"rajkot"
+  },
+  {
+    "Unnamed: 0":251,
+    "City":"Minsk",
+    "Country":"Belarus",
+    "Population (2024)":2064733,
+    "Population (2023)":2057257,
+    "Growth Rate":0.0036,
+    "slug":"minsk"
+  },
+  {
+    "Unnamed: 0":252,
+    "City":"Hiroshima",
+    "Country":"Japan",
+    "Population (2024)":2062884,
+    "Population (2023)":2067591,
+    "Growth Rate":-0.0023,
+    "slug":"hiroshima"
+  },
+  {
+    "Unnamed: 0":253,
+    "City":"Haikou",
+    "Country":"China",
+    "Population (2024)":2056646,
+    "Population (2023)":2016092,
+    "Growth Rate":0.0201,
+    "slug":"haikou"
+  },
+  {
+    "Unnamed: 0":254,
+    "City":"Daqing",
+    "Country":"China",
+    "Population (2024)":2044371,
+    "Population (2023)":2000656,
+    "Growth Rate":0.0219,
+    "slug":"daqing"
+  },
+  {
+    "Unnamed: 0":255,
+    "City":"Lome",
+    "Country":"Togo",
+    "Population (2024)":2042734,
+    "Population (2023)":1981615,
+    "Growth Rate":0.0308,
+    "slug":"lome"
+  },
+  {
+    "Unnamed: 0":256,
+    "City":"Lianyungang",
+    "Country":"China",
+    "Population (2024)":2035631,
+    "Population (2023)":1986439,
+    "Growth Rate":0.0248,
+    "slug":"lianyungang"
+  },
+  {
+    "Unnamed: 0":257,
+    "City":"Yancheng Jiangsu",
+    "Country":"China",
+    "Population (2024)":2034326,
+    "Population (2023)":1993463,
+    "Growth Rate":0.0205,
+    "slug":"yancheng-jiangsu"
+  },
+  {
+    "Unnamed: 0":258,
+    "City":"Panama City",
+    "Country":"Panama",
+    "Population (2024)":2015735,
+    "Population (2023)":1976866,
+    "Growth Rate":0.0197,
+    "slug":"panama-city"
+  },
+  {
+    "Unnamed: 0":259,
+    "City":"Almaty",
+    "Country":"Kazakhstan",
+    "Population (2024)":2015209,
+    "Population (2023)":1987301,
+    "Growth Rate":0.014,
+    "slug":"almaty"
+  },
+  {
+    "Unnamed: 0":260,
+    "City":"Semarang",
+    "Country":"Indonesia",
+    "Population (2024)":2013571,
+    "Population (2023)":1975306,
+    "Growth Rate":0.0194,
+    "slug":"semarang"
+  },
+  {
+    "Unnamed: 0":261,
+    "City":"Hyderabad",
+    "Country":"Pakistan",
+    "Population (2024)":2011964,
+    "Population (2023)":1967684,
+    "Growth Rate":0.0225,
+    "slug":"hyderabad"
+  },
+  {
+    "Unnamed: 0":262,
+    "City":"Valencia",
+    "Country":"Venezuela",
+    "Population (2024)":2007265,
+    "Population (2023)":1983445,
+    "Growth Rate":0.012,
+    "slug":"valencia"
+  },
+  {
+    "Unnamed: 0":263,
+    "City":"Davao City",
+    "Country":"Philippines",
+    "Population (2024)":1991457,
+    "Population (2023)":1949400,
+    "Growth Rate":0.0216,
+    "slug":"davao-city"
+  },
+  {
+    "Unnamed: 0":264,
+    "City":"Vienna",
+    "Country":"Austria",
+    "Population (2024)":1990487,
+    "Population (2023)":1975271,
+    "Growth Rate":0.0077,
+    "slug":"vienna"
+  },
+  {
+    "Unnamed: 0":265,
+    "City":"Rabat",
+    "Country":"Morocco",
+    "Population (2024)":1989197,
+    "Population (2023)":1959388,
+    "Growth Rate":0.0152,
+    "slug":"rabat"
+  },
+  {
+    "Unnamed: 0":266,
+    "City":"Ludhiana",
+    "Country":"India",
+    "Population (2024)":1988438,
+    "Population (2023)":1951085,
+    "Growth Rate":0.0191,
+    "slug":"ludhiana"
+  },
+  {
+    "Unnamed: 0":267,
+    "City":"Quito",
+    "Country":"Ecuador",
+    "Population (2024)":1986667,
+    "Population (2023)":1956995,
+    "Growth Rate":0.0152,
+    "slug":"quito"
+  },
+  {
+    "Unnamed: 0":268,
+    "City":"Benin City",
+    "Country":"Nigeria",
+    "Population (2024)":1972558,
+    "Population (2023)":1904631,
+    "Growth Rate":0.0357,
+    "slug":"benin-city"
+  },
+  {
+    "Unnamed: 0":269,
+    "City":"La Paz",
+    "Country":"Bolivia",
+    "Population (2024)":1965570,
+    "Population (2023)":1935619,
+    "Growth Rate":0.0155,
+    "slug":"la-paz"
+  },
+  {
+    "Unnamed: 0":270,
+    "City":"Baixada Santista",
+    "Country":"Brazil",
+    "Population (2024)":1965110,
+    "Population (2023)":1947785,
+    "Growth Rate":0.0089,
+    "slug":"baixada-santista"
+  },
+  {
+    "Unnamed: 0":271,
+    "City":"West Yorkshire",
+    "Country":"United Kingdom",
+    "Population (2024)":1942470,
+    "Population (2023)":1928661,
+    "Growth Rate":0.0072,
+    "slug":"west-yorkshire"
+  },
+  {
+    "Unnamed: 0":272,
+    "City":"Can Tho",
+    "Country":"Vietnam",
+    "Population (2024)":1938915,
+    "Population (2023)":1865172,
+    "Growth Rate":0.0395,
+    "slug":"can-tho"
+  },
+  {
+    "Unnamed: 0":273,
+    "City":"Zhuhai",
+    "Country":"China",
+    "Population (2024)":1930373,
+    "Population (2023)":1889829,
+    "Growth Rate":0.0215,
+    "slug":"zhuhai"
+  },
+  {
+    "Unnamed: 0":274,
+    "City":"Leon De Los Aldamas",
+    "Country":"Mexico",
+    "Population (2024)":1924435,
+    "Population (2023)":1898749,
+    "Growth Rate":0.0135,
+    "slug":"leon-de-los-aldamas"
+  },
+  {
+    "Unnamed: 0":275,
+    "City":"Quanzhou",
+    "Country":"China",
+    "Population (2024)":1920733,
+    "Population (2023)":1869994,
+    "Growth Rate":0.0271,
+    "slug":"quanzhou"
+  },
+  {
+    "Unnamed: 0":276,
+    "City":"Matola",
+    "Country":"Mozambique",
+    "Population (2024)":1915035,
+    "Population (2023)":1852405,
+    "Growth Rate":0.0338,
+    "slug":"matola"
+  },
+  {
+    "Unnamed: 0":277,
+    "City":"Datong",
+    "Country":"China",
+    "Population (2024)":1913674,
+    "Population (2023)":1873693,
+    "Growth Rate":0.0213,
+    "slug":"datong"
+  },
+  {
+    "Unnamed: 0":278,
+    "City":"Sharjah",
+    "Country":"United Arab Emirates",
+    "Population (2024)":1872199,
+    "Population (2023)":1830858,
+    "Growth Rate":0.0226,
+    "slug":"sharjah"
+  },
+  {
+    "Unnamed: 0":279,
+    "City":"Madurai",
+    "Country":"India",
+    "Population (2024)":1871912,
+    "Population (2023)":1834279,
+    "Growth Rate":0.0205,
+    "slug":"madurai"
+  },
+  {
+    "Unnamed: 0":280,
+    "City":"Raipur",
+    "Country":"India",
+    "Population (2024)":1871107,
+    "Population (2023)":1816813,
+    "Growth Rate":0.0299,
+    "slug":"raipur"
+  },
+  {
+    "Unnamed: 0":281,
+    "City":"Adana",
+    "Country":"Turkey",
+    "Population (2024)":1856638,
+    "Population (2023)":1835895,
+    "Growth Rate":0.0113,
+    "slug":"adana"
+  },
+  {
+    "Unnamed: 0":282,
+    "City":"Santa Cruz",
+    "Country":"Bolivia",
+    "Population (2024)":1855732,
+    "Population (2023)":1820114,
+    "Growth Rate":0.0196,
+    "slug":"santa-cruz"
+  },
+  {
+    "Unnamed: 0":283,
+    "City":"Palembang",
+    "Country":"Indonesia",
+    "Population (2024)":1852673,
+    "Population (2023)":1818421,
+    "Growth Rate":0.0188,
+    "slug":"palembang"
+  },
+  {
+    "Unnamed: 0":284,
+    "City":"Mosul",
+    "Country":"Iraq",
+    "Population (2024)":1847691,
+    "Population (2023)":1792020,
+    "Growth Rate":0.0311,
+    "slug":"mosul"
+  },
+  {
+    "Unnamed: 0":285,
+    "City":"Cixi",
+    "Country":"China",
+    "Population (2024)":1840039,
+    "Population (2023)":1788871,
+    "Growth Rate":0.0286,
+    "slug":"cixi"
+  },
+  {
+    "Unnamed: 0":286,
+    "City":"Meerut",
+    "Country":"India",
+    "Population (2024)":1835403,
+    "Population (2023)":1797805,
+    "Growth Rate":0.0209,
+    "slug":"meerut"
+  },
+  {
+    "Unnamed: 0":287,
+    "City":"Gaziantep",
+    "Country":"Turkey",
+    "Population (2024)":1833006,
+    "Population (2023)":1804704,
+    "Growth Rate":0.0157,
+    "slug":"gaziantep"
+  },
+  {
+    "Unnamed: 0":288,
+    "City":"La Laguna",
+    "Country":"Mexico",
+    "Population (2024)":1826135,
+    "Population (2023)":1780592,
+    "Growth Rate":0.0256,
+    "slug":"la-laguna"
+  },
+  {
+    "Unnamed: 0":289,
+    "City":"Batam",
+    "Country":"Indonesia",
+    "Population (2024)":1806147,
+    "Population (2023)":1748142,
+    "Growth Rate":0.0332,
+    "slug":"batam"
+  },
+  {
+    "Unnamed: 0":290,
+    "City":"Turin",
+    "Country":"Italy",
+    "Population (2024)":1805727,
+    "Population (2023)":1801944,
+    "Growth Rate":0.0021,
+    "slug":"turin"
+  },
+  {
+    "Unnamed: 0":291,
+    "City":"Warsaw",
+    "Country":"Poland",
+    "Population (2024)":1799451,
+    "Population (2023)":1797516,
+    "Growth Rate":0.0011,
+    "slug":"warsaw"
+  },
+  {
+    "Unnamed: 0":292,
+    "City":"Jiangmen",
+    "Country":"China",
+    "Population (2024)":1797469,
+    "Population (2023)":1768511,
+    "Growth Rate":0.0164,
+    "slug":"jiangmen"
+  },
+  {
+    "Unnamed: 0":293,
+    "City":"Varanasi",
+    "Country":"India",
+    "Population (2024)":1789047,
+    "Population (2023)":1754425,
+    "Growth Rate":0.0197,
+    "slug":"varanasi"
+  },
+  {
+    "Unnamed: 0":294,
+    "City":"Hamburg",
+    "Country":"Germany",
+    "Population (2024)":1787280,
+    "Population (2023)":1787520,
+    "Growth Rate":-0.0001,
+    "slug":"hamburg"
+  },
+  {
+    "Unnamed: 0":295,
+    "City":"Montevideo",
+    "Country":"Uruguay",
+    "Population (2024)":1781363,
+    "Population (2023)":1774396,
+    "Growth Rate":0.0039,
+    "slug":"montevideo"
+  },
+  {
+    "Unnamed: 0":296,
+    "City":"Budapest",
+    "Country":"Hungary",
+    "Population (2024)":1780391,
+    "Population (2023)":1778052,
+    "Growth Rate":0.0013,
+    "slug":"budapest"
+  },
+  {
+    "Unnamed: 0":297,
+    "City":"Lyon",
+    "Country":"France",
+    "Population (2024)":1774395,
+    "Population (2023)":1761188,
+    "Growth Rate":0.0075,
+    "slug":"lyon"
+  },
+  {
+    "Unnamed: 0":298,
+    "City":"Xiangyang",
+    "Country":"China",
+    "Population (2024)":1772318,
+    "Population (2023)":1742706,
+    "Growth Rate":0.017,
+    "slug":"xiangyang"
+  },
+  {
+    "Unnamed: 0":299,
+    "City":"Bucharest",
+    "Country":"Romania",
+    "Population (2024)":1767520,
+    "Population (2023)":1776385,
+    "Growth Rate":-0.005,
+    "slug":"bucharest"
+  },
+  {
+    "Unnamed: 0":300,
+    "City":"Yichang",
+    "Country":"China",
+    "Population (2024)":1758100,
+    "Population (2023)":1711244,
+    "Growth Rate":0.0274,
+    "slug":"yichang"
+  },
+  {
+    "Unnamed: 0":301,
+    "City":"Yinchuan",
+    "Country":"China",
+    "Population (2024)":1757699,
+    "Population (2023)":1716591,
+    "Growth Rate":0.0239,
+    "slug":"yinchuan"
+  },
+  {
+    "Unnamed: 0":302,
+    "City":"Shiraz",
+    "Country":"Iran",
+    "Population (2024)":1742750,
+    "Population (2023)":1720954,
+    "Growth Rate":0.0127,
+    "slug":"shiraz"
+  },
+  {
+    "Unnamed: 0":303,
+    "City":"Kananga",
+    "Country":"DR Congo",
+    "Population (2024)":1738716,
+    "Population (2023)":1664442,
+    "Growth Rate":0.0446,
+    "slug":"kananga"
+  },
+  {
+    "Unnamed: 0":304,
+    "City":"Srinagar",
+    "Country":"India",
+    "Population (2024)":1737502,
+    "Population (2023)":1698277,
+    "Growth Rate":0.0231,
+    "slug":"srinagar"
+  },
+  {
+    "Unnamed: 0":305,
+    "City":"Monrovia",
+    "Country":"Liberia",
+    "Population (2024)":1735365,
+    "Population (2023)":1678020,
+    "Growth Rate":0.0342,
+    "slug":"monrovia"
+  },
+  {
+    "Unnamed: 0":306,
+    "City":"Tiruppur",
+    "Country":"India",
+    "Population (2024)":1731862,
+    "Population (2023)":1677173,
+    "Growth Rate":0.0326,
+    "slug":"tiruppur"
+  },
+  {
+    "Unnamed: 0":307,
+    "City":"Jamshedpur",
+    "Country":"India",
+    "Population (2024)":1730521,
+    "Population (2023)":1695060,
+    "Growth Rate":0.0209,
+    "slug":"jamshedpur"
+  },
+  {
+    "Unnamed: 0":308,
+    "City":"Suqian",
+    "Country":"China",
+    "Population (2024)":1726327,
+    "Population (2023)":1664968,
+    "Growth Rate":0.0369,
+    "slug":"suqian"
+  },
+  {
+    "Unnamed: 0":309,
+    "City":"Aurangabad",
+    "Country":"India",
+    "Population (2024)":1725283,
+    "Population (2023)":1683389,
+    "Growth Rate":0.0249,
+    "slug":"aurangabad"
+  },
+  {
+    "Unnamed: 0":310,
+    "City":"Qinhuangdao",
+    "Country":"China",
+    "Population (2024)":1723728,
+    "Population (2023)":1680962,
+    "Growth Rate":0.0254,
+    "slug":"qinhuangdao"
+  },
+  {
+    "Unnamed: 0":311,
+    "City":"Stockholm",
+    "Country":"Sweden",
+    "Population (2024)":1719604,
+    "Population (2023)":1700066,
+    "Growth Rate":0.0115,
+    "slug":"stockholm"
+  },
+  {
+    "Unnamed: 0":312,
+    "City":"Anshan",
+    "Country":"China",
+    "Population (2024)":1713452,
+    "Population (2023)":1689499,
+    "Growth Rate":0.0142,
+    "slug":"anshan"
+  },
+  {
+    "Unnamed: 0":313,
+    "City":"Glasgow",
+    "Country":"United Kingdom",
+    "Population (2024)":1708147,
+    "Population (2023)":1698088,
+    "Growth Rate":0.0059,
+    "slug":"glasgow"
+  },
+  {
+    "Unnamed: 0":314,
+    "City":"Xining",
+    "Country":"China",
+    "Population (2024)":1705078,
+    "Population (2023)":1666605,
+    "Growth Rate":0.0231,
+    "slug":"xining"
+  },
+  {
+    "Unnamed: 0":315,
+    "City":"Makassar",
+    "Country":"Indonesia",
+    "Population (2024)":1704930,
+    "Population (2023)":1673094,
+    "Growth Rate":0.019,
+    "slug":"makassar"
+  },
+  {
+    "Unnamed: 0":316,
+    "City":"Hengyang",
+    "Country":"China",
+    "Population (2024)":1702012,
+    "Population (2023)":1661854,
+    "Growth Rate":0.0242,
+    "slug":"hengyang"
+  },
+  {
+    "Unnamed: 0":317,
+    "City":"Novosibirsk",
+    "Country":"Russia",
+    "Population (2024)":1701510,
+    "Population (2023)":1694765,
+    "Growth Rate":0.004,
+    "slug":"novosibirsk"
+  },
+  {
+    "Unnamed: 0":318,
+    "City":"Ulaanbaatar",
+    "Country":"Mongolia",
+    "Population (2024)":1699363,
+    "Population (2023)":1672627,
+    "Growth Rate":0.016,
+    "slug":"ulaanbaatar"
+  },
+  {
+    "Unnamed: 0":319,
+    "City":"Onitsha",
+    "Country":"Nigeria",
+    "Population (2024)":1694913,
+    "Population (2023)":1623382,
+    "Growth Rate":0.0441,
+    "slug":"onitsha"
+  },
+  {
+    "Unnamed: 0":320,
+    "City":"Jilin",
+    "Country":"China",
+    "Population (2024)":1693701,
+    "Population (2023)":1668785,
+    "Growth Rate":0.0149,
+    "slug":"jilin"
+  },
+  {
+    "Unnamed: 0":321,
+    "City":"Anyang",
+    "Country":"China",
+    "Population (2024)":1693375,
+    "Population (2023)":1642347,
+    "Growth Rate":0.0311,
+    "slug":"anyang"
+  },
+  {
+    "Unnamed: 0":322,
+    "City":"Auckland",
+    "Country":"New Zealand",
+    "Population (2024)":1692770,
+    "Population (2023)":1673220,
+    "Growth Rate":0.0117,
+    "slug":"auckland"
+  },
+  {
+    "Unnamed: 0":323,
+    "City":"Tabriz",
+    "Country":"Iran",
+    "Population (2024)":1678028,
+    "Population (2023)":1660737,
+    "Growth Rate":0.0104,
+    "slug":"tabriz"
+  },
+  {
+    "Unnamed: 0":324,
+    "City":"Phoenix",
+    "Country":"United States",
+    "Population (2024)":1676481,
+    "Population (2023)":1660445,
+    "Growth Rate":0.0097,
+    "slug":"phoenix"
+  },
+  {
+    "Unnamed: 0":325,
+    "City":"Muscat",
+    "Country":"Oman",
+    "Population (2024)":1676167,
+    "Population (2023)":1650319,
+    "Growth Rate":0.0157,
+    "slug":"muscat"
+  },
+  {
+    "Unnamed: 0":326,
+    "City":"Calgary",
+    "Country":"Canada",
+    "Population (2024)":1665023,
+    "Population (2023)":1639613,
+    "Growth Rate":0.0155,
+    "slug":"calgary"
+  },
+  {
+    "Unnamed: 0":327,
+    "City":"Qiqihaer",
+    "Country":"China",
+    "Population (2024)":1662407,
+    "Population (2023)":1635458,
+    "Growth Rate":0.0165,
+    "slug":"qiqihaer"
+  },
+  {
+    "Unnamed: 0":328,
+    "City":"N Djamena",
+    "Country":"Chad",
+    "Population (2024)":1655618,
+    "Population (2023)":1592324,
+    "Growth Rate":0.0397,
+    "slug":"n-djamena"
+  },
+  {
+    "Unnamed: 0":329,
+    "City":"Marseille",
+    "Country":"France",
+    "Population (2024)":1635707,
+    "Population (2023)":1627549,
+    "Growth Rate":0.005,
+    "slug":"marseille"
+  },
+  {
+    "Unnamed: 0":330,
+    "City":"Cordoba",
+    "Country":"Argentina",
+    "Population (2024)":1625937,
+    "Population (2023)":1611651,
+    "Growth Rate":0.0089,
+    "slug":"cordoba"
+  },
+  {
+    "Unnamed: 0":331,
+    "City":"Jodhpur",
+    "Country":"India",
+    "Population (2024)":1625325,
+    "Population (2023)":1586547,
+    "Growth Rate":0.0244,
+    "slug":"jodhpur"
+  },
+  {
+    "Unnamed: 0":332,
+    "City":"Kathmandu",
+    "Country":"Nepal",
+    "Population (2024)":1621642,
+    "Population (2023)":1571010,
+    "Growth Rate":0.0322,
+    "slug":"kathmandu"
+  },
+  {
+    "Unnamed: 0":333,
+    "City":"Rosario",
+    "Country":"Argentina",
+    "Population (2024)":1613041,
+    "Population (2023)":1594096,
+    "Growth Rate":0.0119,
+    "slug":"rosario"
+  },
+  {
+    "Unnamed: 0":334,
+    "City":"Tegucigalpa",
+    "Country":"Honduras",
+    "Population (2024)":1609261,
+    "Population (2023)":1568025,
+    "Growth Rate":0.0263,
+    "slug":"tegucigalpa"
+  },
+  {
+    "Unnamed: 0":335,
+    "City":"Ciudad Juarez",
+    "Country":"Mexico",
+    "Population (2024)":1604085,
+    "Population (2023)":1582313,
+    "Growth Rate":0.0138,
+    "slug":"ciudad-juarez"
+  },
+  {
+    "Unnamed: 0":336,
+    "City":"Harare",
+    "Country":"Zimbabwe",
+    "Population (2024)":1603201,
+    "Population (2023)":1578128,
+    "Growth Rate":0.0159,
+    "slug":"harare"
+  },
+  {
+    "Unnamed: 0":337,
+    "City":"Karaj",
+    "Country":"Iran",
+    "Population (2024)":1603011,
+    "Population (2023)":1593608,
+    "Growth Rate":0.0059,
+    "slug":"karaj"
+  },
+  {
+    "Unnamed: 0":338,
+    "City":"Medina",
+    "Country":"Saudi Arabia",
+    "Population (2024)":1598976,
+    "Population (2023)":1572571,
+    "Growth Rate":0.0168,
+    "slug":"medina"
+  },
+  {
+    "Unnamed: 0":339,
+    "City":"Jining Shandong",
+    "Country":"China",
+    "Population (2024)":1595963,
+    "Population (2023)":1569560,
+    "Growth Rate":0.0168,
+    "slug":"jining-shandong"
+  },
+  {
+    "Unnamed: 0":340,
+    "City":"Abu Dhabi",
+    "Country":"United Arab Emirates",
+    "Population (2024)":1593284,
+    "Population (2023)":1566999,
+    "Growth Rate":0.0168,
+    "slug":"abu-dhabi"
+  },
+  {
+    "Unnamed: 0":341,
+    "City":"Munich",
+    "Country":"Germany",
+    "Population (2024)":1584507,
+    "Population (2023)":1576416,
+    "Growth Rate":0.0051,
+    "slug":"munich"
+  },
+  {
+    "Unnamed: 0":342,
+    "City":"Ranchi",
+    "Country":"India",
+    "Population (2024)":1584237,
+    "Population (2023)":1547258,
+    "Growth Rate":0.0239,
+    "slug":"ranchi"
+  },
+  {
+    "Unnamed: 0":343,
+    "City":"Daejon",
+    "Country":"South Korea",
+    "Population (2024)":1581705,
+    "Population (2023)":1577436,
+    "Growth Rate":0.0027,
+    "slug":"daejon"
+  },
+  {
+    "Unnamed: 0":344,
+    "City":"Zhangjiakou",
+    "Country":"China",
+    "Population (2024)":1568122,
+    "Population (2023)":1536171,
+    "Growth Rate":0.0208,
+    "slug":"zhangjiakou"
+  },
+  {
+    "Unnamed: 0":345,
+    "City":"Edmonton",
+    "Country":"Canada",
+    "Population (2024)":1567615,
+    "Population (2023)":1544448,
+    "Growth Rate":0.015,
+    "slug":"edmonton"
+  },
+  {
+    "Unnamed: 0":346,
+    "City":"Mandalay",
+    "Country":"Myanmar",
+    "Population (2024)":1563021,
+    "Population (2023)":1531860,
+    "Growth Rate":0.0203,
+    "slug":"mandalay"
+  },
+  {
+    "Unnamed: 0":347,
+    "City":"Gaoxiong",
+    "Country":"Taiwan",
+    "Population (2024)":1559085,
+    "Population (2023)":1552899,
+    "Growth Rate":0.004,
+    "slug":"gaoxiong"
+  },
+  {
+    "Unnamed: 0":348,
+    "City":"Kota",
+    "Country":"India",
+    "Population (2024)":1558468,
+    "Population (2023)":1516795,
+    "Growth Rate":0.0275,
+    "slug":"kota"
+  },
+  {
+    "Unnamed: 0":349,
+    "City":"Natal",
+    "Country":"Brazil",
+    "Population (2024)":1556413,
+    "Population (2023)":1535316,
+    "Growth Rate":0.0137,
+    "slug":"natal"
+  },
+  {
+    "Unnamed: 0":350,
+    "City":"Nouakchott",
+    "Country":"Mauritania",
+    "Population (2024)":1552146,
+    "Population (2023)":1491958,
+    "Growth Rate":0.0403,
+    "slug":"nouakchott"
+  },
+  {
+    "Unnamed: 0":351,
+    "City":"Jabalpur",
+    "Country":"India",
+    "Population (2024)":1551004,
+    "Population (2023)":1522121,
+    "Growth Rate":0.019,
+    "slug":"jabalpur"
+  },
+  {
+    "Unnamed: 0":352,
+    "City":"Huainan",
+    "Country":"China",
+    "Population (2024)":1538603,
+    "Population (2023)":1512668,
+    "Growth Rate":0.0171,
+    "slug":"huainan"
+  },
+  {
+    "Unnamed: 0":353,
+    "City":"Grande Sao Luis",
+    "Country":"Brazil",
+    "Population (2024)":1536017,
+    "Population (2023)":1523629,
+    "Growth Rate":0.0081,
+    "slug":"grande-sao-luis"
+  },
+  {
+    "Unnamed: 0":354,
+    "City":"Asansol",
+    "Country":"India",
+    "Population (2024)":1534081,
+    "Population (2023)":1505033,
+    "Growth Rate":0.0193,
+    "slug":"asansol"
+  },
+  {
+    "Unnamed: 0":355,
+    "City":"Philadelphia",
+    "Country":"United States",
+    "Population (2024)":1533916,
+    "Population (2023)":1550587,
+    "Growth Rate":-0.0107,
+    "slug":"philadelphia"
+  },
+  {
+    "Unnamed: 0":356,
+    "City":"Yekaterinburg",
+    "Country":"Russia",
+    "Population (2024)":1532970,
+    "Population (2023)":1527728,
+    "Growth Rate":0.0034,
+    "slug":"yekaterinburg"
+  },
+  {
+    "Unnamed: 0":357,
+    "City":"Gwangju",
+    "Country":"South Korea",
+    "Population (2024)":1532902,
+    "Population (2023)":1529472,
+    "Growth Rate":0.0022,
+    "slug":"gwangju"
+  },
+  {
+    "Unnamed: 0":358,
+    "City":"Yiwu",
+    "Country":"China",
+    "Population (2024)":1525749,
+    "Population (2023)":1483320,
+    "Growth Rate":0.0286,
+    "slug":"yiwu"
+  },
+  {
+    "Unnamed: 0":359,
+    "City":"Chaozhou",
+    "Country":"China",
+    "Population (2024)":1520628,
+    "Population (2023)":1496298,
+    "Growth Rate":0.0163,
+    "slug":"chaozhou"
+  },
+  {
+    "Unnamed: 0":360,
+    "City":"Gwalior",
+    "Country":"India",
+    "Population (2024)":1508846,
+    "Population (2023)":1475016,
+    "Growth Rate":0.0229,
+    "slug":"gwalior"
+  },
+  {
+    "Unnamed: 0":361,
+    "City":"Ganzhou",
+    "Country":"China",
+    "Population (2024)":1508037,
+    "Population (2023)":1459678,
+    "Growth Rate":0.0331,
+    "slug":"ganzhou"
+  },
+  {
+    "Unnamed: 0":362,
+    "City":"San Antonio",
+    "Country":"United States",
+    "Population (2024)":1506593,
+    "Population (2023)":1489751,
+    "Growth Rate":0.0113,
+    "slug":"san-antonio"
+  },
+  {
+    "Unnamed: 0":363,
+    "City":"Homs",
+    "Country":"Syria",
+    "Population (2024)":1499603,
+    "Population (2023)":1443429,
+    "Growth Rate":0.0389,
+    "slug":"homs"
+  },
+  {
+    "Unnamed: 0":364,
+    "City":"Niamey",
+    "Country":"Niger",
+    "Population (2024)":1496258,
+    "Population (2023)":1437233,
+    "Growth Rate":0.0411,
+    "slug":"niamey"
+  },
+  {
+    "Unnamed: 0":365,
+    "City":"Mombasa",
+    "Country":"Kenya",
+    "Population (2024)":1495223,
+    "Population (2023)":1440396,
+    "Growth Rate":0.0381,
+    "slug":"mombasa"
+  },
+  {
+    "Unnamed: 0":366,
+    "City":"Allahabad",
+    "Country":"India",
+    "Population (2024)":1493346,
+    "Population (2023)":1465152,
+    "Growth Rate":0.0192,
+    "slug":"allahabad"
+  },
+  {
+    "Unnamed: 0":367,
+    "City":"Basra",
+    "Country":"Iraq",
+    "Population (2024)":1485156,
+    "Population (2023)":1448124,
+    "Growth Rate":0.0256,
+    "slug":"basra"
+  },
+  {
+    "Unnamed: 0":368,
+    "City":"Kisangani",
+    "Country":"DR Congo",
+    "Population (2024)":1483513,
+    "Population (2023)":1423395,
+    "Growth Rate":0.0422,
+    "slug":"kisangani"
+  },
+  {
+    "Unnamed: 0":369,
+    "City":"San Jose",
+    "Country":"Costa Rica",
+    "Population (2024)":1482460,
+    "Population (2023)":1461989,
+    "Growth Rate":0.014,
+    "slug":"san-jose"
+  },
+  {
+    "Unnamed: 0":370,
+    "City":"Amritsar",
+    "Country":"India",
+    "Population (2024)":1480470,
+    "Population (2023)":1451748,
+    "Growth Rate":0.0198,
+    "slug":"amritsar"
+  },
+  {
+    "Unnamed: 0":371,
+    "City":"Taizhou Jiangsu",
+    "Country":"China",
+    "Population (2024)":1477600,
+    "Population (2023)":1446810,
+    "Growth Rate":0.0213,
+    "slug":"taizhou-jiangsu"
+  },
+  {
+    "Unnamed: 0":372,
+    "City":"Chon Buri",
+    "Country":"Thailand",
+    "Population (2024)":1472709,
+    "Population (2023)":1454222,
+    "Growth Rate":0.0127,
+    "slug":"chon-buri"
+  },
+  {
+    "Unnamed: 0":373,
+    "City":"Jiaxing",
+    "Country":"China",
+    "Population (2024)":1470917,
+    "Population (2023)":1424982,
+    "Growth Rate":0.0322,
+    "slug":"jiaxing"
+  },
+  {
+    "Unnamed: 0":374,
+    "City":"Weihai",
+    "Country":"China",
+    "Population (2024)":1465926,
+    "Population (2023)":1429315,
+    "Growth Rate":0.0256,
+    "slug":"weihai"
+  },
+  {
+    "Unnamed: 0":375,
+    "City":"Hai Phong",
+    "Country":"Vietnam",
+    "Population (2024)":1463650,
+    "Population (2023)":1422974,
+    "Growth Rate":0.0286,
+    "slug":"hai-phong"
+  },
+  {
+    "Unnamed: 0":376,
+    "City":"Ottawa",
+    "Country":"Canada",
+    "Population (2024)":1451571,
+    "Population (2023)":1437188,
+    "Growth Rate":0.01,
+    "slug":"ottawa"
+  },
+  {
+    "Unnamed: 0":377,
+    "City":"Zurich",
+    "Country":"Switzerland",
+    "Population (2024)":1443349,
+    "Population (2023)":1431538,
+    "Growth Rate":0.0083,
+    "slug":"zurich"
+  },
+  {
+    "Unnamed: 0":378,
+    "City":"Taian Shandong",
+    "Country":"China",
+    "Population (2024)":1441911,
+    "Population (2023)":1416064,
+    "Growth Rate":0.0183,
+    "slug":"taian-shandong"
+  },
+  {
+    "Unnamed: 0":379,
+    "City":"Queretaro",
+    "Country":"Mexico",
+    "Population (2024)":1436818,
+    "Population (2023)":1413474,
+    "Growth Rate":0.0165,
+    "slug":"queretaro"
+  },
+  {
+    "Unnamed: 0":380,
+    "City":"Joao Pessoa",
+    "Country":"Brazil",
+    "Population (2024)":1435125,
+    "Population (2023)":1421827,
+    "Growth Rate":0.0094,
+    "slug":"joao-pessoa"
+  },
+  {
+    "Unnamed: 0":381,
+    "City":"Kaifeng",
+    "Country":"China",
+    "Population (2024)":1434463,
+    "Population (2023)":1398262,
+    "Growth Rate":0.0259,
+    "slug":"kaifeng"
+  },
+  {
+    "Unnamed: 0":382,
+    "City":"Cochabamba",
+    "Country":"Bolivia",
+    "Population (2024)":1430688,
+    "Population (2023)":1400250,
+    "Growth Rate":0.0217,
+    "slug":"cochabamba"
+  },
+  {
+    "Unnamed: 0":383,
+    "City":"Konya",
+    "Country":"Turkey",
+    "Population (2024)":1429935,
+    "Population (2023)":1407632,
+    "Growth Rate":0.0158,
+    "slug":"konya"
+  },
+  {
+    "Unnamed: 0":384,
+    "City":"Liuyang",
+    "Country":"China",
+    "Population (2024)":1428802,
+    "Population (2023)":1373523,
+    "Growth Rate":0.0402,
+    "slug":"liuyang"
+  },
+  {
+    "Unnamed: 0":385,
+    "City":"Liuan",
+    "Country":"China",
+    "Population (2024)":1427894,
+    "Population (2023)":1378077,
+    "Growth Rate":0.0361,
+    "slug":"liuan"
+  },
+  {
+    "Unnamed: 0":386,
+    "City":"Rizhao",
+    "Country":"China",
+    "Population (2024)":1426583,
+    "Population (2023)":1391258,
+    "Growth Rate":0.0254,
+    "slug":"rizhao"
+  },
+  {
+    "Unnamed: 0":387,
+    "City":"Kharkiv",
+    "Country":"Ukraine",
+    "Population (2024)":1418978,
+    "Population (2023)":1421052,
+    "Growth Rate":-0.0015,
+    "slug":"kharkiv"
+  },
+  {
+    "Unnamed: 0":388,
+    "City":"Dhanbad",
+    "Country":"India",
+    "Population (2024)":1414532,
+    "Population (2023)":1389776,
+    "Growth Rate":0.0178,
+    "slug":"dhanbad"
+  },
+  {
+    "Unnamed: 0":389,
+    "City":"Nanchong",
+    "Country":"China",
+    "Population (2024)":1412714,
+    "Population (2023)":1377572,
+    "Growth Rate":0.0255,
+    "slug":"nanchong"
+  },
+  {
+    "Unnamed: 0":390,
+    "City":"Dongying",
+    "Country":"China",
+    "Population (2024)":1410791,
+    "Population (2023)":1379377,
+    "Growth Rate":0.0228,
+    "slug":"dongying"
+  },
+  {
+    "Unnamed: 0":391,
+    "City":"Belgrade",
+    "Country":"Serbia",
+    "Population (2024)":1410697,
+    "Population (2023)":1408144,
+    "Growth Rate":0.0018,
+    "slug":"belgrade"
+  },
+  {
+    "Unnamed: 0":392,
+    "City":"Zunyi",
+    "Country":"China",
+    "Population (2024)":1406091,
+    "Population (2023)":1376453,
+    "Growth Rate":0.0215,
+    "slug":"zunyi"
+  },
+  {
+    "Unnamed: 0":393,
+    "City":"Zhanjiang",
+    "Country":"China",
+    "Population (2024)":1399310,
+    "Population (2023)":1371998,
+    "Growth Rate":0.0199,
+    "slug":"zhanjiang"
+  },
+  {
+    "Unnamed: 0":394,
+    "City":"Bucaramanga",
+    "Country":"Colombia",
+    "Population (2024)":1396632,
+    "Population (2023)":1381498,
+    "Growth Rate":0.011,
+    "slug":"bucaramanga"
+  },
+  {
+    "Unnamed: 0":395,
+    "City":"Uyo",
+    "Country":"Nigeria",
+    "Population (2024)":1393453,
+    "Population (2023)":1329284,
+    "Growth Rate":0.0483,
+    "slug":"uyo"
+  },
+  {
+    "Unnamed: 0":396,
+    "City":"Copenhagen",
+    "Country":"Denmark",
+    "Population (2024)":1391205,
+    "Population (2023)":1381005,
+    "Growth Rate":0.0074,
+    "slug":"copenhagen"
+  },
+  {
+    "Unnamed: 0":397,
+    "City":"Shiyan",
+    "Country":"China",
+    "Population (2024)":1387377,
+    "Population (2023)":1354025,
+    "Growth Rate":0.0246,
+    "slug":"shiyan"
+  },
+  {
+    "Unnamed: 0":398,
+    "City":"Taizhong",
+    "Country":"Taiwan",
+    "Population (2024)":1381855,
+    "Population (2023)":1369066,
+    "Growth Rate":0.0093,
+    "slug":"taizhong"
+  },
+  {
+    "Unnamed: 0":399,
+    "City":"Bareilly",
+    "Country":"India",
+    "Population (2024)":1380715,
+    "Population (2023)":1348664,
+    "Growth Rate":0.0238,
+    "slug":"bareilly"
+  },
+  {
+    "Unnamed: 0":400,
+    "City":"Pointe Noire",
+    "Country":"Republic of the Congo",
+    "Population (2024)":1379368,
+    "Population (2023)":1336387,
+    "Growth Rate":0.0322,
+    "slug":"pointe-noire"
+  },
+  {
+    "Unnamed: 0":401,
+    "City":"Adelaide",
+    "Country":"Australia",
+    "Population (2024)":1379280,
+    "Population (2023)":1366783,
+    "Growth Rate":0.0091,
+    "slug":"adelaide"
+  },
+  {
+    "Unnamed: 0":402,
+    "City":"Suweon",
+    "Country":"South Korea",
+    "Population (2024)":1378229,
+    "Population (2023)":1365352,
+    "Growth Rate":0.0094,
+    "slug":"suweon"
+  },
+  {
+    "Unnamed: 0":403,
+    "City":"Mwanza",
+    "Country":"Tanzania",
+    "Population (2024)":1378014,
+    "Population (2023)":1310754,
+    "Growth Rate":0.0513,
+    "slug":"mwanza"
+  },
+  {
+    "Unnamed: 0":404,
+    "City":"Mianyang Sichuan",
+    "Country":"China",
+    "Population (2024)":1376449,
+    "Population (2023)":1351383,
+    "Growth Rate":0.0185,
+    "slug":"mianyang-sichuan"
+  },
+  {
+    "Unnamed: 0":405,
+    "City":"Samut Prakan",
+    "Country":"Thailand",
+    "Population (2024)":1376146,
+    "Population (2023)":1358871,
+    "Growth Rate":0.0127,
+    "slug":"samut-prakan"
+  },
+  {
+    "Unnamed: 0":406,
+    "City":"Maceio",
+    "Country":"Brazil",
+    "Population (2024)":1375984,
+    "Population (2023)":1363510,
+    "Growth Rate":0.0091,
+    "slug":"maceio"
+  },
+  {
+    "Unnamed: 0":407,
+    "City":"San Diego",
+    "Country":"United States",
+    "Population (2024)":1375452,
+    "Population (2023)":1378307,
+    "Growth Rate":-0.0021,
+    "slug":"san-diego"
+  },
+  {
+    "Unnamed: 0":408,
+    "City":"Qom",
+    "Country":"Iran",
+    "Population (2024)":1373800,
+    "Population (2023)":1354174,
+    "Growth Rate":0.0145,
+    "slug":"qom"
+  },
+  {
+    "Unnamed: 0":409,
+    "City":"Antalya",
+    "Country":"Turkey",
+    "Population (2024)":1372400,
+    "Population (2023)":1347240,
+    "Growth Rate":0.0187,
+    "slug":"antalya"
+  },
+  {
+    "Unnamed: 0":410,
+    "City":"Joinville",
+    "Country":"Brazil",
+    "Population (2024)":1361992,
+    "Population (2023)":1348521,
+    "Growth Rate":0.01,
+    "slug":"joinville"
+  },
+  {
+    "Unnamed: 0":411,
+    "City":"Tengzhou",
+    "Country":"China",
+    "Population (2024)":1360779,
+    "Population (2023)":1322916,
+    "Growth Rate":0.0286,
+    "slug":"tengzhou"
+  },
+  {
+    "Unnamed: 0":412,
+    "City":"Yingkou",
+    "Country":"China",
+    "Population (2024)":1355564,
+    "Population (2023)":1323174,
+    "Growth Rate":0.0245,
+    "slug":"yingkou"
+  },
+  {
+    "Unnamed: 0":413,
+    "City":"Ad Dammam",
+    "Country":"Saudi Arabia",
+    "Population (2024)":1352912,
+    "Population (2023)":1329291,
+    "Growth Rate":0.0178,
+    "slug":"ad-dammam"
+  },
+  {
+    "Unnamed: 0":414,
+    "City":"Suzhou",
+    "Country":"China",
+    "Population (2024)":1349994,
+    "Population (2023)":1310433,
+    "Growth Rate":0.0302,
+    "slug":"suzhou"
+  },
+  {
+    "Unnamed: 0":415,
+    "City":"Tanger",
+    "Country":"Morocco",
+    "Population (2024)":1348848,
+    "Population (2023)":1314178,
+    "Growth Rate":0.0264,
+    "slug":"tanger"
+  },
+  {
+    "Unnamed: 0":416,
+    "City":"Freetown",
+    "Country":"Sierra Leone",
+    "Population (2024)":1347559,
+    "Population (2023)":1309168,
+    "Growth Rate":0.0293,
+    "slug":"freetown"
+  },
+  {
+    "Unnamed: 0":417,
+    "City":"Helsinki",
+    "Country":"Finland",
+    "Population (2024)":1346810,
+    "Population (2023)":1337786,
+    "Growth Rate":0.0067,
+    "slug":"helsinki"
+  },
+  {
+    "Unnamed: 0":418,
+    "City":"Aligarh",
+    "Country":"India",
+    "Population (2024)":1346018,
+    "Population (2023)":1312369,
+    "Growth Rate":0.0256,
+    "slug":"aligarh"
+  },
+  {
+    "Unnamed: 0":419,
+    "City":"Moradabad",
+    "Country":"India",
+    "Population (2024)":1335966,
+    "Population (2023)":1301740,
+    "Growth Rate":0.0263,
+    "slug":"moradabad"
+  },
+  {
+    "Unnamed: 0":420,
+    "City":"Pekan Baru",
+    "Country":"Indonesia",
+    "Population (2024)":1334532,
+    "Population (2023)":1303355,
+    "Growth Rate":0.0239,
+    "slug":"pekan-baru"
+  },
+  {
+    "Unnamed: 0":421,
+    "City":"Maoming",
+    "Country":"China",
+    "Population (2024)":1333930,
+    "Population (2023)":1303900,
+    "Growth Rate":0.023,
+    "slug":"maoming"
+  },
+  {
+    "Unnamed: 0":422,
+    "City":"Lilongwe",
+    "Country":"Malawi",
+    "Population (2024)":1333096,
+    "Population (2023)":1276316,
+    "Growth Rate":0.0445,
+    "slug":"lilongwe"
+  },
+  {
+    "Unnamed: 0":423,
+    "City":"Porto",
+    "Country":"Portugal",
+    "Population (2024)":1329301,
+    "Population (2023)":1324652,
+    "Growth Rate":0.0035,
+    "slug":"porto"
+  },
+  {
+    "Unnamed: 0":424,
+    "City":"Prague",
+    "Country":"Czech Republic",
+    "Population (2024)":1327947,
+    "Population (2023)":1323339,
+    "Growth Rate":0.0035,
+    "slug":"prague"
+  },
+  {
+    "Unnamed: 0":425,
+    "City":"Astana",
+    "Country":"Kazakhstan",
+    "Population (2024)":1324111,
+    "Population (2023)":1291280,
+    "Growth Rate":0.0254,
+    "slug":"astana"
+  },
+  {
+    "Unnamed: 0":426,
+    "City":"Jieyang",
+    "Country":"China",
+    "Population (2024)":1320779,
+    "Population (2023)":1282479,
+    "Growth Rate":0.0299,
+    "slug":"jieyang"
+  },
+  {
+    "Unnamed: 0":427,
+    "City":"Fushun Liaoning",
+    "Country":"China",
+    "Population (2024)":1317276,
+    "Population (2023)":1304565,
+    "Growth Rate":0.0097,
+    "slug":"fushun-liaoning"
+  },
+  {
+    "Unnamed: 0":428,
+    "City":"Mysore",
+    "Country":"India",
+    "Population (2024)":1316461,
+    "Population (2023)":1288245,
+    "Growth Rate":0.0219,
+    "slug":"mysore"
+  },
+  {
+    "Unnamed: 0":429,
+    "City":"Abomey Calavi",
+    "Country":"Benin",
+    "Population (2024)":1314916,
+    "Population (2023)":1252890,
+    "Growth Rate":0.0495,
+    "slug":"abomey-calavi"
+  },
+  {
+    "Unnamed: 0":430,
+    "City":"Ruian",
+    "Country":"China",
+    "Population (2024)":1314784,
+    "Population (2023)":1281790,
+    "Growth Rate":0.0257,
+    "slug":"ruian"
+  },
+  {
+    "Unnamed: 0":431,
+    "City":"Fes",
+    "Country":"Morocco",
+    "Population (2024)":1313311,
+    "Population (2023)":1290039,
+    "Growth Rate":0.018,
+    "slug":"fes"
+  },
+  {
+    "Unnamed: 0":432,
+    "City":"Port Elizabeth",
+    "Country":"South Africa",
+    "Population (2024)":1312631,
+    "Population (2023)":1295928,
+    "Growth Rate":0.0129,
+    "slug":"port-elizabeth"
+  },
+  {
+    "Unnamed: 0":433,
+    "City":"Florianopolis",
+    "Country":"Brazil",
+    "Population (2024)":1309895,
+    "Population (2023)":1294486,
+    "Growth Rate":0.0119,
+    "slug":"florianopolis"
+  },
+  {
+    "Unnamed: 0":434,
+    "City":"Ahvaz",
+    "Country":"Iran",
+    "Population (2024)":1309372,
+    "Population (2023)":1293619,
+    "Growth Rate":0.0122,
+    "slug":"ahvaz"
+  },
+  {
+    "Unnamed: 0":435,
+    "City":"Bukavu",
+    "Country":"DR Congo",
+    "Population (2024)":1308469,
+    "Population (2023)":1248783,
+    "Growth Rate":0.0478,
+    "slug":"bukavu"
+  },
+  {
+    "Unnamed: 0":436,
+    "City":"Nnewi",
+    "Country":"Nigeria",
+    "Population (2024)":1300993,
+    "Population (2023)":1239186,
+    "Growth Rate":0.0499,
+    "slug":"nnewi"
+  },
+  {
+    "Unnamed: 0":437,
+    "City":"Kazan",
+    "Country":"Russia",
+    "Population (2024)":1296232,
+    "Population (2023)":1291884,
+    "Growth Rate":0.0034,
+    "slug":"kazan"
+  },
+  {
+    "Unnamed: 0":438,
+    "City":"Jinhua",
+    "Country":"China",
+    "Population (2024)":1296065,
+    "Population (2023)":1257941,
+    "Growth Rate":0.0303,
+    "slug":"jinhua"
+  },
+  {
+    "Unnamed: 0":439,
+    "City":"Dallas",
+    "Country":"United States",
+    "Population (2024)":1295447,
+    "Population (2023)":1297495,
+    "Growth Rate":-0.0016,
+    "slug":"dallas"
+  },
+  {
+    "Unnamed: 0":440,
+    "City":"San Luis Potosi",
+    "Country":"Mexico",
+    "Population (2024)":1292133,
+    "Population (2023)":1273325,
+    "Growth Rate":0.0148,
+    "slug":"san-luis-potosi"
+  },
+  {
+    "Unnamed: 0":441,
+    "City":"Baoji",
+    "Country":"China",
+    "Population (2024)":1290231,
+    "Population (2023)":1261077,
+    "Growth Rate":0.0231,
+    "slug":"baoji"
+  },
+  {
+    "Unnamed: 0":442,
+    "City":"Durg Bhilainagar",
+    "Country":"India",
+    "Population (2024)":1289673,
+    "Population (2023)":1266034,
+    "Growth Rate":0.0187,
+    "slug":"durg-bhilainagar"
+  },
+  {
+    "Unnamed: 0":443,
+    "City":"Bhubaneswar",
+    "Country":"India",
+    "Population (2024)":1289254,
+    "Population (2023)":1257642,
+    "Growth Rate":0.0251,
+    "slug":"bhubaneswar"
+  },
+  {
+    "Unnamed: 0":444,
+    "City":"Kigali",
+    "Country":"Rwanda",
+    "Population (2024)":1287952,
+    "Population (2023)":1247551,
+    "Growth Rate":0.0324,
+    "slug":"kigali"
+  },
+  {
+    "Unnamed: 0":445,
+    "City":"Sofia",
+    "Country":"Bulgaria",
+    "Population (2024)":1287540,
+    "Population (2023)":1288114,
+    "Growth Rate":-0.0004,
+    "slug":"sofia"
+  },
+  {
+    "Unnamed: 0":446,
+    "City":"Pingdingshan Henan",
+    "Country":"China",
+    "Population (2024)":1285750,
+    "Population (2023)":1256581,
+    "Growth Rate":0.0232,
+    "slug":"pingdingshan-henan"
+  },
+  {
+    "Unnamed: 0":447,
+    "City":"Dublin",
+    "Country":"Ireland",
+    "Population (2024)":1284551,
+    "Population (2023)":1270172,
+    "Growth Rate":0.0113,
+    "slug":"dublin"
+  },
+  {
+    "Unnamed: 0":448,
+    "City":"Puning",
+    "Country":"China",
+    "Population (2024)":1282756,
+    "Population (2023)":1254160,
+    "Growth Rate":0.0228,
+    "slug":"puning"
+  },
+  {
+    "Unnamed: 0":449,
+    "City":"Chifeng",
+    "Country":"China",
+    "Population (2024)":1279544,
+    "Population (2023)":1252414,
+    "Growth Rate":0.0217,
+    "slug":"chifeng"
+  },
+  {
+    "Unnamed: 0":450,
+    "City":"Zhuzhou",
+    "Country":"China",
+    "Population (2024)":1277238,
+    "Population (2023)":1254519,
+    "Growth Rate":0.0181,
+    "slug":"zhuzhou"
+  },
+  {
+    "Unnamed: 0":451,
+    "City":"Bujumbura",
+    "Country":"Burundi",
+    "Population (2024)":1277050,
+    "Population (2023)":1206767,
+    "Growth Rate":0.0582,
+    "slug":"bujumbura"
+  },
+  {
+    "Unnamed: 0":452,
+    "City":"Zhenjiang Jiangsu",
+    "Country":"China",
+    "Population (2024)":1275395,
+    "Population (2023)":1250668,
+    "Growth Rate":0.0198,
+    "slug":"zhenjiang-jiangsu"
+  },
+  {
+    "Unnamed: 0":453,
+    "City":"Liupanshui",
+    "Country":"China",
+    "Population (2024)":1272872,
+    "Population (2023)":1230644,
+    "Growth Rate":0.0343,
+    "slug":"liupanshui"
+  },
+  {
+    "Unnamed: 0":454,
+    "City":"Barquisimeto",
+    "Country":"Venezuela",
+    "Population (2024)":1267872,
+    "Population (2023)":1254192,
+    "Growth Rate":0.0109,
+    "slug":"barquisimeto"
+  },
+  {
+    "Unnamed: 0":455,
+    "City":"Islamabad",
+    "Country":"Pakistan",
+    "Population (2024)":1266792,
+    "Population (2023)":1232447,
+    "Growth Rate":0.0279,
+    "slug":"islamabad"
+  },
+  {
+    "Unnamed: 0":456,
+    "City":"Huaibei",
+    "Country":"China",
+    "Population (2024)":1264856,
+    "Population (2023)":1236271,
+    "Growth Rate":0.0231,
+    "slug":"huaibei"
+  },
+  {
+    "Unnamed: 0":457,
+    "City":"Tasikmalaya",
+    "Country":"Indonesia",
+    "Population (2024)":1258124,
+    "Population (2023)":1213778,
+    "Growth Rate":0.0365,
+    "slug":"tasikmalaya"
+  },
+  {
+    "Unnamed: 0":458,
+    "City":"Maracay",
+    "Country":"Venezuela",
+    "Population (2024)":1256553,
+    "Population (2023)":1242945,
+    "Growth Rate":0.0109,
+    "slug":"maracay"
+  },
+  {
+    "Unnamed: 0":459,
+    "City":"Bogor",
+    "Country":"Indonesia",
+    "Population (2024)":1256155,
+    "Population (2023)":1231445,
+    "Growth Rate":0.0201,
+    "slug":"bogor"
+  },
+  {
+    "Unnamed: 0":460,
+    "City":"Da Nang",
+    "Country":"Vietnam",
+    "Population (2024)":1253228,
+    "Population (2023)":1220634,
+    "Growth Rate":0.0267,
+    "slug":"da-nang"
+  },
+  {
+    "Unnamed: 0":461,
+    "City":"Nizhniy Novgorod",
+    "Country":"Russia",
+    "Population (2024)":1250302,
+    "Population (2023)":1251332,
+    "Growth Rate":-0.0008,
+    "slug":"nizhniy-novgorod"
+  },
+  {
+    "Unnamed: 0":462,
+    "City":"Nanyang Henan",
+    "Country":"China",
+    "Population (2024)":1250300,
+    "Population (2023)":1224629,
+    "Growth Rate":0.021,
+    "slug":"nanyang-henan"
+  },
+  {
+    "Unnamed: 0":463,
+    "City":"Xiangtan Hunan",
+    "Country":"China",
+    "Population (2024)":1249380,
+    "Population (2023)":1223912,
+    "Growth Rate":0.0208,
+    "slug":"xiangtan-hunan"
+  },
+  {
+    "Unnamed: 0":464,
+    "City":"Pizhou",
+    "Country":"China",
+    "Population (2024)":1247177,
+    "Population (2023)":1207275,
+    "Growth Rate":0.0331,
+    "slug":"pizhou"
+  },
+  {
+    "Unnamed: 0":465,
+    "City":"Tiruchirappalli",
+    "Country":"India",
+    "Population (2024)":1244978,
+    "Population (2023)":1221960,
+    "Growth Rate":0.0188,
+    "slug":"tiruchirappalli"
+  },
+  {
+    "Unnamed: 0":466,
+    "City":"Chelyabinsk",
+    "Country":"Russia",
+    "Population (2024)":1243883,
+    "Population (2023)":1240926,
+    "Growth Rate":0.0024,
+    "slug":"chelyabinsk"
+  },
+  {
+    "Unnamed: 0":467,
+    "City":"Mendoza",
+    "Country":"Argentina",
+    "Population (2024)":1242319,
+    "Population (2023)":1226427,
+    "Growth Rate":0.013,
+    "slug":"mendoza"
+  },
+  {
+    "Unnamed: 0":468,
+    "City":"Luohe",
+    "Country":"China",
+    "Population (2024)":1241152,
+    "Population (2023)":1197935,
+    "Growth Rate":0.0361,
+    "slug":"luohe"
+  },
+  {
+    "Unnamed: 0":469,
+    "City":"Xiongan",
+    "Country":"China",
+    "Population (2024)":1240158,
+    "Population (2023)":1183042,
+    "Growth Rate":0.0483,
+    "slug":"xiongan"
+  },
+  {
+    "Unnamed: 0":470,
+    "City":"Chandigarh",
+    "Country":"India",
+    "Population (2024)":1239699,
+    "Population (2023)":1214775,
+    "Growth Rate":0.0205,
+    "slug":"chandigarh"
+  },
+  {
+    "Unnamed: 0":471,
+    "City":"Merida",
+    "Country":"Mexico",
+    "Population (2024)":1239654,
+    "Population (2023)":1220603,
+    "Growth Rate":0.0156,
+    "slug":"merida"
+  },
+  {
+    "Unnamed: 0":472,
+    "City":"Jinzhou",
+    "Country":"China",
+    "Population (2024)":1238377,
+    "Population (2023)":1215376,
+    "Growth Rate":0.0189,
+    "slug":"jinzhou"
+  },
+  {
+    "Unnamed: 0":473,
+    "City":"Benxi",
+    "Country":"China",
+    "Population (2024)":1237550,
+    "Population (2023)":1216852,
+    "Growth Rate":0.017,
+    "slug":"benxi"
+  },
+  {
+    "Unnamed: 0":474,
+    "City":"Binzhou",
+    "Country":"China",
+    "Population (2024)":1233584,
+    "Population (2023)":1200222,
+    "Growth Rate":0.0278,
+    "slug":"binzhou"
+  },
+  {
+    "Unnamed: 0":475,
+    "City":"Aba",
+    "Country":"Nigeria",
+    "Population (2024)":1230407,
+    "Population (2023)":1188803,
+    "Growth Rate":0.035,
+    "slug":"aba"
+  },
+  {
+    "Unnamed: 0":476,
+    "City":"Chiang Mai",
+    "Country":"Thailand",
+    "Population (2024)":1228773,
+    "Population (2023)":1213348,
+    "Growth Rate":0.0127,
+    "slug":"chiang-mai"
+  },
+  {
+    "Unnamed: 0":477,
+    "City":"Bazhong",
+    "Country":"China",
+    "Population (2024)":1225591,
+    "Population (2023)":1175989,
+    "Growth Rate":0.0422,
+    "slug":"bazhong"
+  },
+  {
+    "Unnamed: 0":478,
+    "City":"Quetta",
+    "Country":"Pakistan",
+    "Population (2024)":1221495,
+    "Population (2023)":1190348,
+    "Growth Rate":0.0262,
+    "slug":"quetta"
+  },
+  {
+    "Unnamed: 0":479,
+    "City":"Kaduna",
+    "Country":"Nigeria",
+    "Population (2024)":1221451,
+    "Population (2023)":1187398,
+    "Growth Rate":0.0287,
+    "slug":"kaduna"
+  },
+  {
+    "Unnamed: 0":480,
+    "City":"Guilin",
+    "Country":"China",
+    "Population (2024)":1218067,
+    "Population (2023)":1196841,
+    "Growth Rate":0.0177,
+    "slug":"guilin"
+  },
+  {
+    "Unnamed: 0":481,
+    "City":"Saharanpur",
+    "Country":"India",
+    "Population (2024)":1207856,
+    "Population (2023)":1171689,
+    "Growth Rate":0.0309,
+    "slug":"saharanpur"
+  },
+  {
+    "Unnamed: 0":482,
+    "City":"Hubli Dharwad",
+    "Country":"India",
+    "Population (2024)":1205428,
+    "Population (2023)":1181194,
+    "Growth Rate":0.0205,
+    "slug":"hubli-dharwad"
+  },
+  {
+    "Unnamed: 0":483,
+    "City":"Yueqing",
+    "Country":"China",
+    "Population (2024)":1201400,
+    "Population (2023)":1169864,
+    "Growth Rate":0.027,
+    "slug":"yueqing"
+  },
+  {
+    "Unnamed: 0":484,
+    "City":"Guwahati",
+    "Country":"India",
+    "Population (2024)":1199455,
+    "Population (2023)":1176330,
+    "Growth Rate":0.0197,
+    "slug":"guwahati"
+  },
+  {
+    "Unnamed: 0":485,
+    "City":"Mexicali",
+    "Country":"Mexico",
+    "Population (2024)":1196982,
+    "Population (2023)":1178477,
+    "Growth Rate":0.0157,
+    "slug":"mexicali"
+  },
+  {
+    "Unnamed: 0":486,
+    "City":"Salem",
+    "Country":"India",
+    "Population (2024)":1194757,
+    "Population (2023)":1169953,
+    "Growth Rate":0.0212,
+    "slug":"salem"
+  },
+  {
+    "Unnamed: 0":487,
+    "City":"Maputo",
+    "Country":"Mozambique",
+    "Population (2024)":1193253,
+    "Population (2023)":1162793,
+    "Growth Rate":0.0262,
+    "slug":"maputo"
+  },
+  {
+    "Unnamed: 0":488,
+    "City":"Tripoli",
+    "Country":"Libya",
+    "Population (2024)":1192436,
+    "Population (2023)":1183292,
+    "Growth Rate":0.0077,
+    "slug":"tripoli"
+  },
+  {
+    "Unnamed: 0":489,
+    "City":"Haifa",
+    "Country":"Israel",
+    "Population (2024)":1186475,
+    "Population (2023)":1174429,
+    "Growth Rate":0.0103,
+    "slug":"haifa"
+  },
+  {
+    "Unnamed: 0":490,
+    "City":"Bandar Lampung",
+    "Country":"Indonesia",
+    "Population (2024)":1186233,
+    "Population (2023)":1162242,
+    "Growth Rate":0.0206,
+    "slug":"bandar-lampung"
+  },
+  {
+    "Unnamed: 0":491,
+    "City":"Bobo Dioulasso",
+    "Country":"Burkina Faso",
+    "Population (2024)":1185053,
+    "Population (2023)":1128646,
+    "Growth Rate":0.05,
+    "slug":"bobo-dioulasso"
+  },
+  {
+    "Unnamed: 0":492,
+    "City":"Amsterdam",
+    "Country":"Netherlands",
+    "Population (2024)":1181817,
+    "Population (2023)":1174025,
+    "Growth Rate":0.0066,
+    "slug":"amsterdam"
+  },
+  {
+    "Unnamed: 0":493,
+    "City":"Shimkent",
+    "Country":"Kazakhstan",
+    "Population (2024)":1181020,
+    "Population (2023)":1155073,
+    "Growth Rate":0.0225,
+    "slug":"shimkent"
+  },
+  {
+    "Unnamed: 0":494,
+    "City":"Omsk",
+    "Country":"Russia",
+    "Population (2024)":1180677,
+    "Population (2023)":1180745,
+    "Growth Rate":-0.0001,
+    "slug":"omsk"
+  },
+  {
+    "Unnamed: 0":495,
+    "City":"Aguascalientes",
+    "Country":"Mexico",
+    "Population (2024)":1179301,
+    "Population (2023)":1161448,
+    "Growth Rate":0.0154,
+    "slug":"aguascalientes"
+  },
+  {
+    "Unnamed: 0":496,
+    "City":"Hargeysa",
+    "Country":"Somalia",
+    "Population (2024)":1176617,
+    "Population (2023)":1127198,
+    "Growth Rate":0.0438,
+    "slug":"hargeysa"
+  },
+  {
+    "Unnamed: 0":497,
+    "City":"Krasnoyarsk",
+    "Country":"Russia",
+    "Population (2024)":1173095,
+    "Population (2023)":1166792,
+    "Growth Rate":0.0054,
+    "slug":"krasnoyarsk"
+  },
+  {
+    "Unnamed: 0":498,
+    "City":"Xinxiang",
+    "Country":"China",
+    "Population (2024)":1160840,
+    "Population (2023)":1140599,
+    "Growth Rate":0.0177,
+    "slug":"xinxiang"
+  },
+  {
+    "Unnamed: 0":499,
+    "City":"Siliguri",
+    "Country":"India",
+    "Population (2024)":1159371,
+    "Population (2023)":1126249,
+    "Growth Rate":0.0294,
+    "slug":"siliguri"
+  },
+  {
+    "Unnamed: 0":500,
+    "City":"Wenling",
+    "Country":"China",
+    "Population (2024)":1159259,
+    "Population (2023)":1131361,
+    "Growth Rate":0.0247,
+    "slug":"wenling"
+  },
+  {
+    "Unnamed: 0":501,
+    "City":"Samara",
+    "Country":"Russia",
+    "Population (2024)":1154451,
+    "Population (2023)":1155732,
+    "Growth Rate":-0.0011,
+    "slug":"samara"
+  },
+  {
+    "Unnamed: 0":502,
+    "City":"Zaozhuang",
+    "Country":"China",
+    "Population (2024)":1150859,
+    "Population (2023)":1133629,
+    "Growth Rate":0.0152,
+    "slug":"zaozhuang"
+  },
+  {
+    "Unnamed: 0":503,
+    "City":"Cologne",
+    "Country":"Germany",
+    "Population (2024)":1149014,
+    "Population (2023)":1143715,
+    "Growth Rate":0.0046,
+    "slug":"cologne"
+  },
+  {
+    "Unnamed: 0":504,
+    "City":"Yongin",
+    "Country":"South Korea",
+    "Population (2024)":1147967,
+    "Population (2023)":1135671,
+    "Growth Rate":0.0108,
+    "slug":"yongin"
+  },
+  {
+    "Unnamed: 0":505,
+    "City":"Ufa",
+    "Country":"Russia",
+    "Population (2024)":1146786,
+    "Population (2023)":1144799,
+    "Growth Rate":0.0017,
+    "slug":"ufa"
+  },
+  {
+    "Unnamed: 0":506,
+    "City":"Fuyang",
+    "Country":"China",
+    "Population (2024)":1146343,
+    "Population (2023)":1120694,
+    "Growth Rate":0.0229,
+    "slug":"fuyang"
+  },
+  {
+    "Unnamed: 0":507,
+    "City":"Ikorodu",
+    "Country":"Nigeria",
+    "Population (2024)":1145224,
+    "Population (2023)":1093308,
+    "Growth Rate":0.0475,
+    "slug":"ikorodu"
+  },
+  {
+    "Unnamed: 0":508,
+    "City":"Bien Hoa",
+    "Country":"Vietnam",
+    "Population (2024)":1142997,
+    "Population (2023)":1110824,
+    "Growth Rate":0.029,
+    "slug":"bien-hoa"
+  },
+  {
+    "Unnamed: 0":509,
+    "City":"Jalandhar",
+    "Country":"India",
+    "Population (2024)":1142682,
+    "Population (2023)":1118826,
+    "Growth Rate":0.0213,
+    "slug":"jalandhar"
+  },
+  {
+    "Unnamed: 0":510,
+    "City":"Panjin",
+    "Country":"China",
+    "Population (2024)":1142542,
+    "Population (2023)":1120675,
+    "Growth Rate":0.0195,
+    "slug":"panjin"
+  },
+  {
+    "Unnamed: 0":511,
+    "City":"Ma'anshan",
+    "Country":"China",
+    "Population (2024)":1140264,
+    "Population (2023)":1112680,
+    "Growth Rate":0.0248,
+    "slug":"ma-anshan"
+  },
+  {
+    "Unnamed: 0":512,
+    "City":"Cuernavaca",
+    "Country":"Mexico",
+    "Population (2024)":1140169,
+    "Population (2023)":1123843,
+    "Growth Rate":0.0145,
+    "slug":"cuernavaca"
+  },
+  {
+    "Unnamed: 0":513,
+    "City":"Rostov on Don",
+    "Country":"Russia",
+    "Population (2024)":1139641,
+    "Population (2023)":1138854,
+    "Growth Rate":0.0007,
+    "slug":"rostov-on-don"
+  },
+  {
+    "Unnamed: 0":514,
+    "City":"Chihuahua",
+    "Country":"Mexico",
+    "Population (2024)":1135342,
+    "Population (2023)":1116295,
+    "Growth Rate":0.0171,
+    "slug":"chihuahua"
+  },
+  {
+    "Unnamed: 0":515,
+    "City":"Fuzhou Jiangxi",
+    "Country":"China",
+    "Population (2024)":1131718,
+    "Population (2023)":1100271,
+    "Growth Rate":0.0286,
+    "slug":"fuzhou-jiangxi"
+  },
+  {
+    "Unnamed: 0":516,
+    "City":"Tshikapa",
+    "Country":"DR Congo",
+    "Population (2024)":1131226,
+    "Population (2023)":1077108,
+    "Growth Rate":0.0502,
+    "slug":"tshikapa"
+  },
+  {
+    "Unnamed: 0":517,
+    "City":"Shangrao",
+    "Country":"China",
+    "Population (2024)":1130887,
+    "Population (2023)":1106736,
+    "Growth Rate":0.0218,
+    "slug":"shangrao"
+  },
+  {
+    "Unnamed: 0":518,
+    "City":"Samarinda",
+    "Country":"Indonesia",
+    "Population (2024)":1128176,
+    "Population (2023)":1100324,
+    "Growth Rate":0.0253,
+    "slug":"samarinda"
+  },
+  {
+    "Unnamed: 0":519,
+    "City":"Bishkek",
+    "Country":"Kyrgyzstan",
+    "Population (2024)":1127721,
+    "Population (2023)":1104742,
+    "Growth Rate":0.0208,
+    "slug":"bishkek"
+  },
+  {
+    "Unnamed: 0":520,
+    "City":"Zhaoqing",
+    "Country":"China",
+    "Population (2024)":1127601,
+    "Population (2023)":1103202,
+    "Growth Rate":0.0221,
+    "slug":"zhaoqing"
+  },
+  {
+    "Unnamed: 0":521,
+    "City":"San Salvador",
+    "Country":"El Salvador",
+    "Population (2024)":1123376,
+    "Population (2023)":1116052,
+    "Growth Rate":0.0066,
+    "slug":"san-salvador"
+  },
+  {
+    "Unnamed: 0":522,
+    "City":"Yichun Jiangxi",
+    "Country":"China",
+    "Population (2024)":1122041,
+    "Population (2023)":1078630,
+    "Growth Rate":0.0402,
+    "slug":"yichun-jiangxi"
+  },
+  {
+    "Unnamed: 0":523,
+    "City":"Chenzhou",
+    "Country":"China",
+    "Population (2024)":1119791,
+    "Population (2023)":1084969,
+    "Growth Rate":0.0321,
+    "slug":"chenzhou"
+  },
+  {
+    "Unnamed: 0":524,
+    "City":"Sekondi Takoradi",
+    "Country":"Ghana",
+    "Population (2024)":1119534,
+    "Population (2023)":1077929,
+    "Growth Rate":0.0386,
+    "slug":"sekondi-takoradi"
+  },
+  {
+    "Unnamed: 0":525,
+    "City":"Leshan",
+    "Country":"China",
+    "Population (2024)":1116497,
+    "Population (2023)":1087409,
+    "Growth Rate":0.0267,
+    "slug":"leshan"
+  },
+  {
+    "Unnamed: 0":526,
+    "City":"Aden",
+    "Country":"Yemen",
+    "Population (2024)":1116193,
+    "Population (2023)":1079670,
+    "Growth Rate":0.0338,
+    "slug":"aden"
+  },
+  {
+    "Unnamed: 0":527,
+    "City":"Goyang",
+    "Country":"South Korea",
+    "Population (2024)":1114079,
+    "Population (2023)":1105283,
+    "Growth Rate":0.008,
+    "slug":"goyang"
+  },
+  {
+    "Unnamed: 0":528,
+    "City":"Diyarbakir",
+    "Country":"Turkey",
+    "Population (2024)":1113333,
+    "Population (2023)":1096937,
+    "Growth Rate":0.0149,
+    "slug":"diyarbakir"
+  },
+  {
+    "Unnamed: 0":529,
+    "City":"Asmara",
+    "Country":"Eritrea",
+    "Population (2024)":1111748,
+    "Population (2023)":1072666,
+    "Growth Rate":0.0364,
+    "slug":"asmara"
+  },
+  {
+    "Unnamed: 0":530,
+    "City":"Dezhou",
+    "Country":"China",
+    "Population (2024)":1108356,
+    "Population (2023)":1080680,
+    "Growth Rate":0.0256,
+    "slug":"dezhou"
+  },
+  {
+    "Unnamed: 0":531,
+    "City":"Jingzhou Hubei",
+    "Country":"China",
+    "Population (2024)":1108067,
+    "Population (2023)":1089886,
+    "Growth Rate":0.0167,
+    "slug":"jingzhou-hubei"
+  },
+  {
+    "Unnamed: 0":532,
+    "City":"Managua",
+    "Country":"Nicaragua",
+    "Population (2024)":1107118,
+    "Population (2023)":1094510,
+    "Growth Rate":0.0115,
+    "slug":"managua"
+  },
+  {
+    "Unnamed: 0":533,
+    "City":"Johor Bahru",
+    "Country":"Malaysia",
+    "Population (2024)":1107001,
+    "Population (2023)":1086214,
+    "Growth Rate":0.0191,
+    "slug":"johor-bahru"
+  },
+  {
+    "Unnamed: 0":534,
+    "City":"Kermanshah",
+    "Country":"Iran",
+    "Population (2024)":1101611,
+    "Population (2023)":1084623,
+    "Growth Rate":0.0157,
+    "slug":"kermanshah"
+  },
+  {
+    "Unnamed: 0":535,
+    "City":"Nyala",
+    "Country":"Sudan",
+    "Population (2024)":1101314,
+    "Population (2023)":1056952,
+    "Growth Rate":0.042,
+    "slug":"nyala"
+  },
+  {
+    "Unnamed: 0":536,
+    "City":"Oslo",
+    "Country":"Norway",
+    "Population (2024)":1100868,
+    "Population (2023)":1085992,
+    "Growth Rate":0.0137,
+    "slug":"oslo"
+  },
+  {
+    "Unnamed: 0":537,
+    "City":"Kirkuk",
+    "Country":"Iraq",
+    "Population (2024)":1100390,
+    "Population (2023)":1074884,
+    "Growth Rate":0.0237,
+    "slug":"kirkuk"
+  },
+  {
+    "Unnamed: 0":538,
+    "City":"Yerevan",
+    "Country":"Armenia",
+    "Population (2024)":1097542,
+    "Population (2023)":1094813,
+    "Growth Rate":0.0025,
+    "slug":"yerevan"
+  },
+  {
+    "Unnamed: 0":539,
+    "City":"Cartagena",
+    "Country":"Colombia",
+    "Population (2024)":1096463,
+    "Population (2023)":1087599,
+    "Growth Rate":0.0082,
+    "slug":"cartagena"
+  },
+  {
+    "Unnamed: 0":540,
+    "City":"Changshu",
+    "Country":"China",
+    "Population (2024)":1093687,
+    "Population (2023)":1059902,
+    "Growth Rate":0.0319,
+    "slug":"changshu"
+  },
+  {
+    "Unnamed: 0":541,
+    "City":"Huzhou",
+    "Country":"China",
+    "Population (2024)":1091811,
+    "Population (2023)":1067651,
+    "Growth Rate":0.0226,
+    "slug":"huzhou"
+  },
+  {
+    "Unnamed: 0":542,
+    "City":"Xuchang",
+    "Country":"China",
+    "Population (2024)":1091744,
+    "Population (2023)":1063876,
+    "Growth Rate":0.0262,
+    "slug":"xuchang"
+  },
+  {
+    "Unnamed: 0":543,
+    "City":"Solapur",
+    "Country":"India",
+    "Population (2024)":1088131,
+    "Population (2023)":1070322,
+    "Growth Rate":0.0166,
+    "slug":"solapur"
+  },
+  {
+    "Unnamed: 0":544,
+    "City":"Lille",
+    "Country":"France",
+    "Population (2024)":1085199,
+    "Population (2023)":1079120,
+    "Growth Rate":0.0056,
+    "slug":"lille"
+  },
+  {
+    "Unnamed: 0":545,
+    "City":"Mersin",
+    "Country":"Turkey",
+    "Population (2024)":1084817,
+    "Population (2023)":1069402,
+    "Growth Rate":0.0144,
+    "slug":"mersin"
+  },
+  {
+    "Unnamed: 0":546,
+    "City":"Tbilisi",
+    "Country":"Georgia",
+    "Population (2024)":1084471,
+    "Population (2023)":1082245,
+    "Growth Rate":0.0021,
+    "slug":"tbilisi"
+  },
+  {
+    "Unnamed: 0":547,
+    "City":"Perm",
+    "Country":"Russia",
+    "Population (2024)":1084120,
+    "Population (2023)":1081768,
+    "Growth Rate":0.0022,
+    "slug":"perm"
+  },
+  {
+    "Unnamed: 0":548,
+    "City":"Voronezh",
+    "Country":"Russia",
+    "Population (2024)":1083724,
+    "Population (2023)":1080808,
+    "Growth Rate":0.0027,
+    "slug":"voronezh"
+  },
+  {
+    "Unnamed: 0":549,
+    "City":"Denpasar",
+    "Country":"Indonesia",
+    "Population (2024)":1075244,
+    "Population (2023)":1053041,
+    "Growth Rate":0.0211,
+    "slug":"denpasar"
+  },
+  {
+    "Unnamed: 0":550,
+    "City":"Toulouse",
+    "Country":"France",
+    "Population (2024)":1070746,
+    "Population (2023)":1060460,
+    "Growth Rate":0.0097,
+    "slug":"toulouse"
+  },
+  {
+    "Unnamed: 0":551,
+    "City":"Blantyre Limbe",
+    "Country":"Malawi",
+    "Population (2024)":1070625,
+    "Population (2023)":1030974,
+    "Growth Rate":0.0385,
+    "slug":"blantyre-limbe"
+  },
+  {
+    "Unnamed: 0":552,
+    "City":"Aracaju",
+    "Country":"Brazil",
+    "Population (2024)":1070122,
+    "Population (2023)":1056986,
+    "Growth Rate":0.0124,
+    "slug":"aracaju"
+  },
+  {
+    "Unnamed: 0":553,
+    "City":"Marrakech",
+    "Country":"Morocco",
+    "Population (2024)":1067172,
+    "Population (2023)":1049690,
+    "Growth Rate":0.0167,
+    "slug":"marrakech"
+  },
+  {
+    "Unnamed: 0":554,
+    "City":"Qujing",
+    "Country":"China",
+    "Population (2024)":1066897,
+    "Population (2023)":1038964,
+    "Growth Rate":0.0269,
+    "slug":"qujing"
+  },
+  {
+    "Unnamed: 0":555,
+    "City":"Yueyang",
+    "Country":"China",
+    "Population (2024)":1064166,
+    "Population (2023)":1048889,
+    "Growth Rate":0.0146,
+    "slug":"yueyang"
+  },
+  {
+    "Unnamed: 0":556,
+    "City":"Ilorin",
+    "Country":"Nigeria",
+    "Population (2024)":1063713,
+    "Population (2023)":1030498,
+    "Growth Rate":0.0322,
+    "slug":"ilorin"
+  },
+  {
+    "Unnamed: 0":557,
+    "City":"Tampico",
+    "Country":"Mexico",
+    "Population (2024)":1062567,
+    "Population (2023)":1047251,
+    "Growth Rate":0.0146,
+    "slug":"tampico"
+  },
+  {
+    "Unnamed: 0":558,
+    "City":"Antwerp",
+    "Country":"Belgium",
+    "Population (2024)":1061089,
+    "Population (2023)":1057215,
+    "Growth Rate":0.0037,
+    "slug":"antwerp"
+  },
+  {
+    "Unnamed: 0":559,
+    "City":"Teresina",
+    "Country":"Brazil",
+    "Population (2024)":1059657,
+    "Population (2023)":1050459,
+    "Growth Rate":0.0088,
+    "slug":"teresina"
+  },
+  {
+    "Unnamed: 0":560,
+    "City":"Guiping",
+    "Country":"China",
+    "Population (2024)":1055921,
+    "Population (2023)":1020399,
+    "Growth Rate":0.0348,
+    "slug":"guiping"
+  },
+  {
+    "Unnamed: 0":561,
+    "City":"Warangal",
+    "Country":"India",
+    "Population (2024)":1055604,
+    "Population (2023)":1031090,
+    "Growth Rate":0.0238,
+    "slug":"warangal"
+  },
+  {
+    "Unnamed: 0":562,
+    "City":"Changwon",
+    "Country":"South Korea",
+    "Population (2024)":1055373,
+    "Population (2023)":1054442,
+    "Growth Rate":0.0009,
+    "slug":"changwon"
+  },
+  {
+    "Unnamed: 0":563,
+    "City":"Padang",
+    "Country":"Indonesia",
+    "Population (2024)":1052849,
+    "Population (2023)":1033645,
+    "Growth Rate":0.0186,
+    "slug":"padang"
+  },
+  {
+    "Unnamed: 0":564,
+    "City":"Saltillo",
+    "Country":"Mexico",
+    "Population (2024)":1050320,
+    "Population (2023)":1034126,
+    "Growth Rate":0.0157,
+    "slug":"saltillo"
+  },
+  {
+    "Unnamed: 0":565,
+    "City":"Xintai",
+    "Country":"China",
+    "Population (2024)":1049486,
+    "Population (2023)":1023756,
+    "Growth Rate":0.0251,
+    "slug":"xintai"
+  },
+  {
+    "Unnamed: 0":566,
+    "City":"Cancun",
+    "Country":"Mexico",
+    "Population (2024)":1045005,
+    "Population (2023)":1022604,
+    "Growth Rate":0.0219,
+    "slug":"cancun"
+  },
+  {
+    "Unnamed: 0":567,
+    "City":"Cebu City",
+    "Country":"Philippines",
+    "Population (2024)":1042613,
+    "Population (2023)":1024945,
+    "Growth Rate":0.0172,
+    "slug":"cebu-city"
+  },
+  {
+    "Unnamed: 0":568,
+    "City":"San Miguel De Tucuman",
+    "Country":"Argentina",
+    "Population (2024)":1039226,
+    "Population (2023)":1026767,
+    "Growth Rate":0.0121,
+    "slug":"san-miguel-de-tucuman"
+  },
+  {
+    "Unnamed: 0":569,
+    "City":"Hamah",
+    "Country":"Syria",
+    "Population (2024)":1034498,
+    "Population (2023)":995747,
+    "Growth Rate":0.0389,
+    "slug":"hamah"
+  },
+  {
+    "Unnamed: 0":570,
+    "City":"Acapulco De Juarez",
+    "Country":"Mexico",
+    "Population (2024)":1032772,
+    "Population (2023)":1018976,
+    "Growth Rate":0.0135,
+    "slug":"acapulco-de-juarez"
+  },
+  {
+    "Unnamed: 0":571,
+    "City":"Warri",
+    "Country":"Nigeria",
+    "Population (2024)":1031425,
+    "Population (2023)":986921,
+    "Growth Rate":0.0451,
+    "slug":"warri"
+  },
+  {
+    "Unnamed: 0":572,
+    "City":"Kayseri",
+    "Country":"Turkey",
+    "Population (2024)":1025507,
+    "Population (2023)":1013240,
+    "Growth Rate":0.0121,
+    "slug":"kayseri"
+  },
+  {
+    "Unnamed: 0":573,
+    "City":"Chengde",
+    "Country":"China",
+    "Population (2024)":1024521,
+    "Population (2023)":993097,
+    "Growth Rate":0.0316,
+    "slug":"chengde"
+  },
+  {
+    "Unnamed: 0":574,
+    "City":"Owerri",
+    "Country":"Nigeria",
+    "Population (2024)":1022922,
+    "Population (2023)":983352,
+    "Growth Rate":0.0402,
+    "slug":"owerri"
+  },
+  {
+    "Unnamed: 0":575,
+    "City":"Rotterdam",
+    "Country":"Netherlands",
+    "Population (2024)":1021919,
+    "Population (2023)":1018012,
+    "Growth Rate":0.0038,
+    "slug":"rotterdam"
+  },
+  {
+    "Unnamed: 0":576,
+    "City":"Pingxiang Jiangxi",
+    "Country":"China",
+    "Population (2024)":1021575,
+    "Population (2023)":999721,
+    "Growth Rate":0.0219,
+    "slug":"pingxiang-jiangxi"
+  },
+  {
+    "Unnamed: 0":577,
+    "City":"Zhucheng",
+    "Country":"China",
+    "Population (2024)":1019600,
+    "Population (2023)":991208,
+    "Growth Rate":0.0286,
+    "slug":"zhucheng"
+  },
+  {
+    "Unnamed: 0":578,
+    "City":"Songkhla",
+    "Country":"Thailand",
+    "Population (2024)":1017784,
+    "Population (2023)":1005007,
+    "Growth Rate":0.0127,
+    "slug":"songkhla"
+  },
+  {
+    "Unnamed: 0":579,
+    "City":"Valparaiso",
+    "Country":"Chile",
+    "Population (2024)":1016585,
+    "Population (2023)":1008599,
+    "Growth Rate":0.0079,
+    "slug":"valparaiso"
+  },
+  {
+    "Unnamed: 0":580,
+    "City":"Dehradun",
+    "Country":"India",
+    "Population (2024)":1016402,
+    "Population (2023)":991876,
+    "Growth Rate":0.0247,
+    "slug":"dehradun"
+  },
+  {
+    "Unnamed: 0":581,
+    "City":"Nonthaburi",
+    "Country":"Thailand",
+    "Population (2024)":1013672,
+    "Population (2023)":1000947,
+    "Growth Rate":0.0127,
+    "slug":"nonthaburi"
+  },
+  {
+    "Unnamed: 0":582,
+    "City":"Leiyang",
+    "Country":"China",
+    "Population (2024)":1013191,
+    "Population (2023)":978327,
+    "Growth Rate":0.0356,
+    "slug":"leiyang"
+  },
+  {
+    "Unnamed: 0":583,
+    "City":"Dushanbe",
+    "Country":"Tajikistan",
+    "Population (2024)":1012794,
+    "Population (2023)":986899,
+    "Growth Rate":0.0262,
+    "slug":"dushanbe"
+  },
+  {
+    "Unnamed: 0":584,
+    "City":"Nampula",
+    "Country":"Mozambique",
+    "Population (2024)":1012582,
+    "Population (2023)":969322,
+    "Growth Rate":0.0446,
+    "slug":"nampula"
+  },
+  {
+    "Unnamed: 0":585,
+    "City":"Misratah",
+    "Country":"Libya",
+    "Population (2024)":1011119,
+    "Population (2023)":984193,
+    "Growth Rate":0.0274,
+    "slug":"misratah"
+  },
+  {
+    "Unnamed: 0":586,
+    "City":"Krasnodar",
+    "Country":"Russia",
+    "Population (2024)":1010552,
+    "Population (2023)":1001155,
+    "Growth Rate":0.0094,
+    "slug":"krasnodar"
+  },
+  {
+    "Unnamed: 0":587,
+    "City":"Laiwu",
+    "Country":"China",
+    "Population (2024)":1009727,
+    "Population (2023)":986248,
+    "Growth Rate":0.0238,
+    "slug":"laiwu"
+  },
+  {
+    "Unnamed: 0":588,
+    "City":"Bordeaux",
+    "Country":"France",
+    "Population (2024)":1009594,
+    "Population (2023)":1000475,
+    "Growth Rate":0.0091,
+    "slug":"bordeaux"
+  },
+  {
+    "Unnamed: 0":589,
+    "City":"Jixi Heilongjiang",
+    "Country":"China",
+    "Population (2024)":1008989,
+    "Population (2023)":993175,
+    "Growth Rate":0.0159,
+    "slug":"jixi-heilongjiang"
+  },
+  {
+    "Unnamed: 0":590,
+    "City":"San Pedro Sula",
+    "Country":"Honduras",
+    "Population (2024)":1008220,
+    "Population (2023)":982021,
+    "Growth Rate":0.0267,
+    "slug":"san-pedro-sula"
+  },
+  {
+    "Unnamed: 0":591,
+    "City":"Odesa",
+    "Country":"Ukraine",
+    "Population (2024)":1007596,
+    "Population (2023)":1007716,
+    "Growth Rate":-0.0001,
+    "slug":"odesa"
+  },
+  {
+    "Unnamed: 0":592,
+    "City":"Jiujiang",
+    "Country":"China",
+    "Population (2024)":1004247,
+    "Population (2023)":982777,
+    "Growth Rate":0.0218,
+    "slug":"jiujiang"
+  },
+  {
+    "Unnamed: 0":593,
+    "City":"Lubango",
+    "Country":"Angola",
+    "Population (2024)":1003016,
+    "Population (2023)":958548,
+    "Growth Rate":0.0464,
+    "slug":"lubango"
+  },
+  {
+    "Unnamed: 0":594,
+    "City":"Morelia",
+    "Country":"Mexico",
+    "Population (2024)":1002461,
+    "Population (2023)":988744,
+    "Growth Rate":0.0139,
+    "slug":"morelia"
+  },
+  {
+    "Unnamed: 0":595,
+    "City":"Jos",
+    "Country":"Nigeria",
+    "Population (2024)":1001155,
+    "Population (2023)":970129,
+    "Growth Rate":0.032,
+    "slug":"jos"
+  },
+  {
+    "Unnamed: 0":596,
+    "City":"Sylhet",
+    "Country":"Bangladesh",
+    "Population (2024)":999374,
+    "Population (2023)":964291,
+    "Growth Rate":0.0364,
+    "slug":"sylhet"
+  },
+  {
+    "Unnamed: 0":597,
+    "City":"Agadir",
+    "Country":"Morocco",
+    "Population (2024)":998146,
+    "Population (2023)":979248,
+    "Growth Rate":0.0193,
+    "slug":"agadir"
+  },
+  {
+    "Unnamed: 0":598,
+    "City":"Volgograd",
+    "Country":"Russia",
+    "Population (2024)":993352,
+    "Population (2023)":995078,
+    "Growth Rate":-0.0017,
+    "slug":"volgograd"
+  },
+  {
+    "Unnamed: 0":599,
+    "City":"Mudanjiang",
+    "Country":"China",
+    "Population (2024)":992414,
+    "Population (2023)":975348,
+    "Growth Rate":0.0175,
+    "slug":"mudanjiang"
+  },
+  {
+    "Unnamed: 0":600,
+    "City":"Jacksonville",
+    "Country":"United States",
+    "Population (2024)":990931,
+    "Population (2023)":981125,
+    "Growth Rate":0.01,
+    "slug":"jacksonville"
+  },
+  {
+    "Unnamed: 0":601,
+    "City":"Guigang",
+    "Country":"China",
+    "Population (2024)":990310,
+    "Population (2023)":967428,
+    "Growth Rate":0.0237,
+    "slug":"guigang"
+  },
+  {
+    "Unnamed: 0":602,
+    "City":"Fort Worth",
+    "Country":"United States",
+    "Population (2024)":989842,
+    "Population (2023)":973275,
+    "Growth Rate":0.017,
+    "slug":"fort-worth"
+  },
+  {
+    "Unnamed: 0":603,
+    "City":"Najaf",
+    "Country":"Iraq",
+    "Population (2024)":987814,
+    "Population (2023)":958487,
+    "Growth Rate":0.0306,
+    "slug":"najaf"
+  },
+  {
+    "Unnamed: 0":604,
+    "City":"Bangui",
+    "Country":"Central African Republic",
+    "Population (2024)":985965,
+    "Population (2023)":958335,
+    "Growth Rate":0.0288,
+    "slug":"bangui"
+  },
+  {
+    "Unnamed: 0":605,
+    "City":"Rajshahi",
+    "Country":"Bangladesh",
+    "Population (2024)":983707,
+    "Population (2023)":961991,
+    "Growth Rate":0.0226,
+    "slug":"rajshahi"
+  },
+  {
+    "Unnamed: 0":606,
+    "City":"Hengshui",
+    "Country":"China",
+    "Population (2024)":983694,
+    "Population (2023)":955663,
+    "Growth Rate":0.0293,
+    "slug":"hengshui"
+  },
+  {
+    "Unnamed: 0":607,
+    "City":"Austin",
+    "Country":"United States",
+    "Population (2024)":983126,
+    "Population (2023)":978786,
+    "Growth Rate":0.0044,
+    "slug":"austin"
+  },
+  {
+    "Unnamed: 0":608,
+    "City":"Jerusalem",
+    "Country":"Israel",
+    "Population (2024)":983097,
+    "Population (2023)":969804,
+    "Growth Rate":0.0137,
+    "slug":"jerusalem"
+  },
+  {
+    "Unnamed: 0":609,
+    "City":"Zhangzhou",
+    "Country":"China",
+    "Population (2024)":980054,
+    "Population (2023)":955519,
+    "Growth Rate":0.0257,
+    "slug":"zhangzhou"
+  },
+  {
+    "Unnamed: 0":610,
+    "City":"Xinyu",
+    "Country":"China",
+    "Population (2024)":979303,
+    "Population (2023)":952278,
+    "Growth Rate":0.0284,
+    "slug":"xinyu"
+  },
+  {
+    "Unnamed: 0":611,
+    "City":"Linfen",
+    "Country":"China",
+    "Population (2024)":978614,
+    "Population (2023)":951822,
+    "Growth Rate":0.0281,
+    "slug":"linfen"
+  },
+  {
+    "Unnamed: 0":612,
+    "City":"Tianmen",
+    "Country":"China",
+    "Population (2024)":978317,
+    "Population (2023)":953768,
+    "Growth Rate":0.0257,
+    "slug":"tianmen"
+  },
+  {
+    "Unnamed: 0":613,
+    "City":"Ciudad Guayana",
+    "Country":"Venezuela",
+    "Population (2024)":978202,
+    "Population (2023)":964266,
+    "Growth Rate":0.0145,
+    "slug":"ciudad-guayana"
+  },
+  {
+    "Unnamed: 0":614,
+    "City":"Zamboanga City",
+    "Country":"Philippines",
+    "Population (2024)":977081,
+    "Population (2023)":960349,
+    "Growth Rate":0.0174,
+    "slug":"zamboanga-city"
+  },
+  {
+    "Unnamed: 0":615,
+    "City":"Yangjiang",
+    "Country":"China",
+    "Population (2024)":976606,
+    "Population (2023)":956079,
+    "Growth Rate":0.0215,
+    "slug":"yangjiang"
+  },
+  {
+    "Unnamed: 0":616,
+    "City":"Taiz",
+    "Country":"Yemen",
+    "Population (2024)":974518,
+    "Population (2023)":940600,
+    "Growth Rate":0.0361,
+    "slug":"taiz"
+  },
+  {
+    "Unnamed: 0":617,
+    "City":"Cucuta",
+    "Country":"Colombia",
+    "Population (2024)":972485,
+    "Population (2023)":963045,
+    "Growth Rate":0.0098,
+    "slug":"cucuta"
+  },
+  {
+    "Unnamed: 0":618,
+    "City":"Arequipa",
+    "Country":"Peru",
+    "Population (2024)":971296,
+    "Population (2023)":958998,
+    "Growth Rate":0.0128,
+    "slug":"arequipa"
+  },
+  {
+    "Unnamed: 0":619,
+    "City":"Liling",
+    "Country":"China",
+    "Population (2024)":970907,
+    "Population (2023)":936997,
+    "Growth Rate":0.0362,
+    "slug":"liling"
+  },
+  {
+    "Unnamed: 0":620,
+    "City":"Antipolo",
+    "Country":"Philippines",
+    "Population (2024)":968288,
+    "Population (2023)":946653,
+    "Growth Rate":0.0229,
+    "slug":"antipolo"
+  },
+  {
+    "Unnamed: 0":621,
+    "City":"Veracruz",
+    "Country":"Mexico",
+    "Population (2024)":968070,
+    "Population (2023)":955226,
+    "Growth Rate":0.0134,
+    "slug":"veracruz"
+  },
+  {
+    "Unnamed: 0":622,
+    "City":"Reynosa",
+    "Country":"Mexico",
+    "Population (2024)":967627,
+    "Population (2023)":951417,
+    "Growth Rate":0.017,
+    "slug":"reynosa"
+  },
+  {
+    "Unnamed: 0":623,
+    "City":"Khulna",
+    "Country":"Bangladesh",
+    "Population (2024)":965483,
+    "Population (2023)":955104,
+    "Growth Rate":0.0109,
+    "slug":"khulna"
+  },
+  {
+    "Unnamed: 0":624,
+    "City":"Deyang",
+    "Country":"China",
+    "Population (2024)":963160,
+    "Population (2023)":939166,
+    "Growth Rate":0.0255,
+    "slug":"deyang"
+  },
+  {
+    "Unnamed: 0":625,
+    "City":"Pathum Thani",
+    "Country":"Thailand",
+    "Population (2024)":962126,
+    "Population (2023)":950048,
+    "Growth Rate":0.0127,
+    "slug":"pathum-thani"
+  },
+  {
+    "Unnamed: 0":626,
+    "City":"Bengbu",
+    "Country":"China",
+    "Population (2024)":959784,
+    "Population (2023)":944465,
+    "Growth Rate":0.0162,
+    "slug":"bengbu"
+  },
+  {
+    "Unnamed: 0":627,
+    "City":"Jiangyin",
+    "Country":"China",
+    "Population (2024)":959250,
+    "Population (2023)":933395,
+    "Growth Rate":0.0277,
+    "slug":"jiangyin"
+  },
+  {
+    "Unnamed: 0":628,
+    "City":"Southampton",
+    "Country":"United Kingdom",
+    "Population (2024)":959202,
+    "Population (2023)":951531,
+    "Growth Rate":0.0081,
+    "slug":"southampton"
+  },
+  {
+    "Unnamed: 0":629,
+    "City":"Villahermosa",
+    "Country":"Mexico",
+    "Population (2024)":958118,
+    "Population (2023)":943530,
+    "Growth Rate":0.0155,
+    "slug":"villahermosa"
+  },
+  {
+    "Unnamed: 0":630,
+    "City":"Baishan",
+    "Country":"China",
+    "Population (2024)":956976,
+    "Population (2023)":927532,
+    "Growth Rate":0.0317,
+    "slug":"baishan"
+  },
+  {
+    "Unnamed: 0":631,
+    "City":"Nice",
+    "Country":"France",
+    "Population (2024)":951808,
+    "Population (2023)":948149,
+    "Growth Rate":0.0039,
+    "slug":"nice"
+  },
+  {
+    "Unnamed: 0":632,
+    "City":"Oran",
+    "Country":"Algeria",
+    "Population (2024)":950768,
+    "Population (2023)":935947,
+    "Growth Rate":0.0158,
+    "slug":"oran"
+  },
+  {
+    "Unnamed: 0":633,
+    "City":"West Rand",
+    "Country":"South Africa",
+    "Population (2024)":947734,
+    "Population (2023)":934341,
+    "Growth Rate":0.0143,
+    "slug":"west-rand"
+  },
+  {
+    "Unnamed: 0":634,
+    "City":"Cabinda",
+    "Country":"Angola",
+    "Population (2024)":947634,
+    "Population (2023)":904676,
+    "Growth Rate":0.0475,
+    "slug":"cabinda"
+  },
+  {
+    "Unnamed: 0":635,
+    "City":"Umuahia",
+    "Country":"Nigeria",
+    "Population (2024)":947460,
+    "Population (2023)":904139,
+    "Growth Rate":0.0479,
+    "slug":"umuahia"
+  },
+  {
+    "Unnamed: 0":636,
+    "City":"Bogra",
+    "Country":"Bangladesh",
+    "Population (2024)":944877,
+    "Population (2023)":905814,
+    "Growth Rate":0.0431,
+    "slug":"bogra"
+  },
+  {
+    "Unnamed: 0":637,
+    "City":"Bahawalpur",
+    "Country":"Pakistan",
+    "Population (2024)":944812,
+    "Population (2023)":919654,
+    "Growth Rate":0.0274,
+    "slug":"bahawalpur"
+  },
+  {
+    "Unnamed: 0":638,
+    "City":"Seongnam",
+    "Country":"South Korea",
+    "Population (2024)":942159,
+    "Population (2023)":941508,
+    "Growth Rate":0.0007,
+    "slug":"seongnam"
+  },
+  {
+    "Unnamed: 0":639,
+    "City":"Guntur",
+    "Country":"India",
+    "Population (2024)":940205,
+    "Population (2023)":918324,
+    "Growth Rate":0.0238,
+    "slug":"guntur"
+  },
+  {
+    "Unnamed: 0":640,
+    "City":"Dnipro",
+    "Country":"Ukraine",
+    "Population (2024)":936766,
+    "Population (2023)":941586,
+    "Growth Rate":-0.0051,
+    "slug":"dnipro"
+  },
+  {
+    "Unnamed: 0":641,
+    "City":"Campo Grande",
+    "Country":"Brazil",
+    "Population (2024)":934936,
+    "Population (2023)":926095,
+    "Growth Rate":0.0095,
+    "slug":"campo-grande"
+  },
+  {
+    "Unnamed: 0":642,
+    "City":"Malang",
+    "Country":"Indonesia",
+    "Population (2024)":933392,
+    "Population (2023)":919443,
+    "Growth Rate":0.0152,
+    "slug":"malang"
+  },
+  {
+    "Unnamed: 0":643,
+    "City":"Londrina",
+    "Country":"Brazil",
+    "Population (2024)":932892,
+    "Population (2023)":922425,
+    "Growth Rate":0.0113,
+    "slug":"londrina"
+  },
+  {
+    "Unnamed: 0":644,
+    "City":"Dandong",
+    "Country":"China",
+    "Population (2024)":932648,
+    "Population (2023)":917936,
+    "Growth Rate":0.016,
+    "slug":"dandong"
+  },
+  {
+    "Unnamed: 0":645,
+    "City":"San Jose",
+    "Country":"United States",
+    "Population (2024)":932636,
+    "Population (2023)":951934,
+    "Growth Rate":-0.0203,
+    "slug":"san-jose"
+  },
+  {
+    "Unnamed: 0":646,
+    "City":"Changzhi",
+    "Country":"China",
+    "Population (2024)":930620,
+    "Population (2023)":910743,
+    "Growth Rate":0.0218,
+    "slug":"changzhi"
+  },
+  {
+    "Unnamed: 0":647,
+    "City":"Hermosillo",
+    "Country":"Mexico",
+    "Population (2024)":929961,
+    "Population (2023)":915060,
+    "Growth Rate":0.0163,
+    "slug":"hermosillo"
+  },
+  {
+    "Unnamed: 0":648,
+    "City":"Bhiwandi",
+    "Country":"India",
+    "Population (2024)":924670,
+    "Population (2023)":906581,
+    "Growth Rate":0.02,
+    "slug":"bhiwandi"
+  },
+  {
+    "Unnamed: 0":649,
+    "City":"La Plata",
+    "Country":"Argentina",
+    "Population (2024)":923715,
+    "Population (2023)":914036,
+    "Growth Rate":0.0106,
+    "slug":"la-plata"
+  },
+  {
+    "Unnamed: 0":650,
+    "City":"Liverpool",
+    "Country":"United Kingdom",
+    "Population (2024)":922871,
+    "Population (2023)":917032,
+    "Growth Rate":0.0064,
+    "slug":"liverpool"
+  },
+  {
+    "Unnamed: 0":651,
+    "City":"Ashgabat",
+    "Country":"Turkmenistan",
+    "Population (2024)":921601,
+    "Population (2023)":902353,
+    "Growth Rate":0.0213,
+    "slug":"ashgabat"
+  },
+  {
+    "Unnamed: 0":652,
+    "City":"Concepcion",
+    "Country":"Chile",
+    "Population (2024)":920916,
+    "Population (2023)":911862,
+    "Growth Rate":0.0099,
+    "slug":"concepcion"
+  },
+  {
+    "Unnamed: 0":653,
+    "City":"Charlotte",
+    "Country":"United States",
+    "Population (2024)":920325,
+    "Population (2023)":909022,
+    "Growth Rate":0.0124,
+    "slug":"charlotte"
+  },
+  {
+    "Unnamed: 0":654,
+    "City":"Puducherry",
+    "Country":"India",
+    "Population (2024)":919280,
+    "Population (2023)":897983,
+    "Growth Rate":0.0237,
+    "slug":"puducherry"
+  },
+  {
+    "Unnamed: 0":655,
+    "City":"Changde",
+    "Country":"China",
+    "Population (2024)":919026,
+    "Population (2023)":898338,
+    "Growth Rate":0.023,
+    "slug":"changde"
+  },
+  {
+    "Unnamed: 0":656,
+    "City":"Bergamo",
+    "Country":"Italy",
+    "Population (2024)":918675,
+    "Population (2023)":913376,
+    "Growth Rate":0.0058,
+    "slug":"bergamo"
+  },
+  {
+    "Unnamed: 0":657,
+    "City":"Firozabad",
+    "Country":"India",
+    "Population (2024)":918218,
+    "Population (2023)":894388,
+    "Growth Rate":0.0266,
+    "slug":"firozabad"
+  },
+  {
+    "Unnamed: 0":658,
+    "City":"Erbil",
+    "Country":"Iraq",
+    "Population (2024)":917639,
+    "Population (2023)":896716,
+    "Growth Rate":0.0233,
+    "slug":"erbil"
+  },
+  {
+    "Unnamed: 0":659,
+    "City":"Tyumen",
+    "Country":"Russia",
+    "Population (2024)":916862,
+    "Population (2023)":903815,
+    "Growth Rate":0.0144,
+    "slug":"tyumen"
+  },
+  {
+    "Unnamed: 0":660,
+    "City":"Trujillo",
+    "Country":"Peru",
+    "Population (2024)":916632,
+    "Population (2023)":903896,
+    "Growth Rate":0.0141,
+    "slug":"trujillo"
+  },
+  {
+    "Unnamed: 0":661,
+    "City":"Liaoyang",
+    "Country":"China",
+    "Population (2024)":916238,
+    "Population (2023)":900692,
+    "Growth Rate":0.0173,
+    "slug":"liaoyang"
+  },
+  {
+    "Unnamed: 0":662,
+    "City":"Shangqiu",
+    "Country":"China",
+    "Population (2024)":915823,
+    "Population (2023)":895111,
+    "Growth Rate":0.0231,
+    "slug":"shangqiu"
+  },
+  {
+    "Unnamed: 0":663,
+    "City":"Ulsan",
+    "Country":"South Korea",
+    "Population (2024)":914300,
+    "Population (2023)":912734,
+    "Growth Rate":0.0017,
+    "slug":"ulsan"
+  },
+  {
+    "Unnamed: 0":664,
+    "City":"Tuxtla Gutierrez",
+    "Country":"Mexico",
+    "Population (2024)":913075,
+    "Population (2023)":897694,
+    "Growth Rate":0.0171,
+    "slug":"tuxtla-gutierrez"
+  },
+  {
+    "Unnamed: 0":665,
+    "City":"Columbus",
+    "Country":"United States",
+    "Population (2024)":909676,
+    "Population (2023)":908823,
+    "Growth Rate":0.0009,
+    "slug":"columbus"
+  },
+  {
+    "Unnamed: 0":666,
+    "City":"Kuerle",
+    "Country":"China",
+    "Population (2024)":906765,
+    "Population (2023)":875496,
+    "Growth Rate":0.0357,
+    "slug":"kuerle"
+  },
+  {
+    "Unnamed: 0":667,
+    "City":"Soshanguve",
+    "Country":"South Africa",
+    "Population (2024)":905868,
+    "Population (2023)":892254,
+    "Growth Rate":0.0153,
+    "slug":"soshanguve"
+  },
+  {
+    "Unnamed: 0":668,
+    "City":"Xingtai",
+    "Country":"China",
+    "Population (2024)":904070,
+    "Population (2023)":886381,
+    "Growth Rate":0.02,
+    "slug":"xingtai"
+  },
+  {
+    "Unnamed: 0":669,
+    "City":"Culiacan",
+    "Country":"Mexico",
+    "Population (2024)":903910,
+    "Population (2023)":888620,
+    "Growth Rate":0.0172,
+    "slug":"culiacan"
+  },
+  {
+    "Unnamed: 0":670,
+    "City":"Quzhou",
+    "Country":"China",
+    "Population (2024)":902621,
+    "Population (2023)":871457,
+    "Growth Rate":0.0358,
+    "slug":"quzhou"
+  },
+  {
+    "Unnamed: 0":671,
+    "City":"Cherthala",
+    "Country":"India",
+    "Population (2024)":901820,
+    "Population (2023)":870465,
+    "Growth Rate":0.036,
+    "slug":"cherthala"
+  },
+  {
+    "Unnamed: 0":672,
+    "City":"Huangshi",
+    "Country":"China",
+    "Population (2024)":893107,
+    "Population (2023)":876930,
+    "Growth Rate":0.0184,
+    "slug":"huangshi"
+  },
+  {
+    "Unnamed: 0":673,
+    "City":"Fuxin",
+    "Country":"China",
+    "Population (2024)":889767,
+    "Population (2023)":876131,
+    "Growth Rate":0.0156,
+    "slug":"fuxin"
+  },
+  {
+    "Unnamed: 0":674,
+    "City":"Lokoja",
+    "Country":"Nigeria",
+    "Population (2024)":885882,
+    "Population (2023)":839046,
+    "Growth Rate":0.0558,
+    "slug":"lokoja"
+  },
+  {
+    "Unnamed: 0":675,
+    "City":"Hufuf Mubarraz",
+    "Country":"Saudi Arabia",
+    "Population (2024)":884753,
+    "Population (2023)":872438,
+    "Growth Rate":0.0141,
+    "slug":"hufuf-mubarraz"
+  },
+  {
+    "Unnamed: 0":676,
+    "City":"Libreville",
+    "Country":"Gabon",
+    "Population (2024)":883920,
+    "Population (2023)":869773,
+    "Growth Rate":0.0163,
+    "slug":"libreville"
+  },
+  {
+    "Unnamed: 0":677,
+    "City":"Yongzhou",
+    "Country":"China",
+    "Population (2024)":883326,
+    "Population (2023)":860522,
+    "Growth Rate":0.0265,
+    "slug":"yongzhou"
+  },
+  {
+    "Unnamed: 0":678,
+    "City":"Xinghua",
+    "Country":"China",
+    "Population (2024)":882986,
+    "Population (2023)":861978,
+    "Growth Rate":0.0244,
+    "slug":"xinghua"
+  },
+  {
+    "Unnamed: 0":679,
+    "City":"Donetsk",
+    "Country":"Ukraine",
+    "Population (2024)":882209,
+    "Population (2023)":887716,
+    "Growth Rate":-0.0062,
+    "slug":"donetsk"
+  },
+  {
+    "Unnamed: 0":680,
+    "City":"Yibin",
+    "Country":"China",
+    "Population (2024)":881480,
+    "Population (2023)":864910,
+    "Growth Rate":0.0192,
+    "slug":"yibin"
+  },
+  {
+    "Unnamed: 0":681,
+    "City":"Enugu",
+    "Country":"Nigeria",
+    "Population (2024)":875552,
+    "Population (2023)":846560,
+    "Growth Rate":0.0342,
+    "slug":"enugu"
+  },
+  {
+    "Unnamed: 0":682,
+    "City":"Tainan",
+    "Country":"Taiwan",
+    "Population (2024)":875392,
+    "Population (2023)":869625,
+    "Growth Rate":0.0066,
+    "slug":"tainan"
+  },
+  {
+    "Unnamed: 0":683,
+    "City":"Indianapolis (balance)",
+    "Country":"United States",
+    "Population (2024)":874089,
+    "Population (2023)":877355,
+    "Growth Rate":-0.0037,
+    "slug":"indianapolis-balance"
+  },
+  {
+    "Unnamed: 0":684,
+    "City":"Xinyang",
+    "Country":"China",
+    "Population (2024)":873268,
+    "Population (2023)":855191,
+    "Growth Rate":0.0211,
+    "slug":"xinyang"
+  },
+  {
+    "Unnamed: 0":685,
+    "City":"Ipoh",
+    "Country":"Malaysia",
+    "Population (2024)":872424,
+    "Population (2023)":857225,
+    "Growth Rate":0.0177,
+    "slug":"ipoh"
+  },
+  {
+    "Unnamed: 0":686,
+    "City":"Luzhou",
+    "Country":"China",
+    "Population (2024)":870714,
+    "Population (2023)":857683,
+    "Growth Rate":0.0152,
+    "slug":"luzhou"
+  },
+  {
+    "Unnamed: 0":687,
+    "City":"Banghazi",
+    "Country":"Libya",
+    "Population (2024)":870502,
+    "Population (2023)":859209,
+    "Growth Rate":0.0131,
+    "slug":"banghazi"
+  },
+  {
+    "Unnamed: 0":688,
+    "City":"Maiduguri",
+    "Country":"Nigeria",
+    "Population (2024)":870201,
+    "Population (2023)":844747,
+    "Growth Rate":0.0301,
+    "slug":"maiduguri"
+  },
+  {
+    "Unnamed: 0":689,
+    "City":"Yangquan",
+    "Country":"China",
+    "Population (2024)":869585,
+    "Population (2023)":851630,
+    "Growth Rate":0.0211,
+    "slug":"yangquan"
+  },
+  {
+    "Unnamed: 0":690,
+    "City":"Huaihua",
+    "Country":"China",
+    "Population (2024)":869575,
+    "Population (2023)":843754,
+    "Growth Rate":0.0306,
+    "slug":"huaihua"
+  },
+  {
+    "Unnamed: 0":691,
+    "City":"Xiaogan",
+    "Country":"China",
+    "Population (2024)":869479,
+    "Population (2023)":849580,
+    "Growth Rate":0.0234,
+    "slug":"xiaogan"
+  },
+  {
+    "Unnamed: 0":692,
+    "City":"Tianshui",
+    "Country":"China",
+    "Population (2024)":858672,
+    "Population (2023)":837479,
+    "Growth Rate":0.0253,
+    "slug":"tianshui"
+  },
+  {
+    "Unnamed: 0":693,
+    "City":"Bunia",
+    "Country":"DR Congo",
+    "Population (2024)":856339,
+    "Population (2023)":812090,
+    "Growth Rate":0.0545,
+    "slug":"bunia"
+  },
+  {
+    "Unnamed: 0":694,
+    "City":"Bozhou",
+    "Country":"China",
+    "Population (2024)":854946,
+    "Population (2023)":830125,
+    "Growth Rate":0.0299,
+    "slug":"bozhou"
+  },
+  {
+    "Unnamed: 0":695,
+    "City":"Kottayam",
+    "Country":"India",
+    "Population (2024)":853635,
+    "Population (2023)":818628,
+    "Growth Rate":0.0428,
+    "slug":"kottayam"
+  },
+  {
+    "Unnamed: 0":696,
+    "City":"Zhuji",
+    "Country":"China",
+    "Population (2024)":852608,
+    "Population (2023)":834782,
+    "Growth Rate":0.0214,
+    "slug":"zhuji"
+  },
+  {
+    "Unnamed: 0":697,
+    "City":"Kunshan",
+    "Country":"China",
+    "Population (2024)":851399,
+    "Population (2023)":826414,
+    "Growth Rate":0.0302,
+    "slug":"kunshan"
+  },
+  {
+    "Unnamed: 0":698,
+    "City":"Quebec City",
+    "Country":"Canada",
+    "Population (2024)":851061,
+    "Population (2023)":844249,
+    "Growth Rate":0.0081,
+    "slug":"quebec-city"
+  },
+  {
+    "Unnamed: 0":699,
+    "City":"Palermo",
+    "Country":"Italy",
+    "Population (2024)":850233,
+    "Population (2023)":849687,
+    "Growth Rate":0.0006,
+    "slug":"palermo"
+  },
+  {
+    "Unnamed: 0":700,
+    "City":"Winnipeg",
+    "Country":"Canada",
+    "Population (2024)":849251,
+    "Population (2023)":841108,
+    "Growth Rate":0.0097,
+    "slug":"winnipeg"
+  },
+  {
+    "Unnamed: 0":701,
+    "City":"Orumiyeh",
+    "Country":"Iran",
+    "Population (2024)":848443,
+    "Population (2023)":835900,
+    "Growth Rate":0.015,
+    "slug":"orumiyeh"
+  },
+  {
+    "Unnamed: 0":702,
+    "City":"Eskisehir",
+    "Country":"Turkey",
+    "Population (2024)":848002,
+    "Population (2023)":834065,
+    "Growth Rate":0.0167,
+    "slug":"eskisehir"
+  },
+  {
+    "Unnamed: 0":703,
+    "City":"Benguela",
+    "Country":"Angola",
+    "Population (2024)":843207,
+    "Population (2023)":809468,
+    "Growth Rate":0.0417,
+    "slug":"benguela"
+  },
+  {
+    "Unnamed: 0":704,
+    "City":"Jincheng",
+    "Country":"China",
+    "Population (2024)":841928,
+    "Population (2023)":818057,
+    "Growth Rate":0.0292,
+    "slug":"jincheng"
+  },
+  {
+    "Unnamed: 0":705,
+    "City":"Valencia",
+    "Country":"Spain",
+    "Population (2024)":839770,
+    "Population (2023)":838301,
+    "Growth Rate":0.0018,
+    "slug":"valencia"
+  },
+  {
+    "Unnamed: 0":706,
+    "City":"Heze",
+    "Country":"China",
+    "Population (2024)":838928,
+    "Population (2023)":826777,
+    "Growth Rate":0.0147,
+    "slug":"heze"
+  },
+  {
+    "Unnamed: 0":707,
+    "City":"Saratov",
+    "Country":"Russia",
+    "Population (2024)":837687,
+    "Population (2023)":838377,
+    "Growth Rate":-0.0008,
+    "slug":"saratov"
+  },
+  {
+    "Unnamed: 0":708,
+    "City":"Nellore",
+    "Country":"India",
+    "Population (2024)":837660,
+    "Population (2023)":816293,
+    "Growth Rate":0.0262,
+    "slug":"nellore"
+  },
+  {
+    "Unnamed: 0":709,
+    "City":"Huludao",
+    "Country":"China",
+    "Population (2024)":836344,
+    "Population (2023)":821132,
+    "Growth Rate":0.0185,
+    "slug":"huludao"
+  },
+  {
+    "Unnamed: 0":710,
+    "City":"Zanzibar",
+    "Country":"Tanzania",
+    "Population (2024)":835850,
+    "Population (2023)":800010,
+    "Growth Rate":0.0448,
+    "slug":"zanzibar"
+  },
+  {
+    "Unnamed: 0":711,
+    "City":"Barcelona Puerto La Cruz",
+    "Country":"Venezuela",
+    "Population (2024)":835805,
+    "Population (2023)":825581,
+    "Growth Rate":0.0124,
+    "slug":"barcelona-puerto-la-cruz"
+  },
+  {
+    "Unnamed: 0":712,
+    "City":"Bikaner",
+    "Country":"India",
+    "Population (2024)":835802,
+    "Population (2023)":818566,
+    "Growth Rate":0.0211,
+    "slug":"bikaner"
+  },
+  {
+    "Unnamed: 0":713,
+    "City":"Haicheng",
+    "Country":"China",
+    "Population (2024)":834639,
+    "Population (2023)":821192,
+    "Growth Rate":0.0164,
+    "slug":"haicheng"
+  },
+  {
+    "Unnamed: 0":714,
+    "City":"Gebze",
+    "Country":"Turkey",
+    "Population (2024)":831360,
+    "Population (2023)":813394,
+    "Growth Rate":0.0221,
+    "slug":"gebze"
+  },
+  {
+    "Unnamed: 0":715,
+    "City":"Taixing",
+    "Country":"China",
+    "Population (2024)":830623,
+    "Population (2023)":811451,
+    "Growth Rate":0.0236,
+    "slug":"taixing"
+  },
+  {
+    "Unnamed: 0":716,
+    "City":"Liaocheng",
+    "Country":"China",
+    "Population (2024)":830004,
+    "Population (2023)":813369,
+    "Growth Rate":0.0205,
+    "slug":"liaocheng"
+  },
+  {
+    "Unnamed: 0":717,
+    "City":"Zhumadian",
+    "Country":"China",
+    "Population (2024)":829361,
+    "Population (2023)":804537,
+    "Growth Rate":0.0309,
+    "slug":"zhumadian"
+  },
+  {
+    "Unnamed: 0":718,
+    "City":"Newcastle Upon Tyne",
+    "Country":"United Kingdom",
+    "Population (2024)":828712,
+    "Population (2023)":823431,
+    "Growth Rate":0.0064,
+    "slug":"newcastle-upon-tyne"
+  },
+  {
+    "Unnamed: 0":719,
+    "City":"Langfang",
+    "Country":"China",
+    "Population (2024)":827967,
+    "Population (2023)":807833,
+    "Growth Rate":0.0249,
+    "slug":"langfang"
+  },
+  {
+    "Unnamed: 0":720,
+    "City":"Bucheon",
+    "Country":"South Korea",
+    "Population (2024)":826919,
+    "Population (2023)":826981,
+    "Growth Rate":-0.0001,
+    "slug":"bucheon"
+  },
+  {
+    "Unnamed: 0":721,
+    "City":"Sulaimaniya",
+    "Country":"Iraq",
+    "Population (2024)":823199,
+    "Population (2023)":800793,
+    "Growth Rate":0.028,
+    "slug":"sulaimaniya"
+  },
+  {
+    "Unnamed: 0":722,
+    "City":"Xalapa",
+    "Country":"Mexico",
+    "Population (2024)":822863,
+    "Population (2023)":811041,
+    "Growth Rate":0.0146,
+    "slug":"xalapa"
+  },
+  {
+    "Unnamed: 0":723,
+    "City":"Malanje",
+    "Country":"Angola",
+    "Population (2024)":822471,
+    "Population (2023)":783243,
+    "Growth Rate":0.0501,
+    "slug":"malanje"
+  },
+  {
+    "Unnamed: 0":724,
+    "City":"Anqiu",
+    "Country":"China",
+    "Population (2024)":821765,
+    "Population (2023)":791931,
+    "Growth Rate":0.0377,
+    "slug":"anqiu"
+  },
+  {
+    "Unnamed: 0":725,
+    "City":"Sorocaba",
+    "Country":"Brazil",
+    "Population (2024)":821435,
+    "Population (2023)":813320,
+    "Growth Rate":0.01,
+    "slug":"sorocaba"
+  },
+  {
+    "Unnamed: 0":726,
+    "City":"Gaomi",
+    "Country":"China",
+    "Population (2024)":821154,
+    "Population (2023)":797964,
+    "Growth Rate":0.0291,
+    "slug":"gaomi"
+  },
+  {
+    "Unnamed: 0":727,
+    "City":"Dasmarinas",
+    "Country":"Philippines",
+    "Population (2024)":820886,
+    "Population (2023)":802600,
+    "Growth Rate":0.0228,
+    "slug":"dasmarinas"
+  },
+  {
+    "Unnamed: 0":728,
+    "City":"Cagayan De Oro City",
+    "Country":"Philippines",
+    "Population (2024)":820297,
+    "Population (2023)":803194,
+    "Growth Rate":0.0213,
+    "slug":"cagayan-de-oro-city"
+  },
+  {
+    "Unnamed: 0":729,
+    "City":"Hanchuan",
+    "Country":"China",
+    "Population (2024)":818761,
+    "Population (2023)":795835,
+    "Growth Rate":0.0288,
+    "slug":"hanchuan"
+  },
+  {
+    "Unnamed: 0":730,
+    "City":"Meishan",
+    "Country":"China",
+    "Population (2024)":818037,
+    "Population (2023)":796756,
+    "Growth Rate":0.0267,
+    "slug":"meishan"
+  },
+  {
+    "Unnamed: 0":731,
+    "City":"Bologna",
+    "Country":"Italy",
+    "Population (2024)":816848,
+    "Population (2023)":814332,
+    "Growth Rate":0.0031,
+    "slug":"bologna"
+  },
+  {
+    "Unnamed: 0":732,
+    "City":"Ar Rayyan",
+    "Country":"Qatar",
+    "Population (2024)":815869,
+    "Population (2023)":798382,
+    "Growth Rate":0.0219,
+    "slug":"ar-rayyan"
+  },
+  {
+    "Unnamed: 0":733,
+    "City":"Thessaloniki",
+    "Country":"Greece",
+    "Population (2024)":814980,
+    "Population (2023)":814524,
+    "Growth Rate":0.0006,
+    "slug":"thessaloniki"
+  },
+  {
+    "Unnamed: 0":734,
+    "City":"Muzaffarnagar",
+    "Country":"India",
+    "Population (2024)":814491,
+    "Population (2023)":791214,
+    "Growth Rate":0.0294,
+    "slug":"muzaffarnagar"
+  },
+  {
+    "Unnamed: 0":735,
+    "City":"Kayamkulam",
+    "Country":"India",
+    "Population (2024)":813379,
+    "Population (2023)":786192,
+    "Growth Rate":0.0346,
+    "slug":"kayamkulam"
+  },
+  {
+    "Unnamed: 0":736,
+    "City":"Nottingham",
+    "Country":"United Kingdom",
+    "Population (2024)":813078,
+    "Population (2023)":806757,
+    "Growth Rate":0.0078,
+    "slug":"nottingham"
+  },
+  {
+    "Unnamed: 0":737,
+    "City":"Nakhon Ratchasima",
+    "Country":"Thailand",
+    "Population (2024)":811446,
+    "Population (2023)":801853,
+    "Growth Rate":0.012,
+    "slug":"nakhon-ratchasima"
+  },
+  {
+    "Unnamed: 0":738,
+    "City":"Danyang",
+    "Country":"China",
+    "Population (2024)":810450,
+    "Population (2023)":789755,
+    "Growth Rate":0.0262,
+    "slug":"danyang"
+  },
+  {
+    "Unnamed: 0":739,
+    "City":"Ibb",
+    "Country":"Yemen",
+    "Population (2024)":810149,
+    "Population (2023)":771514,
+    "Growth Rate":0.0501,
+    "slug":"ibb"
+  },
+  {
+    "Unnamed: 0":740,
+    "City":"Amravati",
+    "Country":"India",
+    "Population (2024)":808263,
+    "Population (2023)":792620,
+    "Growth Rate":0.0197,
+    "slug":"amravati"
+  },
+  {
+    "Unnamed: 0":741,
+    "City":"Jiaozuo",
+    "Country":"China",
+    "Population (2024)":808079,
+    "Population (2023)":796509,
+    "Growth Rate":0.0145,
+    "slug":"jiaozuo"
+  },
+  {
+    "Unnamed: 0":742,
+    "City":"Vereeniging",
+    "Country":"South Africa",
+    "Population (2024)":802900,
+    "Population (2023)":793927,
+    "Growth Rate":0.0113,
+    "slug":"vereeniging"
+  },
+  {
+    "Unnamed: 0":743,
+    "City":"Gorakhpur",
+    "Country":"India",
+    "Population (2024)":801634,
+    "Population (2023)":788276,
+    "Growth Rate":0.0169,
+    "slug":"gorakhpur"
+  },
+  {
+    "Unnamed: 0":744,
+    "City":"Gaza",
+    "Country":"Palestine",
+    "Population (2024)":800636,
+    "Population (2023)":778187,
+    "Growth Rate":0.0288,
+    "slug":"gaza"
+  },
+  {
+    "Unnamed: 0":745,
+    "City":"Frankfurt",
+    "Country":"Germany",
+    "Population (2024)":800529,
+    "Population (2023)":796437,
+    "Growth Rate":0.0051,
+    "slug":"frankfurt"
+  },
+  {
+    "Unnamed: 0":746,
+    "City":"Anqing",
+    "Country":"China",
+    "Population (2024)":795987,
+    "Population (2023)":779535,
+    "Growth Rate":0.0211,
+    "slug":"anqing"
+  },
+  {
+    "Unnamed: 0":747,
+    "City":"Niigata",
+    "Country":"Japan",
+    "Population (2024)":795916,
+    "Population (2023)":797865,
+    "Growth Rate":-0.0024,
+    "slug":"niigata"
+  },
+  {
+    "Unnamed: 0":748,
+    "City":"Oshogbo",
+    "Country":"Nigeria",
+    "Population (2024)":795808,
+    "Population (2023)":771515,
+    "Growth Rate":0.0315,
+    "slug":"oshogbo"
+  },
+  {
+    "Unnamed: 0":749,
+    "City":"Linhai",
+    "Country":"China",
+    "Population (2024)":795777,
+    "Population (2023)":776076,
+    "Growth Rate":0.0254,
+    "slug":"linhai"
+  },
+  {
+    "Unnamed: 0":750,
+    "City":"Shaoguan",
+    "Country":"China",
+    "Population (2024)":794279,
+    "Population (2023)":784230,
+    "Growth Rate":0.0128,
+    "slug":"shaoguan"
+  },
+  {
+    "Unnamed: 0":751,
+    "City":"Erduosi Ordoss",
+    "Country":"China",
+    "Population (2024)":794143,
+    "Population (2023)":774321,
+    "Growth Rate":0.0256,
+    "slug":"erduosi-ordoss"
+  },
+  {
+    "Unnamed: 0":752,
+    "City":"Merca",
+    "Country":"Somalia",
+    "Population (2024)":793545,
+    "Population (2023)":760129,
+    "Growth Rate":0.044,
+    "slug":"merca"
+  },
+  {
+    "Unnamed: 0":753,
+    "City":"Bur Sa'id",
+    "Country":"Egypt",
+    "Population (2024)":792925,
+    "Population (2023)":778280,
+    "Growth Rate":0.0188,
+    "slug":"bur-sa-id"
+  },
+  {
+    "Unnamed: 0":754,
+    "City":"Kitwe",
+    "Country":"Zambia",
+    "Population (2024)":792350,
+    "Population (2023)":762981,
+    "Growth Rate":0.0385,
+    "slug":"kitwe"
+  },
+  {
+    "Unnamed: 0":755,
+    "City":"Yan'an",
+    "Country":"China",
+    "Population (2024)":791839,
+    "Population (2023)":767188,
+    "Growth Rate":0.0321,
+    "slug":"yan-an"
+  },
+  {
+    "Unnamed: 0":756,
+    "City":"Cuttack",
+    "Country":"India",
+    "Population (2024)":789558,
+    "Population (2023)":775559,
+    "Growth Rate":0.0181,
+    "slug":"cuttack"
+  },
+  {
+    "Unnamed: 0":757,
+    "City":"Hamilton",
+    "Country":"Canada",
+    "Population (2024)":786843,
+    "Population (2023)":781047,
+    "Growth Rate":0.0074,
+    "slug":"hamilton"
+  },
+  {
+    "Unnamed: 0":758,
+    "City":"Zaria",
+    "Country":"Nigeria",
+    "Population (2024)":786197,
+    "Population (2023)":766007,
+    "Growth Rate":0.0264,
+    "slug":"zaria"
+  },
+  {
+    "Unnamed: 0":759,
+    "City":"Banjarmasin",
+    "Country":"Indonesia",
+    "Population (2024)":785125,
+    "Population (2023)":770959,
+    "Growth Rate":0.0184,
+    "slug":"banjarmasin"
+  },
+  {
+    "Unnamed: 0":760,
+    "City":"Dengzhou",
+    "Country":"China",
+    "Population (2024)":783041,
+    "Population (2023)":759150,
+    "Growth Rate":0.0315,
+    "slug":"dengzhou"
+  },
+  {
+    "Unnamed: 0":761,
+    "City":"Belgaum",
+    "Country":"India",
+    "Population (2024)":783020,
+    "Population (2023)":767161,
+    "Growth Rate":0.0207,
+    "slug":"belgaum"
+  },
+  {
+    "Unnamed: 0":762,
+    "City":"Malegaon",
+    "Country":"India",
+    "Population (2024)":781925,
+    "Population (2023)":764628,
+    "Growth Rate":0.0226,
+    "slug":"malegaon"
+  },
+  {
+    "Unnamed: 0":763,
+    "City":"Goma",
+    "Country":"DR Congo",
+    "Population (2024)":781875,
+    "Population (2023)":744247,
+    "Growth Rate":0.0506,
+    "slug":"goma"
+  },
+  {
+    "Unnamed: 0":764,
+    "City":"Zigong",
+    "Country":"China",
+    "Population (2024)":779684,
+    "Population (2023)":768075,
+    "Growth Rate":0.0151,
+    "slug":"zigong"
+  },
+  {
+    "Unnamed: 0":765,
+    "City":"Qingyuan",
+    "Country":"China",
+    "Population (2024)":778628,
+    "Population (2023)":766782,
+    "Growth Rate":0.0154,
+    "slug":"qingyuan"
+  },
+  {
+    "Unnamed: 0":766,
+    "City":"Yuncheng",
+    "Country":"China",
+    "Population (2024)":777193,
+    "Population (2023)":754711,
+    "Growth Rate":0.0298,
+    "slug":"yuncheng"
+  },
+  {
+    "Unnamed: 0":767,
+    "City":"Shaoyang",
+    "Country":"China",
+    "Population (2024)":776404,
+    "Population (2023)":761169,
+    "Growth Rate":0.02,
+    "slug":"shaoyang"
+  },
+  {
+    "Unnamed: 0":768,
+    "City":"Yanji",
+    "Country":"China",
+    "Population (2024)":775672,
+    "Population (2023)":757224,
+    "Growth Rate":0.0244,
+    "slug":"yanji"
+  },
+  {
+    "Unnamed: 0":769,
+    "City":"Tirupati",
+    "Country":"India",
+    "Population (2024)":775455,
+    "Population (2023)":752744,
+    "Growth Rate":0.0302,
+    "slug":"tirupati"
+  },
+  {
+    "Unnamed: 0":770,
+    "City":"Maturin",
+    "Country":"Venezuela",
+    "Population (2024)":775097,
+    "Population (2023)":758185,
+    "Growth Rate":0.0223,
+    "slug":"maturin"
+  },
+  {
+    "Unnamed: 0":771,
+    "City":"Yuxi",
+    "Country":"China",
+    "Population (2024)":774356,
+    "Population (2023)":750102,
+    "Growth Rate":0.0323,
+    "slug":"yuxi"
+  },
+  {
+    "Unnamed: 0":772,
+    "City":"Akure",
+    "Country":"Nigeria",
+    "Population (2024)":773141,
+    "Population (2023)":744371,
+    "Growth Rate":0.0387,
+    "slug":"akure"
+  },
+  {
+    "Unnamed: 0":773,
+    "City":"Tongliao",
+    "Country":"China",
+    "Population (2024)":772756,
+    "Population (2023)":756158,
+    "Growth Rate":0.022,
+    "slug":"tongliao"
+  },
+  {
+    "Unnamed: 0":774,
+    "City":"Sialkot",
+    "Country":"Pakistan",
+    "Population (2024)":770962,
+    "Population (2023)":753325,
+    "Growth Rate":0.0234,
+    "slug":"sialkot"
+  },
+  {
+    "Unnamed: 0":775,
+    "City":"Tongling",
+    "Country":"China",
+    "Population (2024)":770032,
+    "Population (2023)":752916,
+    "Growth Rate":0.0227,
+    "slug":"tongling"
+  },
+  {
+    "Unnamed: 0":776,
+    "City":"Krakow",
+    "Country":"Poland",
+    "Population (2024)":769396,
+    "Population (2023)":769417,
+    "Growth Rate":0.0,
+    "slug":"krakow"
+  },
+  {
+    "Unnamed: 0":777,
+    "City":"Ansan",
+    "Country":"South Korea",
+    "Population (2024)":768822,
+    "Population (2023)":766703,
+    "Growth Rate":0.0028,
+    "slug":"ansan"
+  },
+  {
+    "Unnamed: 0":778,
+    "City":"Wuzhou",
+    "Country":"China",
+    "Population (2024)":768512,
+    "Population (2023)":751679,
+    "Growth Rate":0.0224,
+    "slug":"wuzhou"
+  },
+  {
+    "Unnamed: 0":779,
+    "City":"Dazhou",
+    "Country":"China",
+    "Population (2024)":767532,
+    "Population (2023)":748257,
+    "Growth Rate":0.0258,
+    "slug":"dazhou"
+  },
+  {
+    "Unnamed: 0":780,
+    "City":"Suining Sichuan",
+    "Country":"China",
+    "Population (2024)":765887,
+    "Population (2023)":750097,
+    "Growth Rate":0.0211,
+    "slug":"suining-sichuan"
+  },
+  {
+    "Unnamed: 0":781,
+    "City":"Mangalore",
+    "Country":"India",
+    "Population (2024)":763312,
+    "Population (2023)":749073,
+    "Growth Rate":0.019,
+    "slug":"mangalore"
+  },
+  {
+    "Unnamed: 0":782,
+    "City":"Jiamusi",
+    "Country":"China",
+    "Population (2024)":761903,
+    "Population (2023)":749763,
+    "Growth Rate":0.0162,
+    "slug":"jiamusi"
+  },
+  {
+    "Unnamed: 0":783,
+    "City":"Al Hudaydah",
+    "Country":"Yemen",
+    "Population (2024)":759157,
+    "Population (2023)":734699,
+    "Growth Rate":0.0333,
+    "slug":"al-hudaydah"
+  },
+  {
+    "Unnamed: 0":784,
+    "City":"Seattle",
+    "Country":"United States",
+    "Population (2024)":757992,
+    "Population (2023)":753624,
+    "Growth Rate":0.0058,
+    "slug":"seattle"
+  },
+  {
+    "Unnamed: 0":785,
+    "City":"Sargodha",
+    "Country":"Pakistan",
+    "Population (2024)":757915,
+    "Population (2023)":741818,
+    "Growth Rate":0.0217,
+    "slug":"sargodha"
+  },
+  {
+    "Unnamed: 0":786,
+    "City":"Nay Pyi Taw",
+    "Country":"Myanmar",
+    "Population (2024)":757823,
+    "Population (2023)":722836,
+    "Growth Rate":0.0484,
+    "slug":"nay-pyi-taw"
+  },
+  {
+    "Unnamed: 0":787,
+    "City":"Tamale",
+    "Country":"Ghana",
+    "Population (2024)":757506,
+    "Population (2023)":729768,
+    "Growth Rate":0.038,
+    "slug":"tamale"
+  },
+  {
+    "Unnamed: 0":788,
+    "City":"Sao Jose Dos Campos",
+    "Country":"Brazil",
+    "Population (2024)":757137,
+    "Population (2023)":749188,
+    "Growth Rate":0.0106,
+    "slug":"sao-jose-dos-campos"
+  },
+  {
+    "Unnamed: 0":789,
+    "City":"Bacoor",
+    "Country":"Philippines",
+    "Population (2024)":757035,
+    "Population (2023)":739682,
+    "Growth Rate":0.0235,
+    "slug":"bacoor"
+  },
+  {
+    "Unnamed: 0":790,
+    "City":"Dongtai",
+    "Country":"China",
+    "Population (2024)":756344,
+    "Population (2023)":738200,
+    "Growth Rate":0.0246,
+    "slug":"dongtai"
+  },
+  {
+    "Unnamed: 0":791,
+    "City":"Zhangjiagang",
+    "Country":"China",
+    "Population (2024)":755752,
+    "Population (2023)":733810,
+    "Growth Rate":0.0299,
+    "slug":"zhangjiagang"
+  },
+  {
+    "Unnamed: 0":792,
+    "City":"Nanded Waghala",
+    "Country":"India",
+    "Population (2024)":755577,
+    "Population (2023)":738552,
+    "Growth Rate":0.0231,
+    "slug":"nanded-waghala"
+  },
+  {
+    "Unnamed: 0":793,
+    "City":"Xianyang Shaanxi",
+    "Country":"China",
+    "Population (2024)":754446,
+    "Population (2023)":743491,
+    "Growth Rate":0.0147,
+    "slug":"xianyang-shaanxi"
+  },
+  {
+    "Unnamed: 0":794,
+    "City":"Amara",
+    "Country":"Iraq",
+    "Population (2024)":753708,
+    "Population (2023)":729276,
+    "Growth Rate":0.0335,
+    "slug":"amara"
+  },
+  {
+    "Unnamed: 0":795,
+    "City":"Zarqa",
+    "Country":"Jordan",
+    "Population (2024)":753392,
+    "Population (2023)":748428,
+    "Growth Rate":0.0066,
+    "slug":"zarqa"
+  },
+  {
+    "Unnamed: 0":796,
+    "City":"Bhavnagar",
+    "Country":"India",
+    "Population (2024)":751493,
+    "Population (2023)":737128,
+    "Growth Rate":0.0195,
+    "slug":"bhavnagar"
+  },
+  {
+    "Unnamed: 0":797,
+    "City":"Sheffield",
+    "Country":"United Kingdom",
+    "Population (2024)":751303,
+    "Population (2023)":745876,
+    "Growth Rate":0.0073,
+    "slug":"sheffield"
+  },
+  {
+    "Unnamed: 0":798,
+    "City":"Huambo",
+    "Country":"Angola",
+    "Population (2024)":751297,
+    "Population (2023)":727641,
+    "Growth Rate":0.0325,
+    "slug":"huambo"
+  },
+  {
+    "Unnamed: 0":799,
+    "City":"Ribeirao Preto",
+    "Country":"Brazil",
+    "Population (2024)":750174,
+    "Population (2023)":742115,
+    "Growth Rate":0.0109,
+    "slug":"ribeirao-preto"
+  },
+  {
+    "Unnamed: 0":800,
+    "City":"Panzhihua",
+    "Country":"China",
+    "Population (2024)":750036,
+    "Population (2023)":738495,
+    "Growth Rate":0.0156,
+    "slug":"panzhihua"
+  }
+]

@@ -1,7 +1,9 @@
 
 
 /yard/
-/scripts/
+/scripts/*
+!/scripts/enrich_major_cities.py
+!/scripts/enrich_postaux.py
 /migrations/
 /data-not-enriched/
 /venv/

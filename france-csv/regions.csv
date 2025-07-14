@@ -1,0 +1,27 @@
+code,chefLieu,nom,typeLiaison,zone,latitude,longitude,slug
+1,97105,Guadeloupe,3,drom,16.00019013108165,-61.72845047449802,guadeloupe
+2,97209,Martinique,3,drom,14.64057888275025,-61.06895413174872,martinique
+3,97302,Guyane,3,drom,4.93398049674308,-52.316744466324465,guyane
+4,97411,La Réunion,0,drom,-20.932922387443433,55.44696968693101,la-reunion
+6,97611,Mayotte,0,drom,-12.790322075934364,45.19484670241379,mayotte
+11,75056,Île-de-France,1,metro,48.85662219553845,2.342876430194027,ile-de-france
+24,45234,Centre-Val de Loire,2,metro,47.88225457428035,1.9166060865850492,centre-val-de-loire
+27,21231,Bourgogne-Franche-Comté,0,metro,47.32285164788028,5.037525259179914,bourgogne-franche-comte
+28,76540,Normandie,0,metro,49.44149359409315,1.093483744737534,normandie
+32,59350,Hauts-de-France,4,metro,50.63184422624786,3.047001403367827,hauts-de-france
+44,67482,Grand Est,2,metro,48.571237835890315,7.76774302583265,grand-est
+52,44109,Pays de la Loire,4,metro,47.232007806068935,-1.548182418851069,pays-de-la-loire
+53,35238,Bretagne,0,metro,48.11167721645947,-1.681854675069338,bretagne
+75,33063,Nouvelle-Aquitaine,3,metro,44.85753607622351,-0.573444148760974,nouvelle-aquitaine
+76,31555,Occitanie,1,metro,43.596012824333386,1.432101611424765,occitanie
+84,69123,Auvergne-Rhône-Alpes,1,metro,45.75493040864208,4.83634986919838,auvergne-rhone-alpes
+93,13055,Provence-Alpes-Côte d'Azur,0,metro,43.29239976270309,5.419087615426763,provence-alpes-cote-d-azur
+94,2A004,Corse,0,metro,41.93471503964258,8.700715575393874,corse
+975,97502,Saint-Pierre-et-Miquelon,0,com,46.8374544,-56.2120555,saint-pierre-et-miquelon
+977,97701,Saint-Barthélemy,0,com,17.8967693,-62.825598,saint-barthelemy
+978,97801,Saint-Martin,0,com,18.0814066,-63.0467131,saint-martin
+984,97502,Terres australes et antarctiques françaises,0,com,-49.237442,69.622759,terres-australes-et-antarctiques-francaises
+986,98613,Wallis et Futuna,0,com,-13.289402,-176.204224,wallis-et-futuna
+987,98735,Polynésie française,0,com,-17.0243749,-144.6434898,polynesie-francaise
+988,98818,Nouvelle-Calédonie,0,com,-21.3019905,165.4880773,nouvelle-caledonie
+989,98901,Île de Clipperton,0,com,10.3021287,-109.217835,ile-de-clipperton
