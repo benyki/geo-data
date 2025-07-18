@@ -5,6 +5,7 @@
 !/scripts/enrich_major_cities.py
 !/scripts/enrich_postaux.py
 !/scripts/check_duplicates.py
+!/scripts/sort_az.py
 /migrations/
 /data-not-enriched/
 /venv/
