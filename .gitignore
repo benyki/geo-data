@@ -6,6 +6,7 @@
 !/scripts/enrich_postaux.py
 !/scripts/check_duplicates.py
 !/scripts/sort_az.py
+!/scripts/get_lat_long.py
 /migrations/
 /data-not-enriched/
 /venv/
