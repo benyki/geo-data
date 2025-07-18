@@ -1,8 +1,5 @@
 # Open Geo Datasets
 
-![GitHub forks](https://img.shields.io/github/forks/benbarber/open-geo-data?style=social)
-![GitHub stars](https://img.shields.io/github/stars/benbarber/open-geo-data?style=social)
-
 A collection of curated and enriched geographical datasets for France and the World, ready for your next project.
 
 This repository provides clean, easy-to-use geographical data in both CSV and JSON formats. The datasets have been sourced from official government platforms and reputable open-data providers, then cleaned and enriched with useful information like coordinates and URL-friendly slugs.
@@ -43,16 +40,13 @@ Official geographical data for France, located in `france-csv/` and `france-json
 | `regions.csv`          | CSV version of the regions dataset.                                       | CSV         |
 | ...                    | (and so on for all France files in CSV format)                            | CSV         |
 
-## ✨ Data Enrichment
-
-Some datasets have been enriched using the [OpenStreetMap Nominatim API](https://nominatim.openstreetmap.org/).
-
-
 ## Data Sources
 
 *   **French Geographical Data:** [data.gouv.fr](https://www.data.gouv.fr/), the official French open data platform.
 *   **World Cities, States, and Countries:** Sourced from multiple open datasets, including one from mexwell on Kaggle.
-*   **Country Emojis:** Sourced from Google's public repositories.
+*   **Countries:** Sourced from Google's public repositories.
+
+Some datasets have been enriched using the [OpenStreetMap Nominatim API](https://nominatim.openstreetmap.org/).
 
 ## Contributing
 

@@ -32,55 +32,8 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 3893,Takhar,1,AF,Afghanistan,TAK,,36.6698013,69.4784541,takhar
 3898,Urozgan,1,AF,Afghanistan,URU,,32.9271287,66.1415263,urozgan
 3874,Zabul,1,AF,Afghanistan,ZAB,,32.1918782,67.1894488,zabul
-603,Berat County,3,AL,Albania,01,,40.6953012,20.0449662,berat-county
-629,Berat District,3,AL,Albania,BR,,40.7086377,19.9437314,berat-district
-607,Bulqizë District,3,AL,Albania,BU,,41.4942587,20.2147157,bulqize-district
-618,Delvinë District,3,AL,Albania,DL,,39.9481364,20.0955891,delvine-district
-608,Devoll District,3,AL,Albania,DV,,40.6447347,20.9506636,devoll-district
-610,Dibër County,3,AL,Albania,09,,41.5888163,20.2355647,diber-county
-605,Dibër District,3,AL,Albania,DI,,41.5888163,20.2355647,diber-district
-632,Durrës County,3,AL,Albania,02,,41.5080972,19.6163185,durres-county
-639,Durrës District,3,AL,Albania,DR,,41.3706517,19.5211063,durres-district
-598,Elbasan County,3,AL,Albania,03,,41.1266672,20.2355647,elbasan-county
-631,Fier County,3,AL,Albania,04,,40.9191392,19.6639309,fier-county
-627,Fier District,3,AL,Albania,FR,,40.727504,19.5627596,fier-district
-604,Gjirokastër County,3,AL,Albania,05,,40.0672874,20.1045229,gjirokaster-county
-621,Gjirokastër District,3,AL,Albania,GJ,,40.0672874,20.1045229,gjirokaster-district
-617,Gramsh District,3,AL,Albania,GR,,40.8669873,20.1849323,gramsh-district
-600,Has District,3,AL,Albania,HA,,42.7901336,-83.6122012,has-district
-594,Kavajë District,3,AL,Albania,KA,,41.1844529,19.5627596,kavaje-district
-628,Kolonjë District,3,AL,Albania,ER,,40.3373262,20.6794676,kolonje-district
-630,Korçë County,3,AL,Albania,06,,40.590567,20.6168921,korce-county
-597,Korçë District,3,AL,Albania,KO,,40.590567,20.6168921,korce-district
-614,Krujë District,3,AL,Albania,KR,,41.5094765,19.7710732,kruje-district
-612,Kuçovë District,3,AL,Albania,KC,,40.7837063,19.8782348,kucove-district
-601,Kukës County,3,AL,Albania,07,,42.0807464,20.4142923,kukes-county
-623,Kukës District,3,AL,Albania,KU,,42.0807464,20.4142923,kukes-district
-622,Kurbin District,3,AL,Albania,KB,,41.6412644,19.705595,kurbin-district
-609,Lezhë County,3,AL,Albania,08,,41.7813759,19.8067916,lezhe-county
-595,Lezhë District,3,AL,Albania,LE,,41.786073,19.6460758,lezhe-district
-596,Librazhd District,3,AL,Albania,LB,,41.1829232,20.3174769,librazhd-district
-599,Lushnjë District,3,AL,Albania,LU,,40.941983,19.6996428,lushnje-district
-602,Malësi e Madhe District,3,AL,Albania,MM,,42.4245173,19.6163185,malesi-e-madhe-district
-637,Mallakastër District,3,AL,Albania,MK,,40.5273376,19.7829791,mallakaster-district
-635,Mat District,3,AL,Albania,MT,,41.5937675,19.9973244,mat-district
-638,Mirditë District,3,AL,Albania,MR,,41.764286,19.9020509,mirdite-district
-619,Peqin District,3,AL,Albania,PQ,,41.0470902,19.7502384,peqin-district
-625,Përmet District,3,AL,Albania,PR,,40.2361837,20.3517334,permet-district
-606,Pogradec District,3,AL,Albania,PG,,40.9015314,20.6556289,pogradec-district
-620,Pukë District,3,AL,Albania,PU,,42.0469772,19.8960968,puke-district
-624,Sarandë District,3,AL,Albania,SR,,39.8592119,20.0271001,sarande-district
-611,Shkodër County,3,AL,Albania,10,,42.150371,19.6639309,shkoder-county
-626,Shkodër District,3,AL,Albania,SH,,42.0692985,19.5032559,shkoder-district
-593,Skrapar District,3,AL,Albania,SK,,40.5349946,20.2832217,skrapar-district
-616,Tepelenë District,3,AL,Albania,TE,,40.2966632,20.0181673,tepelene-district
-615,Tirana County,3,AL,Albania,11,,41.2427598,19.8067916,tirana-county
-633,Tirana District,3,AL,Albania,TR,,41.3275459,19.8186982,tirana-district
-636,Tropojë District,3,AL,Albania,TP,,42.3982151,20.1625955,tropoje-district
-634,Vlorë County,3,AL,Albania,12,,40.150096,19.8067916,vlore-county
-613,Vlorë District,3,AL,Albania,VL,,40.4660668,19.491356,vlore-district
-1118,Adrar,4,DZ,Algeria,01,,26.418131,-0.6014717,adrar
-1119,Aïn Defla,4,DZ,Algeria,44,,36.2509429,1.9393815,ain-defla
+1118,Adrar,4,DZ,Algeria,01,,26.418131,-0.6014716999999999,adrar
+1119,Aïn Defla,4,DZ,Algeria,44,,36.2509429,1.9393814999999999,ain-defla
 1122,Aïn Témouchent,4,DZ,Algeria,46,,35.2992698,-1.1392792,ain-temouchent
 1144,Algiers,4,DZ,Algeria,16,,36.6997294,3.0576199,algiers
 1103,Annaba,4,DZ,Algeria,23,,36.8020508,7.5247243,annaba
@@ -98,7 +51,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 1121,Constantine,4,DZ,Algeria,25,,36.3373911,6.663812,constantine
 4912,Djanet,4,DZ,Algeria,56,,23.8310872,8.7004672,djanet
 1098,Djelfa,4,DZ,Algeria,17,,34.6703956,3.2503761,djelfa
-1129,El Bayadh,4,DZ,Algeria,32,,32.7148824,0.9056623,el-bayadh
+1129,El Bayadh,4,DZ,Algeria,32,,32.7148824,0.9056622999999999,el-bayadh
 4905,El M'ghair,4,DZ,Algeria,49,,33.9540561,5.1346418,el-m-ghair
 4906,El Menia,4,DZ,Algeria,50,,31.364225,2.5784495,el-menia
 1099,El Oued,4,DZ,Algeria,39,,33.367811,6.8516511,el-oued
@@ -115,13 +68,13 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 1124,Mascara,4,DZ,Algeria,29,,35.3904125,0.1494988,mascara
 1109,Médéa,4,DZ,Algeria,26,,36.2637078,2.7587857,medea
 1132,Mila,4,DZ,Algeria,43,,36.3647957,6.1526985,mila
-1140,Mostaganem,4,DZ,Algeria,27,,35.9583054,0.3371889,mostaganem
+1140,Mostaganem,4,DZ,Algeria,27,,35.9583054,0.33718889999999996,mostaganem
 1102,Naama,4,DZ,Algeria,45,,33.2667317,-0.3128659,naama
 1101,Oran,4,DZ,Algeria,31,,35.6082351,-0.563609,oran
 1139,Ouargla,4,DZ,Algeria,30,,32.2264863,5.7299821,ouargla
 4907,Ouled Djellal,4,DZ,Algeria,51,,34.4178221,4.9685843,ouled-djellal
 1136,Oum El Bouaghi,4,DZ,Algeria,04,,35.8688789,7.1108266,oum-el-bouaghi
-1130,Relizane,4,DZ,Algeria,48,,35.7383405,0.7532809,relizane
+1130,Relizane,4,DZ,Algeria,48,,35.7383405,0.7532808999999999,relizane
 1123,Saïda,4,DZ,Algeria,20,,34.8415207,0.1456055,saida
 1141,Sétif,4,DZ,Algeria,19,,36.3073389,5.5617279,setif
 4902,Sidi Bel Abbès,4,DZ,Algeria,22,,34.6806024,-1.0999495,sidi-bel-abbes
@@ -129,16 +82,16 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 1143,Souk Ahras,4,DZ,Algeria,41,,36.2801062,7.9384033,souk-ahras
 1135,Tamanghasset,4,DZ,Algeria,11,,22.7902972,5.5193268,tamanghasset
 1117,Tébessa,4,DZ,Algeria,12,,35.1290691,7.9592863,tebessa
-1106,Tiaret,4,DZ,Algeria,14,,35.3708689,1.3217852,tiaret
-4910,Timimoun,4,DZ,Algeria,54,,29.678906,0.5004608,timimoun
+1106,Tiaret,4,DZ,Algeria,14,,35.3708689,1.3217851999999999,tiaret
+4910,Timimoun,4,DZ,Algeria,54,,29.678906,0.5004607999999999,timimoun
 1120,Tindouf,4,DZ,Algeria,37,,27.8063119,-5.7299821,tindouf
 1115,Tipasa,4,DZ,Algeria,42,,36.546265,2.1843285,tipasa
-1133,Tissemsilt,4,DZ,Algeria,38,,35.6053781,1.813098,tissemsilt
+1133,Tissemsilt,4,DZ,Algeria,38,,35.6053781,1.8130979999999999,tissemsilt
 1131,Tizi Ouzou,4,DZ,Algeria,15,,36.706911,4.2333355,tizi-ouzou
-1107,Tlemcen,4,DZ,Algeria,13,,34.6780284,-1.366216,tlemcen
+1107,Tlemcen,4,DZ,Algeria,13,,34.6780284,-1.3662159999999999,tlemcen
 4911,Touggourt,4,DZ,Algeria,55,,33.1248476,5.7832715,touggourt
 488,Andorra la Vella,6,AD,Andorra,07,,42.5063174,1.5218355,andorra-la-vella
-489,Canillo,6,AD,Andorra,02,,42.5978249,1.6566377,canillo
+489,Canillo,6,AD,Andorra,02,,42.5978249,1.6566376999999999,canillo
 487,Encamp,6,AD,Andorra,03,,42.5359764,1.5836773,encamp
 492,Escaldes-Engordany,6,AD,Andorra,08,,42.4909379,1.5886966,escaldes-engordany
 493,La Massana,6,AD,Andorra,04,,42.545625,1.5147392,la-massana
@@ -191,10 +144,10 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 3649,Santa Cruz,11,AR,Argentina,Z,province,-51.6352821,-69.2474353,santa-cruz
 3641,Santa Fe,11,AR,Argentina,S,province,-31.5855109,-60.7238016,santa-fe
 3635,Santiago del Estero,11,AR,Argentina,G,province,-27.7833574,-64.264167,santiago-del-estero
-3650,Tierra del Fuego,11,AR,Argentina,V,province,-54.8053998,-68.3242061,tierra-del-fuego
+3650,Tierra del Fuego,11,AR,Argentina,V,province,-54.805399799999996,-68.3242061,tierra-del-fuego
 3637,Tucumán,11,AR,Argentina,T,province,-26.8221127,-65.2192903,tucuman
 2023,Aragatsotn Region,12,AM,Armenia,AG,,40.3347301,44.3748296,aragatsotn-region
-2024,Ararat Province,12,AM,Armenia,AR,,39.9139415,44.7200004,ararat-province
+2024,Ararat Province,12,AM,Armenia,AR,,39.9139415,44.720000399999996,ararat-province
 2026,Armavir Region,12,AM,Armenia,AV,,40.1554631,44.0372446,armavir-region
 2028,Gegharkunik Province,12,AM,Armenia,GR,,40.3526426,45.1260414,gegharkunik-province
 2033,Kotayk Region,12,AM,Armenia,KT,,40.5410214,44.7690148,kotayk-region
@@ -301,76 +254,14 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 1995,Muharraq,18,BH,Bahrain,15,,26.2685653,50.6482517,muharraq
 1994,Northern,18,BH,Bahrain,17,,26.1551914,50.4825173,northern
 1993,Southern,18,BH,Bahrain,14,,25.9381018,50.5756887,southern
-796,Bagerhat District,19,BD,Bangladesh,05,district,22.6602436,89.7895478,bagerhat-district
-802,Bahadia,19,BD,Bangladesh,33,,23.7898712,90.1671483,bahadia
-752,Bandarban District,19,BD,Bangladesh,01,district,21.8311002,92.3686321,bandarban-district
-784,Barguna District,19,BD,Bangladesh,02,district,22.0952915,90.1120696,barguna-district
-818,Barisal District,19,BD,Bangladesh,06,district,22.7022098,90.3696316,barisal-district
 807,Barisal Division,19,BD,Bangladesh,A,division,22.3811131,90.3371889,barisal-division
-756,Bhola District,19,BD,Bangladesh,07,district,22.1785315,90.7101023,bhola-district
-797,Bogra District,19,BD,Bangladesh,03,district,24.8510402,89.3697225,bogra-district
-810,Brahmanbaria District,19,BD,Bangladesh,04,district,23.9608181,91.1115014,brahmanbaria-district
-768,Chandpur District,19,BD,Bangladesh,09,district,23.2513148,90.8517846,chandpur-district
-761,Chapai Nawabganj District,19,BD,Bangladesh,45,district,24.7413111,88.2912069,chapai-nawabganj-district
-785,Chittagong District,19,BD,Bangladesh,10,district,22.5150105,91.7538817,chittagong-district
 803,Chittagong Division,19,BD,Bangladesh,B,division,23.1793157,91.9881527,chittagong-division
-788,Chuadanga District,19,BD,Bangladesh,12,district,23.6160512,88.8263006,chuadanga-district
-763,Comilla District,19,BD,Bangladesh,08,district,23.4575667,91.1808996,comilla-district
-751,Cox's Bazar District,19,BD,Bangladesh,11,district,21.5640626,92.0282129,cox-s-bazar-district
-771,Dhaka District,19,BD,Bangladesh,13,district,23.810514,90.3371889,dhaka-district
 760,Dhaka Division,19,BD,Bangladesh,C,division,23.9535742,90.1494988,dhaka-division
-783,Dinajpur District,19,BD,Bangladesh,14,district,25.6279123,88.6331758,dinajpur-district
-762,Faridpur District,19,BD,Bangladesh,15,district,23.5423919,89.6308921,faridpur-district
-816,Feni District,19,BD,Bangladesh,16,district,22.9408784,91.4066646,feni-district
-795,Gaibandha District,19,BD,Bangladesh,19,district,25.3296928,89.5429652,gaibandha-district
-798,Gazipur District,19,BD,Bangladesh,18,district,24.0958171,90.4125181,gazipur-district
-792,Gopalganj District,19,BD,Bangladesh,17,district,26.4831584,84.43655,gopalganj-district
-805,Habiganj District,19,BD,Bangladesh,20,district,24.4771236,91.4506565,habiganj-district
-808,Jamalpur District,19,BD,Bangladesh,21,district,25.0830926,89.7853218,jamalpur-district
-757,Jessore District,19,BD,Bangladesh,22,district,23.1634014,89.2181664,jessore-district
-778,Jhalokati District,19,BD,Bangladesh,25,district,22.57208,90.1869644,jhalokati-district
-789,Jhenaidah District,19,BD,Bangladesh,23,district,23.5449873,89.1726031,jhenaidah-district
-806,Joypurhat District,19,BD,Bangladesh,24,district,25.0947349,89.0944937,joypurhat-district
-786,Khagrachari District,19,BD,Bangladesh,29,district,23.1321751,91.949021,khagrachari-district
-811,Khulna District,19,BD,Bangladesh,27,district,22.6737735,89.3966581,khulna-district
 775,Khulna Division,19,BD,Bangladesh,D,division,22.8087816,89.2467191,khulna-division
-779,Kishoreganj District,19,BD,Bangladesh,26,district,24.4260457,90.9820668,kishoreganj-district
-793,Kurigram District,19,BD,Bangladesh,28,district,25.8072414,89.6294746,kurigram-district
-774,Kushtia District,19,BD,Bangladesh,30,district,23.8906995,89.1099368,kushtia-district
-819,Lakshmipur District,19,BD,Bangladesh,31,district,22.9446744,90.8281907,lakshmipur-district
-780,Lalmonirhat District,19,BD,Bangladesh,32,district,25.9923398,89.2847251,lalmonirhat-district
-817,Madaripur District,19,BD,Bangladesh,36,district,23.2393346,90.1869644,madaripur-district
-776,Meherpur District,19,BD,Bangladesh,39,district,23.8051991,88.6723578,meherpur-district
-794,Moulvibazar District,19,BD,Bangladesh,38,district,24.3095344,91.7314903,moulvibazar-district
-790,Munshiganj District,19,BD,Bangladesh,35,district,23.4980931,90.4126621,munshiganj-district
-766,Mymensingh District,19,BD,Bangladesh,34,district,24.7538575,90.4072919,mymensingh-district
 758,Mymensingh Division,19,BD,Bangladesh,H,division,24.71362,90.4502368,mymensingh-division
-814,Naogaon District,19,BD,Bangladesh,48,district,24.9131597,88.7530952,naogaon-district
-769,Narail District,19,BD,Bangladesh,43,district,23.1162929,89.5840404,narail-district
-770,Narayanganj District,19,BD,Bangladesh,40,district,23.7146601,90.563609,narayanganj-district
-787,Natore District,19,BD,Bangladesh,44,district,24.410243,89.0076177,natore-district
-764,Netrokona District,19,BD,Bangladesh,41,district,24.8103284,90.8656415,netrokona-district
-772,Nilphamari District,19,BD,Bangladesh,46,district,25.8482798,88.9414134,nilphamari-district
-815,Noakhali District,19,BD,Bangladesh,47,district,22.8723789,91.0973184,noakhali-district
-754,Pabna District,19,BD,Bangladesh,49,district,24.158505,89.4480718,pabna-district
-800,Panchagarh District,19,BD,Bangladesh,52,district,26.2708705,88.5951751,panchagarh-district
-777,Patuakhali District,19,BD,Bangladesh,51,district,22.2248632,90.4547503,patuakhali-district
-791,Pirojpur District,19,BD,Bangladesh,50,district,22.5790744,89.9759264,pirojpur-district
-773,Rajbari District,19,BD,Bangladesh,53,district,23.715134,89.5874819,rajbari-district
-813,Rajshahi District,19,BD,Bangladesh,54,district,24.3733087,88.6048716,rajshahi-district
 753,Rajshahi Division,19,BD,Bangladesh,E,division,24.7105776,88.9413865,rajshahi-division
-809,Rangamati Hill District,19,BD,Bangladesh,56,district,22.7324173,92.2985134,rangamati-hill-district
-759,Rangpur District,19,BD,Bangladesh,55,district,25.7467925,89.2508335,rangpur-district
 750,Rangpur Division,19,BD,Bangladesh,F,division,25.8483388,88.9413865,rangpur-division
-799,Satkhira District,19,BD,Bangladesh,58,district,22.3154812,89.1114525,satkhira-district
-801,Shariatpur District,19,BD,Bangladesh,62,district,23.2423214,90.4347711,shariatpur-district
-755,Sherpur District,19,BD,Bangladesh,57,district,25.0746235,90.1494904,sherpur-district
-781,Sirajganj District,19,BD,Bangladesh,59,district,24.3141115,89.5699615,sirajganj-district
-812,Sunamganj District,19,BD,Bangladesh,61,district,25.0714535,91.3991627,sunamganj-district
-767,Sylhet District,19,BD,Bangladesh,60,district,24.8993357,91.8700473,sylhet-district
 765,Sylhet Division,19,BD,Bangladesh,G,division,24.7049811,91.6760691,sylhet-division
-782,Tangail District,19,BD,Bangladesh,63,district,24.3917427,89.9948257,tangail-district
-804,Thakurgaon District,19,BD,Bangladesh,64,district,26.0418392,88.4282616,thakurgaon-district
 1228,Christ Church,20,BB,Barbados,01,,36.0060407,-95.921121,christ-church
 1229,Saint Andrew,20,BB,Barbados,02,,,,saint-andrew
 1226,Saint George,20,BB,Barbados,03,,37.0965278,-113.5684164,saint-george
@@ -389,19 +280,6 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 2957,Minsk Region,21,BY,Belarus,MI,,54.1067889,27.4129245,minsk-region
 2954,Mogilev Region,21,BY,Belarus,MA,,53.5101791,30.4006444,mogilev-region
 2960,Vitebsk Region,21,BY,Belarus,VI,,55.2959833,28.7583627,vitebsk-region
-1381,Antwerp,22,BE,Belgium,VAN,,51.2194475,4.4024643,antwerp
-1376,Brussels-Capital Region,22,BE,Belgium,BRU,,50.8503463,4.3517211,brussels-capital-region
-1377,East Flanders,22,BE,Belgium,VOV,,51.0362101,3.7373124,east-flanders
-1373,Flanders,22,BE,Belgium,VLG,,51.0108706,3.7264613,flanders
-1374,Flemish Brabant,22,BE,Belgium,VBR,,50.8815434,4.564597,flemish-brabant
-1375,Hainaut,22,BE,Belgium,WHT,,50.5257076,4.0621017,hainaut
-1384,Liège,22,BE,Belgium,WLG,,50.6325574,5.5796662,liege
-1372,Limburg,22,BE,Belgium,VLI,,,,limburg
-1379,Luxembourg,22,BE,Belgium,WLX,,49.815273,6.129583,luxembourg
-1378,Namur,22,BE,Belgium,WNA,,50.4673883,4.8719854,namur
-1380,Wallonia,22,BE,Belgium,WAL,,50.4175637,4.4510066,wallonia
-1382,Walloon Brabant,22,BE,Belgium,WBR,,50.633241,4.524315,walloon-brabant
-1383,West Flanders,22,BE,Belgium,VWV,,51.0404747,2.9994213,west-flanders
 264,Belize District,23,BZ,Belize,BZ,,17.5677679,-88.4016041,belize-district
 269,Cayo District,23,BZ,Belize,CY,,17.0984445,-88.9413865,cayo-district
 266,Corozal District,23,BZ,Belize,CZL,,18.1349238,-88.2461183,corozal-district
@@ -409,11 +287,11 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 265,Stann Creek District,23,BZ,Belize,SC,,16.8116631,-88.4016041,stann-creek-district
 267,Toledo District,23,BZ,Belize,TOL,,16.2491923,-88.864698,toledo-district
 3077,Alibori Department,24,BJ,Benin,AL,,10.9681093,2.7779813,alibori-department
-3076,Atakora Department,24,BJ,Benin,AK,,10.7954931,1.6760691,atakora-department
+3076,Atakora Department,24,BJ,Benin,AK,,10.7954931,1.6760690999999999,atakora-department
 3079,Atlantique Department,24,BJ,Benin,AQ,,6.6588391,2.2236667,atlantique-department
 3078,Borgou Department,24,BJ,Benin,BO,,9.5340864,2.7779813,borgou-department
-3070,Collines Department,24,BJ,Benin,CO,,8.3022297,2.302446,collines-department
-3072,Donga Department,24,BJ,Benin,DO,,9.7191867,1.6760691,donga-department
+3070,Collines Department,24,BJ,Benin,CO,,8.3022297,2.3024459999999998,collines-department
+3072,Donga Department,24,BJ,Benin,DO,,9.7191867,1.6760690999999999,donga-department
 3071,Kouffo Department,24,BJ,Benin,KO,,7.0035894,1.7538817,kouffo-department
 3081,Littoral Department,24,BJ,Benin,LI,,6.3806973,2.4406387,littoral-department
 3075,Mono Department,24,BJ,Benin,MO,,37.9218608,-118.9528645,mono-department
@@ -510,9 +388,9 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 2021,São Paulo,31,BR,Brazil,SP,,-23.5505199,-46.6333094,sao-paulo
 2003,Sergipe,31,BR,Brazil,SE,,-10.5740934,-37.3856581,sergipe
 2020,Tocantins,31,BR,Brazil,TO,,-10.17528,-48.2982474,tocantins
-1217,Belait District,33,BN,Brunei,BE,,4.3750749,114.6192899,belait-district
+1217,Belait District,33,BN,Brunei,BE,,4.3750748999999995,114.6192899,belait-district
 1216,Brunei-Muara District,33,BN,Brunei,BM,,4.9311206,114.9516869,brunei-muara-district
-1218,Temburong District,33,BN,Brunei,TE,,4.6204128,115.141484,temburong-district
+1218,Temburong District,33,BN,Brunei,TE,,4.6204127999999995,115.141484,temburong-district
 1219,Tutong District,33,BN,Brunei,TU,,4.7140373,114.6667939,tutong-district
 4699,Blagoevgrad Province,34,BG,Bulgaria,01,,42.0208614,23.0943356,blagoevgrad-province
 4715,Burgas Province,34,BG,Bulgaria,02,,42.5048,27.4626079,burgas-province
@@ -523,7 +401,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 4703,Kyustendil Province,34,BG,Bulgaria,10,,42.2868799,22.6939635,kyustendil-province
 4710,Lovech Province,34,BG,Bulgaria,11,,43.1367798,24.7139335,lovech-province
 4696,Montana Province,34,BG,Bulgaria,12,,43.4085148,23.2257589,montana-province
-4712,Pazardzhik Province,34,BG,Bulgaria,13,,42.1927567,24.3336226,pazardzhik-province
+4712,Pazardzhik Province,34,BG,Bulgaria,13,,42.1927567,24.333622599999998,pazardzhik-province
 4695,Pernik Province,34,BG,Bulgaria,14,,42.605199,23.0377916,pernik-province
 4706,Pleven Province,34,BG,Bulgaria,15,,43.4170169,24.6066708,pleven-province
 4701,Plovdiv Province,34,BG,Bulgaria,16,,42.1354079,24.7452904,plovdiv-province
@@ -542,70 +420,13 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 4697,Vidin Province,34,BG,Bulgaria,05,,43.9961739,22.8679515,vidin-province
 4711,Vratsa Province,34,BG,Bulgaria,06,,43.2101806,23.552921,vratsa-province
 4716,Yambol Province,34,BG,Bulgaria,28,,42.4841494,26.5035296,yambol-province
-3160,Balé Province,35,BF,Burkina Faso,BAL,,11.7820602,-3.0175712,bale-province
-3155,Bam Province,35,BF,Burkina Faso,BAM,,13.446133,-1.5983959,bam-province
-3120,Banwa Province,35,BF,Burkina Faso,BAN,,12.1323053,-4.1513764,banwa-province
-3152,Bazèga Province,35,BF,Burkina Faso,BAZ,,11.9767692,-1.443469,bazega-province
-3138,Boucle du Mouhoun Region,35,BF,Burkina Faso,01,,12.4166,-3.4195527,boucle-du-mouhoun-region
-3121,Bougouriba Province,35,BF,Burkina Faso,BGR,,10.8722646,-3.3388917,bougouriba-province
-3131,Boulgou,35,BF,Burkina Faso,BLG,,11.4336766,-0.3748354,boulgou
-3153,Cascades Region,35,BF,Burkina Faso,02,,10.4072992,-4.5624426,cascades-region
-3136,Centre,35,BF,Burkina Faso,03,,,,centre
-3162,Centre-Est Region,35,BF,Burkina Faso,04,,11.5247674,-0.1494988,centre-est-region
-3127,Centre-Nord Region,35,BF,Burkina Faso,05,,13.1724464,-0.9056623,centre-nord-region
-3115,Centre-Ouest Region,35,BF,Burkina Faso,06,,11.8798466,-2.302446,centre-ouest-region
-3149,Centre-Sud Region,35,BF,Burkina Faso,07,,11.5228911,-1.0586135,centre-sud-region
-3167,Comoé Province,35,BF,Burkina Faso,COM,,10.4072992,-4.5624426,comoe-province
-3158,Est Region,35,BF,Burkina Faso,08,,12.4365526,0.9056623,est-region
-3148,Ganzourgou Province,35,BF,Burkina Faso,GAN,,12.2537648,-0.7532809,ganzourgou-province
-3122,Gnagna Province,35,BF,Burkina Faso,GNA,,12.8974992,0.0746767,gnagna-province
-3143,Gourma Province,35,BF,Burkina Faso,GOU,,12.1624473,0.6773046,gourma-province
-3165,Hauts-Bassins Region,35,BF,Burkina Faso,09,,11.4942003,-4.2333355,hauts-bassins-region
-3129,Houet Province,35,BF,Burkina Faso,HOU,,11.1320447,-4.2333355,houet-province
-3135,Ioba Province,35,BF,Burkina Faso,IOB,,11.0562034,-3.0175712,ioba-province
-3168,Kadiogo Province,35,BF,Burkina Faso,KAD,,12.3425897,-1.443469,kadiogo-province
-3112,Kénédougou Province,35,BF,Burkina Faso,KEN,,11.3919395,-4.976654,kenedougou-province
-3132,Komondjari Province,35,BF,Burkina Faso,KMD,,12.7126527,0.6773046,komondjari-province
-3157,Kompienga Province,35,BF,Burkina Faso,KMP,,11.5238362,0.7532809,kompienga-province
-3146,Kossi Province,35,BF,Burkina Faso,KOS,,12.960458,-3.9062688,kossi-province
-3133,Koulpélogo Province,35,BF,Burkina Faso,KOP,,11.5247674,0.1494988,koulpelogo-province
-3161,Kouritenga Province,35,BF,Burkina Faso,KOT,,12.1631813,-0.2244662,kouritenga-province
-3147,Kourwéogo Province,35,BF,Burkina Faso,KOW,,12.7077495,-1.7538817,kourweogo-province
-3159,Léraba Province,35,BF,Burkina Faso,LER,,10.6648785,-5.3102505,leraba-province
-3151,Loroum Province,35,BF,Burkina Faso,LOR,,13.8129814,-2.0665197,loroum-province
-3123,Mouhoun,35,BF,Burkina Faso,MOU,,12.1432381,-3.3388917,mouhoun
-3116,Nahouri Province,35,BF,Burkina Faso,NAO,,11.2502267,-1.135302,nahouri-province
-3113,Namentenga Province,35,BF,Burkina Faso,NAM,,13.0812584,-0.5257823,namentenga-province
-3142,Nayala Province,35,BF,Burkina Faso,NAY,,12.6964558,-3.0175712,nayala-province
-3164,"Nord Region, Burkina Faso",35,BF,Burkina Faso,10,,13.718252,-2.302446,nord-region-burkina-faso
-3156,Noumbiel Province,35,BF,Burkina Faso,NOU,,9.8440946,-2.9775558,noumbiel-province
-3141,Oubritenga Province,35,BF,Burkina Faso,OUB,,12.7096087,-1.443469,oubritenga-province
-3144,Oudalan Province,35,BF,Burkina Faso,OUD,,14.471902,-0.4502368,oudalan-province
-3117,Passoré Province,35,BF,Burkina Faso,PAS,,12.8881221,-2.2236667,passore-province
-3125,Plateau-Central Region,35,BF,Burkina Faso,11,,12.2537648,-0.7532809,plateau-central-region
-3163,Poni Province,35,BF,Burkina Faso,PON,,10.3325996,-3.3388917,poni-province
-3114,Sahel Region,35,BF,Burkina Faso,12,,14.1000865,-0.1494988,sahel-region
-3154,Sanguié Province,35,BF,Burkina Faso,SNG,,12.1501861,-2.6983868,sanguie-province
-3126,Sanmatenga Province,35,BF,Burkina Faso,SMT,,13.3565304,-1.0586135,sanmatenga-province
-3139,Séno Province,35,BF,Burkina Faso,SEN,,14.0072234,-0.0746767,seno-province
-3119,Sissili Province,35,BF,Burkina Faso,SIS,,11.2441219,-2.2236667,sissili-province
-3166,Soum Province,35,BF,Burkina Faso,SOM,,14.0962841,-1.366216,soum-province
-3137,Sourou Province,35,BF,Burkina Faso,SOR,,13.341803,-2.9375739,sourou-province
-3140,Sud-Ouest Region,35,BF,Burkina Faso,13,,10.4231493,-3.2583626,sud-ouest-region
-3128,Tapoa Province,35,BF,Burkina Faso,TAP,,12.2497072,1.6760691,tapoa-province
-3134,Tuy Province,35,BF,Burkina Faso,TUI,,38.888684,-77.004719,tuy-province
-3124,Yagha Province,35,BF,Burkina Faso,YAG,,13.3576157,0.7532809,yagha-province
-3150,Yatenga Province,35,BF,Burkina Faso,YAT,,13.6249344,-2.3813621,yatenga-province
-3145,Ziro Province,35,BF,Burkina Faso,ZIR,,11.6094995,-1.9099238,ziro-province
-3130,Zondoma Province,35,BF,Burkina Faso,ZON,,13.1165926,-2.4208713,zondoma-province
-3118,Zoundwéogo Province,35,BF,Burkina Faso,ZOU,,11.6141174,-0.9820668,zoundweogo-province
-3196,Bubanza Province,36,BI,Burundi,BB,,-3.1572403,29.3714909,bubanza-province
+3196,Bubanza Province,36,BI,Burundi,BB,,-3.1572402999999998,29.3714909,bubanza-province
 3198,Bujumbura Mairie Province,36,BI,Burundi,BM,,-3.3884141,29.3482646,bujumbura-mairie-province
 3200,Bujumbura Rural Province,36,BI,Burundi,BL,,-3.5090144,29.464359,bujumbura-rural-province
 3202,Bururi Province,36,BI,Burundi,BR,,-3.9006851,29.5107708,bururi-province
 3201,Cankuzo Province,36,BI,Burundi,CA,,-3.1527788,30.6199895,cankuzo-province
 3190,Cibitoke Province,36,BI,Burundi,CI,,-2.8102897,29.1855785,cibitoke-province
-3197,Gitega Province,36,BI,Burundi,GI,,-3.4929051,29.9277947,gitega-province
+3197,Gitega Province,36,BI,Burundi,GI,,-3.4929050999999998,29.9277947,gitega-province
 3194,Karuzi Province,36,BI,Burundi,KR,,-3.1340347,30.112735,karuzi-province
 3192,Kayanza Province,36,BI,Burundi,KY,,-3.0077981,29.6499162,kayanza-province
 3195,Kirundo Province,36,BI,Burundi,KI,,-2.5762882,30.112735,kirundo-province
@@ -704,7 +525,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 1267,Ouham-Pendé Prefecture,42,CF,Central African Republic,OP,,6.4850984,16.1580937,ouham-pende-prefecture
 1252,Sangha-Mbaéré,42,CF,Central African Republic,SE,,3.4368607,16.3463791,sangha-mbaere
 1261,Vakaga Prefecture,42,CF,Central African Republic,VK,,9.5113296,22.2384017,vakaga-prefecture
-3583,Bahr el Gazel,43,TD,Chad,BG,province,14.7702266,16.912251,bahr-el-gazel
+3583,Bahr el Gazel,43,TD,Chad,BG,province,14.770226599999999,16.912251,bahr-el-gazel
 3590,Batha,43,TD,Chad,BA,province,13.9371775,18.4276047,batha
 3574,Borkou,43,TD,Chad,BO,province,17.8688845,18.8076195,borkou
 5114,Chari-Baguirmi,43,TD,Chad,CB,province,11.4618626,15.2446394,chari-baguirmi
@@ -801,7 +622,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 2878,Meta,48,CO,Colombia,MET,,39.7673258,-104.9753595,meta
 2897,Nariño,48,CO,Colombia,NAR,,1.289151,-77.35794,narino
 2877,Norte de Santander,48,CO,Colombia,NSA,,7.9462831,-72.8988069,norte-de-santander
-2896,Putumayo,48,CO,Colombia,PUT,,0.4359506,-75.5276699,putumayo
+2896,Putumayo,48,CO,Colombia,PUT,,0.43595059999999997,-75.5276699,putumayo
 2874,Quindío,48,CO,Colombia,QUI,,4.4610191,-75.667356,quindio
 2879,Risaralda,48,CO,Colombia,RIS,,5.3158475,-75.9927652,risaralda
 2901,Santander,48,CO,Colombia,SAN,,6.6437076,-73.6536209,santander
@@ -815,7 +636,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 2820,Mohéli,49,KM,Comoros,M,,-12.3377376,43.7334089,moheli
 2866,Bouenza Department,50,CG,Congo,11,,-4.1128079,13.7289167,bouenza-department
 2870,Brazzaville,50,CG,Congo,BZV,,-4.2633597,15.2428853,brazzaville
-2864,Cuvette Department,50,CG,Congo,8,,-0.2877446,16.1580937,cuvette-department
+2864,Cuvette Department,50,CG,Congo,8,,-0.28774459999999996,16.1580937,cuvette-department
 2869,Cuvette-Ouest Department,50,CG,Congo,15,,0.144755,14.4723301,cuvette-ouest-department
 2867,Kouilou Department,50,CG,Congo,5,,-4.1428413,11.8891721,kouilou-department
 2868,Lékoumou Department,50,CG,Congo,2,,-3.170382,13.3587288,lekoumou-department
@@ -828,7 +649,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 1215,Alajuela Province,53,CR,Costa Rica,A,,10.391583,-84.4382721,alajuela-province
 1209,Guanacaste Province,53,CR,Costa Rica,G,,10.6267399,-85.4436706,guanacaste-province
 1212,Heredia Province,53,CR,Costa Rica,H,,10.473523,-84.0167423,heredia-province
-1213,Limón Province,53,CR,Costa Rica,L,,9.9896398,-83.0332417,limon-province
+1213,Limón Province,53,CR,Costa Rica,L,,9.989639799999999,-83.0332417,limon-province
 1211,Provincia de Cartago,53,CR,Costa Rica,C,,9.8622311,-83.9214187,provincia-de-cartago
 1210,Puntarenas Province,53,CR,Costa Rica,P,,9.2169531,-83.336188,puntarenas-province
 1214,San José Province,53,CR,Costa Rica,SJ,,9.9129727,-84.0768294,san-jose-province
@@ -872,7 +693,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 729,Krapina-Zagorje,55,HR,Croatia,02,county,46.1013393,15.8809693,krapina-zagorje
 731,Lika-Senj,55,HR,Croatia,09,county,44.6192218,15.4701608,lika-senj
 726,Međimurje,55,HR,Croatia,20,county,46.3766644,16.4213298,medimurje
-740,Osijek-Baranja,55,HR,Croatia,14,county,45.5576428,18.3942141,osijek-baranja
+740,Osijek-Baranja,55,HR,Croatia,14,county,45.557642799999996,18.3942141,osijek-baranja
 724,Požega-Slavonia,55,HR,Croatia,11,county,45.3417868,17.8114359,pozega-slavonia
 735,Primorje-Gorski Kotar,55,HR,Croatia,08,county,45.3173996,14.8167466,primorje-gorski-kotar
 730,Šibenik-Knin,55,HR,Croatia,15,county,43.9281485,16.1037694,sibenik-knin
@@ -972,7 +793,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 4626,Přerov,58,CZ,Czech Republic,714,,49.4671356,17.5077332,prerov
 4546,Příbram,58,CZ,Czech Republic,20B,,49.6947959,14.082381,pribram
 4551,Prostějov,58,CZ,Czech Republic,713,,49.4418401,17.1277904,prostejov
-4558,Rakovník,58,CZ,Czech Republic,20C,,50.106123,13.7396623,rakovnik
+4558,Rakovník,58,CZ,Czech Republic,20C,,50.106123,13.739662299999999,rakovnik
 4583,Rokycany,58,CZ,Czech Republic,326,,49.8262827,13.6874943,rokycany
 4636,Rychnov nad Kněžnou,58,CZ,Czech Republic,524,,50.1659651,16.2776842,rychnov-nad-kneznou
 4596,Semily,58,CZ,Czech Republic,514,,50.6051576,15.3281409,semily
@@ -1094,20 +915,20 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 2921,Cotopaxi,64,EC,Ecuador,X,province,-0.8384206,-78.6662678,cotopaxi
 2924,El Oro,64,EC,Ecuador,O,province,-3.2592413,-79.9583541,el-oro
 2922,Esmeraldas,64,EC,Ecuador,E,province,0.9681789,-79.6517202,esmeraldas
-2905,Galápagos,64,EC,Ecuador,W,province,-0.9537691,-90.9656019,galapagos
+2905,Galápagos,64,EC,Ecuador,W,province,-0.9537690999999999,-90.9656019,galapagos
 2914,Guayas,64,EC,Ecuador,G,province,-1.9574839,-79.9192702,guayas
 2911,Imbabura,64,EC,Ecuador,I,province,0.3499768,-78.1260129,imbabura
-5068,Loja,64,EC,Ecuador,L,province,-3.99313,-79.20422,loja
+5068,Loja,64,EC,Ecuador,L,province,-3.9931300000000003,-79.20422,loja
 2910,Los Ríos,64,EC,Ecuador,R,province,-1.0230607,-79.4608897,los-rios
 2913,Manabí,64,EC,Ecuador,M,province,-1.0543434,-80.452644,manabi
 2918,Morona-Santiago,64,EC,Ecuador,S,province,-2.3051062,-78.1146866,morona-santiago
-2916,Napo,64,EC,Ecuador,N,province,-0.9955964,-77.8129684,napo
+2916,Napo,64,EC,Ecuador,N,province,-0.9955963999999999,-77.8129684,napo
 2926,Orellana,64,EC,Ecuador,D,province,-0.4545163,-76.9950286,orellana
 2907,Pastaza,64,EC,Ecuador,Y,province,-1.4882265,-78.0031057,pastaza
 2927,Pichincha,64,EC,Ecuador,P,province,-0.1464847,-78.4751945,pichincha
 2912,Santa Elena,64,EC,Ecuador,SE,province,-2.2267105,-80.859499,santa-elena
 2919,Santo Domingo de los Tsáchilas,64,EC,Ecuador,SD,province,-0.2521882,-79.1879383,santo-domingo-de-los-tsachilas
-2906,Sucumbíos,64,EC,Ecuador,U,province,0.0889231,-76.8897557,sucumbios
+2906,Sucumbíos,64,EC,Ecuador,U,province,0.08892309999999999,-76.8897557,sucumbios
 2908,Tungurahua,64,EC,Ecuador,T,province,-1.2635284,-78.5660852,tungurahua
 2909,Zamora Chinchipe,64,EC,Ecuador,Z,province,-4.0655892,-78.9503525,zamora-chinchipe
 3235,Alexandria,65,EG,Egypt,ALX,,30.8760568,29.742604,alexandria
@@ -1230,132 +1051,34 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 1495,Southern Savonia,74,FI,Finland,04,region,61.6945148,27.8005015,southern-savonia
 1493,Tavastia Proper,74,FI,Finland,06,region,60.907015,24.3005498,tavastia-proper
 1510,Uusimaa,74,FI,Finland,18,region,60.21872,25.271621,uusimaa
-4967,Ain,75,FR,France,01,metropolitan department,46.065086,4.888615,ain
-4968,Aisne,75,FR,France,02,metropolitan department,49.4528921,3.0465111,aisne
-4969,Allier,75,FR,France,03,metropolitan department,46.3670863,2.5808277,allier
-4970,Alpes-de-Haute-Provence,75,FR,France,04,metropolitan department,44.1637752,5.672478,alpes-de-haute-provence
-4972,Alpes-Maritimes,75,FR,France,06,metropolitan department,43.920417,6.6167822,alpes-maritimes
 4811,Alsace,75,FR,France,6AE,European collectivity,48.3181795,7.4416241,alsace
-4973,Ardèche,75,FR,France,07,metropolitan department,44.8148695,3.8133483,ardeche
-4974,Ardennes,75,FR,France,08,metropolitan department,49.6975951,4.1489576,ardennes
-4975,Ariège,75,FR,France,09,metropolitan department,42.9434783,0.9404864,ariege
-4976,Aube,75,FR,France,10,metropolitan department,48.3197547,3.5637104,aube
-4977,Aude,75,FR,France,11,metropolitan department,43.054114,1.9038476,aude
 4798,Auvergne-Rhône-Alpes,75,FR,France,ARA,metropolitan region,45.4471431,4.3852507,auvergne-rhone-alpes
-4978,Aveyron,75,FR,France,12,metropolitan department,44.3156362,2.0852379,aveyron
-5035,Bas-Rhin,75,FR,France,67,metropolitan department,48.5986444,7.0266676,bas-rhin
-4979,Bouches-du-Rhône,75,FR,France,13,metropolitan department,43.5403865,4.4613829,bouches-du-rhone
 4825,Bourgogne-Franche-Comté,75,FR,France,BFC,metropolitan region,47.2805127,4.9994372,bourgogne-franche-comte
-4807,Bretagne,75,FR,France,BRE,metropolitan region,48.2020471,-2.9326435,bretagne
-4981,Calvados,75,FR,France,14,metropolitan department,49.0903514,-0.9170648,calvados
-4982,Cantal,75,FR,France,15,metropolitan department,45.0492177,2.1567272,cantal
+4807,Bretagne,75,FR,France,BRE,metropolitan region,48.2020471,-2.9326434999999997,bretagne
 4818,Centre-Val de Loire,75,FR,France,CVL,metropolitan region,47.7515686,1.6750631,centre-val-de-loire
-4983,Charente,75,FR,France,16,metropolitan department,45.6658479,-0.3184577,charente
-4984,Charente-Maritime,75,FR,France,17,metropolitan department,45.7296828,-1.3388116,charente-maritime
-4985,Cher,75,FR,France,18,metropolitan department,47.0243628,1.8662732,cher
-5064,Clipperton,75,FR,France,CP,dependency,10.2833541,-109.2254215,clipperton
-4986,Corrèze,75,FR,France,19,metropolitan department,45.3423707,1.3171733,correze
 4806,Corse,75,FR,France,20R,metropolitan collectivity with special status,42.0396042,9.0128926,corse
-4996,Corse-du-Sud,75,FR,France,2A,metropolitan department,41.8572055,8.4109183,corse-du-sud
-4987,Côte-d'Or,75,FR,France,21,metropolitan department,47.4651302,4.2315495,cote-d-or
-4988,Côtes-d'Armor,75,FR,France,22,metropolitan department,48.4663336,-3.3478961,cotes-d-armor
-4989,Creuse,75,FR,France,23,metropolitan department,46.0590394,1.431505,creuse
-5047,Deux-Sèvres,75,FR,France,79,metropolitan department,46.5386817,-0.9019948,deux-sevres
-4990,Dordogne,75,FR,France,24,metropolitan department,45.1423416,0.1427408,dordogne
-4991,Doubs,75,FR,France,25,metropolitan department,46.9321774,6.3476214,doubs
-4992,Drôme,75,FR,France,26,metropolitan department,44.7293357,4.6782158,drome
-5059,Essonne,75,FR,France,91,metropolitan department,48.5304615,1.9699056,essonne
-4993,Eure,75,FR,France,27,metropolitan department,49.0754035,0.4893732,eure
-4994,Eure-et-Loir,75,FR,France,28,metropolitan department,48.4469784,0.8147025,eure-et-loir
-4995,Finistère,75,FR,France,29,metropolitan department,48.226961,-4.8243733,finistere
-4822,French Guiana,75,FR,France,973,overseas region,3.933889,-53.125782,french-guiana
+4822,French Guiana,75,FR,France,973,overseas region,3.9338889999999997,-53.125782,french-guiana
 4824,French Polynesia,75,FR,France,PF,overseas collectivity,-17.679742,-149.406843,french-polynesia
-5065,French Southern and Antarctic Lands,75,FR,France,TF,overseas territory,-47.5446604,51.2837542,french-southern-and-antarctic-lands
-4998,Gard,75,FR,France,30,metropolitan department,43.9595276,3.4935681,gard
-5000,Gers,75,FR,France,32,metropolitan department,43.6950534,-0.0999728,gers
-5001,Gironde,75,FR,France,33,metropolitan department,44.8958469,-1.5940532,gironde
 4820,Grand-Est,75,FR,France,GES,metropolitan region,48.699803,6.1878074,grand-est
 4829,Guadeloupe,75,FR,France,971,overseas region,16.265,-61.551,guadeloupe
-5036,Haut-Rhin,75,FR,France,68,metropolitan department,47.8653774,6.6711381,haut-rhin
-4997,Haute-Corse,75,FR,France,2B,metropolitan department,42.4295866,8.5062561,haute-corse
-4999,Haute-Garonne,75,FR,France,31,metropolitan department,43.3050555,0.6845515,haute-garonne
-5011,Haute-Loire,75,FR,France,43,metropolitan department,45.0853806,3.2260707,haute-loire
-5020,Haute-Marne,75,FR,France,52,metropolitan department,48.1324821,4.6983499,haute-marne
-5039,Haute-Saône,75,FR,France,70,metropolitan department,47.6378996,5.5355055,haute-saone
-5043,Haute-Savoie,75,FR,France,74,metropolitan department,46.0445277,5.864138,haute-savoie
-5055,Haute-Vienne,75,FR,France,87,metropolitan department,45.9186878,0.7097206,haute-vienne
-4971,Hautes-Alpes,75,FR,France,05,metropolitan department,44.6562682,5.6873211,hautes-alpes
-5033,Hautes-Pyrénées,75,FR,France,65,metropolitan department,43.1429462,-0.4009736,hautes-pyrenees
 4828,Hauts-de-France,75,FR,France,HDF,metropolitan region,50.4801153,2.7937265,hauts-de-france
-5060,Hauts-de-Seine,75,FR,France,92,metropolitan department,48.8403008,2.1012559,hauts-de-seine
-5002,Hérault,75,FR,France,34,metropolitan department,43.591112,2.8066108,herault
 4796,Île-de-France,75,FR,France,IDF,metropolitan region,48.8499198,2.6370411,ile-de-france
-5003,Ille-et-Vilaine,75,FR,France,35,metropolitan department,48.1762484,-2.2130401,ille-et-vilaine
-5004,Indre,75,FR,France,36,metropolitan department,46.811755,0.9755523,indre
-5005,Indre-et-Loire,75,FR,France,37,metropolitan department,47.2228582,0.1489619,indre-et-loire
-5006,Isère,75,FR,France,38,metropolitan department,45.2892271,4.9902355,isere
-5007,Jura,75,FR,France,39,metropolitan department,46.7828741,5.1691844,jura
 4823,La Réunion,75,FR,France,974,overseas region,-21.115141,55.536384,la-reunion
-5008,Landes,75,FR,France,40,metropolitan department,44.009508,-1.2538579,landes
-5009,Loir-et-Cher,75,FR,France,41,metropolitan department,47.659376,0.8537631,loir-et-cher
-5010,Loire,75,FR,France,42,metropolitan department,46.3522812,-1.1756339,loire
-5012,Loire-Atlantique,75,FR,France,44,metropolitan department,47.3475721,-2.3466312,loire-atlantique
-5013,Loiret,75,FR,France,45,metropolitan department,47.9135431,1.760099,loiret
-5014,Lot,75,FR,France,46,metropolitan department,44.624607,1.0357631,lot
-5015,Lot-et-Garonne,75,FR,France,47,metropolitan department,44.3687314,-0.0916169,lot-et-garonne
-5016,Lozère,75,FR,France,48,metropolitan department,44.5422779,2.9293459,lozere
-5017,Maine-et-Loire,75,FR,France,49,metropolitan department,47.3890034,-1.1202527,maine-et-loire
-5018,Manche,75,FR,France,50,metropolitan department,49.0881734,-2.4627209,manche
-5019,Marne,75,FR,France,51,metropolitan department,48.9610745,3.6573767,marne
 4827,Martinique,75,FR,France,972,overseas region,14.641528,-61.024174,martinique
-5021,Mayenne,75,FR,France,53,metropolitan department,48.3066842,-0.6490182,mayenne
 4797,Mayotte,75,FR,France,976,overseas region,-12.8275,45.166244,mayotte
-5038,Métropole de Lyon,75,FR,France,69M,metropolitan department,45.7482629,4.5958404,metropole-de-lyon
-5022,Meurthe-et-Moselle,75,FR,France,54,metropolitan department,48.9556615,5.714235,meurthe-et-moselle
-5023,Meuse,75,FR,France,55,metropolitan department,49.012462,4.8108734,meuse
-5024,Morbihan,75,FR,France,56,metropolitan department,47.7439518,-3.4455524,morbihan
-5025,Moselle,75,FR,France,57,metropolitan department,49.0204566,6.2055322,moselle
-5026,Nièvre,75,FR,France,58,metropolitan department,47.1192164,2.9779713,nievre
-5027,Nord,75,FR,France,59,metropolitan department,50.5285477,2.6000776,nord
-4804,Normandie,75,FR,France,NOR,metropolitan region,48.8798704,0.1712529,normandie
+4804,Normandie,75,FR,France,NOR,metropolitan region,48.8798704,0.17125289999999999,normandie
 4795,Nouvelle-Aquitaine,75,FR,France,NAQ,metropolitan region,45.7087182,0.626891,nouvelle-aquitaine
 4799,Occitanie,75,FR,France,OCC,metropolitan region,43.8927232,3.2827625,occitanie
-5028,Oise,75,FR,France,60,metropolitan department,49.4117335,1.8668825,oise
-5029,Orne,75,FR,France,61,metropolitan department,48.5757644,-0.5024295,orne
 4816,Paris,75,FR,France,75C,metropolitan collectivity with special status,48.856614,2.3522219,paris
-5030,Pas-de-Calais,75,FR,France,62,metropolitan department,50.5144699,1.811498,pas-de-calais
 4802,Pays-de-la-Loire,75,FR,France,PDL,metropolitan region,47.7632836,-0.3299687,pays-de-la-loire
 4812,Provence-Alpes-Côte-d’Azur,75,FR,France,PAC,metropolitan region,43.9351691,6.0679194,provence-alpes-cote-d-azur
-5031,Puy-de-Dôme,75,FR,France,63,metropolitan department,45.7714185,2.6262676,puy-de-dome
-5032,Pyrénées-Atlantiques,75,FR,France,64,metropolitan department,43.186817,-1.4417071,pyrenees-atlantiques
-5034,Pyrénées-Orientales,75,FR,France,66,metropolitan department,42.6254179,1.8892958,pyrenees-orientales
-5037,Rhône,75,FR,France,69,metropolitan department,44.93433,4.2409329,rhone
 4821,Saint Pierre and Miquelon,75,FR,France,PM,overseas collectivity,46.8852,-56.3159,saint-pierre-and-miquelon
 4794,Saint-Barthélemy,75,FR,France,BL,overseas collectivity,17.9005134,-62.8205871,saint-barthelemy
 4809,Saint-Martin,75,FR,France,MF,overseas collectivity,18.0708298,-63.0500809,saint-martin
-5040,Saône-et-Loire,75,FR,France,71,metropolitan department,46.6554883,3.983505,saone-et-loire
-5041,Sarthe,75,FR,France,72,metropolitan department,48.0262733,-0.3261317,sarthe
-5042,Savoie,75,FR,France,73,metropolitan department,45.494699,5.8432984,savoie
-5045,Seine-et-Marne,75,FR,France,77,metropolitan department,48.6185394,2.4152561,seine-et-marne
-5044,Seine-Maritime,75,FR,France,76,metropolitan department,49.6609681,0.3677561,seine-maritime
-5061,Seine-Saint-Denis,75,FR,France,93,metropolitan department,48.9099318,2.3057379,seine-saint-denis
-5048,Somme,75,FR,France,80,metropolitan department,49.9685922,1.7310696,somme
-5049,Tarn,75,FR,France,81,metropolitan department,43.7914977,1.6758893,tarn
-5050,Tarn-et-Garonne,75,FR,France,82,metropolitan department,44.080895,1.0891657,tarn-et-garonne
-5058,Territoire de Belfort,75,FR,France,90,metropolitan department,47.6293072,6.66962,territoire-de-belfort
-5063,Val-d'Oise,75,FR,France,95,metropolitan department,49.0751818,1.8216914,val-d-oise
-5062,Val-de-Marne,75,FR,France,94,metropolitan department,48.7747004,2.3221039,val-de-marne
-5051,Var,75,FR,France,83,metropolitan department,43.395073,5.7342417,var
-5052,Vaucluse,75,FR,France,84,metropolitan department,44.04475,4.6427718,vaucluse
-5053,Vendée,75,FR,France,85,metropolitan department,46.6754103,-2.0298392,vendee
-5054,Vienne,75,FR,France,86,metropolitan department,45.5221314,4.8453136,vienne
-5056,Vosges,75,FR,France,88,metropolitan department,48.1630173,5.73556,vosges
 4810,Wallis and Futuna,75,FR,France,WF,overseas collectivity,-14.2938,-178.1165,wallis-and-futuna
-5057,Yonne,75,FR,France,89,metropolitan department,47.8547614,3.0339404,yonne
-5046,Yvelines,75,FR,France,78,metropolitan department,48.7615301,1.2772949,yvelines
-2727,Estuaire Province,79,GA,Gabon,1,,0.4432864,10.0807298,estuaire-province
+2727,Estuaire Province,79,GA,Gabon,1,,0.44328639999999997,10.0807298,estuaire-province
 2726,Haut-Ogooué Province,79,GA,Gabon,2,,-1.4762544,13.914399,haut-ogooue-province
-2730,Moyen-Ogooué Province,79,GA,Gabon,3,,-0.442784,10.439656,moyen-ogooue-province
+2730,Moyen-Ogooué Province,79,GA,Gabon,3,,-0.44278399999999996,10.439656,moyen-ogooue-province
 2731,Ngounié Province,79,GA,Gabon,4,,-1.4930303,10.9807003,ngounie-province
 2725,Nyanga Province,79,GA,Gabon,5,,-2.8821033,11.1617356,nyanga-province
 2724,Ogooué-Ivindo Province,79,GA,Gabon,6,,0.8818311,13.1740348,ogooue-ivindo-province
@@ -1404,12 +1127,12 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 4958,Bono East,83,GH,Ghana,BE,region,7.75,-1.05,bono-east
 52,Central,83,GH,Ghana,CP,region,5.5,-1.0,central
 50,Eastern,83,GH,Ghana,EP,region,6.5,-0.5,eastern
-54,Greater Accra,83,GH,Ghana,AA,region,5.8142836,0.0746767,greater-accra
-4960,North East,83,GH,Ghana,NE,region,10.516667,-0.366667,north-east
+54,Greater Accra,83,GH,Ghana,AA,region,5.8142835999999996,0.0746767,greater-accra
+4960,North East,83,GH,Ghana,NE,region,10.516667,-0.36666699999999997,north-east
 51,Northern,83,GH,Ghana,NP,region,9.5,-1.0,northern
-4961,Oti,83,GH,Ghana,OT,region,7.9,0.3,oti
+4961,Oti,83,GH,Ghana,OT,region,7.9,0.30000000000000004,oti
 4962,Savannah,83,GH,Ghana,SV,region,9.083333,-1.816667,savannah
-55,Upper East,83,GH,Ghana,UE,region,10.7082499,-0.9820668,upper-east
+55,Upper East,83,GH,Ghana,UE,region,10.7082499,-0.9820667999999999,upper-east
 57,Upper West,83,GH,Ghana,UW,region,10.2529757,-2.1450245,upper-west
 56,Volta,83,GH,Ghana,TV,region,6.5781373,0.4502368,volta
 49,Western,83,GH,Ghana,WP,region,5.5,-2.5,western
@@ -1428,7 +1151,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 2109,Crete Region,85,GR,Greece,M,,35.240117,24.8092691,crete-region
 2130,Drama Regional Unit,85,GR,Greece,52,,41.2340023,24.2390498,drama-regional-unit
 2120,East Attica Regional Unit,85,GR,Greece,A2,,38.2054093,23.8584737,east-attica-regional-unit
-2117,East Macedonia and Thrace,85,GR,Greece,A,,41.1295126,24.8877191,east-macedonia-and-thrace
+2117,East Macedonia and Thrace,85,GR,Greece,A,,41.1295126,24.887719099999998,east-macedonia-and-thrace
 2110,Epirus Region,85,GR,Greece,D,,39.5706413,20.7642843,epirus-region
 2101,Euboea,85,GR,Greece,04,,38.5236036,23.8584737,euboea
 2102,Grevena Prefecture,85,GR,Greece,51,,40.0837626,21.4273299,grevena-prefecture
@@ -1480,57 +1203,6 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 3661,Sololá Department,90,GT,Guatemala,SO,,14.748523,-91.2891036,solola-department
 3660,Suchitepéquez Department,90,GT,Guatemala,SU,,14.4215982,-91.4048249,suchitepequez-department
 3663,Totonicapán Department,90,GT,Guatemala,TO,,14.9173402,-91.3613923,totonicapan-department
-2672,Beyla Prefecture,92,GN,Guinea,BE,,8.9198178,-8.3088441,beyla-prefecture
-2699,Boffa Prefecture,92,GN,Guinea,BF,,10.1808254,-14.0391615,boffa-prefecture
-2709,Boké Prefecture,92,GN,Guinea,BK,,11.0847379,-14.3791912,boke-prefecture
-2676,Boké Region,92,GN,Guinea,B,,11.1864672,-14.1001326,boke-region
-2686,Conakry,92,GN,Guinea,C,,9.6411855,-13.5784012,conakry
-2705,Coyah Prefecture,92,GN,Guinea,CO,,9.7715535,-13.3125299,coyah-prefecture
-2679,Dabola Prefecture,92,GN,Guinea,DB,,10.7297806,-11.1107854,dabola-prefecture
-2706,Dalaba Prefecture,92,GN,Guinea,DL,,10.6868176,-12.2490697,dalaba-prefecture
-2688,Dinguiraye Prefecture,92,GN,Guinea,DI,,11.6844222,-10.8000051,dinguiraye-prefecture
-2681,Dubréka Prefecture,92,GN,Guinea,DU,,9.7907348,-13.5147735,dubreka-prefecture
-2682,Faranah Prefecture,92,GN,Guinea,FA,,9.9057399,-10.8000051,faranah-prefecture
-2683,Forécariah Prefecture,92,GN,Guinea,FO,,9.3886187,-13.0817903,forecariah-prefecture
-2675,Fria Prefecture,92,GN,Guinea,FR,,10.3674543,-13.5841871,fria-prefecture
-2685,Gaoual Prefecture,92,GN,Guinea,GA,,11.5762804,-13.3587288,gaoual-prefecture
-2711,Guéckédou Prefecture,92,GN,Guinea,GU,,8.5649688,-10.1311163,gueckedou-prefecture
-2704,Kankan Prefecture,92,GN,Guinea,KA,,10.3034465,-9.3673084,kankan-prefecture
-2697,Kankan Region,92,GN,Guinea,K,,10.120923,-9.5450974,kankan-region
-2710,Kérouané Prefecture,92,GN,Guinea,KE,,9.2536643,-9.0128926,kerouane-prefecture
-2693,Kindia Prefecture,92,GN,Guinea,KD,,10.1013292,-12.7135121,kindia-prefecture
-2701,Kindia Region,92,GN,Guinea,D,,10.1781694,-12.989615,kindia-region
-2691,Kissidougou Prefecture,92,GN,Guinea,KS,,9.2252022,-10.0807298,kissidougou-prefecture
-2692,Koubia Prefecture,92,GN,Guinea,KB,,11.582354,-11.8920237,koubia-prefecture
-2703,Koundara Prefecture,92,GN,Guinea,KN,,12.4894021,-13.3067562,koundara-prefecture
-2695,Kouroussa Prefecture,92,GN,Guinea,KO,,10.6489229,-9.8850586,kouroussa-prefecture
-2680,Labé Prefecture,92,GN,Guinea,LA,,11.3541939,-12.3463875,labe-prefecture
-2677,Labé Region,92,GN,Guinea,L,,11.3232042,-12.2891314,labe-region
-2690,Lélouma Prefecture,92,GN,Guinea,LE,,11.183333,-12.933333,lelouma-prefecture
-2708,Lola Prefecture,92,GN,Guinea,LO,,7.9613818,-8.3964938,lola-prefecture
-2702,Macenta Prefecture,92,GN,Guinea,MC,,8.4615795,-9.2785583,macenta-prefecture
-2700,Mali Prefecture,92,GN,Guinea,ML,,11.983709,-12.2547919,mali-prefecture
-2689,Mamou Prefecture,92,GN,Guinea,MM,,10.5736024,-11.8891721,mamou-prefecture
-2698,Mamou Region,92,GN,Guinea,M,,10.5736024,-11.8891721,mamou-region
-2673,Mandiana Prefecture,92,GN,Guinea,MD,,10.6172827,-8.6985716,mandiana-prefecture
-2678,Nzérékoré Prefecture,92,GN,Guinea,NZ,,7.7478359,-8.8252502,nzerekore-prefecture
-2684,Nzérékoré Region,92,GN,Guinea,N,,8.038587,-8.8362755,nzerekore-region
-2694,Pita Prefecture,92,GN,Guinea,PI,,10.8062086,-12.7135121,pita-prefecture
-2707,Siguiri Prefecture,92,GN,Guinea,SI,,11.4148113,-9.1788304,siguiri-prefecture
-2687,Télimélé Prefecture,92,GN,Guinea,TE,,10.9089364,-13.0299331,telimele-prefecture
-2696,Tougué Prefecture,92,GN,Guinea,TO,,11.3841583,-11.6157773,tougue-prefecture
-2674,Yomou Prefecture,92,GN,Guinea,YO,,7.5696279,-9.2591571,yomou-prefecture
-2720,Bafatá,93,GW,Guinea-Bissau,BA,,12.1735243,-14.652952,bafata
-2714,Biombo Region,93,GW,Guinea-Bissau,BM,,11.8529061,-15.7351171,biombo-region
-2722,Bolama Region,93,GW,Guinea-Bissau,BL,,11.1480591,-16.1345705,bolama-region
-2713,Cacheu Region,93,GW,Guinea-Bissau,CA,,12.0551416,-16.0640179,cacheu-region
-2719,Gabú Region,93,GW,Guinea-Bissau,GA,,11.8962488,-14.1001326,gabu-region
-2721,Leste Province,93,GW,Guinea-Bissau,L,,,,leste-province
-2717,Norte Province,93,GW,Guinea-Bissau,N,,7.8721811,123.8857747,norte-province
-2718,Oio Region,93,GW,Guinea-Bissau,OI,,12.2760709,-15.3131185,oio-region
-2715,Quinara Region,93,GW,Guinea-Bissau,QU,,11.795562,-15.1726816,quinara-region
-2716,Sul Province,93,GW,Guinea-Bissau,S,,-10.2866578,20.7122465,sul-province
-2712,Tombali Region,93,GW,Guinea-Bissau,TO,,11.3632696,-14.9856176,tombali-region
 2764,Barima-Waini,94,GY,Guyana,BA,,7.4882419,-59.6564494,barima-waini
 2760,Cuyuni-Mazaruni,94,GY,Guyana,CU,,6.4642141,-60.2110752,cuyuni-mazaruni
 2767,Demerara-Mahaica,94,GY,Guyana,DE,,6.546426,-58.0982046,demerara-mahaica
@@ -1638,7 +1310,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 3434,Southern Region,100,IS,Iceland,8,,,,southern-region
 3436,Western Region,100,IS,Iceland,3,,,,western-region
 3432,Westfjords,100,IS,Iceland,4,,65.919615,-21.8811764,westfjords
-4023,Andaman and Nicobar Islands,101,IN,India,AN,Union territory,11.7400867,92.6586401,andaman-and-nicobar-islands
+4023,Andaman and Nicobar Islands,101,IN,India,AN,Union territory,11.740086699999999,92.6586401,andaman-and-nicobar-islands
 4017,Andhra Pradesh,101,IN,India,AP,state,15.9128998,79.7399875,andhra-pradesh
 4024,Arunachal Pradesh,101,IN,India,AR,state,28.2179994,94.7277528,arunachal-pradesh
 4027,Assam,101,IN,India,AS,state,26.2006043,92.9375739,assam
@@ -1676,11 +1348,11 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 4853,West Bengal,101,IN,India,WB,state,22.9867569,87.8549755,west-bengal
 1822,Aceh,102,ID,Indonesia,AC,province,4.695135,96.7493993,aceh
 1826,Bali,102,ID,Indonesia,BA,province,-8.3405389,115.0919509,bali
-1810,Banten,102,ID,Indonesia,BT,province,-6.4058172,106.0640179,banten
+1810,Banten,102,ID,Indonesia,BT,province,-6.4058171999999995,106.0640179,banten
 1793,Bengkulu,102,ID,Indonesia,BE,province,-3.7928451,102.2607641,bengkulu
 1829,DI Yogyakarta,102,ID,Indonesia,YO,province,-7.8753849,110.4262088,di-yogyakarta
-1805,DKI Jakarta,102,ID,Indonesia,JK,capital district,-6.2087634,106.845599,dki-jakarta
-1812,Gorontalo,102,ID,Indonesia,GO,province,0.5435442,123.0567693,gorontalo
+1805,DKI Jakarta,102,ID,Indonesia,JK,capital district,-6.2087634,106.84559899999999,dki-jakarta
+1812,Gorontalo,102,ID,Indonesia,GO,province,0.5435441999999999,123.0567693,gorontalo
 1815,Jambi,102,ID,Indonesia,JA,province,-1.6101229,103.6131203,jambi
 1825,Jawa Barat,102,ID,Indonesia,JB,province,-7.090911,107.668887,jawa-barat
 1802,Jawa Tengah,102,ID,Indonesia,JT,province,-7.150975,110.1402594,jawa-tengah
@@ -1699,8 +1371,8 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 1818,Nusa Tenggara Timur,102,ID,Indonesia,NT,province,-8.6573819,121.0793705,nusa-tenggara-timur
 1798,Papua,102,ID,Indonesia,PA,province,-5.0122202,141.3470159,papua
 1799,Papua Barat,102,ID,Indonesia,PB,province,-1.3361154,133.1747162,papua-barat
-1809,Riau,102,ID,Indonesia,RI,province,0.2933469,101.7068294,riau
-1817,Sulawesi Barat,102,ID,Indonesia,SR,province,-2.8441371,119.2320784,sulawesi-barat
+1809,Riau,102,ID,Indonesia,RI,province,0.29334689999999997,101.7068294,riau
+1817,Sulawesi Barat,102,ID,Indonesia,SR,province,-2.8441370999999998,119.2320784,sulawesi-barat
 1795,Sulawesi Selatan,102,ID,Indonesia,SN,province,-3.6687994,119.9740534,sulawesi-selatan
 1813,Sulawesi Tengah,102,ID,Indonesia,ST,province,-1.4300254,121.4456179,sulawesi-tengah
 1796,Sulawesi Tenggara,102,ID,Indonesia,SG,province,-4.14491,122.174605,sulawesi-tenggara
@@ -1757,35 +1429,10 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 3961,Saladin,104,IQ,Iraq,SD,governorate,34.5337527,43.483738,saladin
 3969,Sulaymaniyah,104,IQ,Iraq,SU,governorate,35.5466348,45.3003683,sulaymaniyah
 3970,Wasit,104,IQ,Iraq,WA,governorate,32.6024094,45.7520985,wasit
-1095,Carlow,105,IE,Ireland,CW,county,52.7232217,-6.8108295,carlow
-1088,Cavan,105,IE,Ireland,CN,county,53.9765424,-7.2996623,cavan
-1091,Clare,105,IE,Ireland,CE,county,43.04664,-87.899581,clare
 1087,Connacht,105,IE,Ireland,C,province,53.8376243,-8.9584481,connacht
-1074,Cork,105,IE,Ireland,CO,county,51.8985143,-8.4756035,cork
-1071,Donegal,105,IE,Ireland,DL,county,54.6548993,-8.1040967,donegal
-1072,Dublin,105,IE,Ireland,D,county,53.3498053,-6.2603097,dublin
-1079,Galway,105,IE,Ireland,G,county,53.3564509,-8.8534113,galway
-1077,Kerry,105,IE,Ireland,KY,county,52.1544607,-9.5668633,kerry
-1082,Kildare,105,IE,Ireland,KE,county,53.2120434,-6.8194708,kildare
-1090,Kilkenny,105,IE,Ireland,KK,county,52.5776957,-7.218002,kilkenny
-1096,Laois,105,IE,Ireland,LS,county,52.994295,-7.3323007,laois
 1073,Leinster,105,IE,Ireland,L,province,53.3271538,-7.5140841,leinster
-1094,Limerick,105,IE,Ireland,LK,county,52.5090517,-8.7474955,limerick
-1076,Longford,105,IE,Ireland,LD,county,53.7274982,-7.7931527,longford
-1083,Louth,105,IE,Ireland,LH,county,53.9252324,-6.4889423,louth
-1084,Mayo,105,IE,Ireland,MO,county,54.0152604,-9.4289369,mayo
-1092,Meath,105,IE,Ireland,MH,county,53.605548,-6.6564169,meath
-1075,Monaghan,105,IE,Ireland,MN,county,54.2492046,-6.9683132,monaghan
 1080,Munster,105,IE,Ireland,M,province,51.9471197,7.584532,munster
-1078,Offaly,105,IE,Ireland,OY,county,53.2356871,-7.7122229,offaly
-1081,Roscommon,105,IE,Ireland,RN,county,53.7592604,-8.2681621,roscommon
-1070,Sligo,105,IE,Ireland,SO,county,54.1553277,-8.6064532,sligo
-1069,Tipperary,105,IE,Ireland,TA,county,52.4737894,-8.1618514,tipperary
 1086,Ulster,105,IE,Ireland,U,province,54.7616555,-6.9612273,ulster
-1089,Waterford,105,IE,Ireland,WD,county,52.1943549,-7.6227512,waterford
-1097,Westmeath,105,IE,Ireland,WH,county,53.5345308,-7.4653217,westmeath
-1093,Wexford,105,IE,Ireland,WX,county,52.4793603,-6.5839913,wexford
-1085,Wicklow,105,IE,Ireland,WW,county,52.9862313,-6.3672543,wicklow
 1367,Central District,106,IL,Israel,M,,47.6087583,-122.2964235,central-district
 1369,Haifa District,106,IL,Israel,HA,,32.4814111,34.994751,haifa-district
 1370,Jerusalem District,106,IL,Israel,JM,,31.7648243,34.994751,jerusalem-district
@@ -1793,116 +1440,29 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 1368,Southern District,106,IL,Israel,D,,40.7137586,-74.0009059,southern-district
 1371,Tel Aviv District,106,IL,Israel,TA,,32.0929075,34.8072165,tel-aviv-district
 1679,Abruzzo,107,IT,Italy,65,region,42.1920119,13.7289167,abruzzo
-1727,Agrigento,107,IT,Italy,AG,free municipal consortium,37.3105202,13.5857978,agrigento
-1783,Alessandria,107,IT,Italy,AL,province,44.8175587,8.7046627,alessandria
-1672,Ancona,107,IT,Italy,AN,province,43.5493245,13.2663479,ancona
 1716,Aosta Valley,107,IT,Italy,23,autonomous region,45.7388878,7.4261866,aosta-valley
 1688,Apulia,107,IT,Italy,75,region,40.7928393,17.1011931,apulia
-1681,Ascoli Piceno,107,IT,Italy,AP,province,42.8638933,13.5899733,ascoli-piceno
-1780,Asti,107,IT,Italy,AT,province,44.9007652,8.2064315,asti
-1692,Avellino,107,IT,Italy,AV,province,40.996451,15.1258955,avellino
-1686,Barletta-Andria-Trani,107,IT,Italy,BT,province,41.2004543,16.2051484,barletta-andria-trani
 1706,Basilicata,107,IT,Italy,77,region,40.6430766,15.9699878,basilicata
-1689,Belluno,107,IT,Italy,BL,province,46.2497659,12.1969565,belluno
-1701,Benevento,107,IT,Italy,BN,province,41.2035093,14.7520939,benevento
-1704,Bergamo,107,IT,Italy,BG,province,45.6982642,9.6772698,bergamo
-1778,Biella,107,IT,Italy,BI,province,45.5628176,8.0582717,biella
-1717,Brescia,107,IT,Italy,BS,province,45.5415526,10.2118019,brescia
-1714,Brindisi,107,IT,Italy,BR,province,40.6112663,17.763621,brindisi
 1703,Calabria,107,IT,Italy,78,region,39.3087714,16.3463791,calabria
-1718,Caltanissetta,107,IT,Italy,CL,free municipal consortium,37.486013,14.0614982,caltanissetta
 1669,Campania,107,IT,Italy,72,region,40.6670887,15.1068113,campania
-1721,Campobasso,107,IT,Italy,CB,province,41.6738865,14.7520939,campobasso
-1731,Caserta,107,IT,Italy,CE,province,41.2078354,14.1001326,caserta
-1728,Catanzaro,107,IT,Italy,CZ,province,38.8896348,16.4405872,catanzaro
-1739,Chieti,107,IT,Italy,CH,province,42.0334428,14.3791912,chieti
-1740,Como,107,IT,Italy,CO,province,45.8080416,9.0851793,como
-1742,Cosenza,107,IT,Italy,CS,province,39.5644105,16.2522143,cosenza
-1751,Cremona,107,IT,Italy,CR,province,45.2014375,9.9836582,cremona
-1754,Crotone,107,IT,Italy,KR,province,39.1309856,17.0067031,crotone
-1775,Cuneo,107,IT,Italy,CN,province,44.5970314,7.6114217,cuneo
 1773,Emilia-Romagna,107,IT,Italy,45,region,44.5967607,11.2186396,emilia-romagna
-1723,Enna,107,IT,Italy,EN,free municipal consortium,37.5676216,14.2795349,enna
-1744,Fermo,107,IT,Italy,FM,province,43.0931367,13.5899733,fermo
-1746,Ferrara,107,IT,Italy,FE,province,44.766368,11.7644068,ferrara
-1771,Foggia,107,IT,Italy,FG,province,41.638448,15.5943388,foggia
-1779,Forlì-Cesena,107,IT,Italy,FC,province,43.9947681,11.9804613,forli-cesena
 1756,Friuli–Venezia Giulia,107,IT,Italy,36,autonomous region,46.2259177,13.1033646,friuli-venezia-giulia
-1776,Frosinone,107,IT,Italy,FR,province,41.6576528,13.6362715,frosinone
 1777,Gorizia,107,IT,Italy,GO,decentralized regional entity,45.9053899,13.5163725,gorizia
-1787,Grosseto,107,IT,Italy,GR,province,42.8518007,11.2523792,grosseto
-1788,Imperia,107,IT,Italy,IM,province,43.941866,7.8286368,imperia
-1789,Isernia,107,IT,Italy,IS,province,41.5891555,14.1930918,isernia
-1781,L'Aquila,107,IT,Italy,AQ,province,42.1256317,13.6362715,l-aquila
-1791,La Spezia,107,IT,Italy,SP,province,44.2447913,9.7678687,la-spezia
-1674,Latina,107,IT,Italy,LT,province,41.4087476,13.0817903,latina
 1678,Lazio,107,IT,Italy,62,region,41.812241,12.73851,lazio
-1675,Lecce,107,IT,Italy,LE,province,40.2347393,18.1428669,lecce
-1677,Lecco,107,IT,Italy,LC,province,45.9382941,9.385729,lecco
 1768,Liguria,107,IT,Italy,42,region,44.3167917,8.3964938,liguria
-1745,Livorno,107,IT,Italy,LI,province,43.0239848,10.6647101,livorno
-1747,Lodi,107,IT,Italy,LO,province,45.2405036,9.5292512,lodi
 1705,Lombardy,107,IT,Italy,25,region,45.4790671,9.8452433,lombardy
-1749,Lucca,107,IT,Italy,LU,province,43.8376736,10.495053,lucca
-1750,Macerata,107,IT,Italy,MC,province,43.2459322,13.2663479,macerata
-1758,Mantua,107,IT,Italy,MN,province,45.1667728,10.7753613,mantua
 1670,Marche,107,IT,Italy,57,region,43.304562,13.71947,marche
-1759,Massa and Carrara,107,IT,Italy,MS,province,44.2213998,10.0359661,massa-and-carrara
-1760,Matera,107,IT,Italy,MT,province,40.6663496,16.6043636,matera
-1761,Medio Campidano,107,IT,Italy,VS,province,39.5317389,8.704075,medio-campidano
-1757,Modena,107,IT,Italy,MO,province,44.5513799,10.918048,modena
 1695,Molise,107,IT,Italy,67,region,41.6738865,14.7520939,molise
-1769,Monza and Brianza,107,IT,Italy,MB,province,45.623599,9.2588015,monza-and-brianza
-1774,Novara,107,IT,Italy,NO,province,45.5485133,8.5150793,novara
-1790,Nuoro,107,IT,Italy,NU,province,40.3286904,9.456155,nuoro
-1786,Oristano,107,IT,Italy,OR,province,40.0599068,8.7481167,oristano
-1665,Padua,107,IT,Italy,PD,province,45.3661864,11.8209139,padua
-1668,Palermo,107,IT,Italy,PA,province,38.11569,13.3614868,palermo
-1666,Parma,107,IT,Italy,PR,province,44.8015322,10.3279354,parma
-1676,Pavia,107,IT,Italy,PV,province,45.3218166,8.8466236,pavia
-1691,Perugia,107,IT,Italy,PG,province,42.938004,12.6216211,perugia
-1693,Pesaro and Urbino,107,IT,Italy,PU,province,43.6130118,12.7135121,pesaro-and-urbino
-1694,Pescara,107,IT,Italy,PE,province,42.3570655,13.9608091,pescara
-1696,Piacenza,107,IT,Italy,PC,province,44.8263112,9.5291447,piacenza
 1702,Piedmont,107,IT,Italy,21,region,45.0522366,7.5153885,piedmont
-1685,Pisa,107,IT,Italy,PI,province,43.7228315,10.4017194,pisa
-1687,Pistoia,107,IT,Italy,PT,province,43.9543733,10.8903099,pistoia
 1690,Pordenone,107,IT,Italy,PN,decentralized regional entity,46.0378862,12.710835,pordenone
-1697,Potenza,107,IT,Italy,PZ,province,40.4182194,15.876004,potenza
-1700,Prato,107,IT,Italy,PO,province,44.04539,11.1164452,prato
-1729,Ragusa,107,IT,Italy,RG,free municipal consortium,36.9269273,14.7255129,ragusa
-1707,Ravenna,107,IT,Italy,RA,province,44.4184443,12.2035998,ravenna
-1708,Reggio Emilia,107,IT,Italy,RE,province,44.585658,10.5564736,reggio-emilia
-1712,Rieti,107,IT,Italy,RI,province,42.3674405,12.8975098,rieti
-1713,Rimini,107,IT,Italy,RN,province,44.0678288,12.5695158,rimini
-1719,Rovigo,107,IT,Italy,RO,province,45.0241818,11.8238162,rovigo
-1720,Salerno,107,IT,Italy,SA,province,40.4287832,15.2194808,salerno
 1715,Sardinia,107,IT,Italy,88,autonomous region,40.1208752,9.0128926,sardinia
-1722,Sassari,107,IT,Italy,SS,province,40.7967907,8.5750407,sassari
-1732,Savona,107,IT,Italy,SV,province,44.2887995,8.265058,savona
 1709,Sicily,107,IT,Italy,82,autonomous region,37.5999938,14.0153557,sicily
-1734,Siena,107,IT,Italy,SI,province,43.2937732,11.4339148,siena
-1667,Siracusa,107,IT,Italy,SR,free municipal consortium,37.0656924,15.2857109,siracusa
-1741,Sondrio,107,IT,Italy,SO,province,46.1727636,9.7994917,sondrio
-1730,South Sardinia,107,IT,Italy,SU,province,39.3893535,8.9397,south-sardinia
-1743,Taranto,107,IT,Italy,TA,province,40.5740901,17.2429976,taranto
-1752,Teramo,107,IT,Italy,TE,province,42.5895608,13.6362715,teramo
-1755,Terni,107,IT,Italy,TR,province,42.5634534,12.5298028,terni
-1733,Trapani,107,IT,Italy,TP,free municipal consortium,38.0183116,12.5148265,trapani
 1725,Trentino-South Tyrol,107,IT,Italy,32,autonomous region,46.4336662,11.1693296,trentino-south-tyrol
-1762,Treviso,107,IT,Italy,TV,province,45.6668517,12.2430617,treviso
 1763,Trieste,107,IT,Italy,TS,decentralized regional entity,45.6894823,13.7833072,trieste
 1664,Tuscany,107,IT,Italy,52,region,43.7710513,11.2486208,tuscany
 1764,Udine,107,IT,Italy,UD,decentralized regional entity,46.1407972,13.1662896,udine
 1683,Umbria,107,IT,Italy,55,region,42.938004,12.6216211,umbria
-1765,Varese,107,IT,Italy,VA,province,45.799026,8.7300945,varese
 1753,Veneto,107,IT,Italy,34,region,45.4414662,12.3152595,veneto
-1726,Verbano-Cusio-Ossola,107,IT,Italy,VB,province,46.1399688,8.2724649,verbano-cusio-ossola
-1785,Vercelli,107,IT,Italy,VC,province,45.3202204,8.418508,vercelli
-1736,Verona,107,IT,Italy,VR,province,45.4418498,11.0735316,verona
-1737,Vibo Valentia,107,IT,Italy,VV,province,38.6378565,16.2051484,vibo-valentia
-1738,Vicenza,107,IT,Italy,VI,province,45.6983995,11.5661465,vicenza
-1735,Viterbo,107,IT,Italy,VT,province,42.400242,11.8891721,viterbo
 3753,Clarendon Parish,108,JM,Jamaica,13,,17.9557183,-77.2405153,clarendon-parish
 3749,Hanover Parish,108,JM,Jamaica,09,,18.4097707,-78.133638,hanover-parish
 3748,Kingston Parish,108,JM,Jamaica,01,,17.9683271,-76.782702,kingston-parish
@@ -2000,14 +1560,14 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 201,Elgeyo-Marakwet,113,KE,Kenya,05,county,1.0498237,35.4781926,elgeyo-marakwet
 163,Embu,113,KE,Kenya,06,county,-0.6560477,37.7237678,embu
 196,Garissa,113,KE,Kenya,07,county,-0.4532293,39.6460988,garissa
-195,Homa Bay,113,KE,Kenya,08,county,-0.6220655,34.3310364,homa-bay
+195,Homa Bay,113,KE,Kenya,08,county,-0.6220654999999999,34.3310364,homa-bay
 170,Isiolo,113,KE,Kenya,09,county,0.3524352,38.4849923,isiolo
 197,Kajiado,113,KE,Kenya,10,county,-2.0980751,36.7819505,kajiado
 158,Kakamega,113,KE,Kenya,11,county,0.307894,34.7740793,kakamega
 193,Kericho,113,KE,Kenya,12,county,-0.1827913,35.4781926,kericho
 199,Kiambu,113,KE,Kenya,13,county,-1.0313701,36.8680791,kiambu
 174,Kilifi,113,KE,Kenya,14,county,-3.5106508,39.9093269,kilifi
-167,Kirinyaga,113,KE,Kenya,15,county,-0.6590565,37.3827234,kirinyaga
+167,Kirinyaga,113,KE,Kenya,15,county,-0.6590564999999999,37.3827234,kirinyaga
 159,Kisii,113,KE,Kenya,16,county,-0.677334,34.779603,kisii
 171,Kisumu,113,KE,Kenya,17,county,-0.0917016,34.7679568,kisumu
 211,Kitui,113,KE,Kenya,18,county,-1.6832822,38.3165725,kitui
@@ -2018,11 +1578,11 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 188,Makueni,113,KE,Kenya,23,county,-2.2558734,37.8936663,makueni
 187,Mandera,113,KE,Kenya,24,county,3.5737991,40.958688,mandera
 194,Marsabit,113,KE,Kenya,25,county,2.4426403,37.9784585,marsabit
-198,Meru,113,KE,Kenya,26,county,0.3557174,37.8087693,meru
-190,Migori,113,KE,Kenya,27,county,-0.9365702,34.4198243,migori
+198,Meru,113,KE,Kenya,26,county,0.35571739999999996,37.8087693,meru
+190,Migori,113,KE,Kenya,27,county,-0.9365701999999999,34.4198243,migori
 200,Mombasa,113,KE,Kenya,28,county,-3.9768291,39.7137181,mombasa
 178,Murang'a,113,KE,Kenya,29,county,-0.7839281,37.0400339,murang-a
-191,Nairobi City,113,KE,Kenya,30,county,-1.2920659,36.8219462,nairobi-city
+191,Nairobi City,113,KE,Kenya,30,county,-1.2920658999999999,36.8219462,nairobi-city
 203,Nakuru,113,KE,Kenya,31,county,-0.3030988,36.080026,nakuru
 165,Nandi,113,KE,Kenya,32,county,0.1835867,35.1268781,nandi
 175,Narok,113,KE,Kenya,33,county,-1.104111,36.0893406,narok
@@ -2038,9 +1598,9 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 206,Turkana,113,KE,Kenya,43,county,3.3122477,35.5657862,turkana
 169,Uasin Gishu,113,KE,Kenya,44,county,0.5527638,35.3027226,uasin-gishu
 202,Vihiga,113,KE,Kenya,45,county,0.0767553,34.7077665,vihiga
-182,Wajir,113,KE,Kenya,46,county,1.6360475,40.3088626,wajir
+182,Wajir,113,KE,Kenya,46,county,1.6360474999999999,40.3088626,wajir
 208,West Pokot,113,KE,Kenya,47,county,1.6210076,35.3905046,west-pokot
-1831,Gilbert Islands,114,KI,Kiribati,G,,0.3524262,174.7552634,gilbert-islands
+1831,Gilbert Islands,114,KI,Kiribati,G,,0.35242619999999997,174.7552634,gilbert-islands
 1832,Line Islands,114,KI,Kiribati,L,,1.7429439,-157.2132826,line-islands
 1830,Phoenix Islands,114,KI,Kiribati,P,,33.3284369,-111.9824774,phoenix-islands
 4876,Đakovica District (Gjakove),248,XK,Kosovo,XDG,,42.4375756,20.3785438,dakovica-district-gjakove
@@ -2111,7 +1671,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 4492,Daugavpils Municipality,120,LV,Latvia,025,,55.8991783,26.6102012,daugavpils-municipality
 4437,Dobele Municipality,120,LV,Latvia,026,,56.626305,23.2809066,dobele-municipality
 4428,Dundaga Municipality,120,LV,Latvia,027,,57.5049167,22.3505114,dundaga-municipality
-4458,Durbe Municipality,120,LV,Latvia,028,,56.6279857,21.4916245,durbe-municipality
+4458,Durbe Municipality,120,LV,Latvia,028,,56.627985699999996,21.4916245,durbe-municipality
 4448,Engure Municipality,120,LV,Latvia,029,,57.16235,23.2196634,engure-municipality
 4444,Ērgļi Municipality,120,LV,Latvia,030,,56.9237065,25.6753852,ergli-municipality
 4510,Garkalne Municipality,120,LV,Latvia,031,,57.0190387,24.3826181,garkalne-municipality
@@ -2217,7 +1777,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 3028,Maseru District,122,LS,Lesotho,A,,-29.516565,27.8311428,maseru-district
 3023,Mohale's Hoek District,122,LS,Lesotho,F,,-30.1425917,27.4673845,mohale-s-hoek-district
 3024,Mokhotlong District,122,LS,Lesotho,J,,-29.2573193,28.9528645,mokhotlong-district
-3025,Qacha's Nek District,122,LS,Lesotho,H,,-30.1114565,28.678979,qacha-s-nek-district
+3025,Qacha's Nek District,122,LS,Lesotho,H,,-30.1114565,28.678978999999998,qacha-s-nek-district
 3027,Quthing District,122,LS,Lesotho,G,,-30.4015687,27.7080133,quthing-district
 3031,Thaba-Tseka District,122,LS,Lesotho,K,,-29.5238975,28.6089752,thaba-tseka-district
 3041,Bomi County,123,LR,Liberia,BM,,6.7562926,-10.8451467,bomi-county
@@ -2267,7 +1827,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 459,Triesen,125,LI,Liechtenstein,09,,47.1097988,9.5248296,triesen
 456,Triesenberg,125,LI,Liechtenstein,10,,47.1224511,9.5701985,triesenberg
 452,Vaduz,125,LI,Liechtenstein,11,,47.1410303,9.5209277,vaduz
-1561,Akmenė District Municipality,126,LT,Lithuania,01,,56.2455029,22.7471169,akmene-district-municipality
+1561,Akmenė District Municipality,126,LT,Lithuania,01,,56.2455029,22.747116899999998,akmene-district-municipality
 1605,Alytus City Municipality,126,LT,Lithuania,02,,54.3962938,24.0458761,alytus-city-municipality
 1574,Alytus County,126,LT,Lithuania,AL,,54.2000214,24.1512634,alytus-county
 1599,Alytus District Municipality,126,LT,Lithuania,03,,54.3297496,24.1960931,alytus-district-municipality
@@ -2403,32 +1963,6 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 1937,Sarawak,132,MY,Malaysia,13,,1.5532783,110.3592127,sarawak
 1944,Selangor,132,MY,Malaysia,10,,3.0738379,101.5183469,selangor
 1942,Terengganu,132,MY,Malaysia,11,,5.3116916,103.1324154,terengganu
-2594,Addu Atoll,133,MV,Maldives,01,,-0.6300995,73.1585626,addu-atoll
-2587,Alif Alif Atoll,133,MV,Maldives,02,,4.085,72.8515479,alif-alif-atoll
-2600,Alif Dhaal Atoll,133,MV,Maldives,00,,3.6543302,72.8042797,alif-dhaal-atoll
-2604,Central Province,133,MV,Maldives,CE,,,,central-province
-2590,Dhaalu Atoll,133,MV,Maldives,17,,2.8468502,72.9460566,dhaalu-atoll
-2599,Faafu Atoll,133,MV,Maldives,14,,3.2309409,72.9460566,faafu-atoll
-2598,Gaafu Alif Atoll,133,MV,Maldives,27,,0.6124813,73.323708,gaafu-alif-atoll
-2603,Gaafu Dhaalu Atoll,133,MV,Maldives,28,,0.358804,73.1821623,gaafu-dhaalu-atoll
-2595,Gnaviyani Atoll,133,MV,Maldives,29,,-0.3006425,73.4239143,gnaviyani-atoll
-2586,Haa Alif Atoll,133,MV,Maldives,07,,6.9903488,72.9460566,haa-alif-atoll
-2597,Haa Dhaalu Atoll,133,MV,Maldives,23,,6.5782717,72.9460566,haa-dhaalu-atoll
-2596,Kaafu Atoll,133,MV,Maldives,26,,4.4558979,73.5594128,kaafu-atoll
-2601,Laamu Atoll,133,MV,Maldives,05,,1.9430737,73.4180211,laamu-atoll
-2607,Lhaviyani Atoll,133,MV,Maldives,03,,5.3747021,73.5122928,lhaviyani-atoll
-2609,Malé,133,MV,Maldives,MLE,,46.3488867,10.9072489,male
-2608,Meemu Atoll,133,MV,Maldives,12,,3.0090345,73.5122928,meemu-atoll
-2592,Noonu Atoll,133,MV,Maldives,25,,5.8551276,73.323708,noonu-atoll
-2589,North Central Province,133,MV,Maldives,NC,,,,north-central-province
-2588,North Province,133,MV,Maldives,NO,,8.8855027,80.2767327,north-province
-2602,Raa Atoll,133,MV,Maldives,13,,5.6006457,72.9460566,raa-atoll
-2585,Shaviyani Atoll,133,MV,Maldives,24,,6.17511,73.1349605,shaviyani-atoll
-2606,South Central Province,133,MV,Maldives,SC,,7.2564996,80.7214417,south-central-province
-2605,South Province,133,MV,Maldives,SU,,-21.7482006,166.1783739,south-province
-2591,Thaa Atoll,133,MV,Maldives,08,,2.4311161,73.1821623,thaa-atoll
-2593,Upper South Province,133,MV,Maldives,US,,0.2307,73.2794846,upper-south-province
-2584,Vaavu Atoll,133,MV,Maldives,04,,3.3955438,73.5122928,vaavu-atoll
 253,Bamako,134,ML,Mali,BKO,,12.6392316,-8.0028892,bamako
 258,Gao Region,134,ML,Mali,7,,16.9066332,1.5208624,gao-region
 252,Kayes Region,134,ML,Mali,1,,14.0818308,-9.9018131,kayes-region
@@ -2486,7 +2020,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 83,Rabat,135,MT,Malta,46,,33.9715904,-6.8498129,rabat
 87,Saint Lawrence,135,MT,Malta,50,,38.9578056,-95.2565689,saint-lawrence
 75,San Ġwann,135,MT,Malta,49,,35.9077365,14.4752416,san-gwann
-116,Sannat,135,MT,Malta,52,,36.0192643,14.2599437,sannat
+116,Sannat,135,MT,Malta,52,,36.0192643,14.259943699999999,sannat
 94,Santa Luċija,135,MT,Malta,53,,35.856142,14.50436,santa-lucija
 90,Santa Venera,135,MT,Malta,54,,35.8902201,14.4766974,santa-venera
 136,Senglea,135,MT,Malta,20,,35.8873041,14.5167371,senglea
@@ -2498,9 +2032,9 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 122,Ta' Xbiex,135,MT,Malta,58,,35.8991448,14.4963519,ta-xbiex
 103,Tarxien,135,MT,Malta,59,,35.8672552,14.5116405,tarxien
 95,Valletta,135,MT,Malta,60,,35.8989085,14.5145528,valletta
-101,Victoria,135,MT,Malta,45,,28.8052674,-97.0035982,victoria
+101,Victoria,135,MT,Malta,45,,28.805267399999998,-97.0035982,victoria
 114,Xagħra,135,MT,Malta,61,,36.050845,14.267482,xaghra
-121,Xewkija,135,MT,Malta,62,,36.0299236,14.2599437,xewkija
+121,Xewkija,135,MT,Malta,62,,36.0299236,14.259943699999999,xewkija
 81,Xgħajra,135,MT,Malta,63,,35.8868282,14.5472391,xghajra
 123,Żabbar,135,MT,Malta,64,,35.8724715,14.5451354,zabbar
 85,Żebbuġ Gozo,135,MT,Malta,65,,36.0716403,14.245408,zebbug-gozo
@@ -2654,93 +2188,18 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 29,Tivat Municipality,147,ME,Montenegro,19,,42.42348,18.7185184,tivat-municipality
 33,Ulcinj Municipality,147,ME,Montenegro,20,,41.9652795,19.3069432,ulcinj-municipality
 32,Žabljak Municipality,147,ME,Montenegro,21,,43.1555152,19.1226018,zabljak-municipality
-4928,Agadir-Ida-Ou-Tanane,149,MA,Morocco,AGD,prefecture,30.6462091,-9.8339061,agadir-ida-ou-tanane
-3320,Al Haouz,149,MA,Morocco,HAO,province,31.2956729,-7.87216,al-haouz
-3267,Al Hoceïma,149,MA,Morocco,HOC,province,35.2445589,-3.9317468,al-hoceima
-3266,Aousserd (EH),149,MA,Morocco,AOU,province,22.5521538,-14.3297353,aousserd-eh
-3297,Assa-Zag (EH-partial),149,MA,Morocco,ASZ,province,28.1402395,-9.7232673,assa-zag-eh-partial
-3321,Azilal,149,MA,Morocco,AZI,province,32.004262,-6.5783387,azilal
-3272,Béni Mellal,149,MA,Morocco,BEM,province,32.342443,-6.375799,beni-mellal
 3278,Béni Mellal-Khénifra,149,MA,Morocco,05,region,32.5719184,-6.0679194,beni-mellal-khenifra
-3304,Benslimane,149,MA,Morocco,BES,province,33.6189698,-7.1305536,benslimane
-3285,Berkane,149,MA,Morocco,BER,province,34.8840876,-2.341887,berkane
-4929,Berrechid,149,MA,Morocco,BRR,province,33.2602523,-7.5984837,berrechid
-3275,Boujdour (EH),149,MA,Morocco,BOD,province,26.1252493,-14.4847347,boujdour-eh
-3270,Boulemane,149,MA,Morocco,BOM,province,33.3625159,-4.7303397,boulemane
-4930,Casablanca,149,MA,Morocco,CAS,prefecture,33.5722678,-7.6570326,casablanca
 3303,Casablanca-Settat,149,MA,Morocco,06,region,33.2160872,-7.4381355,casablanca-settat
-3310,Chefchaouen,149,MA,Morocco,CHE,province,35.018172,-5.1432068,chefchaouen
-3274,Chichaoua,149,MA,Morocco,CHI,province,31.5383581,-8.7646388,chichaoua
-3302,Chtouka-Ait Baha,149,MA,Morocco,CHT,province,30.1072422,-9.2785583,chtouka-ait-baha
 3306,Dakhla-Oued Ed-Dahab (EH),149,MA,Morocco,12,region,22.7337892,-14.2861116,dakhla-oued-ed-dahab-eh
 3290,Drâa-Tafilalet,149,MA,Morocco,08,region,31.1499538,-5.3939551,draa-tafilalet
-4931,Driouch,149,MA,Morocco,DRI,province,34.976032,-3.3964493,driouch
-3291,El Hajeb,149,MA,Morocco,HAJ,province,33.685735,-5.3677844,el-hajeb
-3280,El Jadida,149,MA,Morocco,JDI,province,33.2316326,-8.5007116,el-jadida
-3309,El Kelâa des Sraghna,149,MA,Morocco,KES,province,32.0522767,-7.3516558,el-kelaa-des-sraghna
-3299,Errachidia,149,MA,Morocco,ERR,province,31.9051275,-4.7277528,errachidia
-3292,Es-Semara (EH-partial),149,MA,Morocco,ESM,province,26.741856,-11.6783671,es-semara-eh-partial
-3316,Essaouira,149,MA,Morocco,ESI,province,31.5084926,-9.7595041,essaouira
-3300,Fahs-Anjra,149,MA,Morocco,FAH,province,35.7601992,-5.6668306,fahs-anjra
-4932,Fès,149,MA,Morocco,FES,prefecture,34.0239579,-5.0367599,fes
 3313,Fès-Meknès,149,MA,Morocco,03,region,34.062529,-4.7277528,fes-meknes
-3301,Figuig,149,MA,Morocco,FIG,province,32.1092613,-1.229806,figuig
-4933,Fquih Ben Salah,149,MA,Morocco,FQH,province,32.500168,-6.7100717,fquih-ben-salah
-3265,Guelmim,149,MA,Morocco,GUE,province,28.9883659,-10.0527498,guelmim
 3305,Guelmim-Oued Noun (EH-partial),149,MA,Morocco,10,region,28.4844281,-10.0807298,guelmim-oued-noun-eh-partial
-4934,Guercif,149,MA,Morocco,GUF,province,34.2345036,-3.3813005,guercif
-3325,Ifrane,149,MA,Morocco,IFR,province,33.5228062,-5.1109552,ifrane
-3294,Inezgane-Ait Melloul,149,MA,Morocco,INE,prefecture,30.3509098,-9.389511,inezgane-ait-melloul
-3307,Jerada,149,MA,Morocco,JRA,province,34.3061791,-2.1794136,jerada
-3308,Kénitra,149,MA,Morocco,KEN,province,34.2540503,-6.5890166,kenitra
-3276,Khémisset,149,MA,Morocco,KHE,province,33.8153704,-6.0573302,khemisset
-3317,Khénifra,149,MA,Morocco,KHN,province,32.9340471,-5.661571,khenifra
-3326,Khouribga,149,MA,Morocco,KHO,province,32.886023,-6.9208655,khouribga
 3271,L'Oriental,149,MA,Morocco,02,region,37.069683,-94.512277,l-oriental
-3293,Laâyoune (EH),149,MA,Morocco,LAA,province,27.1500384,-13.1990758,laayoune-eh
 3298,Laâyoune-Sakia El Hamra (EH-partial),149,MA,Morocco,11,region,27.8683194,-11.9804613,laayoune-sakia-el-hamra-eh-partial
-3268,Larache,149,MA,Morocco,LAR,province,35.1744271,-6.1473964,larache
-4936,M’diq-Fnideq,149,MA,Morocco,MDF,prefecture,35.7733019,-5.51433,m-diq-fnideq
-4935,Marrakech,149,MA,Morocco,MAR,prefecture,31.6346023,-8.0778932,marrakech
 3288,Marrakesh-Safi,149,MA,Morocco,07,region,31.7330833,-8.1338558,marrakesh-safi
-3284,Médiouna,149,MA,Morocco,MED,province,33.4540939,-7.516602,mediouna
-4937,Meknès,149,MA,Morocco,MEK,prefecture,33.881,-5.5730397,meknes
-4938,Midelt,149,MA,Morocco,MID,province,32.6855079,-4.7501709,midelt
-4939,Mohammadia,149,MA,Morocco,MOH,prefecture,33.6873749,-7.4239142,mohammadia
-3315,Moulay Yacoub,149,MA,Morocco,MOU,province,34.0874479,-5.1784019,moulay-yacoub
-3281,Nador,149,MA,Morocco,NAD,province,34.9171926,-2.8577105,nador
-3287,Nouaceur,149,MA,Morocco,NOU,province,33.3670393,-7.5732537,nouaceur
-3269,Ouarzazate,149,MA,Morocco,OUA,province,30.9335436,-6.937016,ouarzazate
-3319,Oued Ed-Dahab (EH),149,MA,Morocco,OUD,province,22.7337892,-14.2861116,oued-ed-dahab-eh
-4941,Ouezzane,149,MA,Morocco,OUZ,province,34.806345,-5.5914505,ouezzane
-4940,Oujda-Angad,149,MA,Morocco,OUJ,prefecture,34.6837504,-2.2993239,oujda-angad
-4942,Rabat,149,MA,Morocco,RAB,prefecture,33.969199,-6.9273029,rabat
 4927,Rabat-Salé-Kénitra,149,MA,Morocco,04,region,34.076864,-7.3454476,rabat-sale-kenitra
-4943,Rehamna,149,MA,Morocco,REH,province,32.2032905,-8.5689671,rehamna
-3311,Safi,149,MA,Morocco,SAF,province,32.2989872,-9.1013498,safi
-4944,Salé,149,MA,Morocco,SAL,prefecture,34.037757,-6.8427073,sale
-3289,Sefrou,149,MA,Morocco,SEF,province,33.8305244,-4.8353154,sefrou
-3282,Settat,149,MA,Morocco,SET,province,32.9924242,-7.6222665,settat
-4945,Sidi Bennour,149,MA,Morocco,SIB,province,32.6492602,-8.4471453,sidi-bennour
-4946,Sidi Ifni,149,MA,Morocco,SIF,province,29.3665797,-10.2108485,sidi-ifni
-3279,Sidi Kacem,149,MA,Morocco,SIK,province,34.2260172,-5.7129164,sidi-kacem
-4952,Sidi Slimane,149,MA,Morocco,SIL,province,34.2737828,-5.9805972,sidi-slimane
-4947,Skhirate-Témara,149,MA,Morocco,SKH,prefecture,33.7622425,-7.0419052,skhirate-temara
 3295,Souss-Massa,149,MA,Morocco,09,region,30.2750611,-8.1338558,souss-massa
-3286,Tan-Tan (EH-partial),149,MA,Morocco,TNT,province,28.03012,-11.1617356,tan-tan-eh-partial
-4950,Tanger-Assilah,149,MA,Morocco,TNG,prefecture,35.7632539,-5.9045098,tanger-assilah
 3324,Tanger-Tétouan-Al Hoceïma,149,MA,Morocco,01,region,35.2629558,-5.5617279,tanger-tetouan-al-hoceima
-3323,Taounate,149,MA,Morocco,TAO,province,34.536917,-4.6398693,taounate
-3322,Taourirt,149,MA,Morocco,TAI,province,34.212598,-2.6983868,taourirt
-4948,Tarfaya (EH-partial),149,MA,Morocco,TAF,province,27.9377701,-12.9294063,tarfaya-eh-partial
-3314,Taroudannt,149,MA,Morocco,TAR,province,30.4727126,-8.8748765,taroudannt
-3312,Tata,149,MA,Morocco,TAT,province,29.750877,-7.9756343,tata
-3296,Taza,149,MA,Morocco,TAZ,province,34.2788953,-3.5812692,taza
-3318,Tétouan,149,MA,Morocco,TET,province,35.5888995,-5.3625516,tetouan
-4949,Tinghir,149,MA,Morocco,TIN,province,31.4850794,-6.2019298,tinghir
-3277,Tiznit,149,MA,Morocco,TIZ,province,29.693392,-9.732157,tiznit
-4951,Youssoufia,149,MA,Morocco,YUS,province,32.0200679,-8.8692648,youssoufia
-3283,Zagora,149,MA,Morocco,ZAG,province,30.5786093,-5.8987139,zagora
 3327,Cabo Delgado Province,150,MZ,Mozambique,P,,-12.3335474,39.3206241,cabo-delgado-province
 3329,Gaza Province,150,MZ,Mozambique,G,,-23.0221928,32.7181375,gaza-province
 3330,Inhambane Province,150,MZ,Mozambique,I,,-22.8527997,34.5508758,inhambane-province
@@ -2774,7 +2233,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 35,Kavango West Region,152,,Namibia,KW,,-18.271048,18.4276047,kavango-west-region
 44,Khomas Region,152,,Namibia,KH,,-22.6377854,17.1011931,khomas-region
 34,Kunene Region,152,,Namibia,KU,,-19.4086317,13.914399,kunene-region
-40,Ohangwena Region,152,,Namibia,OW,,-17.5979291,16.8178377,ohangwena-region
+40,Ohangwena Region,152,,Namibia,OW,,-17.597929099999998,16.8178377,ohangwena-region
 41,Omaheke Region,152,,Namibia,OH,,-21.8466651,19.1880047,omaheke-region
 39,Omusati Region,152,,Namibia,OS,,-18.4070294,14.8454619,omusati-region
 37,Oshana Region,152,,Namibia,ON,,-18.4305064,15.6881788,oshana-region
@@ -2784,17 +2243,17 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 4656,Aiwo District,153,NR,Nauru,01,,-0.5340012,166.9138873,aiwo-district
 4658,Anabar District,153,NR,Nauru,02,,-0.5133517,166.9484624,anabar-district
 4667,Anetan District,153,NR,Nauru,03,,-0.5064343,166.9427006,anetan-district
-4663,Anibare District,153,NR,Nauru,04,,-0.5294758,166.9513432,anibare-district
+4663,Anibare District,153,NR,Nauru,04,,-0.5294757999999999,166.9513432,anibare-district
 4660,Baiti District,153,NR,Nauru,05,,-0.510431,166.9275744,baiti-district
 4665,Boe District,153,NR,Nauru,06,,39.0732776,-94.5710498,boe-district
 4662,Buada District,153,NR,Nauru,07,,-0.5328777,166.9268541,buada-district
-4666,Denigomodu District,153,NR,Nauru,08,,-0.5247964,166.9167689,denigomodu-district
+4666,Denigomodu District,153,NR,Nauru,08,,-0.5247963999999999,166.9167689,denigomodu-district
 4654,Ewa District,153,NR,Nauru,09,,-0.5087241,166.9369384,ewa-district
-4661,Ijuw District,153,NR,Nauru,10,,-0.5202767,166.9571046,ijuw-district
+4661,Ijuw District,153,NR,Nauru,10,,-0.5202766999999999,166.9571046,ijuw-district
 4657,Meneng District,153,NR,Nauru,11,,-0.546724,166.938379,meneng-district
 4659,Nibok District,153,NR,Nauru,12,,-0.5196208,166.9189301,nibok-district
 4655,Uaboe District,153,NR,Nauru,13,,-0.5202222,166.9311761,uaboe-district
-4664,Yaren District,153,NR,Nauru,14,,-0.5466857,166.9210913,yaren-district
+4664,Yaren District,153,NR,Nauru,14,,-0.5466856999999999,166.9210913,yaren-district
 2082,Bagmati Zone,154,NP,Nepal,BA,,28.0367577,85.4375574,bagmati-zone
 2071,Bheri Zone,154,NP,Nepal,BH,,28.517456,81.7787021,bheri-zone
 2073,Central Region,154,NP,Nepal,1,,,,central-region
@@ -2835,7 +2294,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 4067,Chatham Islands,158,NZ,New Zealand,CIT,,-44.0057523,-176.5400674,chatham-islands
 4068,Gisborne District,158,NZ,New Zealand,GIS,,-38.1358174,178.3239309,gisborne-district
 4075,Hawke's Bay Region,158,NZ,New Zealand,HKB,,-39.6016597,176.5804473,hawke-s-bay-region
-4060,Manawatu-Wanganui Region,158,NZ,New Zealand,MWT,,-39.7273356,175.4375574,manawatu-wanganui-region
+4060,Manawatu-Wanganui Region,158,NZ,New Zealand,MWT,,-39.727335599999996,175.4375574,manawatu-wanganui-region
 4063,Marlborough Region,158,NZ,New Zealand,MBH,,-41.5916883,173.7624053,marlborough-region
 4070,Nelson Region,158,NZ,New Zealand,NSN,,-41.2985397,173.2441491,nelson-region
 4059,Northland Region,158,NZ,New Zealand,NTL,,-35.4136172,173.9320806,northland-region
@@ -2864,8 +2323,8 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 942,Rivas,159,NI,Nicaragua,RI,department,11.402349,-85.684578,rivas
 952,South Caribbean Coast,159,NI,Nicaragua,AS,autonomous region,12.1918502,-84.1012861,south-caribbean-coast
 71,Agadez Region,160,NE,Niger,1,,20.6670752,12.0718281,agadez-region
-72,Diffa Region,160,NE,Niger,2,,13.6768647,12.7135121,diffa-region
-68,Dosso Region,160,NE,Niger,3,,13.1513947,3.4195527,dosso-region
+72,Diffa Region,160,NE,Niger,2,,13.6768647,12.713512099999999,diffa-region
+68,Dosso Region,160,NE,Niger,3,,13.151394699999999,3.4195527,dosso-region
 70,Maradi Region,160,NE,Niger,4,,13.8018074,7.4381355,maradi-region
 73,Tahoua Region,160,NE,Niger,5,,16.0902543,5.3939551,tahoua-region
 67,Tillabéri Region,160,NE,Niger,6,,14.6489525,2.1450245,tillaberi-region
@@ -2882,7 +2341,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 314,Cross River,161,NG,Nigeria,CR,state,5.8701724,8.5988014,cross-river
 316,Delta,161,NG,Nigeria,DE,state,33.7453784,-90.7354508,delta
 311,Ebonyi,161,NG,Nigeria,EB,state,6.2649232,8.0137302,ebonyi
-318,Edo,161,NG,Nigeria,ED,state,6.6341831,5.9304056,edo
+318,Edo,161,NG,Nigeria,ED,state,6.6341830999999996,5.9304056,edo
 309,Ekiti,161,NG,Nigeria,EK,state,7.7189862,5.3109505,ekiti
 289,Enugu,161,NG,Nigeria,EN,state,6.536353,7.4356194,enugu
 310,Gombe,161,NG,Nigeria,GO,state,10.3637795,11.1927587,gombe
@@ -2962,7 +2421,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 683,Kumanovo Municipality,129,MK,North Macedonia,47,,42.0732613,21.7853143,kumanovo-municipality
 659,Lipkovo Municipality,129,MK,North Macedonia,48,,42.2006626,21.6183755,lipkovo-municipality
 705,Lozovo Municipality,129,MK,North Macedonia,49,,41.7818139,21.9000827,lozovo-municipality
-701,Makedonska Kamenica Municipality,129,MK,North Macedonia,51,,42.0694604,22.548349,makedonska-kamenica-municipality
+701,Makedonska Kamenica Municipality,129,MK,North Macedonia,51,,42.0694604,22.548348999999998,makedonska-kamenica-municipality
 692,Makedonski Brod Municipality,129,MK,North Macedonia,52,,41.5133088,21.2174329,makedonski-brod-municipality
 669,Mavrovo and Rostuša Municipality,129,MK,North Macedonia,50,,41.6092427,20.6012488,mavrovo-and-rostusa-municipality
 653,Mogila Municipality,129,MK,North Macedonia,53,,41.1479645,21.4514369,mogila-municipality
@@ -2995,7 +2454,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 658,Vasilevo Municipality,129,MK,North Macedonia,11,,41.4741699,22.6422128,vasilevo-municipality
 651,Veles Municipality,129,MK,North Macedonia,13,,41.7274426,21.7137694,veles-municipality
 662,Vevčani Municipality,129,MK,North Macedonia,12,,41.2407543,20.5915649,vevcani-municipality
-672,Vinica Municipality,129,MK,North Macedonia,14,,41.857102,22.5721881,vinica-municipality
+672,Vinica Municipality,129,MK,North Macedonia,14,,41.857102,22.572188099999998,vinica-municipality
 650,Vraneštica Municipality,129,MK,North Macedonia,15,,41.4829087,21.0579632,vranestica-municipality
 689,Vrapčište Municipality,129,MK,North Macedonia,16,,41.879116,20.83145,vrapciste-municipality
 642,Zajas Municipality,129,MK,North Macedonia,31,,41.6030328,20.8791343,zajas-municipality
@@ -3204,7 +2663,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 1329,Marinduque,174,PH,Philippines,MAD,province,13.4767171,121.9032192,marinduque
 1338,Masbate,174,PH,Philippines,MAS,province,12.3574346,123.5504076,masbate
 1347,Metro Manila,174,PH,Philippines,NCR,province,14.6090537,121.0222565,metro-manila
-1299,Mimaropa,174,PH,Philippines,41,region,9.8432065,118.7364783,mimaropa
+1299,Mimaropa,174,PH,Philippines,41,region,9.843206499999999,118.7364783,mimaropa
 1343,Misamis Occidental,174,PH,Philippines,MSC,province,8.3374903,123.7070619,misamis-occidental
 1348,Misamis Oriental,174,PH,Philippines,MSR,province,8.5045558,124.6219592,misamis-oriental
 1353,Mountain Province,174,PH,Philippines,MOU,province,40.7075437,-73.9501033,mountain-province
@@ -3250,7 +2709,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 1631,Lubusz Voivodeship,176,PL,Poland,LB,,52.2274612,15.2559103,lubusz-voivodeship
 1636,Łódź Voivodeship,176,PL,Poland,LD,,51.4634771,19.1726974,lodz-voivodeship
 1637,Masovian Voivodeship,176,PL,Poland,MZ,,51.8927182,21.0021679,masovian-voivodeship
-1622,Opole Voivodeship,176,PL,Poland,OP,,50.8003761,17.937989,opole-voivodeship
+1622,Opole Voivodeship,176,PL,Poland,OP,,50.8003761,17.937988999999998,opole-voivodeship
 1626,Podkarpackie Voivodeship,176,PL,Poland,PK,,50.0574749,22.0895691,podkarpackie-voivodeship
 1632,Podlaskie Voivodeship,176,PL,Poland,PD,,53.0697159,22.9674639,podlaskie-voivodeship
 1624,Pomeranian Voivodeship,176,PL,Poland,PM,,54.2944252,18.1531164,pomeranian-voivodeship
@@ -3381,7 +2840,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 4723,Bihor County,181,RO,Romania,BH,,47.0157516,22.172266,bihor-county
 4733,Bistrița-Năsăud County,181,RO,Romania,BN,,47.2486107,24.5322814,bistrita-nasaud-county
 4740,Botoșani County,181,RO,Romania,BT,,47.8924042,26.7591781,botosani-county
-4736,Braila,181,RO,Romania,BR,,45.2652463,27.9594714,braila
+4736,Braila,181,RO,Romania,BR,,45.2652463,27.959471399999998,braila
 4759,Brașov County,181,RO,Romania,BV,,45.7781844,25.22258,brasov-county
 4730,Bucharest,181,RO,Romania,B,,44.4267674,26.1025384,bucharest
 4756,Buzău County,181,RO,Romania,BZ,,45.3350912,26.7107578,buzau-county
@@ -3555,7 +3014,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 64,Domagnano,192,SM,San Marino,03,,43.9501929,12.4681537,domagnano
 62,Faetano,192,SM,San Marino,04,,43.9348967,12.4896554,faetano
 66,Fiorentino,192,SM,San Marino,05,,43.9078337,12.4581209,fiorentino
-63,Montegiardino,192,SM,San Marino,08,,43.9052999,12.4810542,montegiardino
+63,Montegiardino,192,SM,San Marino,08,,43.9052999,12.481054199999999,montegiardino
 58,San Marino,192,SM,San Marino,07,,43.94236,12.457777,san-marino
 65,Serravalle,192,SM,San Marino,09,,44.7232084,8.8574005,serravalle
 270,Príncipe Province,193,ST,Sao Tome and Principe,P,,1.6139381,7.4056928,principe-province
@@ -3603,21 +3062,21 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 3741,Podunavlje District,196,RS,Serbia,10,,44.4729156,20.9901426,podunavlje-district
 3737,Pomoravlje District,196,RS,Serbia,13,,43.9591379,21.271353,pomoravlje-district
 3720,Rasina District,196,RS,Serbia,19,,43.5263525,21.1588178,rasina-district
-3725,Raška District,196,RS,Serbia,18,,43.3373461,20.5734005,raska-district
+3725,Raška District,196,RS,Serbia,18,,43.3373461,20.573400499999998,raska-district
 3711,South Bačka District,196,RS,Serbia,06,,45.4890344,19.6976187,south-backa-district
 3713,South Banat District,196,RS,Serbia,04,,45.0027457,21.0542509,south-banat-district
 3740,Srem District,196,RS,Serbia,07,,45.0029171,19.8013773,srem-district
-3734,Šumadija District,196,RS,Serbia,12,,44.2050678,20.7856565,sumadija-district
+3734,Šumadija District,196,RS,Serbia,12,,44.2050678,20.785656499999998,sumadija-district
 3718,Toplica District,196,RS,Serbia,21,,43.1906592,21.3407762,toplica-district
 3733,Vojvodina,196,RS,Serbia,VO,,45.2608651,19.8319338,vojvodina
 3726,West Bačka District,196,RS,Serbia,05,,45.7355385,19.1897364,west-backa-district
 3731,Zaječar District,196,RS,Serbia,15,,43.9015048,22.2738011,zajecar-district
 3729,Zlatibor District,196,RS,Serbia,16,,43.645417,19.7101455,zlatibor-district
-513,Anse Boileau,197,SC,Seychelles,02,,-4.7047268,55.4859363,anse-boileau
+513,Anse Boileau,197,SC,Seychelles,02,,-4.7047267999999995,55.4859363,anse-boileau
 502,Anse Royale,197,SC,Seychelles,05,,-4.7407988,55.5081012,anse-royale
 506,Anse-aux-Pins,197,SC,Seychelles,01,,-4.6900443,55.5150289,anse-aux-pins
 508,Au Cap,197,SC,Seychelles,04,,-4.7059723,55.5081012,au-cap
-497,Baie Lazare,197,SC,Seychelles,06,,-4.7482525,55.4859363,baie-lazare
+497,Baie Lazare,197,SC,Seychelles,06,,-4.7482524999999995,55.4859363,baie-lazare
 514,Baie Sainte Anne,197,SC,Seychelles,07,,47.05259,-64.9524579,baie-sainte-anne
 512,Beau Vallon,197,SC,Seychelles,08,,-4.6210967,55.4277802,beau-vallon
 515,Bel Air,197,SC,Seychelles,09,,34.1002455,-118.459463,bel-air
@@ -3649,7 +3108,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 4352,Banská Bystrica Region,200,SK,Slovakia,BC,,48.5312499,19.382874,banska-bystrica-region
 4356,Bratislava Region,200,SK,Slovakia,BL,,48.3118304,17.1973299,bratislava-region
 4353,Košice Region,200,SK,Slovakia,KI,,48.6375737,21.0834225,kosice-region
-4357,Nitra Region,200,SK,Slovakia,NI,,48.0143765,18.5416504,nitra-region
+4357,Nitra Region,200,SK,Slovakia,NI,,48.0143765,18.541650399999998,nitra-region
 4354,Prešov Region,200,SK,Slovakia,PV,,49.1716773,21.3742001,presov-region
 4358,Trenčín Region,200,SK,Slovakia,TC,,48.8086758,18.2324026,trencin-region
 4355,Trnava Region,200,SK,Slovakia,TA,,48.3943898,17.7216205,trnava-region
@@ -3676,7 +3135,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 4191,City Municipality of Celje,201,SI,Slovenia,011,,46.2397495,15.2677063,city-municipality-of-celje
 4236,City Municipality of Novo Mesto,201,SI,Slovenia,085,,45.8010824,15.1710089,city-municipality-of-novo-mesto
 4151,Črenšovci Municipality,201,SI,Slovenia,015,,46.5720029,16.2877346,crensovci-municipality
-4232,Črna na Koroškem Municipality,201,SI,Slovenia,016,,46.4704529,14.8499998,crna-na-koroskem-municipality
+4232,Črna na Koroškem Municipality,201,SI,Slovenia,016,,46.4704529,14.849999799999999,crna-na-koroskem-municipality
 4291,Črnomelj Municipality,201,SI,Slovenia,017,,45.5361225,15.1944143,crnomelj-municipality
 4304,Destrnik Municipality,201,SI,Slovenia,018,,46.4922368,15.8777956,destrnik-municipality
 4167,Divača Municipality,201,SI,Slovenia,019,,45.6806069,13.9720312,divaca-municipality
@@ -3768,7 +3227,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 4313,Murska Sobota City Municipality,201,SI,Slovenia,080,,46.6432147,16.1515754,murska-sobota-city-municipality
 4208,Muta Municipality,201,SI,Slovenia,081,,46.6097366,15.1629995,muta-municipality
 4177,Naklo Municipality,201,SI,Slovenia,082,,46.2718663,14.3156932,naklo-municipality
-4329,Nazarje Municipality,201,SI,Slovenia,083,,46.2821741,14.9225629,nazarje-municipality
+4329,Nazarje Municipality,201,SI,Slovenia,083,,46.2821741,14.922562899999999,nazarje-municipality
 4205,Nova Gorica City Municipality,201,SI,Slovenia,084,,45.976276,13.7308881,nova-gorica-city-municipality
 4320,Odranci Municipality,201,SI,Slovenia,086,,46.5901017,16.2788165,odranci-municipality
 4143,Oplotnica,201,SI,Slovenia,171,,46.387163,15.4458131,oplotnica
@@ -3834,7 +3293,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 4260,Sveta Trojica v Slovenskih Goricah Municipality,201,SI,Slovenia,204,,46.5680809,15.8823064,sveta-trojica-v-slovenskih-goricah-municipality
 4229,Sveti Andraž v Slovenskih Goricah Municipality,201,SI,Slovenia,182,,46.5189747,15.9498262,sveti-andraz-v-slovenskih-goricah-municipality
 4255,Sveti Jurij ob Ščavnici Municipality,201,SI,Slovenia,116,,46.5687452,16.0222528,sveti-jurij-ob-scavnici-municipality
-4328,Sveti Jurij v Slovenskih Goricah Municipality,201,SI,Slovenia,210,,46.6170791,15.7804677,sveti-jurij-v-slovenskih-goricah-municipality
+4328,Sveti Jurij v Slovenskih Goricah Municipality,201,SI,Slovenia,210,,46.6170791,15.780467699999999,sveti-jurij-v-slovenskih-goricah-municipality
 4273,Sveti Tomaž Municipality,201,SI,Slovenia,205,,46.4835283,16.079442,sveti-tomaz-municipality
 4194,Tabor Municipality,201,SI,Slovenia,184,,46.2107921,15.0174249,tabor-municipality
 4312,Tišina Municipality,201,SI,Slovenia,010,,46.6541884,16.0754781,tisina-municipality
@@ -3926,57 +3385,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 2086,Upper Nile,206,SS,South Sudan,NU,,9.8894202,32.7181375,upper-nile
 2087,Warrap,206,SS,South Sudan,WR,,8.0886238,28.6410641,warrap
 2091,Western Bahr el Ghazal,206,SS,South Sudan,BW,,8.6452399,25.2837585,western-bahr-el-ghazal
-2089,Western Equatoria,206,SS,South Sudan,EW,,5.3471799,28.299435,western-equatoria
-5089,A Coruña,207,ES,Spain,C,province,43.361904,-8.4301932,a-coruna
-5109,Albacete,207,ES,Spain,AB,province,38.9922312,-1.8780989,albacete
-5108,Alicante,207,ES,Spain,A,province,38.3579546,-0.5425634,alicante
-5095,Almeria,207,ES,Spain,AL,province,36.8415268,-2.4746261,almeria
-5093,Araba,207,ES,Spain,VI,province,42.8395119,-3.8423774,araba
-1160,Asturias,207,ES,Spain,O,province,43.3613953,-5.8593267,asturias
-1189,Ávila,207,ES,Spain,AV,province,40.6934511,-4.8935627,avila
-5092,Badajoz,207,ES,Spain,BA,province,38.8793748,-7.0226983,badajoz
-5102,Barcelona,207,ES,Spain,B,province,41.3926679,2.1401891,barcelona
-5094,Bizkaia,207,ES,Spain,BI,province,43.2192199,-3.2111087,bizkaia
-1146,Burgos,207,ES,Spain,BU,province,42.3380758,-3.5812692,burgos
-1190,Caceres,207,ES,Spain,CC,province,39.4716313,-6.4257384,caceres
-5096,Cádiz,207,ES,Spain,CA,province,36.5163851,-6.2999767,cadiz
-1170,Cantabria,207,ES,Spain,S,province,43.1828396,-3.9878427,cantabria
-5110,Castellón,207,ES,Spain,CS,province,39.9811435,0.0088407,castellon
-5105,Ciudad Real,207,ES,Spain,CR,province,38.9860758,-3.9444975,ciudad-real
-5097,Córdoba,207,ES,Spain,CO,province,36.5163851,-6.2999767,cordoba
-5106,Cuenca,207,ES,Spain,CU,province,40.0620036,-2.1655344,cuenca
-1191,Gipuzkoa,207,ES,Spain,SS,province,43.145236,-2.4461825,gipuzkoa
-5103,Girona,207,ES,Spain,GI,province,41.9803445,2.8011577,girona
-5098,Granada,207,ES,Spain,GR,province,37.1809411,-3.626291,granada
-5107,Guadalajara,207,ES,Spain,GU,province,40.6322214,-3.190682,guadalajara
-5099,Huelva,207,ES,Spain,H,province,37.2708666,-6.9571999,huelva
-1177,Huesca,207,ES,Spain,HU,province,41.5976275,-0.9056623,huesca
-1174,Islas Baleares,207,ES,Spain,PM,province,39.3587759,2.7356328,islas-baleares
-5100,Jaén,207,ES,Spain,J,province,37.7800931,-3.8143745,jaen
-1171,La Rioja,207,ES,Spain,LO,province,42.2870733,-2.539603,la-rioja
-1185,Las Palmas,207,ES,Spain,GC,province,28.2915637,-16.6291304,las-palmas
-1200,Léon,207,ES,Spain,LE,province,42.5987041,-5.5670839,leon
-5104,Lleida,207,ES,Spain,L,province,41.6183731,0.6024253,lleida
-5090,Lugo,207,ES,Spain,LU,province,43.0123137,-7.5740096,lugo
-1158,Madrid,207,ES,Spain,M,province,40.4167515,-3.7038322,madrid
-5101,Málaga,207,ES,Spain,MA,province,36.7182015,-4.519306,malaga
-1176,Murcia,207,ES,Spain,MU,province,38.1398141,-1.366216,murcia
-1204,Navarra,207,ES,Spain,,province,42.6953909,-1.6760691,navarra
-5091,Ourense,207,ES,Spain,OR,province,42.3383613,-7.8811951,ourense
-1157,Palencia,207,ES,Spain,P,province,42.0096832,-4.5287949,palencia
-1167,Pontevedra,207,ES,Spain,PO,province,42.4338595,-8.6568552,pontevedra
-1147,Salamanca,207,ES,Spain,SA,province,40.9515263,-6.2375947,salamanca
-5112,Santa Cruz de Tenerife,207,ES,Spain,TF,province,28.4578914,-16.3213539,santa-cruz-de-tenerife
-1192,Segovia,207,ES,Spain,SG,province,40.9429296,-4.1088942,segovia
-1193,Sevilla,207,ES,Spain,SE,province,37.3753501,-6.0250973,sevilla
-1208,Soria,207,ES,Spain,SO,province,41.7665464,-2.4790306,soria
-1203,Tarragona,207,ES,Spain,T,province,41.1258642,1.2035642,tarragona
-5111,Teruel,207,ES,Spain,TE,province,40.345041,-1.1184744,teruel
-1205,Toledo,207,ES,Spain,TO,province,39.86232,-4.0694692,toledo
-1175,Valencia,207,ES,Spain,V,province,39.4840108,-0.7532809,valencia
-1183,Valladolid,207,ES,Spain,VA,province,41.6517375,-4.724495,valladolid
-1161,Zamora,207,ES,Spain,ZA,province,41.6095744,-5.8987139,zamora
-5113,Zaragoza,207,ES,Spain,Z,province,41.6517501,-0.9300002,zaragoza
+2089,Western Equatoria,206,SS,South Sudan,EW,,5.3471798999999995,28.299435,western-equatoria
 2799,Ampara District,208,LK,Sri Lanka,52,,7.2911685,81.6723761,ampara-district
 2816,Anuradhapura District,208,LK,Sri Lanka,71,,8.3318305,80.4029017,anuradhapura-district
 2790,Badulla District,208,LK,Sri Lanka,81,,6.9934009,81.0549815,badulla-district
@@ -3994,7 +3403,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 2793,Kilinochchi District,208,LK,Sri Lanka,42,,9.3677971,80.3213106,kilinochchi-district
 2805,Mannar District,208,LK,Sri Lanka,43,,8.9809531,79.9043975,mannar-district
 2810,Matale District,208,LK,Sri Lanka,22,,7.4659646,80.6234259,matale-district
-2806,Matara District,208,LK,Sri Lanka,32,,5.9449348,80.5487997,matara-district
+2806,Matara District,208,LK,Sri Lanka,32,,5.9449347999999995,80.5487997,matara-district
 2819,Monaragala District,208,LK,Sri Lanka,82,,6.8727781,81.3506832,monaragala-district
 2814,Mullaitivu District,208,LK,Sri Lanka,45,,9.2675388,80.8128254,mullaitivu-district
 2800,North Central Province,208,LK,Sri Lanka,7,,8.1995638,80.6326916,north-central-province
@@ -4006,7 +3415,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 2807,Ratnapura district,208,LK,Sri Lanka,91,,6.7055168,80.3848389,ratnapura-district
 2803,Sabaragamuwa Province,208,LK,Sri Lanka,9,,6.7395941,80.365865,sabaragamuwa-province
 2801,Southern Province,208,LK,Sri Lanka,3,,,,southern-province
-2795,Trincomalee District,208,LK,Sri Lanka,53,,8.6013069,81.1196075,trincomalee-district
+2795,Trincomalee District,208,LK,Sri Lanka,53,,8.601306899999999,81.1196075,trincomalee-district
 2811,Uva Province,208,LK,Sri Lanka,8,,6.8427612,81.3399414,uva-province
 2809,Vavuniya District,208,LK,Sri Lanka,44,,8.7594739,80.5000334,vavuniya-district
 2802,Western Province,208,LK,Sri Lanka,1,,,,western-province
@@ -4151,9 +3560,9 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 1485,Pwani,218,TZ,Tanzania,19,Region,-7.3237714,38.8205454,pwani
 1477,Rukwa,218,TZ,Tanzania,20,Region,-8.0109444,31.4456179,rukwa
 1486,Ruvuma,218,TZ,Tanzania,21,Region,-10.6878717,36.2630846,ruvuma
-1463,Shinyanga,218,TZ,Tanzania,22,Region,-3.6809961,33.4271403,shinyanga
+1463,Shinyanga,218,TZ,Tanzania,22,Region,-3.6809960999999998,33.4271403,shinyanga
 1464,Simiyu,218,TZ,Tanzania,30,Region,-2.8308738,34.1531947,simiyu
-1474,Singida,218,TZ,Tanzania,23,Region,-6.7453352,34.1531947,singida
+1474,Singida,218,TZ,Tanzania,23,Region,-6.7453351999999995,34.1531947,singida
 4956,Songwe,218,TZ,Tanzania,31,Region,-8.272612,31.7113174,songwe
 1469,Tabora,218,TZ,Tanzania,24,Region,-5.0342138,32.8084496,tabora
 1487,Tanga,218,TZ,Tanzania,25,Region,-5.3049789,38.3165725,tanga
@@ -4180,7 +3589,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 3478,Krabi,219,TH,Thailand,81,,8.0862997,98.9062835,krabi
 3544,Lampang,219,TH,Thailand,52,,18.2855395,99.5127895,lampang
 3483,Lamphun,219,TH,Thailand,51,,18.5744606,99.0087221,lamphun
-3509,Loei,219,TH,Thailand,42,,17.4860232,101.7223002,loei
+3509,Loei,219,TH,Thailand,42,,17.486023199999998,101.7223002,loei
 3543,Lop Buri,219,TH,Thailand,16,,14.7995081,100.6533706,lop-buri
 3505,Mae Hong Son,219,TH,Thailand,58,,19.3020296,97.9654368,mae-hong-son
 3517,Maha Sarakham,219,TH,Thailand,44,,16.0132015,103.1615169,maha-sarakham
@@ -4191,7 +3600,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 3497,Nakhon Ratchasima,219,TH,Thailand,30,,14.9738493,102.083652,nakhon-ratchasima
 3492,Nakhon Sawan,219,TH,Thailand,60,,15.6987382,100.11996,nakhon-sawan
 3520,Nakhon Si Thammarat,219,TH,Thailand,80,,8.4324831,99.9599033,nakhon-si-thammarat
-3530,Nan,219,TH,Thailand,55,,45.522208,-122.9863281,nan
+3530,Nan,219,TH,Thailand,55,,45.522208,-122.9863281,
 3553,Narathiwat,219,TH,Thailand,96,,6.4254607,101.8253143,narathiwat
 3480,Nong Bua Lam Phu,219,TH,Thailand,39,,17.2218247,102.4260368,nong-bua-lam-phu
 3484,Nong Khai,219,TH,Thailand,43,,17.8782803,102.7412638,nong-khai
@@ -4203,7 +3612,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 3488,Phatthalung,219,TH,Thailand,93,,7.6166823,100.0740231,phatthalung
 3538,Phayao,219,TH,Thailand,56,,19.2154367,100.2023692,phayao
 3515,Phetchabun,219,TH,Thailand,67,,16.301669,101.1192804,phetchabun
-3532,Phetchaburi,219,TH,Thailand,76,,12.9649215,99.6425883,phetchaburi
+3532,Phetchaburi,219,TH,Thailand,76,,12.964921499999999,99.6425883,phetchaburi
 3514,Phichit,219,TH,Thailand,66,,16.2740876,100.3346991,phichit
 3506,Phitsanulok,219,TH,Thailand,65,,16.8211238,100.2658516,phitsanulok
 3494,Phra Nakhon Si Ayutthaya,219,TH,Thailand,14,,14.3692325,100.5876634,phra-nakhon-si-ayutthaya
@@ -4274,7 +3683,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 3600,Rum Cay District,17,BS,The Bahamas,RC,,23.6854676,-74.8390162,rum-cay-district
 3620,San Salvador and Rum Cay,17,BS,The Bahamas,SR,,23.6854676,-74.8390162,san-salvador-and-rum-cay
 3627,San Salvador Island,17,BS,The Bahamas,SS,,24.0775546,-74.4760088,san-salvador-island
-3606,Sandy Point,17,BS,The Bahamas,SP,,39.0145464,-76.3998925,sandy-point
+3606,Sandy Point,17,BS,The Bahamas,SP,,39.0145464,-76.39989249999999,sandy-point
 3608,South Abaco,17,BS,The Bahamas,SO,,26.0640591,-77.2635038,south-abaco
 3622,South Andros,17,BS,The Bahamas,SA,,23.9713556,-77.6077865,south-andros
 3607,South Eleuthera,17,BS,The Bahamas,SE,,24.7708562,-76.2131474,south-eleuthera
@@ -4284,7 +3693,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 2579,Kara Region,220,TG,Togo,K,,9.7216393,1.0586135,kara-region
 2576,Maritime,220,TG,Togo,M,,41.6551493,-83.5278467,maritime
 2577,Plateaux Region,220,TG,Togo,P,,7.6101378,1.0586135,plateaux-region
-2578,Savanes Region,220,TG,Togo,S,,10.5291781,0.5257823,savanes-region
+2578,Savanes Region,220,TG,Togo,S,,10.5291781,0.5257822999999999,savanes-region
 3913,Haʻapai,222,TO,Tonga,02,,-19.75,-174.366667,ha-apai
 3915,ʻEua,222,TO,Tonga,01,,37.09024,-95.712891,eua
 3914,Niuas,222,TO,Tonga,03,,-15.9594,-173.783,niuas
@@ -4321,7 +3730,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 2555,Manouba,224,TN,Tunisia,14,governorate,36.8446504,9.8571416,manouba
 2560,Medenine,224,TN,Tunisia,82,governorate,33.2280565,10.8903099,medenine
 2553,Monastir,224,TN,Tunisia,52,governorate,35.7642515,10.8112885,monastir
-5116,Nabeul,224,TN,Tunisia,21,governorate,36.4524591,10.6803222,nabeul
+5116,Nabeul,224,TN,Tunisia,21,governorate,36.4524591,10.680322199999999,nabeul
 2557,Sfax,224,TN,Tunisia,61,governorate,34.8606581,10.3497895,sfax
 2567,Sidi Bouzid,224,TN,Tunisia,43,governorate,35.0354386,9.4839392,sidi-bouzid
 2563,Siliana,224,TN,Tunisia,34,governorate,36.0887208,9.3645335,siliana
@@ -4332,7 +3741,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 2565,Zaghouan,224,TN,Tunisia,22,governorate,36.4091188,10.1423172,zaghouan
 2212,Adana,225,TR,Turkey,01,province,37.2612315,35.3905046,adana
 2155,Adıyaman,225,TR,Turkey,02,province,37.9078291,38.4849923,adiyaman
-2179,Afyonkarahisar,225,TR,Turkey,03,province,38.7391099,30.7120023,afyonkarahisar
+2179,Afyonkarahisar,225,TR,Turkey,03,province,38.7391099,30.712002299999998,afyonkarahisar
 2193,Ağrı,225,TR,Turkey,04,province,39.6269218,43.0215965,agri
 2210,Aksaray,225,TR,Turkey,68,province,38.3352043,33.9750018,aksaray
 2161,Amasya,225,TR,Turkey,05,province,40.6516608,35.9037966,amasya
@@ -4427,9 +3836,9 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 3950,Vaitupu,228,TV,Tuvalu,VAI,,-7.4767327,178.6747675,vaitupu
 329,Abim District,229,UG,Uganda,314,,2.706698,33.6595337,abim-district
 361,Adjumani District,229,UG,Uganda,301,,3.2548527,31.7195459,adjumani-district
-392,Agago District,229,UG,Uganda,322,,2.925082,33.3486147,agago-district
+392,Agago District,229,UG,Uganda,322,,2.9250819999999997,33.3486147,agago-district
 344,Alebtong District,229,UG,Uganda,323,,2.2545773,33.3486147,alebtong-district
-416,Amolatar District,229,UG,Uganda,315,,1.6054402,32.8084496,amolatar-district
+416,Amolatar District,229,UG,Uganda,315,,1.6054401999999999,32.8084496,amolatar-district
 353,Amudat District,229,UG,Uganda,324,,1.7916224,34.906551,amudat-district
 352,Amuria District,229,UG,Uganda,216,,2.03017,33.6427533,amuria-district
 335,Amuru District,229,UG,Uganda,316,,2.9667878,32.0837445,amuru-district
@@ -4437,31 +3846,31 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 447,Arua District,229,UG,Uganda,303,,2.9959846,31.1710389,arua-district
 441,Budaka District,229,UG,Uganda,217,,1.1016277,33.9303991,budaka-district
 349,Bududa District,229,UG,Uganda,218,,1.0029693,34.3338123,bududa-district
-387,Bugiri District,229,UG,Uganda,201,,0.5316127,33.7517723,bugiri-district
+387,Bugiri District,229,UG,Uganda,201,,0.5316126999999999,33.7517723,bugiri-district
 391,Buhweju District,229,UG,Uganda,420,,-0.2911359,30.2974199,buhweju-district
 377,Buikwe District,229,UG,Uganda,117,,0.3144046,32.9888319,buikwe-district
 343,Bukedea District,229,UG,Uganda,219,,1.3556898,34.1086793,bukedea-district
 375,Bukomansimbi District,229,UG,Uganda,118,,-0.1432752,31.6054893,bukomansimbi-district
 385,Bukwo District,229,UG,Uganda,220,,1.2818651,34.7298765,bukwo-district
-428,Bulambuli District,229,UG,Uganda,225,,1.4798846,34.3754414,bulambuli-district
+428,Bulambuli District,229,UG,Uganda,225,,1.4798845999999999,34.3754414,bulambuli-district
 389,Buliisa District,229,UG,Uganda,416,,2.0299607,31.5370003,buliisa-district
 419,Bundibugyo District,229,UG,Uganda,401,,0.6851763,30.0202964,bundibugyo-district
-381,Bunyangabu District,229,UG,Uganda,430,,0.4870918,30.2051096,bunyangabu-district
-386,Bushenyi District,229,UG,Uganda,402,,-0.4870918,30.2051096,bushenyi-district
+381,Bunyangabu District,229,UG,Uganda,430,,0.48709179999999996,30.2051096,bunyangabu-district
+386,Bushenyi District,229,UG,Uganda,402,,-0.48709179999999996,30.2051096,bushenyi-district
 431,Busia District,229,UG,Uganda,202,,0.4044731,34.0195827,busia-district
-365,Butaleja District,229,UG,Uganda,221,,0.8474922,33.8411288,butaleja-district
-384,Butambala District,229,UG,Uganda,119,,0.17425,32.1064668,butambala-district
+365,Butaleja District,229,UG,Uganda,221,,0.8474921999999999,33.8411288,butaleja-district
+384,Butambala District,229,UG,Uganda,119,,0.17425000000000002,32.1064668,butambala-district
 388,Butebo District,229,UG,Uganda,233,,1.2141124,33.9080896,butebo-district
-414,Buvuma District,229,UG,Uganda,120,,-0.3764912,33.258793,buvuma-district
+414,Buvuma District,229,UG,Uganda,120,,-0.37649119999999997,33.258793,buvuma-district
 380,Buyende District,229,UG,Uganda,226,,1.2413682,33.1239049,buyende-district
 396,Central Region,229,UG,Uganda,C,,44.296875,-94.7401733,central-region
 341,Dokolo District,229,UG,Uganda,317,,1.9636421,33.0338767,dokolo-district
 372,Eastern Region,229,UG,Uganda,E,,6.2374036,-0.4502368,eastern-region
-366,Gomba District,229,UG,Uganda,121,,0.2229791,31.6739371,gomba-district
+366,Gomba District,229,UG,Uganda,121,,0.22297909999999999,31.6739371,gomba-district
 413,Gulu District,229,UG,Uganda,304,,2.8185776,32.4467238,gulu-district
-339,Ibanda District,229,UG,Uganda,417,,-0.096489,30.5739579,ibanda-district
-340,Iganga District,229,UG,Uganda,203,,0.6600137,33.4831906,iganga-district
-383,Isingiro District,229,UG,Uganda,418,,-0.843543,30.8039474,isingiro-district
+339,Ibanda District,229,UG,Uganda,417,,-0.09648899999999999,30.5739579,ibanda-district
+340,Iganga District,229,UG,Uganda,203,,0.6600136999999999,33.4831906,iganga-district
+383,Isingiro District,229,UG,Uganda,418,,-0.8435429999999999,30.8039474,isingiro-district
 367,Jinja District,229,UG,Uganda,204,,0.5343743,33.3037143,jinja-district
 434,Kaabong District,229,UG,Uganda,318,,3.5126215,33.9750018,kaabong-district
 426,Kabale District,229,UG,Uganda,404,,-1.2493084,30.0665236,kabale-district
@@ -4472,16 +3881,16 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 405,Kalangala District,229,UG,Uganda,101,,-0.6350578,32.5372741,kalangala-district
 398,Kaliro District,229,UG,Uganda,222,,1.0431107,33.4831906,kaliro-district
 394,Kalungu District,229,UG,Uganda,122,,-0.0952831,31.7651362,kalungu-district
-382,Kampala District,229,UG,Uganda,102,,0.3475964,32.5825197,kampala-district
+382,Kampala District,229,UG,Uganda,102,,0.34759639999999997,32.5825197,kampala-district
 334,Kamuli District,229,UG,Uganda,205,,0.9187107,33.1239049,kamuli-district
 360,Kamwenge District,229,UG,Uganda,413,,0.225793,30.4818446,kamwenge-district
 373,Kanungu District,229,UG,Uganda,414,,-0.8195253,29.742604,kanungu-district
 432,Kapchorwa District,229,UG,Uganda,206,,1.3350205,34.3976356,kapchorwa-district
-440,Kasese District,229,UG,Uganda,406,,0.0646285,30.0665236,kasese-district
+440,Kasese District,229,UG,Uganda,406,,0.06462849999999999,30.0665236,kasese-district
 420,Katakwi District,229,UG,Uganda,207,,1.973103,34.0641419,katakwi-district
 368,Kayunga District,229,UG,Uganda,112,,0.9860182,32.8535755,kayunga-district
-436,Kibaale District,229,UG,Uganda,407,,0.9066802,31.0793705,kibaale-district
-347,Kiboga District,229,UG,Uganda,103,,0.965759,31.7195459,kiboga-district
+436,Kibaale District,229,UG,Uganda,407,,0.9066801999999999,31.0793705,kibaale-district
+347,Kiboga District,229,UG,Uganda,103,,0.9657589999999999,31.7195459,kiboga-district
 338,Kibuku District,229,UG,Uganda,227,,1.0452874,33.7992536,kibuku-district
 355,Kiruhura District,229,UG,Uganda,419,,-0.1927998,30.8039474,kiruhura-district
 346,Kiryandongo District,229,UG,Uganda,421,,2.0179907,32.0837445,kiryandongo-district
@@ -4501,11 +3910,11 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 445,Luuka District,229,UG,Uganda,229,,0.7250599,33.3037143,luuka-district
 433,Luwero District,229,UG,Uganda,104,,0.8271118,32.6277455,luwero-district
 417,Lwengo District,229,UG,Uganda,124,,-0.4165288,31.3998995,lwengo-district
-376,Lyantonde District,229,UG,Uganda,114,,-0.2240696,31.2168466,lyantonde-district
+376,Lyantonde District,229,UG,Uganda,114,,-0.22406959999999998,31.2168466,lyantonde-district
 438,Manafwa District,229,UG,Uganda,223,,0.9063599,34.2866091,manafwa-district
 421,Maracha District,229,UG,Uganda,320,,3.2873127,30.9403023,maracha-district
-356,Masaka District,229,UG,Uganda,105,,-0.4463691,31.9017954,masaka-district
-354,Masindi District,229,UG,Uganda,409,,1.4920363,31.7195459,masindi-district
+356,Masaka District,229,UG,Uganda,105,,-0.44636909999999996,31.9017954,masaka-district
+354,Masindi District,229,UG,Uganda,409,,1.4920362999999999,31.7195459,masindi-district
 418,Mayuge District,229,UG,Uganda,214,,-0.2182982,33.5728027,mayuge-district
 350,Mbale District,229,UG,Uganda,209,,1.0344274,34.1976882,mbale-district
 415,Mbarara District,229,UG,Uganda,410,,-0.6071596,30.6545022,mbarara-district
@@ -4520,14 +3929,14 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 423,Nakaseke District,229,UG,Uganda,116,,1.2230848,32.0837445,nakaseke-district
 406,Nakasongola District,229,UG,Uganda,109,,1.3489721,32.4467238,nakasongola-district
 351,Namayingo District,229,UG,Uganda,230,,-0.2803575,33.7517723,namayingo-district
-400,Namisindwa District,229,UG,Uganda,234,,0.907101,34.3574037,namisindwa-district
-337,Namutumba District,229,UG,Uganda,224,,0.849261,33.6623301,namutumba-district
+400,Namisindwa District,229,UG,Uganda,234,,0.9071009999999999,34.3574037,namisindwa-district
+337,Namutumba District,229,UG,Uganda,224,,0.8492609999999999,33.6623301,namutumba-district
 430,Napak District,229,UG,Uganda,327,,2.3629945,34.2421597,napak-district
 446,Nebbi District,229,UG,Uganda,310,,2.4409392,31.3541631,nebbi-district
 424,Ngora District,229,UG,Uganda,231,,1.4908115,33.7517723,ngora-district
-332,Northern Region,229,UG,Uganda,N,,9.5439269,-0.9056623,northern-region
+332,Northern Region,229,UG,Uganda,N,,9.5439269,-0.9056622999999999,northern-region
 422,Ntoroko District,229,UG,Uganda,424,,1.0788178,30.3896651,ntoroko-district
-404,Ntungamo District,229,UG,Uganda,411,,-0.9807341,30.2512728,ntungamo-district
+404,Ntungamo District,229,UG,Uganda,411,,-0.9807340999999999,30.2512728,ntungamo-district
 378,Nwoya District,229,UG,Uganda,328,,2.562444,31.9017954,nwoya-district
 374,Omoro District,229,UG,Uganda,331,,2.715223,32.4920088,omoro-district
 390,Otuke District,229,UG,Uganda,329,,2.5214059,33.3486147,otuke-district
@@ -4545,8 +3954,8 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 407,Sheema District,229,UG,Uganda,426,,-0.5515298,30.3896651,sheema-district
 429,Sironko District,229,UG,Uganda,215,,1.2302274,34.2491064,sironko-district
 444,Soroti District,229,UG,Uganda,211,,1.7229117,33.5280072,soroti-district
-359,Tororo District,229,UG,Uganda,212,,0.6870994,34.0641419,tororo-district
-362,Wakiso District,229,UG,Uganda,113,,0.063019,32.4467238,wakiso-district
+359,Tororo District,229,UG,Uganda,212,,0.6870993999999999,34.0641419,tororo-district
+362,Wakiso District,229,UG,Uganda,113,,0.06301899999999999,32.4467238,wakiso-district
 370,Western Region,229,UG,Uganda,W,,40.7667215,-111.8877203,western-region
 330,Yumbe District,229,UG,Uganda,313,,3.4698023,31.2483291,yumbe-district
 379,Zombo District,229,UG,Uganda,330,,2.5544293,30.9417368,zombo-district
@@ -4583,289 +3992,32 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 3394,Ras al-Khaimah,231,AE,United Arab Emirates,RK,,25.6741343,55.9804173,ras-al-khaimah
 3390,Sharjah Emirate,231,AE,United Arab Emirates,SH,,25.0753974,55.7578403,sharjah-emirate
 3392,Umm al-Quwain,231,AE,United Arab Emirates,UQ,,25.5426324,55.5475348,umm-al-quwain
-2463,Aberdeen,232,GB,United Kingdom,ABE,,57.149717,-2.094278,aberdeen
-2401,Aberdeenshire,232,GB,United Kingdom,ABD,,57.2868723,-2.3815684,aberdeenshire
-2387,Angus,232,GB,United Kingdom,ANS,,37.2757886,-95.6501033,angus
-2533,Antrim,232,GB,United Kingdom,ANT,,54.7195338,-6.2072498,antrim
-2412,Antrim and Newtownabbey,232,GB,United Kingdom,ANN,,54.6956887,-5.9481069,antrim-and-newtownabbey
-2498,Ards,232,GB,United Kingdom,ARD,,42.1391851,-87.8614972,ards
-2523,Ards and North Down,232,GB,United Kingdom,AND,,54.5899645,-5.5984972,ards-and-north-down
-2392,Argyll and Bute,232,GB,United Kingdom,AGB,,56.4006214,-5.480748,argyll-and-bute
-2331,Armagh City and District Council,232,GB,United Kingdom,ARM,,54.3932592,-6.4563401,armagh-city-and-district-council
-2324,"Armagh, Banbridge and Craigavon",232,GB,United Kingdom,ABC,,54.3932592,-6.4563401,armagh-banbridge-and-craigavon
-2378,Ascension Island,232,GB,United Kingdom,SH-AC,,-7.9467166,-14.3559158,ascension-island
-2363,Ballymena Borough,232,GB,United Kingdom,BLA,,54.86426,-6.2791074,ballymena-borough
-2361,Ballymoney,232,GB,United Kingdom,BLY,,55.0704888,-6.5173708,ballymoney
-2315,Banbridge,232,GB,United Kingdom,BNB,,54.348729,-6.2704803,banbridge
-2499,Barnsley,232,GB,United Kingdom,BNS,,34.2994956,-84.9845809,barnsley
-2339,Bath and North East Somerset,232,GB,United Kingdom,BAS,,51.3250102,-2.4766241,bath-and-north-east-somerset
-2507,Bedford,232,GB,United Kingdom,BDF,,32.844017,-97.1430671,bedford
-2311,Belfast district,232,GB,United Kingdom,BFS,,54.6170366,-5.9531861,belfast-district
-2425,Birmingham,232,GB,United Kingdom,BIR,,33.5185892,-86.8103567,birmingham
-2329,Blackburn with Darwen,232,GB,United Kingdom,BBD,,53.6957522,-2.4682985,blackburn-with-darwen
-2451,Blackpool,232,GB,United Kingdom,BPL,,53.8175053,-3.0356748,blackpool
-2530,Blaenau Gwent County Borough,232,GB,United Kingdom,BGW,,51.7875779,-3.2043931,blaenau-gwent-county-borough
-2504,Bolton,232,GB,United Kingdom,BOL,,44.3726476,-72.8787625,bolton
-2342,Bournemouth,232,GB,United Kingdom,BMH,,50.719164,-1.880769,bournemouth
-2470,Bracknell Forest,232,GB,United Kingdom,BRC,,51.4153828,-0.7536495,bracknell-forest
-2529,Bradford,232,GB,United Kingdom,BRD,,53.795984,-1.759398,bradford
-2452,Bridgend County Borough,232,GB,United Kingdom,BGE,,51.5083199,-3.5812075,bridgend-county-borough
-2395,Brighton and Hove,232,GB,United Kingdom,BNH,,50.8226288,-0.137047,brighton-and-hove
-2405,Buckinghamshire,232,GB,United Kingdom,BKM,,51.8072204,-0.8127664,buckinghamshire
-2459,Bury,232,GB,United Kingdom,BUR,,53.5933498,-2.2966054,bury
-2298,Caerphilly County Borough,232,GB,United Kingdom,CAY,,51.6604465,-3.2178724,caerphilly-county-borough
-2517,Calderdale,232,GB,United Kingdom,CLD,,53.7247845,-1.8658357,calderdale
-2423,Cambridgeshire,232,GB,United Kingdom,CAM,,52.2052973,0.1218195,cambridgeshire
-2484,Carmarthenshire,232,GB,United Kingdom,CMN,,51.8572309,-4.3115959,carmarthenshire
-2439,Carrickfergus Borough Council,232,GB,United Kingdom,CKF,,54.7256843,-5.8093719,carrickfergus-borough-council
-2525,Castlereagh,232,GB,United Kingdom,CSR,,54.575679,-5.8884028,castlereagh
-2316,Causeway Coast and Glens,232,GB,United Kingdom,CCG,,55.043183,-6.6741288,causeway-coast-and-glens
-2303,Central Bedfordshire,232,GB,United Kingdom,CBF,,52.0029744,-0.4651389,central-bedfordshire
-2509,Ceredigion,232,GB,United Kingdom,CGN,,52.2191429,-3.9321256,ceredigion
-2444,Cheshire East,232,GB,United Kingdom,CHE,,53.1610446,-2.2185932,cheshire-east
-2442,Cheshire West and Chester,232,GB,United Kingdom,CHW,,53.2302974,-2.7151117,cheshire-west-and-chester
-2528,City and County of Cardiff,232,GB,United Kingdom,CRF,,51.481581,-3.17909,city-and-county-of-cardiff
-2433,City and County of Swansea,232,GB,United Kingdom,SWA,,51.62144,-3.943646,city-and-county-of-swansea
-2413,City of Bristol,232,GB,United Kingdom,BST,,41.673522,-72.9465375,city-of-bristol
-2485,City of Derby,232,GB,United Kingdom,DER,,37.5483755,-97.2485191,city-of-derby
-2475,City of Kingston upon Hull,232,GB,United Kingdom,KHL,,53.7676236,-0.3274198,city-of-kingston-upon-hull
-2318,City of Leicester,232,GB,United Kingdom,LCE,,52.6368778,-1.1397592,city-of-leicester
-2424,City of London,232,GB,United Kingdom,LND,,51.5123443,-0.0909852,city-of-london
-2359,City of Nottingham,232,GB,United Kingdom,NGM,,52.9547832,-1.1581086,city-of-nottingham
-2297,City of Peterborough,232,GB,United Kingdom,PTE,,44.3093636,-78.320153,city-of-peterborough
-2514,City of Plymouth,232,GB,United Kingdom,PLY,,42.3708941,-83.4697141,city-of-plymouth
-2305,City of Portsmouth,232,GB,United Kingdom,POR,,36.832915,-76.2975549,city-of-portsmouth
-2294,City of Southampton,232,GB,United Kingdom,STH,,50.9097004,-1.4043509,city-of-southampton
-2506,City of Stoke-on-Trent,232,GB,United Kingdom,STE,,53.002668,-2.179404,city-of-stoke-on-trent
-2372,City of Sunderland,232,GB,United Kingdom,SND,,54.8861489,-1.4785797,city-of-sunderland
-2357,City of Westminster,232,GB,United Kingdom,WSM,,39.5765977,-76.9972126,city-of-westminster
-2489,City of Wolverhampton,232,GB,United Kingdom,WLV,,52.588912,-2.156463,city-of-wolverhampton
-2426,City of York,232,GB,United Kingdom,YOR,,53.9599651,-1.0872979,city-of-york
-2450,Clackmannanshire,232,GB,United Kingdom,CLK,,56.1075351,-3.7529409,clackmannanshire
-2461,Coleraine Borough Council,232,GB,United Kingdom,CLR,,55.145157,-6.6759814,coleraine-borough-council
-2352,Conwy County Borough,232,GB,United Kingdom,CWY,,53.2935013,-3.7265161,conwy-county-borough
-2445,Cookstown District Council,232,GB,United Kingdom,CKT,,54.6418158,-6.7443895,cookstown-district-council
-2312,Cornwall,232,GB,United Kingdom,CON,,50.2660471,-5.0527125,cornwall
-2406,County Durham,232,GB,United Kingdom,DUR,,54.7294099,-1.8811598,county-durham
-2438,Coventry,232,GB,United Kingdom,COV,,52.406822,-1.519693,coventry
-2449,Craigavon Borough Council,232,GB,United Kingdom,CGV,,54.3932592,-6.4563401,craigavon-borough-council
-2334,Cumbria,232,GB,United Kingdom,CMA,,54.5772323,-2.7974835,cumbria
-2389,Darlington,232,GB,United Kingdom,DAL,,34.2998762,-79.8761741,darlington
-2497,Denbighshire,232,GB,United Kingdom,DEN,,53.1842288,-3.4224985,denbighshire
-2403,Derbyshire,232,GB,United Kingdom,DBY,,53.1046782,-1.5623885,derbyshire
-2446,Derry City and Strabane,232,GB,United Kingdom,DRS,,55.0047443,-7.3209222,derry-city-and-strabane
-2417,Derry City Council,232,GB,United Kingdom,DRY,,54.9690778,-7.1958351,derry-city-council
-2491,Devon,232,GB,United Kingdom,DEV,,50.7155591,-3.530875,devon
-2364,Doncaster,232,GB,United Kingdom,DNC,,53.52282,-1.128462,doncaster
-2345,Dorset,232,GB,United Kingdom,DOR,,50.7487635,-2.3444786,dorset
-2304,Down District Council,232,GB,United Kingdom,DOW,,54.2434287,-5.9577959,down-district-council
-2457,Dudley,232,GB,United Kingdom,DUD,,42.0433661,-71.9276033,dudley
-2415,Dumfries and Galloway,232,GB,United Kingdom,DGY,,55.0701073,-3.6052581,dumfries-and-galloway
-2511,Dundee,232,GB,United Kingdom,DND,,56.462018,-2.970721,dundee
-2508,Dungannon and South Tyrone Borough Council,232,GB,United Kingdom,DGN,,54.5082684,-6.7665891,dungannon-and-south-tyrone-borough-council
-2374,East Ayrshire,232,GB,United Kingdom,EAY,,55.4518496,-4.2644478,east-ayrshire
-2454,East Dunbartonshire,232,GB,United Kingdom,EDU,,55.9743162,-4.202298,east-dunbartonshire
-2462,East Lothian,232,GB,United Kingdom,ELN,,55.9493383,-2.7704464,east-lothian
-2333,East Renfrewshire,232,GB,United Kingdom,ERW,,55.7704735,-4.3359821,east-renfrewshire
-2370,East Riding of Yorkshire,232,GB,United Kingdom,ERY,,53.8416168,-0.4344106,east-riding-of-yorkshire
-2414,East Sussex,232,GB,United Kingdom,ESX,,50.9085955,0.2494166,east-sussex
-2428,Edinburgh,232,GB,United Kingdom,EDH,,55.953252,-3.188267,edinburgh
-2336,England,232,GB,United Kingdom,ENG,,52.3555177,-1.1743197,england
-2410,Essex,232,GB,United Kingdom,ESS,,51.5742447,0.4856781,essex
-2344,Falkirk,232,GB,United Kingdom,FAL,,56.0018775,-3.7839131,falkirk
-2366,Fermanagh and Omagh,232,GB,United Kingdom,FMO,,54.4513524,-7.7125018,fermanagh-and-omagh
-2531,Fermanagh District Council,232,GB,United Kingdom,FER,,54.3447978,-7.6384218,fermanagh-district-council
-2479,Fife,232,GB,United Kingdom,FIF,,56.2082078,-3.1495175,fife
-2437,Flintshire,232,GB,United Kingdom,FLN,,53.1668658,-3.1418908,flintshire
-2431,Gateshead,232,GB,United Kingdom,GAT,,54.95268,-1.603411,gateshead
-2404,Glasgow,232,GB,United Kingdom,GLG,,55.864237,-4.251806,glasgow
-2373,Gloucestershire,232,GB,United Kingdom,GLS,,51.8642112,-2.2380335,gloucestershire
-2379,Gwynedd,232,GB,United Kingdom,GWN,,52.9277266,-4.1334836,gwynedd
-2466,Halton,232,GB,United Kingdom,HAL,,43.5325372,-79.8744836,halton
-2435,Hampshire,232,GB,United Kingdom,HAM,,51.0576948,-1.3080629,hampshire
-2309,Hartlepool,232,GB,United Kingdom,HPL,,54.691745,-1.212926,hartlepool
-2500,Herefordshire,232,GB,United Kingdom,HEF,,52.0765164,-2.6544182,herefordshire
-2369,Hertfordshire,232,GB,United Kingdom,HRT,,51.8097823,-0.2376744,hertfordshire
-2383,Highland,232,GB,United Kingdom,HLD,,36.2967508,-95.8380366,highland
-2388,Inverclyde,232,GB,United Kingdom,IVC,,55.9316569,-4.6800158,inverclyde
-2289,Isle of Wight,232,GB,United Kingdom,IOW,,50.6938479,-1.304734,isle-of-wight
-2343,Isles of Scilly,232,GB,United Kingdom,IOS,,49.9277261,-6.3274966,isles-of-scilly
-2464,Kent,232,GB,United Kingdom,KEN,,41.1536674,-81.3578859,kent
-2371,Kirklees,232,GB,United Kingdom,KIR,,53.5933432,-1.8009509,kirklees
-2330,Knowsley,232,GB,United Kingdom,KWL,,53.454594,-2.852907,knowsley
-2495,Lancashire,232,GB,United Kingdom,LAN,,53.7632254,-2.7044052,lancashire
-2515,Larne Borough Council,232,GB,United Kingdom,LRN,,54.8578003,-5.8236224,larne-borough-council
-2503,Leeds,232,GB,United Kingdom,LDS,,53.8007554,-1.5490774,leeds
-2516,Leicestershire,232,GB,United Kingdom,LEC,,52.772571,-1.2052126,leicestershire
-2382,Limavady Borough Council,232,GB,United Kingdom,LMV,,55.051682,-6.9491944,limavady-borough-council
-2355,Lincolnshire,232,GB,United Kingdom,LIN,,52.9451889,-0.1601246,lincolnshire
-2460,Lisburn and Castlereagh,232,GB,United Kingdom,LBC,,54.4981584,-6.1306791,lisburn-and-castlereagh
-2494,Lisburn City Council,232,GB,United Kingdom,LSB,,54.4981584,-6.1306791,lisburn-city-council
-2340,Liverpool,232,GB,United Kingdom,LIV,,32.6564981,-115.4763241,liverpool
-2356,London Borough of Barking and Dagenham,232,GB,United Kingdom,BDG,,51.5540666,0.134017,london-borough-of-barking-and-dagenham
-2520,London Borough of Barnet,232,GB,United Kingdom,BNE,,51.6049673,-0.2076295,london-borough-of-barnet
-2307,London Borough of Bexley,232,GB,United Kingdom,BEX,,51.4519021,0.1171786,london-borough-of-bexley
-2291,London Borough of Brent,232,GB,United Kingdom,BEN,,51.5672808,-0.2710568,london-borough-of-brent
-2490,London Borough of Bromley,232,GB,United Kingdom,BRY,,51.3679705,0.070062,london-borough-of-bromley
-2349,London Borough of Camden,232,GB,United Kingdom,CMD,,51.5454736,-0.1627902,london-borough-of-camden
-2512,London Borough of Croydon,232,GB,United Kingdom,CRY,,51.3827446,-0.0985163,london-borough-of-croydon
-2532,London Borough of Ealing,232,GB,United Kingdom,EAL,,51.5250366,-0.3413965,london-borough-of-ealing
-2476,London Borough of Enfield,232,GB,United Kingdom,ENF,,51.6622909,-0.1180651,london-borough-of-enfield
-2411,London Borough of Hackney,232,GB,United Kingdom,HCK,,51.573445,-0.0724376,london-borough-of-hackney
-2448,London Borough of Hammersmith and Fulham,232,GB,United Kingdom,HMF,,51.4990156,-0.22915,london-borough-of-hammersmith-and-fulham
-2306,London Borough of Haringey,232,GB,United Kingdom,HRY,,51.5906113,-0.1109709,london-borough-of-haringey
-2385,London Borough of Harrow,232,GB,United Kingdom,HRW,,51.5881627,-0.3422851,london-borough-of-harrow
-2347,London Borough of Havering,232,GB,United Kingdom,HAV,,51.577924,0.2120829,london-borough-of-havering
-2376,London Borough of Hillingdon,232,GB,United Kingdom,HIL,,51.5351832,-0.4481378,london-borough-of-hillingdon
-2380,London Borough of Hounslow,232,GB,United Kingdom,HNS,,51.4828358,-0.3882062,london-borough-of-hounslow
-2319,London Borough of Islington,232,GB,United Kingdom,ISL,,51.5465063,-0.1058058,london-borough-of-islington
-2396,London Borough of Lambeth,232,GB,United Kingdom,LBH,,51.4571477,-0.1230681,london-borough-of-lambeth
-2358,London Borough of Lewisham,232,GB,United Kingdom,LEW,,51.4414579,-0.0117006,london-borough-of-lewisham
-2483,London Borough of Merton,232,GB,United Kingdom,MRT,,51.4097742,-0.2108084,london-borough-of-merton
-2418,London Borough of Newham,232,GB,United Kingdom,NWM,,51.5255162,0.0352163,london-borough-of-newham
-2397,London Borough of Redbridge,232,GB,United Kingdom,RDB,,51.5886121,0.0823982,london-borough-of-redbridge
-2501,London Borough of Richmond upon Thames,232,GB,United Kingdom,RIC,,51.4613054,-0.3037709,london-borough-of-richmond-upon-thames
-2432,London Borough of Southwark,232,GB,United Kingdom,SWK,,51.4880572,-0.0762838,london-borough-of-southwark
-2313,London Borough of Sutton,232,GB,United Kingdom,STN,,51.3573762,-0.1752796,london-borough-of-sutton
-2390,London Borough of Tower Hamlets,232,GB,United Kingdom,TWH,,51.5202607,-0.0293396,london-borough-of-tower-hamlets
-2326,London Borough of Waltham Forest,232,GB,United Kingdom,WFT,,51.5886383,-0.0117625,london-borough-of-waltham-forest
-2434,London Borough of Wandsworth,232,GB,United Kingdom,WND,,51.4568274,-0.1896638,london-borough-of-wandsworth
-2322,Magherafelt District Council,232,GB,United Kingdom,MFT,,54.7553279,-6.6077487,magherafelt-district-council
-2398,Manchester,232,GB,United Kingdom,MAN,,53.4807593,-2.2426305,manchester
-2381,Medway,232,GB,United Kingdom,MDW,,42.1417641,-71.3967256,medway
-2328,Merthyr Tydfil County Borough,232,GB,United Kingdom,MTY,,51.7467474,-3.3813275,merthyr-tydfil-county-borough
-2320,Metropolitan Borough of Wigan,232,GB,United Kingdom,WGN,,53.5134812,-2.6106999,metropolitan-borough-of-wigan
-2429,Mid and East Antrim,232,GB,United Kingdom,MEA,,54.9399341,-6.1137423,mid-and-east-antrim
-2399,Mid Ulster,232,GB,United Kingdom,MUL,,54.6411301,-6.7522549,mid-ulster
-2332,Middlesbrough,232,GB,United Kingdom,MDB,,54.574227,-1.234956,middlesbrough
-2519,Midlothian,232,GB,United Kingdom,MLN,,32.475335,-97.0103181,midlothian
-2416,Milton Keynes,232,GB,United Kingdom,MIK,,52.0852038,-0.7333133,milton-keynes
-2402,Monmouthshire,232,GB,United Kingdom,MON,,51.81161,-2.7163417,monmouthshire
-2360,Moray,232,GB,United Kingdom,MRY,,57.6498476,-3.3168039,moray
-2348,Moyle District Council,232,GB,United Kingdom,MYL,,55.2047327,-6.253174,moyle-district-council
-2351,Neath Port Talbot County Borough,232,GB,United Kingdom,NTL,,51.5978519,-3.7839668,neath-port-talbot-county-borough
-2458,Newcastle upon Tyne,232,GB,United Kingdom,NET,,54.978252,-1.61778,newcastle-upon-tyne
-2524,Newport,232,GB,United Kingdom,NWP,,37.5278234,-94.1043876,newport
-2350,Newry and Mourne District Council,232,GB,United Kingdom,NYM,,54.1742505,-6.3391992,newry-and-mourne-district-council
-2534,"Newry, Mourne and Down",232,GB,United Kingdom,NMD,,54.2434287,-5.9577959,newry-mourne-and-down
-2317,Newtownabbey Borough Council,232,GB,United Kingdom,NTA,,54.6792422,-5.9591102,newtownabbey-borough-council
-2473,Norfolk,232,GB,United Kingdom,NFK,,36.8507689,-76.2858726,norfolk
-2535,North Ayrshire,232,GB,United Kingdom,NAY,,55.6416731,-4.75946,north-ayrshire
-2513,North Down Borough Council,232,GB,United Kingdom,NDN,,54.6536297,-5.6724925,north-down-borough-council
-2384,North East Lincolnshire,232,GB,United Kingdom,NEL,,53.5668201,-0.0815066,north-east-lincolnshire
-2487,North Lanarkshire,232,GB,United Kingdom,NLK,,55.8662432,-3.9613144,north-lanarkshire
-2453,North Lincolnshire,232,GB,United Kingdom,NLN,,53.6055592,-0.5596582,north-lincolnshire
-2430,North Somerset,232,GB,United Kingdom,NSM,,51.3879028,-2.7781091,north-somerset
-2521,North Tyneside,232,GB,United Kingdom,NTY,,55.0182399,-1.4858436,north-tyneside
-2522,North Yorkshire,232,GB,United Kingdom,NYK,,53.9915028,-1.5412015,north-yorkshire
-2480,Northamptonshire,232,GB,United Kingdom,NTH,,52.2729944,-0.8755515,northamptonshire
-2337,Northern Ireland,232,GB,United Kingdom,NIR,,54.7877149,-6.4923145,northern-ireland
-2365,Northumberland,232,GB,United Kingdom,NBL,,55.2082542,-2.0784138,northumberland
-2456,Nottinghamshire,232,GB,United Kingdom,NTT,,53.100319,-0.9936306,nottinghamshire
-2477,Oldham,232,GB,United Kingdom,OLD,,42.2040598,-71.2048119,oldham
-2314,Omagh District Council,232,GB,United Kingdom,OMH,,54.4513524,-7.7125018,omagh-district-council
-2474,Orkney Islands,232,GB,United Kingdom,ORK,,58.9809401,-2.9605206,orkney-islands
-2353,Outer Hebrides,232,GB,United Kingdom,ELS,,57.7598918,-7.0194034,outer-hebrides
-2321,Oxfordshire,232,GB,United Kingdom,OXF,,51.7612056,-1.2464674,oxfordshire
-2486,Pembrokeshire,232,GB,United Kingdom,PEM,,51.674078,-4.9088785,pembrokeshire
-2325,Perth and Kinross,232,GB,United Kingdom,PKN,,56.3953817,-3.4283547,perth-and-kinross
-2302,Poole,232,GB,United Kingdom,POL,,50.71505,-1.987248,poole
-2441,Powys,232,GB,United Kingdom,POW,,52.6464249,-3.3260904,powys
-2455,Reading,232,GB,United Kingdom,RDG,,36.1486659,-95.9840012,reading
-2527,Redcar and Cleveland,232,GB,United Kingdom,RCC,,54.5971344,-1.0775997,redcar-and-cleveland
-2443,Renfrewshire,232,GB,United Kingdom,RFW,,55.846654,-4.5331259,renfrewshire
-2301,Rhondda Cynon Taf,232,GB,United Kingdom,RCT,,51.6490207,-3.4288692,rhondda-cynon-taf
-2327,Rochdale,232,GB,United Kingdom,RCH,,53.6097136,-2.1561,rochdale
-2308,Rotherham,232,GB,United Kingdom,ROT,,53.4326035,-1.3635009,rotherham
-2492,Royal Borough of Greenwich,232,GB,United Kingdom,GRE,,51.4834627,0.0586202,royal-borough-of-greenwich
-2368,Royal Borough of Kensington and Chelsea,232,GB,United Kingdom,KEC,,51.4990805,-0.1938253,royal-borough-of-kensington-and-chelsea
-2481,Royal Borough of Kingston upon Thames,232,GB,United Kingdom,KTT,,51.378117,-0.292709,royal-borough-of-kingston-upon-thames
-2472,Rutland,232,GB,United Kingdom,RUT,,43.6106237,-72.9726065,rutland
-2502,Saint Helena,232,GB,United Kingdom,SH-HL,,-15.9650104,-5.7089241,saint-helena
-2493,Salford,232,GB,United Kingdom,SLF,,53.4875235,-2.2901264,salford
-2341,Sandwell,232,GB,United Kingdom,SAW,,52.5361674,-2.010793,sandwell
-2335,Scotland,232,GB,United Kingdom,SCT,,56.4906712,-4.2026458,scotland
-2346,Scottish Borders,232,GB,United Kingdom,SCB,,55.5485697,-2.7861388,scottish-borders
-2518,Sefton,232,GB,United Kingdom,SFT,,53.5034449,-2.970359,sefton
-2295,Sheffield,232,GB,United Kingdom,SHF,,36.0950743,-80.2788466,sheffield
-2300,Shetland Islands,232,GB,United Kingdom,ZET,,60.5296507,-1.2659409,shetland-islands
-2407,Shropshire,232,GB,United Kingdom,SHR,,52.7063657,-2.7417849,shropshire
-2427,Slough,232,GB,United Kingdom,SLG,,51.5105384,-0.5950406,slough
-2469,Solihull,232,GB,United Kingdom,SOL,,52.411811,-1.77761,solihull
-2386,Somerset,232,GB,United Kingdom,SOM,,51.105097,-2.9262307,somerset
-2377,South Ayrshire,232,GB,United Kingdom,SAY,,55.4588988,-4.6291994,south-ayrshire
-2400,South Gloucestershire,232,GB,United Kingdom,SGC,,51.5264361,-2.4728487,south-gloucestershire
-2362,South Lanarkshire,232,GB,United Kingdom,SLK,,55.6735909,-3.7819661,south-lanarkshire
-2409,South Tyneside,232,GB,United Kingdom,STY,,54.9636693,-1.4418634,south-tyneside
-2323,Southend-on-Sea,232,GB,United Kingdom,SOS,,51.5459269,0.7077123,southend-on-sea
-2290,St Helens,232,GB,United Kingdom,SHN,,45.858961,-122.8212356,st-helens
-2447,Staffordshire,232,GB,United Kingdom,STS,,52.8792745,-2.0571868,staffordshire
-2488,Stirling,232,GB,United Kingdom,STG,,56.1165227,-3.9369029,stirling
-2394,Stockport,232,GB,United Kingdom,SKP,,53.4106316,-2.1575332,stockport
-2421,Stockton-on-Tees,232,GB,United Kingdom,STT,,54.5704551,-1.3289821,stockton-on-tees
-2393,Strabane District Council,232,GB,United Kingdom,STB,,54.8273865,-7.4633103,strabane-district-council
-2467,Suffolk,232,GB,United Kingdom,SFK,,52.1872472,0.9707801,suffolk
-2526,Surrey,232,GB,United Kingdom,SRY,,51.3147593,-0.5599501,surrey
-2422,Swindon,232,GB,United Kingdom,SWD,,51.5557739,-1.7797176,swindon
-2367,Tameside,232,GB,United Kingdom,TAM,,53.4805828,-2.0809891,tameside
-2310,Telford and Wrekin,232,GB,United Kingdom,TFW,,52.7409916,-2.4868586,telford-and-wrekin
-2468,Thurrock,232,GB,United Kingdom,THR,,51.4934557,0.3529197,thurrock
-2478,Torbay,232,GB,United Kingdom,TOB,,50.4392329,-3.5369899,torbay
-2496,Torfaen,232,GB,United Kingdom,TOF,,51.7002253,-3.0446015,torfaen
-2293,Trafford,232,GB,United Kingdom,TRF,,40.3856246,-79.7589347,trafford
-2375,United Kingdom,232,GB,United Kingdom,UKM,,55.378051,-3.435973,united-kingdom
-2299,Vale of Glamorgan,232,GB,United Kingdom,VGL,,51.4095958,-3.4848167,vale-of-glamorgan
-2465,Wakefield,232,GB,United Kingdom,WKF,,42.5039395,-71.0723391,wakefield
-2338,Wales,232,GB,United Kingdom,WLS,,52.1306607,-3.7837117,wales
-2292,Walsall,232,GB,United Kingdom,WLL,,52.586214,-1.982919,walsall
-2420,Warrington,232,GB,United Kingdom,WRT,,40.2492741,-75.1340604,warrington
-2505,Warwickshire,232,GB,United Kingdom,WAR,,52.2671353,-1.4675216,warwickshire
-2471,West Berkshire,232,GB,United Kingdom,WBK,,51.4308255,-1.1444927,west-berkshire
-2440,West Dunbartonshire,232,GB,United Kingdom,WDU,,55.9450925,-4.5646259,west-dunbartonshire
-2354,West Lothian,232,GB,United Kingdom,WLN,,55.9070198,-3.5517167,west-lothian
-2296,West Sussex,232,GB,United Kingdom,WSX,,50.9280143,-0.4617075,west-sussex
-2391,Wiltshire,232,GB,United Kingdom,WIL,,51.3491996,-1.9927105,wiltshire
-2482,Windsor and Maidenhead,232,GB,United Kingdom,WNM,,51.4799712,-0.6242565,windsor-and-maidenhead
-2408,Wirral,232,GB,United Kingdom,WRL,,53.3727181,-3.073754,wirral
-2419,Wokingham,232,GB,United Kingdom,WOK,,51.410457,-0.833861,wokingham
-2510,Worcestershire,232,GB,United Kingdom,WOR,,52.2545225,-2.2668382,worcestershire
-2436,Wrexham County Borough,232,GB,United Kingdom,WRX,,53.0301378,-3.0261487,wrexham-county-borough
 1456,Alabama,233,US,United States,AL,state,32.3182314,-86.902298,alabama
 1400,Alaska,233,US,United States,AK,state,64.2008413,-149.4936733,alaska
-1424,American Samoa,233,US,United States,AS,outlying area,-14.270972,-170.132217,american-samoa
 1434,Arizona,233,US,United States,AZ,state,34.0489281,-111.0937311,arizona
 1444,Arkansas,233,US,United States,AR,state,35.20105,-91.8318334,arkansas
-1402,Baker Island,233,US,United States,UM-81,islands / groups of islands,0.1936266,-176.476908,baker-island
 1416,California,233,US,United States,CA,state,36.778261,-119.4179324,california
 1450,Colorado,233,US,United States,CO,state,39.5500507,-105.7820674,colorado
 1435,Connecticut,233,US,United States,CT,state,41.6032207,-73.087749,connecticut
 1399,Delaware,233,US,United States,DE,state,38.9108325,-75.5276699,delaware
-1437,District of Columbia,233,US,United States,DC,district,38.9071923,-77.0368707,district-of-columbia
 1436,Florida,233,US,United States,FL,state,27.6648274,-81.5157535,florida
 1455,Georgia,233,US,United States,GA,state,32.1656221,-82.9000751,georgia
-1412,Guam,233,US,United States,GU,outlying area,13.444304,144.793731,guam
 1411,Hawaii,233,US,United States,HI,state,19.8967662,-155.5827818,hawaii
-1398,Howland Island,233,US,United States,UM-84,islands / groups of islands,0.8113219,-176.6182736,howland-island
 1460,Idaho,233,US,United States,ID,state,44.0682019,-114.7420408,idaho
 1425,Illinois,233,US,United States,IL,state,40.6331249,-89.3985283,illinois
 1440,Indiana,233,US,United States,IN,state,40.2671941,-86.1349019,indiana
 1459,Iowa,233,US,United States,IA,state,41.8780025,-93.097702,iowa
-1410,Jarvis Island,233,US,United States,UM-86,islands / groups of islands,-0.3743503,-159.9967206,jarvis-island
-1428,Johnston Atoll,233,US,United States,UM-67,islands / groups of islands,16.7295035,-169.5336477,johnston-atoll
 1406,Kansas,233,US,United States,KS,state,39.011902,-98.4842465,kansas
 1419,Kentucky,233,US,United States,KY,state,37.8393332,-84.2700179,kentucky
-1403,Kingman Reef,233,US,United States,UM-89,islands / groups of islands,6.383333,-162.416667,kingman-reef
 1457,Louisiana,233,US,United States,LA,state,30.9842977,-91.9623327,louisiana
 1453,Maine,233,US,United States,ME,state,45.253783,-69.4454689,maine
 1401,Maryland,233,US,United States,MD,state,39.0457549,-76.6412712,maryland
 1433,Massachusetts,233,US,United States,MA,state,42.4072107,-71.3824374,massachusetts
 1426,Michigan,233,US,United States,MI,state,44.3148443,-85.6023643,michigan
-1438,Midway Atoll,233,US,United States,UM-71,islands / groups of islands,28.2072168,-177.3734926,midway-atoll
 1420,Minnesota,233,US,United States,MN,state,46.729553,-94.6858998,minnesota
 1430,Mississippi,233,US,United States,MS,state,32.3546679,-89.3985283,mississippi
 1451,Missouri,233,US,United States,MO,state,37.9642529,-91.8318334,missouri
 1446,Montana,233,US,United States,MT,state,46.8796822,-110.3625658,montana
-1439,Navassa Island,233,US,United States,UM-76,islands / groups of islands,18.4100689,-75.0114612,navassa-island
 1408,Nebraska,233,US,United States,NE,state,41.4925374,-99.9018131,nebraska
 1458,Nevada,233,US,United States,NV,state,38.8026097,-116.419389,nevada
 1404,New Hampshire,233,US,United States,NH,state,43.1938516,-71.5723953,new-hampshire
@@ -4874,31 +4026,25 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 1452,New York,233,US,United States,NY,state,40.7127753,-74.0059728,new-york
 1447,North Carolina,233,US,United States,NC,state,35.7595731,-79.0192997,north-carolina
 1418,North Dakota,233,US,United States,ND,state,47.5514926,-101.0020119,north-dakota
-1431,Northern Mariana Islands,233,US,United States,MP,outlying area,15.0979,145.6739,northern-mariana-islands
 4851,Ohio,233,US,United States,OH,state,40.4172871,-82.907123,ohio
 1421,Oklahoma,233,US,United States,OK,state,35.4675602,-97.5164276,oklahoma
 1415,Oregon,233,US,United States,OR,state,43.8041334,-120.5542012,oregon
-1448,Palmyra Atoll,233,US,United States,UM-95,islands / groups of islands,5.8885026,-162.0786656,palmyra-atoll
 1422,Pennsylvania,233,US,United States,PA,state,41.2033216,-77.1945247,pennsylvania
-1449,Puerto Rico,233,US,United States,PR,outlying area,18.220833,-66.590149,puerto-rico
 1461,Rhode Island,233,US,United States,RI,state,41.5800945,-71.4774291,rhode-island
 1443,South Carolina,233,US,United States,SC,state,33.836081,-81.1637245,south-carolina
 1445,South Dakota,233,US,United States,SD,state,43.9695148,-99.9018131,south-dakota
 1454,Tennessee,233,US,United States,TN,state,35.5174913,-86.5804473,tennessee
 1407,Texas,233,US,United States,TX,state,31.9685988,-99.9018131,texas
-1432,United States Minor Outlying Islands,233,US,United States,UM,outlying area,19.2823192,166.647047,united-states-minor-outlying-islands
-1413,United States Virgin Islands,233,US,United States,VI,outlying area,18.335765,-64.896335,united-states-virgin-islands
 1414,Utah,233,US,United States,UT,state,39.3209801,-111.0937311,utah
 1409,Vermont,233,US,United States,VT,state,44.5588028,-72.5778415,vermont
 1427,Virginia,233,US,United States,VA,state,37.4315734,-78.6568942,virginia
-1405,Wake Island,233,US,United States,UM-79,islands / groups of islands,19.279619,166.6499348,wake-island
 1462,Washington,233,US,United States,WA,state,47.7510741,-120.7401385,washington
 1429,West Virginia,233,US,United States,WV,state,38.5976262,-80.4549026,west-virginia
 1441,Wisconsin,233,US,United States,WI,state,43.7844397,-88.7878678,wisconsin
 1442,Wyoming,233,US,United States,WY,state,43.0759678,-107.2902839,wyoming
-5212,Baker Island,234,UM,United States Minor Outlying Islands,81,island,0.1936266,-176.476908,baker-island
-5213,Howland Island,234,UM,United States Minor Outlying Islands,84,island,0.8113219,-176.6182736,howland-island
-5214,Jarvis Island,234,UM,United States Minor Outlying Islands,86,island,-0.3743503,-159.9967206,jarvis-island
+5212,Baker Island,234,UM,United States Minor Outlying Islands,81,island,0.19362659999999998,-176.476908,baker-island
+5213,Howland Island,234,UM,United States Minor Outlying Islands,84,island,0.8113218999999999,-176.6182736,howland-island
+5214,Jarvis Island,234,UM,United States Minor Outlying Islands,86,island,-0.37435029999999997,-159.9967206,jarvis-island
 5215,Johnston Atoll,234,UM,United States Minor Outlying Islands,67,island,16.7295035,-169.5336477,johnston-atoll
 5216,Kingman Reef,234,UM,United States Minor Outlying Islands,89,island,6.383333,-162.416667,kingman-reef
 5217,Midway Islands,234,UM,United States Minor Outlying Islands,71,island,28.2072168,-177.3734926,midway-islands
@@ -5024,7 +4170,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 3826,Tây Ninh,240,VN,Vietnam,37,,11.3351554,106.1098854,tay-ninh
 3775,Thái Bình,240,VN,Vietnam,20,,20.4463471,106.3365828,thai-binh
 3807,Thái Nguyên,240,VN,Vietnam,69,,21.5671559,105.8252038,thai-nguyen
-3771,Thanh Hóa,240,VN,Vietnam,21,,19.806692,105.7851816,thanh-hoa
+3771,Thanh Hóa,240,VN,Vietnam,21,,19.806691999999998,105.7851816,thanh-hoa
 3798,Thừa Thiên-Huế,240,VN,Vietnam,26,,16.467397,107.5905326,thua-thien-hue
 3781,Tiền Giang,240,VN,Vietnam,46,,10.4493324,106.3420504,tien-giang
 3805,Trà Vinh,240,VN,Vietnam,51,,9.812741,106.2992912,tra-vinh
@@ -5037,7 +4183,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 5072,Saint Thomas,242,VI,Virgin Islands (US),ST,district,18.3428459,-65.077018,saint-thomas
 1242,'Adan,245,YE,Yemen,AD,,12.8257481,44.7943804,adan
 1250,'Amran,245,YE,Yemen,AM,,16.2569214,43.9436788,amran
-1237,Abyan,245,YE,Yemen,AB,,13.6343413,46.0563212,abyan
+1237,Abyan,245,YE,Yemen,AB,,13.634341299999999,46.0563212,abyan
 1240,Al Bayda',245,YE,Yemen,BA,,14.3588662,45.4498065,al-bayda
 1241,Al Hudaydah,245,YE,Yemen,HU,,15.3053072,43.0194897,al-hudaydah
 1243,Al Jawf,245,YE,Yemen,JA,,16.7901819,45.2993862,al-jawf
