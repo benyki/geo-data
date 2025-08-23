@@ -46,7 +46,7 @@ This database will be built from the high-quality, relational dataset (`150k cit
   - `latitude` (DOUBLE PRECISION)
   - `longitude` (DOUBLE PRECISION)
   - `wikidata_id` (TEXT)
-  - `population_2024` (BIGINT, nullable): Populated from the `major_cities_enriched.csv` file.
+  - `population_2024` (BIGINT, nullable)
   - `population_2023` (BIGINT, nullable)
   - `growth_rate` (DOUBLE PRECISION, nullable)
 

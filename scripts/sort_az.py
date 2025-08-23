@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
 Simple script to sort a CSV file alphabetically by the first column.
-command: python3 sort_csv.py <csv_file>
+command: python3 sort_az.py <csv_file>
 """
 
 import sys
 import csv
 
-def sort_csv(csv_file):
+def sort_az(csv_file):
     """Sort a CSV file alphabetically by the first column."""
     try:
         rows = []
@@ -53,4 +53,4 @@ if __name__ == "__main__":
         sys.exit(1)
     
     csv_file = sys.argv[1]
-    sort_csv(csv_file) 
+    sort_az(csv_file) 

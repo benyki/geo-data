@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
-Simple script to enrich CSV files with coordinates using OpenStreetMap API.
+Simple script to enrich cities in CSV files with coordinates using OpenStreetMap API.
 """
 
 import csv
 import requests
 import time
 
-# ===== CONFIGURATION =====
+# ===== CONFIG =====
 INPUT_FILE = 'world-csv/major_cities.csv'  # Change this to your input CSV
 OUTPUT_FILE = 'world-csv/major_cities_enriched.csv'  # Change this to your output CSV
 API_DELAY = 1  # Delay between API calls (seconds)
