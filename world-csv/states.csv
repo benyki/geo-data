@@ -2226,20 +2226,20 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude,
 2139,Shan State,151,MM,Myanmar,17,,22.0361985,98.1338558,shan-state
 2140,Tanintharyi Region,151,MM,Myanmar,05,,12.4706876,99.0128926,tanintharyi-region
 2135,Yangon Region,151,MM,Myanmar,06,,16.9143488,96.1526985,yangon-region
-43,Erongo Region,152,,Namibia,ER,,-22.2565682,15.4068079,erongo-region
-38,Hardap Region,152,,Namibia,HA,,-24.2310134,17.668887,hardap-region
-45,Karas Region,152,,Namibia,KA,,-26.8429645,17.2902839,karas-region
-36,Kavango East Region,152,,Namibia,KE,,-18.271048,18.4276047,kavango-east-region
-35,Kavango West Region,152,,Namibia,KW,,-18.271048,18.4276047,kavango-west-region
-44,Khomas Region,152,,Namibia,KH,,-22.6377854,17.1011931,khomas-region
-34,Kunene Region,152,,Namibia,KU,,-19.4086317,13.914399,kunene-region
-40,Ohangwena Region,152,,Namibia,OW,,-17.597929099999998,16.8178377,ohangwena-region
-41,Omaheke Region,152,,Namibia,OH,,-21.8466651,19.1880047,omaheke-region
-39,Omusati Region,152,,Namibia,OS,,-18.4070294,14.8454619,omusati-region
-37,Oshana Region,152,,Namibia,ON,,-18.4305064,15.6881788,oshana-region
-42,Oshikoto Region,152,,Namibia,OT,,-18.4152575,16.912251,oshikoto-region
-46,Otjozondjupa Region,152,,Namibia,OD,,-20.5486916,17.668887,otjozondjupa-region
-47,Zambezi Region,152,,Namibia,CA,,-17.8193419,23.9536466,zambezi-region
+43,Erongo Region,152,NA,Namibia,ER,,-22.2565682,15.4068079,erongo-region
+38,Hardap Region,152,NA,Namibia,HA,,-24.2310134,17.668887,hardap-region
+45,Karas Region,152,NA,Namibia,KA,,-26.8429645,17.2902839,karas-region
+36,Kavango East Region,152,NA,Namibia,KE,,-18.271048,18.4276047,kavango-east-region
+35,Kavango West Region,152,NA,Namibia,KW,,-18.271048,18.4276047,kavango-west-region
+44,Khomas Region,152,NA,Namibia,KH,,-22.6377854,17.1011931,khomas-region
+34,Kunene Region,152,NA,Namibia,KU,,-19.4086317,13.914399,kunene-region
+40,Ohangwena Region,152,NA,Namibia,OW,,-17.5979291,16.8178377,ohangwena-region
+41,Omaheke Region,152,NA,Namibia,OH,,-21.8466651,19.1880047,omaheke-region
+39,Omusati Region,152,NA,Namibia,OS,,-18.4070294,14.8454619,omusati-region
+37,Oshana Region,152,NA,Namibia,ON,,-18.4305064,15.6881788,oshana-region
+42,Oshikoto Region,152,NA,Namibia,OT,,-18.4152575,16.912251,oshikoto-region
+46,Otjozondjupa Region,152,NA,Namibia,OD,,-20.5486916,17.668887,otjozondjupa-region
+47,Zambezi Region,152,NA,Namibia,CA,,-17.8193419,23.9536466,zambezi-region
 4656,Aiwo District,153,NR,Nauru,01,,-0.5340012,166.9138873,aiwo-district
 4658,Anabar District,153,NR,Nauru,02,,-0.5133517,166.9484624,anabar-district
 4667,Anetan District,153,NR,Nauru,03,,-0.5064343,166.9427006,anetan-district

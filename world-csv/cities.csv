@@ -76706,54 +76706,54 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 67699,Thongwa,2135,06,Yangon Region,151,MM,Myanmar,16.75998,96.52498,Q3139162,thongwa
 67700,Twante,2135,06,Yangon Region,151,MM,Myanmar,16.71047,95.92866,Q3139162,twante
 67703,Yangon,2135,06,Yangon Region,151,MM,Myanmar,16.80528,96.15611,Q37995,yangon
-76626,Arandis,43,ER,Erongo Region,152,,Namibia,-22.41667,14.96667,Q438851,arandis
-76633,Hentiesbaai,43,ER,Erongo Region,152,,Namibia,-22.11667,14.28333,Q1013389,hentiesbaai
-76636,Karibib,43,ER,Erongo Region,152,,Namibia,-21.93333,15.83333,Q1348181,karibib
-76648,Omaruru,43,ER,Erongo Region,152,,Namibia,-21.43333,15.93333,Q1896161,omaruru
-76659,Otjimbingwe,43,ER,Erongo Region,152,,Namibia,-22.35,16.13333,Q464050,otjimbingwe
-76666,Swakopmund,43,ER,Erongo Region,152,,Namibia,-22.67842,14.52663,Q59698,swakopmund
-76667,Swakopmund Constituency,43,ER,Erongo Region,152,,Namibia,-22.63199,14.60119,Q3711710,swakopmund-constituency
-76670,Usakos,43,ER,Erongo Region,152,,Namibia,-22.0,15.6,Q1457265,usakos
-76671,Walvis Bay,43,ER,Erongo Region,152,,Namibia,-22.9575,14.50528,Q220843,walvis-bay
-76627,Aranos,38,HA,Hardap Region,152,,Namibia,-24.13333,19.11667,Q626040,aranos
-76634,Hoachanas,38,HA,Hardap Region,152,,Namibia,-23.91667,18.05,Q1621498,hoachanas
-76643,Maltahöhe,38,HA,Hardap Region,152,,Namibia,-24.83333,16.98333,Q666079,maltahohe
-76644,Mariental,38,HA,Hardap Region,152,,Namibia,-24.63333,17.96667,Q876166,mariental
-76663,Rehoboth,38,HA,Hardap Region,152,,Namibia,-23.317,17.09,Q700050,rehoboth
-76629,Bethanie,45,KA,Karas Region,152,,Namibia,-26.48333,17.15,Q251677,bethanie
-76635,Karasburg,45,KA,Karas Region,152,,Namibia,-28.01667,18.75,Q1003328,karasburg
-76639,Keetmanshoop,45,KA,Karas Region,152,,Namibia,-26.58333,18.13333,Q160884,keetmanshoop
-76642,Lüderitz,45,KA,Karas Region,152,,Namibia,-26.64807,15.15383,Q159325,luderitz
-76655,Oranjemund,45,KA,Karas Region,152,,Namibia,-28.55,16.43333,Q1404518,oranjemund
-76668,Tses,45,KA,Karas Region,152,,Namibia,-25.88333,18.0,Q1529444,tses
-76672,Warmbad,45,KA,Karas Region,152,,Namibia,-28.45,18.73333,Q479312,warmbad
-76664,Rundu,36,KE,Kavango East Region,152,,Namibia,-17.93333,19.76667,Q662291,rundu
-76638,Katutura,44,KH,Khomas Region,152,,Namibia,-22.52306,17.06028,Q864100,katutura
-76673,Windhoek,44,KH,Khomas Region,152,,Namibia,-22.55941,17.08323,Q3935,windhoek
-76630,Epupa Constituency,34,KU,Kunene Region,152,,Namibia,-17.00388,13.24825,Q1026511,epupa-constituency
-76640,Khorixas,34,KU,Kunene Region,152,,Namibia,-20.36667,14.96667,Q1740681,khorixas
-76641,Khorixas Constituency,34,KU,Kunene Region,152,,Namibia,-20.36792,14.95996,Q4122340,khorixas-constituency
-76653,Opuwo,34,KU,Kunene Region,152,,Namibia,-18.06068,13.83998,Q1024089,opuwo
-76654,Opuwo Constituency,34,KU,Kunene Region,152,,Namibia,-18.54247,13.51617,Q3711697,opuwo-constituency
-76662,Outjo,34,KU,Kunene Region,152,,Namibia,-20.11667,16.15,Q1704346,outjo
-76665,Sesfontein Constituency,34,KU,Kunene Region,152,,Namibia,-19.56106,13.7653,Q3711708,sesfontein-constituency
-76657,Oshikango,40,OW,Ohangwena Region,152,,Namibia,-17.4,15.88333,Q2033319,oshikango
-76631,Gobabis,41,OH,Omaheke Region,152,,Namibia,-22.45,18.96667,Q1000609,gobabis
-76646,Okahao,39,OS,Omusati Region,152,,Namibia,-17.88758,15.06677,Q2017063,okahao
-76651,Ongandjera,39,OS,Omusati Region,152,,Namibia,-17.88333,15.06667,Q3352721,ongandjera
-76661,Outapi,39,OS,Omusati Region,152,,Namibia,-17.5,14.98333,Q1758215,outapi
-76650,Ondangwa,37,ON,Oshana Region,152,,Namibia,-17.91667,15.95,Q2023773,ondangwa
-76652,Ongwediva,37,ON,Oshana Region,152,,Namibia,-17.78333,15.76667,Q841557,ongwediva
-76656,Oshakati,37,ON,Oshana Region,152,,Namibia,-17.78833,15.70436,Q985622,oshakati
-76649,Omuthiya,42,OT,Oshikoto Region,152,,Namibia,-18.36463,16.58146,Q1005584,omuthiya
-76669,Tsumeb,42,OT,Oshikoto Region,152,,Namibia,-19.23333,17.71667,Q639467,tsumeb
-76632,Grootfontein,46,OD,Otjozondjupa Region,152,,Namibia,-19.56667,18.11667,Q986336,grootfontein
-76645,Okahandja,46,OD,Otjozondjupa Region,152,,Namibia,-21.98333,16.91667,Q597491,okahandja
-76647,Okakarara,46,OD,Otjozondjupa Region,152,,Namibia,-20.58333,17.43333,Q992077,okakarara
-76658,Otavi,46,OD,Otjozondjupa Region,152,,Namibia,-19.65,17.33333,Q1013965,otavi
-76660,Otjiwarongo,46,OD,Otjozondjupa Region,152,,Namibia,-20.46369,16.64772,Q993149,otjiwarongo
-76628,Bagani,47,CA,Zambezi Region,152,,Namibia,-18.11065,21.61645,Q799830,bagani
-76637,Katima Mulilo,47,CA,Zambezi Region,152,,Namibia,-17.5,24.26667,Q864100,katima-mulilo
+76626,Arandis,43,ER,Erongo Region,152,NA,Namibia,-22.41667,14.96667,Q438851,arandis
+76633,Hentiesbaai,43,ER,Erongo Region,152,NA,Namibia,-22.11667,14.28333,Q1013389,hentiesbaai
+76636,Karibib,43,ER,Erongo Region,152,NA,Namibia,-21.93333,15.83333,Q1348181,karibib
+76648,Omaruru,43,ER,Erongo Region,152,NA,Namibia,-21.43333,15.93333,Q1896161,omaruru
+76659,Otjimbingwe,43,ER,Erongo Region,152,NA,Namibia,-22.35,16.13333,Q464050,otjimbingwe
+76666,Swakopmund,43,ER,Erongo Region,152,NA,Namibia,-22.67842,14.52663,Q59698,swakopmund
+76667,Swakopmund Constituency,43,ER,Erongo Region,152,NA,Namibia,-22.63199,14.60119,Q3711710,swakopmund-constituency
+76670,Usakos,43,ER,Erongo Region,152,NA,Namibia,-22.0,15.6,Q1457265,usakos
+76671,Walvis Bay,43,ER,Erongo Region,152,NA,Namibia,-22.9575,14.50528,Q220843,walvis-bay
+76627,Aranos,38,HA,Hardap Region,152,NA,Namibia,-24.13333,19.11667,Q626040,aranos
+76634,Hoachanas,38,HA,Hardap Region,152,NA,Namibia,-23.91667,18.05,Q1621498,hoachanas
+76643,Maltahöhe,38,HA,Hardap Region,152,NA,Namibia,-24.83333,16.98333,Q666079,maltahohe
+76644,Mariental,38,HA,Hardap Region,152,NA,Namibia,-24.63333,17.96667,Q876166,mariental
+76663,Rehoboth,38,HA,Hardap Region,152,NA,Namibia,-23.317,17.09,Q700050,rehoboth
+76629,Bethanie,45,KA,Karas Region,152,NA,Namibia,-26.48333,17.15,Q251677,bethanie
+76635,Karasburg,45,KA,Karas Region,152,NA,Namibia,-28.01667,18.75,Q1003328,karasburg
+76639,Keetmanshoop,45,KA,Karas Region,152,NA,Namibia,-26.58333,18.13333,Q160884,keetmanshoop
+76642,Lüderitz,45,KA,Karas Region,152,NA,Namibia,-26.64807,15.15383,Q159325,luderitz
+76655,Oranjemund,45,KA,Karas Region,152,NA,Namibia,-28.55,16.43333,Q1404518,oranjemund
+76668,Tses,45,KA,Karas Region,152,NA,Namibia,-25.88333,18.0,Q1529444,tses
+76672,Warmbad,45,KA,Karas Region,152,NA,Namibia,-28.45,18.73333,Q479312,warmbad
+76664,Rundu,36,KE,Kavango East Region,152,NA,Namibia,-17.93333,19.76667,Q662291,rundu
+76638,Katutura,44,KH,Khomas Region,152,NA,Namibia,-22.52306,17.06028,Q864100,katutura
+76673,Windhoek,44,KH,Khomas Region,152,NA,Namibia,-22.55941,17.08323,Q3935,windhoek
+76630,Epupa Constituency,34,KU,Kunene Region,152,NA,Namibia,-17.00388,13.24825,Q1026511,epupa-constituency
+76640,Khorixas,34,KU,Kunene Region,152,NA,Namibia,-20.36667,14.96667,Q1740681,khorixas
+76641,Khorixas Constituency,34,KU,Kunene Region,152,NA,Namibia,-20.36792,14.95996,Q4122340,khorixas-constituency
+76653,Opuwo,34,KU,Kunene Region,152,NA,Namibia,-18.06068,13.83998,Q1024089,opuwo
+76654,Opuwo Constituency,34,KU,Kunene Region,152,NA,Namibia,-18.54247,13.51617,Q3711697,opuwo-constituency
+76662,Outjo,34,KU,Kunene Region,152,NA,Namibia,-20.11667,16.15,Q1704346,outjo
+76665,Sesfontein Constituency,34,KU,Kunene Region,152,NA,Namibia,-19.56106,13.7653,Q3711708,sesfontein-constituency
+76657,Oshikango,40,OW,Ohangwena Region,152,NA,Namibia,-17.4,15.88333,Q2033319,oshikango
+76631,Gobabis,41,OH,Omaheke Region,152,NA,Namibia,-22.45,18.96667,Q1000609,gobabis
+76646,Okahao,39,OS,Omusati Region,152,NA,Namibia,-17.88758,15.06677,Q2017063,okahao
+76651,Ongandjera,39,OS,Omusati Region,152,NA,Namibia,-17.88333,15.06667,Q3352721,ongandjera
+76661,Outapi,39,OS,Omusati Region,152,NA,Namibia,-17.5,14.98333,Q1758215,outapi
+76650,Ondangwa,37,ON,Oshana Region,152,NA,Namibia,-17.91667,15.95,Q2023773,ondangwa
+76652,Ongwediva,37,ON,Oshana Region,152,NA,Namibia,-17.78333,15.76667,Q841557,ongwediva
+76656,Oshakati,37,ON,Oshana Region,152,NA,Namibia,-17.78833,15.70436,Q985622,oshakati
+76649,Omuthiya,42,OT,Oshikoto Region,152,NA,Namibia,-18.36463,16.58146,Q1005584,omuthiya
+76669,Tsumeb,42,OT,Oshikoto Region,152,NA,Namibia,-19.23333,17.71667,Q639467,tsumeb
+76632,Grootfontein,46,OD,Otjozondjupa Region,152,NA,Namibia,-19.56667,18.11667,Q986336,grootfontein
+76645,Okahandja,46,OD,Otjozondjupa Region,152,NA,Namibia,-21.98333,16.91667,Q597491,okahandja
+76647,Okakarara,46,OD,Otjozondjupa Region,152,NA,Namibia,-20.58333,17.43333,Q992077,okakarara
+76658,Otavi,46,OD,Otjozondjupa Region,152,NA,Namibia,-19.65,17.33333,Q1013965,otavi
+76660,Otjiwarongo,46,OD,Otjozondjupa Region,152,NA,Namibia,-20.46369,16.64772,Q993149,otjiwarongo
+76628,Bagani,47,CA,Zambezi Region,152,NA,Namibia,-18.11065,21.61645,Q799830,bagani
+76637,Katima Mulilo,47,CA,Zambezi Region,152,NA,Namibia,-17.5,24.26667,Q864100,katima-mulilo
 79762,Arijejen,4656,01,Aiwo District,153,NR,Nauru,-0.52545,166.91247,Q1835785,arijejen
 79761,Anabar,4658,02,Anabar District,153,NR,Nauru,-0.50845,166.95326,Q1835785,anabar
 79763,Baiti,4660,05,Baiti District,153,NR,Nauru,-0.50803,166.92945,Q1835785,baiti
