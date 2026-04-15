@@ -1,0 +1,6410 @@
+[
+  {
+    "city": "Tokyo",
+    "country": "Japan",
+    "population_2024": 37115035,
+    "population_2023": 37194105,
+    "growth_rate": -0.0021,
+    "slug": "tokyo"
+  },
+  {
+    "city": "Delhi",
+    "country": "India",
+    "population_2024": 33807403,
+    "population_2023": 32941309,
+    "growth_rate": 0.0263,
+    "slug": "delhi"
+  },
+  {
+    "city": "Shanghai",
+    "country": "China",
+    "population_2024": 29867918,
+    "population_2023": 29210808,
+    "growth_rate": 0.0225,
+    "slug": "shanghai"
+  },
+  {
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "population_2024": 23935652,
+    "population_2023": 23209616,
+    "growth_rate": 0.0313,
+    "slug": "dhaka"
+  },
+  {
+    "city": "Sao Paulo",
+    "country": "Brazil",
+    "population_2024": 22806704,
+    "population_2023": 22619736,
+    "growth_rate": 0.0083,
+    "slug": "sao-paulo"
+  },
+  {
+    "city": "Cairo",
+    "country": "Egypt",
+    "population_2024": 22623874,
+    "population_2023": 22183201,
+    "growth_rate": 0.0199,
+    "slug": "cairo"
+  },
+  {
+    "city": "Mexico City",
+    "country": "Mexico",
+    "population_2024": 22505315,
+    "population_2023": 22281442,
+    "growth_rate": 0.01,
+    "slug": "mexico-city"
+  },
+  {
+    "city": "Beijing",
+    "country": "China",
+    "population_2024": 22189082,
+    "population_2023": 21766214,
+    "growth_rate": 0.0194,
+    "slug": "beijing"
+  },
+  {
+    "city": "Mumbai",
+    "country": "India",
+    "population_2024": 21673149,
+    "population_2023": 21296517,
+    "growth_rate": 0.0177,
+    "slug": "mumbai"
+  },
+  {
+    "city": "Osaka",
+    "country": "Japan",
+    "population_2024": 18967459,
+    "population_2023": 19013434,
+    "growth_rate": -0.0024,
+    "slug": "osaka"
+  },
+  {
+    "city": "Chongqing",
+    "country": "China",
+    "population_2024": 17773923,
+    "population_2023": 17340704,
+    "growth_rate": 0.025,
+    "slug": "chongqing"
+  },
+  {
+    "city": "Karachi",
+    "country": "Pakistan",
+    "population_2024": 17648555,
+    "population_2023": 17236230,
+    "growth_rate": 0.0239,
+    "slug": "karachi"
+  },
+  {
+    "city": "Kinshasa",
+    "country": "DR Congo",
+    "population_2024": 17032322,
+    "population_2023": 16315534,
+    "growth_rate": 0.0439,
+    "slug": "kinshasa"
+  },
+  {
+    "city": "Lagos",
+    "country": "Nigeria",
+    "population_2024": 16536018,
+    "population_2023": 15945912,
+    "growth_rate": 0.037,
+    "slug": "lagos"
+  },
+  {
+    "city": "Istanbul",
+    "country": "Turkey",
+    "population_2024": 16047350,
+    "population_2023": 15847768,
+    "growth_rate": 0.0126,
+    "slug": "istanbul"
+  },
+  {
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "population_2024": 15618288,
+    "population_2023": 15490415,
+    "growth_rate": 0.0083,
+    "slug": "buenos-aires"
+  },
+  {
+    "city": "Kolkata",
+    "country": "India",
+    "population_2024": 15570786,
+    "population_2023": 15332793,
+    "growth_rate": 0.0155,
+    "slug": "kolkata"
+  },
+  {
+    "city": "Manila",
+    "country": "Philippines",
+    "population_2024": 14941953,
+    "population_2023": 14667089,
+    "growth_rate": 0.0187,
+    "slug": "manila"
+  },
+  {
+    "city": "Guangzhou",
+    "country": "China",
+    "population_2024": 14590096,
+    "population_2023": 14284353,
+    "growth_rate": 0.0214,
+    "slug": "guangzhou"
+  },
+  {
+    "city": "Tianjin",
+    "country": "China",
+    "population_2024": 14470873,
+    "population_2023": 14238643,
+    "growth_rate": 0.0163,
+    "slug": "tianjin"
+  },
+  {
+    "city": "Lahore",
+    "country": "Pakistan",
+    "population_2024": 14407074,
+    "population_2023": 13979390,
+    "growth_rate": 0.0306,
+    "slug": "lahore"
+  },
+  {
+    "city": "Bangalore",
+    "country": "India",
+    "population_2024": 14008262,
+    "population_2023": 13607800,
+    "growth_rate": 0.0294,
+    "slug": "bangalore"
+  },
+  {
+    "city": "Rio De Janeiro",
+    "country": "Brazil",
+    "population_2024": 13824347,
+    "population_2023": 13727720,
+    "growth_rate": 0.007,
+    "slug": "rio-de-janeiro"
+  },
+  {
+    "city": "Shenzhen",
+    "country": "China",
+    "population_2024": 13311855,
+    "population_2023": 13072633,
+    "growth_rate": 0.0183,
+    "slug": "shenzhen"
+  },
+  {
+    "city": "Moscow",
+    "country": "Russia",
+    "population_2024": 12712305,
+    "population_2023": 12680389,
+    "growth_rate": 0.0025,
+    "slug": "moscow"
+  },
+  {
+    "city": "Chennai",
+    "country": "India",
+    "population_2024": 12053697,
+    "population_2023": 11776147,
+    "growth_rate": 0.0236,
+    "slug": "chennai"
+  },
+  {
+    "city": "Bogota",
+    "country": "Colombia",
+    "population_2024": 11658211,
+    "population_2023": 11507960,
+    "growth_rate": 0.0131,
+    "slug": "bogota"
+  },
+  {
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "population_2024": 11436004,
+    "population_2023": 11248839,
+    "growth_rate": 0.0166,
+    "slug": "jakarta"
+  },
+  {
+    "city": "Lima",
+    "country": "Peru",
+    "population_2024": 11361938,
+    "population_2023": 11204382,
+    "growth_rate": 0.0141,
+    "slug": "lima"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "population_2024": 11276701,
+    "population_2023": 11208440,
+    "growth_rate": 0.0061,
+    "slug": "paris"
+  },
+  {
+    "city": "Bangkok",
+    "country": "Thailand",
+    "population_2024": 11233869,
+    "population_2023": 11069982,
+    "growth_rate": 0.0148,
+    "slug": "bangkok"
+  },
+  {
+    "city": "Hyderabad",
+    "country": "India",
+    "population_2024": 11068877,
+    "population_2023": 10801163,
+    "growth_rate": 0.0248,
+    "slug": "hyderabad"
+  },
+  {
+    "city": "Seoul",
+    "country": "South Korea",
+    "population_2024": 10004840,
+    "population_2023": 9988049,
+    "growth_rate": 0.0017,
+    "slug": "seoul"
+  },
+  {
+    "city": "Nanjing",
+    "country": "China",
+    "population_2024": 9947548,
+    "population_2023": 9698464,
+    "growth_rate": 0.0257,
+    "slug": "nanjing"
+  },
+  {
+    "city": "Chengdu",
+    "country": "China",
+    "population_2024": 9828110,
+    "population_2023": 9653772,
+    "growth_rate": 0.0181,
+    "slug": "chengdu"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "population_2024": 9748033,
+    "population_2023": 9648110,
+    "growth_rate": 0.0104,
+    "slug": "london"
+  },
+  {
+    "city": "Luanda",
+    "country": "Angola",
+    "population_2024": 9651032,
+    "population_2023": 9292336,
+    "growth_rate": 0.0386,
+    "slug": "luanda"
+  },
+  {
+    "city": "Tehran",
+    "country": "Iran",
+    "population_2024": 9616007,
+    "population_2023": 9499781,
+    "growth_rate": 0.0122,
+    "slug": "tehran"
+  },
+  {
+    "city": "Ho Chi Minh City",
+    "country": "Vietnam",
+    "population_2024": 9567656,
+    "population_2023": 9320866,
+    "growth_rate": 0.0265,
+    "slug": "ho-chi-minh-city"
+  },
+  {
+    "city": "Nagoya",
+    "country": "Japan",
+    "population_2024": 9556879,
+    "population_2023": 9569328,
+    "growth_rate": -0.0013,
+    "slug": "nagoya"
+  },
+  {
+    "city": "Xi An Shaanxi",
+    "country": "China",
+    "population_2024": 9013837,
+    "population_2023": 8785174,
+    "growth_rate": 0.026,
+    "slug": "xi-an-shaanxi"
+  },
+  {
+    "city": "Ahmedabad",
+    "country": "India",
+    "population_2024": 8854444,
+    "population_2023": 8650605,
+    "growth_rate": 0.0236,
+    "slug": "ahmedabad"
+  },
+  {
+    "city": "Wuhan",
+    "country": "China",
+    "population_2024": 8850850,
+    "population_2023": 8718250,
+    "growth_rate": 0.0152,
+    "slug": "wuhan"
+  },
+  {
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "population_2024": 8815630,
+    "population_2023": 8621724,
+    "growth_rate": 0.0225,
+    "slug": "kuala-lumpur"
+  },
+  {
+    "city": "Hangzhou",
+    "country": "China",
+    "population_2024": 8419842,
+    "population_2023": 8237206,
+    "growth_rate": 0.0222,
+    "slug": "hangzhou"
+  },
+  {
+    "city": "Suzhou",
+    "country": "China",
+    "population_2024": 8350625,
+    "population_2023": 8074031,
+    "growth_rate": 0.0343,
+    "slug": "suzhou"
+  },
+  {
+    "city": "Surat",
+    "country": "India",
+    "population_2024": 8330528,
+    "population_2023": 8064949,
+    "growth_rate": 0.0329,
+    "slug": "surat"
+  },
+  {
+    "city": "Dar Es Salaam",
+    "country": "Tanzania",
+    "population_2024": 8161231,
+    "population_2023": 7775865,
+    "growth_rate": 0.0496,
+    "slug": "dar-es-salaam"
+  },
+  {
+    "city": "New York",
+    "country": "United States",
+    "population_2024": 7931147,
+    "population_2023": 8133522,
+    "growth_rate": -0.0249,
+    "slug": "new-york"
+  },
+  {
+    "city": "Baghdad",
+    "country": "Iraq",
+    "population_2024": 7921134,
+    "population_2023": 7711305,
+    "growth_rate": 0.0272,
+    "slug": "baghdad"
+  },
+  {
+    "city": "Shenyang",
+    "country": "China",
+    "population_2024": 7830377,
+    "population_2023": 7680967,
+    "growth_rate": 0.0195,
+    "slug": "shenyang"
+  },
+  {
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "population_2024": 7820551,
+    "population_2023": 7682430,
+    "growth_rate": 0.018,
+    "slug": "riyadh"
+  },
+  {
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "population_2024": 7725859,
+    "population_2023": 7684801,
+    "growth_rate": 0.0053,
+    "slug": "hong-kong"
+  },
+  {
+    "city": "Foshan",
+    "country": "China",
+    "population_2024": 7704935,
+    "population_2023": 7597386,
+    "growth_rate": 0.0142,
+    "slug": "foshan"
+  },
+  {
+    "city": "Dongguan",
+    "country": "China",
+    "population_2024": 7675146,
+    "population_2023": 7587049,
+    "growth_rate": 0.0116,
+    "slug": "dongguan"
+  },
+  {
+    "city": "Pune",
+    "country": "India",
+    "population_2024": 7345848,
+    "population_2023": 7166374,
+    "growth_rate": 0.025,
+    "slug": "pune"
+  },
+  {
+    "city": "Santiago",
+    "country": "Chile",
+    "population_2024": 6950952,
+    "population_2023": 6903392,
+    "growth_rate": 0.0069,
+    "slug": "santiago"
+  },
+  {
+    "city": "Haerbin",
+    "country": "China",
+    "population_2024": 6938008,
+    "population_2023": 6803811,
+    "growth_rate": 0.0197,
+    "slug": "haerbin"
+  },
+  {
+    "city": "Madrid",
+    "country": "Spain",
+    "population_2024": 6783241,
+    "population_2023": 6751374,
+    "growth_rate": 0.0047,
+    "slug": "madrid"
+  },
+  {
+    "city": "Khartoum",
+    "country": "Sudan",
+    "population_2024": 6542070,
+    "population_2023": 6344348,
+    "growth_rate": 0.0312,
+    "slug": "khartoum"
+  },
+  {
+    "city": "Toronto",
+    "country": "Canada",
+    "population_2024": 6431430,
+    "population_2023": 6371958,
+    "growth_rate": 0.0093,
+    "slug": "toronto"
+  },
+  {
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "population_2024": 6324351,
+    "population_2023": 6198016,
+    "growth_rate": 0.0204,
+    "slug": "johannesburg"
+  },
+  {
+    "city": "Belo Horizonte",
+    "country": "Brazil",
+    "population_2024": 6300409,
+    "population_2023": 6247889,
+    "growth_rate": 0.0084,
+    "slug": "belo-horizonte"
+  },
+  {
+    "city": "Dalian",
+    "country": "China",
+    "population_2024": 6217487,
+    "population_2023": 6077995,
+    "growth_rate": 0.023,
+    "slug": "dalian"
+  },
+  {
+    "city": "Singapore",
+    "country": "Singapore",
+    "population_2024": 6119203,
+    "population_2023": 6080859,
+    "growth_rate": 0.0063,
+    "slug": "singapore"
+  },
+  {
+    "city": "Qingdao",
+    "country": "China",
+    "population_2024": 6104597,
+    "population_2023": 5986525,
+    "growth_rate": 0.0197,
+    "slug": "qingdao"
+  },
+  {
+    "city": "Zhengzhou",
+    "country": "China",
+    "population_2024": 6014887,
+    "population_2023": 5859272,
+    "growth_rate": 0.0266,
+    "slug": "zhengzhou"
+  },
+  {
+    "city": "Ji Nan Shandong",
+    "country": "China",
+    "population_2024": 5940698,
+    "population_2023": 5806031,
+    "growth_rate": 0.0232,
+    "slug": "ji-nan-shandong"
+  },
+  {
+    "city": "Abidjan",
+    "country": "Ivory Coast",
+    "population_2024": 5866704,
+    "population_2023": 5686350,
+    "growth_rate": 0.0317,
+    "slug": "abidjan"
+  },
+  {
+    "city": "Barcelona",
+    "country": "Spain",
+    "population_2024": 5711917,
+    "population_2023": 5687356,
+    "growth_rate": 0.0043,
+    "slug": "barcelona"
+  },
+  {
+    "city": "Yangon",
+    "country": "Myanmar",
+    "population_2024": 5709678,
+    "population_2023": 5610241,
+    "growth_rate": 0.0177,
+    "slug": "yangon"
+  },
+  {
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "population_2024": 5703628,
+    "population_2023": 5460591,
+    "growth_rate": 0.0445,
+    "slug": "addis-ababa"
+  },
+  {
+    "city": "Alexandria",
+    "country": "Egypt",
+    "population_2024": 5696131,
+    "population_2023": 5588477,
+    "growth_rate": 0.0193,
+    "slug": "alexandria"
+  },
+  {
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "population_2024": 5581707,
+    "population_2023": 5561294,
+    "growth_rate": 0.0037,
+    "slug": "saint-petersburg"
+  },
+  {
+    "city": "Nairobi",
+    "country": "Kenya",
+    "population_2024": 5541172,
+    "population_2023": 5325160,
+    "growth_rate": 0.0406,
+    "slug": "nairobi"
+  },
+  {
+    "city": "Chittagong",
+    "country": "Bangladesh",
+    "population_2024": 5513609,
+    "population_2023": 5379660,
+    "growth_rate": 0.0249,
+    "slug": "chittagong"
+  },
+  {
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "population_2024": 5499678,
+    "population_2023": 5419880,
+    "growth_rate": 0.0147,
+    "slug": "guadalajara"
+  },
+  {
+    "city": "Fukuoka",
+    "country": "Japan",
+    "population_2024": 5478076,
+    "population_2023": 5490271,
+    "growth_rate": -0.0022,
+    "slug": "fukuoka"
+  },
+  {
+    "city": "Ankara",
+    "country": "Turkey",
+    "population_2024": 5477087,
+    "population_2023": 5397098,
+    "growth_rate": 0.0148,
+    "slug": "ankara"
+  },
+  {
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "population_2024": 5431801,
+    "population_2023": 5253385,
+    "growth_rate": 0.034,
+    "slug": "hanoi"
+  },
+  {
+    "city": "Melbourne",
+    "country": "Australia",
+    "population_2024": 5315600,
+    "population_2023": 5235407,
+    "growth_rate": 0.0153,
+    "slug": "melbourne"
+  },
+  {
+    "city": "Monterrey",
+    "country": "Mexico",
+    "population_2024": 5195355,
+    "population_2023": 5116647,
+    "growth_rate": 0.0154,
+    "slug": "monterrey"
+  },
+  {
+    "city": "Sydney",
+    "country": "Australia",
+    "population_2024": 5184896,
+    "population_2023": 5120894,
+    "growth_rate": 0.0125,
+    "slug": "sydney"
+  },
+  {
+    "city": "Changsha",
+    "country": "China",
+    "population_2024": 5027975,
+    "population_2023": 4921487,
+    "growth_rate": 0.0216,
+    "slug": "changsha"
+  },
+  {
+    "city": "Urumqi",
+    "country": "China",
+    "population_2024": 5005964,
+    "population_2023": 4865038,
+    "growth_rate": 0.029,
+    "slug": "urumqi"
+  },
+  {
+    "city": "Cape Town",
+    "country": "South Africa",
+    "population_2024": 4977833,
+    "population_2023": 4890280,
+    "growth_rate": 0.0179,
+    "slug": "cape-town"
+  },
+  {
+    "city": "Jiddah",
+    "country": "Saudi Arabia",
+    "population_2024": 4943210,
+    "population_2023": 4862941,
+    "growth_rate": 0.0165,
+    "slug": "jiddah"
+  },
+  {
+    "city": "Brasilia",
+    "country": "Brazil",
+    "population_2024": 4935274,
+    "population_2023": 4873048,
+    "growth_rate": 0.0128,
+    "slug": "brasilia"
+  },
+  {
+    "city": "Kunming",
+    "country": "China",
+    "population_2024": 4861079,
+    "population_2023": 4761284,
+    "growth_rate": 0.021,
+    "slug": "kunming"
+  },
+  {
+    "city": "Changchun",
+    "country": "China",
+    "population_2024": 4802447,
+    "population_2023": 4710382,
+    "growth_rate": 0.0195,
+    "slug": "changchun"
+  },
+  {
+    "city": "Kabul",
+    "country": "Afghanistan",
+    "population_2024": 4728384,
+    "population_2023": 4588666,
+    "growth_rate": 0.0304,
+    "slug": "kabul"
+  },
+  {
+    "city": "Hefei",
+    "country": "China",
+    "population_2024": 4727290,
+    "population_2023": 4615758,
+    "growth_rate": 0.0242,
+    "slug": "hefei"
+  },
+  {
+    "city": "Yaounde",
+    "country": "Cameroon",
+    "population_2024": 4681768,
+    "population_2023": 4509287,
+    "growth_rate": 0.0383,
+    "slug": "yaounde"
+  },
+  {
+    "city": "Ningbo",
+    "country": "China",
+    "population_2024": 4659830,
+    "population_2023": 4537901,
+    "growth_rate": 0.0269,
+    "slug": "ningbo"
+  },
+  {
+    "city": "Shantou",
+    "country": "China",
+    "population_2024": 4656525,
+    "population_2023": 4573713,
+    "growth_rate": 0.0181,
+    "slug": "shantou"
+  },
+  {
+    "city": "New Taipei",
+    "country": "Taiwan",
+    "population_2024": 4534877,
+    "population_2023": 4504147,
+    "growth_rate": 0.0068,
+    "slug": "new-taipei"
+  },
+  {
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "population_2024": 4495727,
+    "population_2023": 4420855,
+    "growth_rate": 0.0169,
+    "slug": "tel-aviv"
+  },
+  {
+    "city": "Kano",
+    "country": "Nigeria",
+    "population_2024": 4490734,
+    "population_2023": 4348481,
+    "growth_rate": 0.0327,
+    "slug": "kano"
+  },
+  {
+    "city": "Shijiazhuang",
+    "country": "China",
+    "population_2024": 4454132,
+    "population_2023": 4370473,
+    "growth_rate": 0.0191,
+    "slug": "shijiazhuang"
+  },
+  {
+    "city": "Montreal",
+    "country": "Canada",
+    "population_2024": 4341638,
+    "population_2023": 4307958,
+    "growth_rate": 0.0078,
+    "slug": "montreal"
+  },
+  {
+    "city": "Rome",
+    "country": "Italy",
+    "population_2024": 4331974,
+    "population_2023": 4315671,
+    "growth_rate": 0.0038,
+    "slug": "rome"
+  },
+  {
+    "city": "Jaipur",
+    "country": "India",
+    "population_2024": 4308510,
+    "population_2023": 4207084,
+    "growth_rate": 0.0241,
+    "slug": "jaipur"
+  },
+  {
+    "city": "Recife",
+    "country": "Brazil",
+    "population_2024": 4305127,
+    "population_2023": 4263940,
+    "growth_rate": 0.0097,
+    "slug": "recife"
+  },
+  {
+    "city": "Nanning",
+    "country": "China",
+    "population_2024": 4291463,
+    "population_2023": 4191890,
+    "growth_rate": 0.0238,
+    "slug": "nanning"
+  },
+  {
+    "city": "Fortaleza",
+    "country": "Brazil",
+    "population_2024": 4246399,
+    "population_2023": 4206240,
+    "growth_rate": 0.0095,
+    "slug": "fortaleza"
+  },
+  {
+    "city": "Kozhikode",
+    "country": "India",
+    "population_2024": 4243962,
+    "population_2023": 4088555,
+    "growth_rate": 0.038,
+    "slug": "kozhikode"
+  },
+  {
+    "city": "Porto Alegre",
+    "country": "Brazil",
+    "population_2024": 4239867,
+    "population_2023": 4211933,
+    "growth_rate": 0.0066,
+    "slug": "porto-alegre"
+  },
+  {
+    "city": "Taiyuan Shanxi",
+    "country": "China",
+    "population_2024": 4226782,
+    "population_2023": 4145010,
+    "growth_rate": 0.0197,
+    "slug": "taiyuan-shanxi"
+  },
+  {
+    "city": "Douala",
+    "country": "Cameroon",
+    "population_2024": 4203108,
+    "population_2023": 4063200,
+    "growth_rate": 0.0344,
+    "slug": "douala"
+  },
+  {
+    "city": "Ekurhuleni",
+    "country": "South Africa",
+    "population_2024": 4190832,
+    "population_2023": 4118327,
+    "growth_rate": 0.0176,
+    "slug": "ekurhuleni"
+  },
+  {
+    "city": "Malappuram",
+    "country": "India",
+    "population_2024": 4184921,
+    "population_2023": 4009087,
+    "growth_rate": 0.0439,
+    "slug": "malappuram"
+  },
+  {
+    "city": "Medellin",
+    "country": "Colombia",
+    "population_2024": 4137386,
+    "population_2023": 4102308,
+    "growth_rate": 0.0086,
+    "slug": "medellin"
+  },
+  {
+    "city": "Changzhou",
+    "country": "China",
+    "population_2024": 4085502,
+    "population_2023": 3981658,
+    "growth_rate": 0.0261,
+    "slug": "changzhou"
+  },
+  {
+    "city": "Kampala",
+    "country": "Uganda",
+    "population_2024": 4050826,
+    "population_2023": 3846102,
+    "growth_rate": 0.0532,
+    "slug": "kampala"
+  },
+  {
+    "city": "Antananarivo",
+    "country": "Madagascar",
+    "population_2024": 4048666,
+    "population_2023": 3872264,
+    "growth_rate": 0.0456,
+    "slug": "antananarivo"
+  },
+  {
+    "city": "Lucknow",
+    "country": "India",
+    "population_2024": 4038214,
+    "population_2023": 3945409,
+    "growth_rate": 0.0235,
+    "slug": "lucknow"
+  },
+  {
+    "city": "Abuja",
+    "country": "Nigeria",
+    "population_2024": 4025735,
+    "population_2023": 3839646,
+    "growth_rate": 0.0485,
+    "slug": "abuja"
+  },
+  {
+    "city": "Nanchang",
+    "country": "China",
+    "population_2024": 4016037,
+    "population_2023": 3920379,
+    "growth_rate": 0.0244,
+    "slug": "nanchang"
+  },
+  {
+    "city": "Wenzhou",
+    "country": "China",
+    "population_2024": 4009531,
+    "population_2023": 3919724,
+    "growth_rate": 0.0229,
+    "slug": "wenzhou"
+  },
+  {
+    "city": "Xiamen",
+    "country": "China",
+    "population_2024": 4007468,
+    "population_2023": 3935484,
+    "growth_rate": 0.0183,
+    "slug": "xiamen"
+  },
+  {
+    "city": "Ibadan",
+    "country": "Nigeria",
+    "population_2024": 4004316,
+    "population_2023": 3874908,
+    "growth_rate": 0.0334,
+    "slug": "ibadan"
+  },
+  {
+    "city": "Fuzhou Fujian",
+    "country": "China",
+    "population_2024": 3998754,
+    "population_2023": 3922202,
+    "growth_rate": 0.0195,
+    "slug": "fuzhou-fujian"
+  },
+  {
+    "city": "Salvador",
+    "country": "Brazil",
+    "population_2024": 3994982,
+    "population_2023": 3958384,
+    "growth_rate": 0.0092,
+    "slug": "salvador"
+  },
+  {
+    "city": "Casablanca",
+    "country": "Morocco",
+    "population_2024": 3950408,
+    "population_2023": 3892837,
+    "growth_rate": 0.0148,
+    "slug": "casablanca"
+  },
+  {
+    "city": "Tangshan Hebei",
+    "country": "China",
+    "population_2024": 3925206,
+    "population_2023": 3814702,
+    "growth_rate": 0.029,
+    "slug": "tangshan-hebei"
+  },
+  {
+    "city": "Kumasi",
+    "country": "Ghana",
+    "population_2024": 3903481,
+    "population_2023": 3768239,
+    "growth_rate": 0.0359,
+    "slug": "kumasi"
+  },
+  {
+    "city": "Curitiba",
+    "country": "Brazil",
+    "population_2024": 3852459,
+    "population_2023": 3813082,
+    "growth_rate": 0.0103,
+    "slug": "curitiba"
+  },
+  {
+    "city": "Bekasi",
+    "country": "Indonesia",
+    "population_2024": 3830678,
+    "population_2023": 3729351,
+    "growth_rate": 0.0272,
+    "slug": "bekasi"
+  },
+  {
+    "city": "Faisalabad",
+    "country": "Pakistan",
+    "population_2024": 3800193,
+    "population_2023": 3710845,
+    "growth_rate": 0.0241,
+    "slug": "faisalabad"
+  },
+  {
+    "city": "Los Angeles",
+    "country": "United States",
+    "population_2024": 3748640,
+    "population_2023": 3785439,
+    "growth_rate": -0.0097,
+    "slug": "los-angeles"
+  },
+  {
+    "city": "Guiyang",
+    "country": "China",
+    "population_2024": 3661446,
+    "population_2023": 3580904,
+    "growth_rate": 0.0225,
+    "slug": "guiyang"
+  },
+  {
+    "city": "Port Harcourt",
+    "country": "Nigeria",
+    "population_2024": 3636547,
+    "population_2023": 3480101,
+    "growth_rate": 0.045,
+    "slug": "port-harcourt"
+  },
+  {
+    "city": "Thrissur",
+    "country": "India",
+    "population_2024": 3605238,
+    "population_2023": 3482456,
+    "growth_rate": 0.0353,
+    "slug": "thrissur"
+  },
+  {
+    "city": "Santo Domingo",
+    "country": "Dominican Republic",
+    "population_2024": 3587402,
+    "population_2023": 3523890,
+    "growth_rate": 0.018,
+    "slug": "santo-domingo"
+  },
+  {
+    "city": "Berlin",
+    "country": "Germany",
+    "population_2024": 3576873,
+    "population_2023": 3573938,
+    "growth_rate": 0.0008,
+    "slug": "berlin"
+  },
+  {
+    "city": "Asuncion",
+    "country": "Paraguay",
+    "population_2024": 3568830,
+    "population_2023": 3510511,
+    "growth_rate": 0.0166,
+    "slug": "asuncion"
+  },
+  {
+    "city": "Dakar",
+    "country": "Senegal",
+    "population_2024": 3540462,
+    "population_2023": 3429536,
+    "growth_rate": 0.0323,
+    "slug": "dakar"
+  },
+  {
+    "city": "Kochi",
+    "country": "India",
+    "population_2024": 3507053,
+    "population_2023": 3406055,
+    "growth_rate": 0.0297,
+    "slug": "kochi"
+  },
+  {
+    "city": "Wuxi",
+    "country": "China",
+    "population_2024": 3498740,
+    "population_2023": 3437346,
+    "growth_rate": 0.0179,
+    "slug": "wuxi"
+  },
+  {
+    "city": "Busan",
+    "country": "South Korea",
+    "population_2024": 3477419,
+    "population_2023": 3471949,
+    "growth_rate": 0.0016,
+    "slug": "busan"
+  },
+  {
+    "city": "Campinas",
+    "country": "Brazil",
+    "population_2024": 3458441,
+    "population_2023": 3422796,
+    "growth_rate": 0.0104,
+    "slug": "campinas"
+  },
+  {
+    "city": "Mashhad",
+    "country": "Iran",
+    "population_2024": 3415532,
+    "population_2023": 3367852,
+    "growth_rate": 0.0142,
+    "slug": "mashhad"
+  },
+  {
+    "city": "Sanaa",
+    "country": "Yemen",
+    "population_2024": 3407814,
+    "population_2023": 3292497,
+    "growth_rate": 0.035,
+    "slug": "sanaa"
+  },
+  {
+    "city": "Puebla",
+    "country": "Mexico",
+    "population_2024": 3394342,
+    "population_2023": 3344761,
+    "growth_rate": 0.0148,
+    "slug": "puebla"
+  },
+  {
+    "city": "Indore",
+    "country": "India",
+    "population_2024": 3393380,
+    "population_2023": 3302077,
+    "growth_rate": 0.0277,
+    "slug": "indore"
+  },
+  {
+    "city": "Lanzhou",
+    "country": "China",
+    "population_2024": 3365910,
+    "population_2023": 3297528,
+    "growth_rate": 0.0207,
+    "slug": "lanzhou"
+  },
+  {
+    "city": "Ouagadougou",
+    "country": "Burkina Faso",
+    "population_2024": 3358934,
+    "population_2023": 3203923,
+    "growth_rate": 0.0484,
+    "slug": "ouagadougou"
+  },
+  {
+    "city": "Kuwait City",
+    "country": "Kuwait",
+    "population_2024": 3353602,
+    "population_2023": 3297759,
+    "growth_rate": 0.0169,
+    "slug": "kuwait-city"
+  },
+  {
+    "city": "Lusaka",
+    "country": "Zambia",
+    "population_2024": 3324219,
+    "population_2023": 3181250,
+    "growth_rate": 0.0449,
+    "slug": "lusaka"
+  },
+  {
+    "city": "Kanpur",
+    "country": "India",
+    "population_2024": 3286142,
+    "population_2023": 3234160,
+    "growth_rate": 0.0161,
+    "slug": "kanpur"
+  },
+  {
+    "city": "Durban",
+    "country": "South Africa",
+    "population_2024": 3262128,
+    "population_2023": 3228003,
+    "growth_rate": 0.0106,
+    "slug": "durban"
+  },
+  {
+    "city": "Guayaquil",
+    "country": "Ecuador",
+    "population_2024": 3193267,
+    "population_2023": 3142466,
+    "growth_rate": 0.0162,
+    "slug": "guayaquil"
+  },
+  {
+    "city": "Pyongyang",
+    "country": "North Korea",
+    "population_2024": 3183135,
+    "population_2023": 3157538,
+    "growth_rate": 0.0081,
+    "slug": "pyongyang"
+  },
+  {
+    "city": "Milan",
+    "country": "Italy",
+    "population_2024": 3160631,
+    "population_2023": 3154570,
+    "growth_rate": 0.0019,
+    "slug": "milan"
+  },
+  {
+    "city": "Guatemala City",
+    "country": "Guatemala",
+    "population_2024": 3159631,
+    "population_2023": 3095099,
+    "growth_rate": 0.0208,
+    "slug": "guatemala-city"
+  },
+  {
+    "city": "Athens",
+    "country": "Greece",
+    "population_2024": 3154591,
+    "population_2023": 3154463,
+    "growth_rate": 0.0,
+    "slug": "athens"
+  },
+  {
+    "city": "Depok",
+    "country": "Indonesia",
+    "population_2024": 3133298,
+    "population_2023": 3041229,
+    "growth_rate": 0.0303,
+    "slug": "depok"
+  },
+  {
+    "city": "Izmir",
+    "country": "Turkey",
+    "population_2024": 3120340,
+    "population_2023": 3088414,
+    "growth_rate": 0.0103,
+    "slug": "izmir"
+  },
+  {
+    "city": "Nagpur",
+    "country": "India",
+    "population_2024": 3106340,
+    "population_2023": 3046687,
+    "growth_rate": 0.0196,
+    "slug": "nagpur"
+  },
+  {
+    "city": "Surabaya",
+    "country": "Indonesia",
+    "population_2024": 3088748,
+    "population_2023": 3044413,
+    "growth_rate": 0.0146,
+    "slug": "surabaya"
+  },
+  {
+    "city": "Handan",
+    "country": "China",
+    "population_2024": 3085998,
+    "population_2023": 3005409,
+    "growth_rate": 0.0268,
+    "slug": "handan"
+  },
+  {
+    "city": "Coimbatore",
+    "country": "India",
+    "population_2024": 3083721,
+    "population_2023": 3009047,
+    "growth_rate": 0.0248,
+    "slug": "coimbatore"
+  },
+  {
+    "city": "Huaian",
+    "country": "China",
+    "population_2024": 3071048,
+    "population_2023": 2979893,
+    "growth_rate": 0.0306,
+    "slug": "huaian"
+  },
+  {
+    "city": "Port Au Prince",
+    "country": "Haiti",
+    "population_2024": 3060169,
+    "population_2023": 2987455,
+    "growth_rate": 0.0243,
+    "slug": "port-au-prince"
+  },
+  {
+    "city": "Zhongshan",
+    "country": "China",
+    "population_2024": 3051065,
+    "population_2023": 3010685,
+    "growth_rate": 0.0134,
+    "slug": "zhongshan"
+  },
+  {
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "population_2024": 3051016,
+    "population_2023": 3007583,
+    "growth_rate": 0.0144,
+    "slug": "dubai"
+  },
+  {
+    "city": "Bamako",
+    "country": "Mali",
+    "population_2024": 3050570,
+    "population_2023": 2929373,
+    "growth_rate": 0.0414,
+    "slug": "bamako"
+  },
+  {
+    "city": "Mbuji Mayi",
+    "country": "DR Congo",
+    "population_2024": 3022855,
+    "population_2023": 2891746,
+    "growth_rate": 0.0453,
+    "slug": "mbuji-mayi"
+  },
+  {
+    "city": "Kiev",
+    "country": "Ukraine",
+    "population_2024": 3020228,
+    "population_2023": 3016789,
+    "growth_rate": 0.0011,
+    "slug": "kiev"
+  },
+  {
+    "city": "Lisbon",
+    "country": "Portugal",
+    "population_2024": 3014607,
+    "population_2023": 3000536,
+    "growth_rate": 0.0047,
+    "slug": "lisbon"
+  },
+  {
+    "city": "Weifang",
+    "country": "China",
+    "population_2024": 2994537,
+    "population_2023": 2917819,
+    "growth_rate": 0.0263,
+    "slug": "weifang"
+  },
+  {
+    "city": "Caracas",
+    "country": "Venezuela",
+    "population_2024": 2991727,
+    "population_2023": 2972145,
+    "growth_rate": 0.0066,
+    "slug": "caracas"
+  },
+  {
+    "city": "Thiruvananthapuram",
+    "country": "India",
+    "population_2024": 2984154,
+    "population_2023": 2891119,
+    "growth_rate": 0.0322,
+    "slug": "thiruvananthapuram"
+  },
+  {
+    "city": "Algiers",
+    "country": "Algeria",
+    "population_2024": 2952115,
+    "population_2023": 2901810,
+    "growth_rate": 0.0173,
+    "slug": "algiers"
+  },
+  {
+    "city": "Shizuoka",
+    "country": "Japan",
+    "population_2024": 2935527,
+    "population_2023": 2937359,
+    "growth_rate": -0.0006,
+    "slug": "shizuoka"
+  },
+  {
+    "city": "Lubumbashi",
+    "country": "DR Congo",
+    "population_2024": 2933962,
+    "population_2023": 2811959,
+    "growth_rate": 0.0434,
+    "slug": "lubumbashi"
+  },
+  {
+    "city": "Cali",
+    "country": "Colombia",
+    "population_2024": 2890433,
+    "population_2023": 2863730,
+    "growth_rate": 0.0093,
+    "slug": "cali"
+  },
+  {
+    "city": "Goiania",
+    "country": "Brazil",
+    "population_2024": 2890418,
+    "population_2023": 2848473,
+    "growth_rate": 0.0147,
+    "slug": "goiania"
+  },
+  {
+    "city": "Pretoria",
+    "country": "South Africa",
+    "population_2024": 2889899,
+    "population_2023": 2818100,
+    "growth_rate": 0.0255,
+    "slug": "pretoria"
+  },
+  {
+    "city": "Shaoxing",
+    "country": "China",
+    "population_2024": 2882171,
+    "population_2023": 2805654,
+    "growth_rate": 0.0273,
+    "slug": "shaoxing"
+  },
+  {
+    "city": "Incheon",
+    "country": "South Korea",
+    "population_2024": 2861686,
+    "population_2023": 2848557,
+    "growth_rate": 0.0046,
+    "slug": "incheon"
+  },
+  {
+    "city": "Yantai",
+    "country": "China",
+    "population_2024": 2834508,
+    "population_2023": 2764584,
+    "growth_rate": 0.0253,
+    "slug": "yantai"
+  },
+  {
+    "city": "Zibo",
+    "country": "China",
+    "population_2024": 2828435,
+    "population_2023": 2780142,
+    "growth_rate": 0.0174,
+    "slug": "zibo"
+  },
+  {
+    "city": "Huizhou",
+    "country": "China",
+    "population_2024": 2827610,
+    "population_2023": 2758593,
+    "growth_rate": 0.025,
+    "slug": "huizhou"
+  },
+  {
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "population_2024": 2811756,
+    "population_2023": 2791005,
+    "growth_rate": 0.0074,
+    "slug": "manchester"
+  },
+  {
+    "city": "Taipei",
+    "country": "Taiwan",
+    "population_2024": 2766334,
+    "population_2023": 2754196,
+    "growth_rate": 0.0044,
+    "slug": "taipei"
+  },
+  {
+    "city": "Mogadishu",
+    "country": "Somalia",
+    "population_2024": 2726815,
+    "population_2023": 2610483,
+    "growth_rate": 0.0446,
+    "slug": "mogadishu"
+  },
+  {
+    "city": "Brazzaville",
+    "country": "Republic of the Congo",
+    "population_2024": 2724566,
+    "population_2023": 2637733,
+    "growth_rate": 0.0329,
+    "slug": "brazzaville"
+  },
+  {
+    "city": "Accra",
+    "country": "Ghana",
+    "population_2024": 2721165,
+    "population_2023": 2660072,
+    "growth_rate": 0.023,
+    "slug": "accra"
+  },
+  {
+    "city": "Bandung",
+    "country": "Indonesia",
+    "population_2024": 2714215,
+    "population_2023": 2674000,
+    "growth_rate": 0.015,
+    "slug": "bandung"
+  },
+  {
+    "city": "Damascus",
+    "country": "Syria",
+    "population_2024": 2685361,
+    "population_2023": 2584771,
+    "growth_rate": 0.0389,
+    "slug": "damascus"
+  },
+  {
+    "city": "Birmingham",
+    "country": "United Kingdom",
+    "population_2024": 2684807,
+    "population_2023": 2665100,
+    "growth_rate": 0.0074,
+    "slug": "birmingham"
+  },
+  {
+    "city": "Vancouver",
+    "country": "Canada",
+    "population_2024": 2682509,
+    "population_2023": 2657088,
+    "growth_rate": 0.0096,
+    "slug": "vancouver"
+  },
+  {
+    "city": "Toluca De Lerdo",
+    "country": "Mexico",
+    "population_2024": 2674336,
+    "population_2023": 2626368,
+    "growth_rate": 0.0183,
+    "slug": "toluca-de-lerdo"
+  },
+  {
+    "city": "Luoyang",
+    "country": "China",
+    "population_2024": 2666744,
+    "population_2023": 2602793,
+    "growth_rate": 0.0246,
+    "slug": "luoyang"
+  },
+  {
+    "city": "Sapporo",
+    "country": "Japan",
+    "population_2024": 2660947,
+    "population_2023": 2666112,
+    "growth_rate": -0.0019,
+    "slug": "sapporo"
+  },
+  {
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "population_2024": 2633661,
+    "population_2023": 2603243,
+    "growth_rate": 0.0117,
+    "slug": "tashkent"
+  },
+  {
+    "city": "Patna",
+    "country": "India",
+    "population_2024": 2633243,
+    "population_2023": 2579762,
+    "growth_rate": 0.0207,
+    "slug": "patna"
+  },
+  {
+    "city": "Bhopal",
+    "country": "India",
+    "population_2024": 2624865,
+    "population_2023": 2564502,
+    "growth_rate": 0.0235,
+    "slug": "bhopal"
+  },
+  {
+    "city": "Chicago",
+    "country": "United States",
+    "population_2024": 2590002,
+    "population_2023": 2627520,
+    "growth_rate": -0.0143,
+    "slug": "chicago"
+  },
+  {
+    "city": "Tangerang",
+    "country": "Indonesia",
+    "population_2024": 2570980,
+    "population_2023": 2514077,
+    "growth_rate": 0.0226,
+    "slug": "tangerang"
+  },
+  {
+    "city": "Nantong",
+    "country": "China",
+    "population_2024": 2555722,
+    "population_2023": 2492230,
+    "growth_rate": 0.0255,
+    "slug": "nantong"
+  },
+  {
+    "city": "Brisbane",
+    "country": "Australia",
+    "population_2024": 2536449,
+    "population_2023": 2504505,
+    "growth_rate": 0.0128,
+    "slug": "brisbane"
+  },
+  {
+    "city": "Tunis",
+    "country": "Tunisia",
+    "population_2024": 2510673,
+    "population_2023": 2475446,
+    "growth_rate": 0.0142,
+    "slug": "tunis"
+  },
+  {
+    "city": "Peshawar",
+    "country": "Pakistan",
+    "population_2024": 2480546,
+    "population_2023": 2411785,
+    "growth_rate": 0.0285,
+    "slug": "peshawar"
+  },
+  {
+    "city": "Medan",
+    "country": "Indonesia",
+    "population_2024": 2479070,
+    "population_2023": 2439054,
+    "growth_rate": 0.0164,
+    "slug": "medan"
+  },
+  {
+    "city": "Gujranwala",
+    "country": "Pakistan",
+    "population_2024": 2479058,
+    "population_2023": 2415416,
+    "growth_rate": 0.0263,
+    "slug": "gujranwala"
+  },
+  {
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "population_2024": 2464162,
+    "population_2023": 2432304,
+    "growth_rate": 0.0131,
+    "slug": "baku"
+  },
+  {
+    "city": "Hohhot",
+    "country": "China",
+    "population_2024": 2443686,
+    "population_2023": 2380636,
+    "growth_rate": 0.0265,
+    "slug": "hohhot"
+  },
+  {
+    "city": "San Juan",
+    "country": "Puerto Rico",
+    "population_2024": 2436620,
+    "population_2023": 2439564,
+    "growth_rate": -0.0012,
+    "slug": "san-juan"
+  },
+  {
+    "city": "Belem",
+    "country": "Brazil",
+    "population_2024": 2432177,
+    "population_2023": 2409409,
+    "growth_rate": 0.0094,
+    "slug": "belem"
+  },
+  {
+    "city": "Rawalpindi",
+    "country": "Pakistan",
+    "population_2024": 2430388,
+    "population_2023": 2377325,
+    "growth_rate": 0.0223,
+    "slug": "rawalpindi"
+  },
+  {
+    "city": "Agra",
+    "country": "India",
+    "population_2024": 2422342,
+    "population_2023": 2367554,
+    "growth_rate": 0.0231,
+    "slug": "agra"
+  },
+  {
+    "city": "Manaus",
+    "country": "Brazil",
+    "population_2024": 2406854,
+    "population_2023": 2375636,
+    "growth_rate": 0.0131,
+    "slug": "manaus"
+  },
+  {
+    "city": "Kannur",
+    "country": "India",
+    "population_2024": 2405664,
+    "population_2023": 2346137,
+    "growth_rate": 0.0254,
+    "slug": "kannur"
+  },
+  {
+    "city": "Beirut",
+    "country": "Lebanon",
+    "population_2024": 2402485,
+    "population_2023": 2421354,
+    "growth_rate": -0.0078,
+    "slug": "beirut"
+  },
+  {
+    "city": "Maracaibo",
+    "country": "Venezuela",
+    "population_2024": 2400826,
+    "population_2023": 2367626,
+    "growth_rate": 0.014,
+    "slug": "maracaibo"
+  },
+  {
+    "city": "Liuzhou",
+    "country": "China",
+    "population_2024": 2397410,
+    "population_2023": 2343452,
+    "growth_rate": 0.023,
+    "slug": "liuzhou"
+  },
+  {
+    "city": "Visakhapatnam",
+    "country": "India",
+    "population_2024": 2385110,
+    "population_2023": 2330928,
+    "growth_rate": 0.0232,
+    "slug": "visakhapatnam"
+  },
+  {
+    "city": "Baotou",
+    "country": "China",
+    "population_2024": 2381242,
+    "population_2023": 2334878,
+    "growth_rate": 0.0199,
+    "slug": "baotou"
+  },
+  {
+    "city": "Vadodara",
+    "country": "India",
+    "population_2024": 2373365,
+    "population_2023": 2324084,
+    "growth_rate": 0.0212,
+    "slug": "vadodara"
+  },
+  {
+    "city": "Barranquilla",
+    "country": "Colombia",
+    "population_2024": 2373302,
+    "population_2023": 2349400,
+    "growth_rate": 0.0102,
+    "slug": "barranquilla"
+  },
+  {
+    "city": "Phnom Penh",
+    "country": "Cambodia",
+    "population_2024": 2352680,
+    "population_2023": 2281198,
+    "growth_rate": 0.0313,
+    "slug": "phnom-penh"
+  },
+  {
+    "city": "Sendai",
+    "country": "Japan",
+    "population_2024": 2341433,
+    "population_2023": 2342302,
+    "growth_rate": -0.0004,
+    "slug": "sendai"
+  },
+  {
+    "city": "Taoyuan",
+    "country": "Taiwan",
+    "population_2024": 2338724,
+    "population_2023": 2318850,
+    "growth_rate": 0.0086,
+    "slug": "taoyuan"
+  },
+  {
+    "city": "Xuzhou",
+    "country": "China",
+    "population_2024": 2332531,
+    "population_2023": 2287166,
+    "growth_rate": 0.0198,
+    "slug": "xuzhou"
+  },
+  {
+    "city": "Aleppo",
+    "country": "Syria",
+    "population_2024": 2317650,
+    "population_2023": 2203025,
+    "growth_rate": 0.052,
+    "slug": "aleppo"
+  },
+  {
+    "city": "Houston",
+    "country": "United States",
+    "population_2024": 2305889,
+    "population_2023": 2304383,
+    "growth_rate": 0.0007,
+    "slug": "houston"
+  },
+  {
+    "city": "Tijuana",
+    "country": "Mexico",
+    "population_2024": 2297216,
+    "population_2023": 2259787,
+    "growth_rate": 0.0166,
+    "slug": "tijuana"
+  },
+  {
+    "city": "Esfahan",
+    "country": "Iran",
+    "population_2024": 2294589,
+    "population_2023": 2258396,
+    "growth_rate": 0.016,
+    "slug": "esfahan"
+  },
+  {
+    "city": "Nashik",
+    "country": "India",
+    "population_2024": 2294299,
+    "population_2023": 2237369,
+    "growth_rate": 0.0254,
+    "slug": "nashik"
+  },
+  {
+    "city": "Vijayawada",
+    "country": "India",
+    "population_2024": 2290785,
+    "population_2023": 2229765,
+    "growth_rate": 0.0274,
+    "slug": "vijayawada"
+  },
+  {
+    "city": "Amman",
+    "country": "Jordan",
+    "population_2024": 2252688,
+    "population_2023": 2232240,
+    "growth_rate": 0.0092,
+    "slug": "amman"
+  },
+  {
+    "city": "Putian",
+    "country": "China",
+    "population_2024": 2250104,
+    "population_2023": 2176022,
+    "growth_rate": 0.034,
+    "slug": "putian"
+  },
+  {
+    "city": "Multan",
+    "country": "Pakistan",
+    "population_2024": 2205407,
+    "population_2023": 2154600,
+    "growth_rate": 0.0236,
+    "slug": "multan"
+  },
+  {
+    "city": "Grande Vitoria",
+    "country": "Brazil",
+    "population_2024": 2196818,
+    "population_2023": 2170513,
+    "growth_rate": 0.0121,
+    "slug": "grande-vitoria"
+  },
+  {
+    "city": "Wuhu Anhui",
+    "country": "China",
+    "population_2024": 2195262,
+    "population_2023": 2124797,
+    "growth_rate": 0.0332,
+    "slug": "wuhu-anhui"
+  },
+  {
+    "city": "Mecca",
+    "country": "Saudi Arabia",
+    "population_2024": 2184560,
+    "population_2023": 2149928,
+    "growth_rate": 0.0161,
+    "slug": "mecca"
+  },
+  {
+    "city": "Kollam",
+    "country": "India",
+    "population_2024": 2181940,
+    "population_2023": 2106606,
+    "growth_rate": 0.0358,
+    "slug": "kollam"
+  },
+  {
+    "city": "Naples",
+    "country": "Italy",
+    "population_2024": 2180027,
+    "population_2023": 2179384,
+    "growth_rate": 0.0003,
+    "slug": "naples"
+  },
+  {
+    "city": "Daegu",
+    "country": "South Korea",
+    "population_2024": 2179929,
+    "population_2023": 2180997,
+    "growth_rate": -0.0005,
+    "slug": "daegu"
+  },
+  {
+    "city": "Conakry",
+    "country": "Guinea",
+    "population_2024": 2178596,
+    "population_2023": 2110937,
+    "growth_rate": 0.0321,
+    "slug": "conakry"
+  },
+  {
+    "city": "Yangzhou",
+    "country": "China",
+    "population_2024": 2175102,
+    "population_2023": 2131291,
+    "growth_rate": 0.0206,
+    "slug": "yangzhou"
+  },
+  {
+    "city": "Havana",
+    "country": "Cuba",
+    "population_2024": 2152518,
+    "population_2023": 2148930,
+    "growth_rate": 0.0017,
+    "slug": "havana"
+  },
+  {
+    "city": "Taizhou Zhejiang",
+    "country": "China",
+    "population_2024": 2152226,
+    "population_2023": 2102143,
+    "growth_rate": 0.0238,
+    "slug": "taizhou-zhejiang"
+  },
+  {
+    "city": "Baoding",
+    "country": "China",
+    "population_2024": 2149703,
+    "population_2023": 2107539,
+    "growth_rate": 0.02,
+    "slug": "baoding"
+  },
+  {
+    "city": "Perth",
+    "country": "Australia",
+    "population_2024": 2143491,
+    "population_2023": 2117997,
+    "growth_rate": 0.012,
+    "slug": "perth"
+  },
+  {
+    "city": "Brussels",
+    "country": "Belgium",
+    "population_2024": 2132178,
+    "population_2023": 2121992,
+    "growth_rate": 0.0048,
+    "slug": "brussels"
+  },
+  {
+    "city": "Linyi Shandong",
+    "country": "China",
+    "population_2024": 2120049,
+    "population_2023": 2076364,
+    "growth_rate": 0.021,
+    "slug": "linyi-shandong"
+  },
+  {
+    "city": "Bursa",
+    "country": "Turkey",
+    "population_2024": 2115513,
+    "population_2023": 2086324,
+    "growth_rate": 0.014,
+    "slug": "bursa"
+  },
+  {
+    "city": "Rajkot",
+    "country": "India",
+    "population_2024": 2096981,
+    "population_2023": 2043107,
+    "growth_rate": 0.0264,
+    "slug": "rajkot"
+  },
+  {
+    "city": "Minsk",
+    "country": "Belarus",
+    "population_2024": 2064733,
+    "population_2023": 2057257,
+    "growth_rate": 0.0036,
+    "slug": "minsk"
+  },
+  {
+    "city": "Hiroshima",
+    "country": "Japan",
+    "population_2024": 2062884,
+    "population_2023": 2067591,
+    "growth_rate": -0.0023,
+    "slug": "hiroshima"
+  },
+  {
+    "city": "Haikou",
+    "country": "China",
+    "population_2024": 2056646,
+    "population_2023": 2016092,
+    "growth_rate": 0.0201,
+    "slug": "haikou"
+  },
+  {
+    "city": "Daqing",
+    "country": "China",
+    "population_2024": 2044371,
+    "population_2023": 2000656,
+    "growth_rate": 0.0219,
+    "slug": "daqing"
+  },
+  {
+    "city": "Lome",
+    "country": "Togo",
+    "population_2024": 2042734,
+    "population_2023": 1981615,
+    "growth_rate": 0.0308,
+    "slug": "lome"
+  },
+  {
+    "city": "Lianyungang",
+    "country": "China",
+    "population_2024": 2035631,
+    "population_2023": 1986439,
+    "growth_rate": 0.0248,
+    "slug": "lianyungang"
+  },
+  {
+    "city": "Yancheng Jiangsu",
+    "country": "China",
+    "population_2024": 2034326,
+    "population_2023": 1993463,
+    "growth_rate": 0.0205,
+    "slug": "yancheng-jiangsu"
+  },
+  {
+    "city": "Panama City",
+    "country": "Panama",
+    "population_2024": 2015735,
+    "population_2023": 1976866,
+    "growth_rate": 0.0197,
+    "slug": "panama-city"
+  },
+  {
+    "city": "Almaty",
+    "country": "Kazakhstan",
+    "population_2024": 2015209,
+    "population_2023": 1987301,
+    "growth_rate": 0.014,
+    "slug": "almaty"
+  },
+  {
+    "city": "Semarang",
+    "country": "Indonesia",
+    "population_2024": 2013571,
+    "population_2023": 1975306,
+    "growth_rate": 0.0194,
+    "slug": "semarang"
+  },
+  {
+    "city": "Hyderabad",
+    "country": "Pakistan",
+    "population_2024": 2011964,
+    "population_2023": 1967684,
+    "growth_rate": 0.0225,
+    "slug": "hyderabad"
+  },
+  {
+    "city": "Valencia",
+    "country": "Venezuela",
+    "population_2024": 2007265,
+    "population_2023": 1983445,
+    "growth_rate": 0.012,
+    "slug": "valencia"
+  },
+  {
+    "city": "Davao City",
+    "country": "Philippines",
+    "population_2024": 1991457,
+    "population_2023": 1949400,
+    "growth_rate": 0.0216,
+    "slug": "davao-city"
+  },
+  {
+    "city": "Vienna",
+    "country": "Austria",
+    "population_2024": 1990487,
+    "population_2023": 1975271,
+    "growth_rate": 0.0077,
+    "slug": "vienna"
+  },
+  {
+    "city": "Rabat",
+    "country": "Morocco",
+    "population_2024": 1989197,
+    "population_2023": 1959388,
+    "growth_rate": 0.0152,
+    "slug": "rabat"
+  },
+  {
+    "city": "Ludhiana",
+    "country": "India",
+    "population_2024": 1988438,
+    "population_2023": 1951085,
+    "growth_rate": 0.0191,
+    "slug": "ludhiana"
+  },
+  {
+    "city": "Quito",
+    "country": "Ecuador",
+    "population_2024": 1986667,
+    "population_2023": 1956995,
+    "growth_rate": 0.0152,
+    "slug": "quito"
+  },
+  {
+    "city": "Benin City",
+    "country": "Nigeria",
+    "population_2024": 1972558,
+    "population_2023": 1904631,
+    "growth_rate": 0.0357,
+    "slug": "benin-city"
+  },
+  {
+    "city": "La Paz",
+    "country": "Bolivia",
+    "population_2024": 1965570,
+    "population_2023": 1935619,
+    "growth_rate": 0.0155,
+    "slug": "la-paz"
+  },
+  {
+    "city": "Baixada Santista",
+    "country": "Brazil",
+    "population_2024": 1965110,
+    "population_2023": 1947785,
+    "growth_rate": 0.0089,
+    "slug": "baixada-santista"
+  },
+  {
+    "city": "West Yorkshire",
+    "country": "United Kingdom",
+    "population_2024": 1942470,
+    "population_2023": 1928661,
+    "growth_rate": 0.0072,
+    "slug": "west-yorkshire"
+  },
+  {
+    "city": "Can Tho",
+    "country": "Vietnam",
+    "population_2024": 1938915,
+    "population_2023": 1865172,
+    "growth_rate": 0.0395,
+    "slug": "can-tho"
+  },
+  {
+    "city": "Zhuhai",
+    "country": "China",
+    "population_2024": 1930373,
+    "population_2023": 1889829,
+    "growth_rate": 0.0215,
+    "slug": "zhuhai"
+  },
+  {
+    "city": "Leon De Los Aldamas",
+    "country": "Mexico",
+    "population_2024": 1924435,
+    "population_2023": 1898749,
+    "growth_rate": 0.0135,
+    "slug": "leon-de-los-aldamas"
+  },
+  {
+    "city": "Quanzhou",
+    "country": "China",
+    "population_2024": 1920733,
+    "population_2023": 1869994,
+    "growth_rate": 0.0271,
+    "slug": "quanzhou"
+  },
+  {
+    "city": "Matola",
+    "country": "Mozambique",
+    "population_2024": 1915035,
+    "population_2023": 1852405,
+    "growth_rate": 0.0338,
+    "slug": "matola"
+  },
+  {
+    "city": "Datong",
+    "country": "China",
+    "population_2024": 1913674,
+    "population_2023": 1873693,
+    "growth_rate": 0.0213,
+    "slug": "datong"
+  },
+  {
+    "city": "Sharjah",
+    "country": "United Arab Emirates",
+    "population_2024": 1872199,
+    "population_2023": 1830858,
+    "growth_rate": 0.0226,
+    "slug": "sharjah"
+  },
+  {
+    "city": "Madurai",
+    "country": "India",
+    "population_2024": 1871912,
+    "population_2023": 1834279,
+    "growth_rate": 0.0205,
+    "slug": "madurai"
+  },
+  {
+    "city": "Raipur",
+    "country": "India",
+    "population_2024": 1871107,
+    "population_2023": 1816813,
+    "growth_rate": 0.0299,
+    "slug": "raipur"
+  },
+  {
+    "city": "Adana",
+    "country": "Turkey",
+    "population_2024": 1856638,
+    "population_2023": 1835895,
+    "growth_rate": 0.0113,
+    "slug": "adana"
+  },
+  {
+    "city": "Santa Cruz",
+    "country": "Bolivia",
+    "population_2024": 1855732,
+    "population_2023": 1820114,
+    "growth_rate": 0.0196,
+    "slug": "santa-cruz"
+  },
+  {
+    "city": "Palembang",
+    "country": "Indonesia",
+    "population_2024": 1852673,
+    "population_2023": 1818421,
+    "growth_rate": 0.0188,
+    "slug": "palembang"
+  },
+  {
+    "city": "Mosul",
+    "country": "Iraq",
+    "population_2024": 1847691,
+    "population_2023": 1792020,
+    "growth_rate": 0.0311,
+    "slug": "mosul"
+  },
+  {
+    "city": "Cixi",
+    "country": "China",
+    "population_2024": 1840039,
+    "population_2023": 1788871,
+    "growth_rate": 0.0286,
+    "slug": "cixi"
+  },
+  {
+    "city": "Meerut",
+    "country": "India",
+    "population_2024": 1835403,
+    "population_2023": 1797805,
+    "growth_rate": 0.0209,
+    "slug": "meerut"
+  },
+  {
+    "city": "Gaziantep",
+    "country": "Turkey",
+    "population_2024": 1833006,
+    "population_2023": 1804704,
+    "growth_rate": 0.0157,
+    "slug": "gaziantep"
+  },
+  {
+    "city": "La Laguna",
+    "country": "Mexico",
+    "population_2024": 1826135,
+    "population_2023": 1780592,
+    "growth_rate": 0.0256,
+    "slug": "la-laguna"
+  },
+  {
+    "city": "Batam",
+    "country": "Indonesia",
+    "population_2024": 1806147,
+    "population_2023": 1748142,
+    "growth_rate": 0.0332,
+    "slug": "batam"
+  },
+  {
+    "city": "Turin",
+    "country": "Italy",
+    "population_2024": 1805727,
+    "population_2023": 1801944,
+    "growth_rate": 0.0021,
+    "slug": "turin"
+  },
+  {
+    "city": "Warsaw",
+    "country": "Poland",
+    "population_2024": 1799451,
+    "population_2023": 1797516,
+    "growth_rate": 0.0011,
+    "slug": "warsaw"
+  },
+  {
+    "city": "Jiangmen",
+    "country": "China",
+    "population_2024": 1797469,
+    "population_2023": 1768511,
+    "growth_rate": 0.0164,
+    "slug": "jiangmen"
+  },
+  {
+    "city": "Varanasi",
+    "country": "India",
+    "population_2024": 1789047,
+    "population_2023": 1754425,
+    "growth_rate": 0.0197,
+    "slug": "varanasi"
+  },
+  {
+    "city": "Hamburg",
+    "country": "Germany",
+    "population_2024": 1787280,
+    "population_2023": 1787520,
+    "growth_rate": -0.0001,
+    "slug": "hamburg"
+  },
+  {
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "population_2024": 1781363,
+    "population_2023": 1774396,
+    "growth_rate": 0.0039,
+    "slug": "montevideo"
+  },
+  {
+    "city": "Budapest",
+    "country": "Hungary",
+    "population_2024": 1780391,
+    "population_2023": 1778052,
+    "growth_rate": 0.0013,
+    "slug": "budapest"
+  },
+  {
+    "city": "Lyon",
+    "country": "France",
+    "population_2024": 1774395,
+    "population_2023": 1761188,
+    "growth_rate": 0.0075,
+    "slug": "lyon"
+  },
+  {
+    "city": "Xiangyang",
+    "country": "China",
+    "population_2024": 1772318,
+    "population_2023": 1742706,
+    "growth_rate": 0.017,
+    "slug": "xiangyang"
+  },
+  {
+    "city": "Bucharest",
+    "country": "Romania",
+    "population_2024": 1767520,
+    "population_2023": 1776385,
+    "growth_rate": -0.005,
+    "slug": "bucharest"
+  },
+  {
+    "city": "Yichang",
+    "country": "China",
+    "population_2024": 1758100,
+    "population_2023": 1711244,
+    "growth_rate": 0.0274,
+    "slug": "yichang"
+  },
+  {
+    "city": "Yinchuan",
+    "country": "China",
+    "population_2024": 1757699,
+    "population_2023": 1716591,
+    "growth_rate": 0.0239,
+    "slug": "yinchuan"
+  },
+  {
+    "city": "Shiraz",
+    "country": "Iran",
+    "population_2024": 1742750,
+    "population_2023": 1720954,
+    "growth_rate": 0.0127,
+    "slug": "shiraz"
+  },
+  {
+    "city": "Kananga",
+    "country": "DR Congo",
+    "population_2024": 1738716,
+    "population_2023": 1664442,
+    "growth_rate": 0.0446,
+    "slug": "kananga"
+  },
+  {
+    "city": "Srinagar",
+    "country": "India",
+    "population_2024": 1737502,
+    "population_2023": 1698277,
+    "growth_rate": 0.0231,
+    "slug": "srinagar"
+  },
+  {
+    "city": "Monrovia",
+    "country": "Liberia",
+    "population_2024": 1735365,
+    "population_2023": 1678020,
+    "growth_rate": 0.0342,
+    "slug": "monrovia"
+  },
+  {
+    "city": "Tiruppur",
+    "country": "India",
+    "population_2024": 1731862,
+    "population_2023": 1677173,
+    "growth_rate": 0.0326,
+    "slug": "tiruppur"
+  },
+  {
+    "city": "Jamshedpur",
+    "country": "India",
+    "population_2024": 1730521,
+    "population_2023": 1695060,
+    "growth_rate": 0.0209,
+    "slug": "jamshedpur"
+  },
+  {
+    "city": "Suqian",
+    "country": "China",
+    "population_2024": 1726327,
+    "population_2023": 1664968,
+    "growth_rate": 0.0369,
+    "slug": "suqian"
+  },
+  {
+    "city": "Aurangabad",
+    "country": "India",
+    "population_2024": 1725283,
+    "population_2023": 1683389,
+    "growth_rate": 0.0249,
+    "slug": "aurangabad"
+  },
+  {
+    "city": "Qinhuangdao",
+    "country": "China",
+    "population_2024": 1723728,
+    "population_2023": 1680962,
+    "growth_rate": 0.0254,
+    "slug": "qinhuangdao"
+  },
+  {
+    "city": "Stockholm",
+    "country": "Sweden",
+    "population_2024": 1719604,
+    "population_2023": 1700066,
+    "growth_rate": 0.0115,
+    "slug": "stockholm"
+  },
+  {
+    "city": "Anshan",
+    "country": "China",
+    "population_2024": 1713452,
+    "population_2023": 1689499,
+    "growth_rate": 0.0142,
+    "slug": "anshan"
+  },
+  {
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "population_2024": 1708147,
+    "population_2023": 1698088,
+    "growth_rate": 0.0059,
+    "slug": "glasgow"
+  },
+  {
+    "city": "Xining",
+    "country": "China",
+    "population_2024": 1705078,
+    "population_2023": 1666605,
+    "growth_rate": 0.0231,
+    "slug": "xining"
+  },
+  {
+    "city": "Makassar",
+    "country": "Indonesia",
+    "population_2024": 1704930,
+    "population_2023": 1673094,
+    "growth_rate": 0.019,
+    "slug": "makassar"
+  },
+  {
+    "city": "Hengyang",
+    "country": "China",
+    "population_2024": 1702012,
+    "population_2023": 1661854,
+    "growth_rate": 0.0242,
+    "slug": "hengyang"
+  },
+  {
+    "city": "Novosibirsk",
+    "country": "Russia",
+    "population_2024": 1701510,
+    "population_2023": 1694765,
+    "growth_rate": 0.004,
+    "slug": "novosibirsk"
+  },
+  {
+    "city": "Ulaanbaatar",
+    "country": "Mongolia",
+    "population_2024": 1699363,
+    "population_2023": 1672627,
+    "growth_rate": 0.016,
+    "slug": "ulaanbaatar"
+  },
+  {
+    "city": "Onitsha",
+    "country": "Nigeria",
+    "population_2024": 1694913,
+    "population_2023": 1623382,
+    "growth_rate": 0.0441,
+    "slug": "onitsha"
+  },
+  {
+    "city": "Jilin",
+    "country": "China",
+    "population_2024": 1693701,
+    "population_2023": 1668785,
+    "growth_rate": 0.0149,
+    "slug": "jilin"
+  },
+  {
+    "city": "Anyang",
+    "country": "China",
+    "population_2024": 1693375,
+    "population_2023": 1642347,
+    "growth_rate": 0.0311,
+    "slug": "anyang"
+  },
+  {
+    "city": "Auckland",
+    "country": "New Zealand",
+    "population_2024": 1692770,
+    "population_2023": 1673220,
+    "growth_rate": 0.0117,
+    "slug": "auckland"
+  },
+  {
+    "city": "Tabriz",
+    "country": "Iran",
+    "population_2024": 1678028,
+    "population_2023": 1660737,
+    "growth_rate": 0.0104,
+    "slug": "tabriz"
+  },
+  {
+    "city": "Phoenix",
+    "country": "United States",
+    "population_2024": 1676481,
+    "population_2023": 1660445,
+    "growth_rate": 0.0097,
+    "slug": "phoenix"
+  },
+  {
+    "city": "Muscat",
+    "country": "Oman",
+    "population_2024": 1676167,
+    "population_2023": 1650319,
+    "growth_rate": 0.0157,
+    "slug": "muscat"
+  },
+  {
+    "city": "Calgary",
+    "country": "Canada",
+    "population_2024": 1665023,
+    "population_2023": 1639613,
+    "growth_rate": 0.0155,
+    "slug": "calgary"
+  },
+  {
+    "city": "Qiqihaer",
+    "country": "China",
+    "population_2024": 1662407,
+    "population_2023": 1635458,
+    "growth_rate": 0.0165,
+    "slug": "qiqihaer"
+  },
+  {
+    "city": "N Djamena",
+    "country": "Chad",
+    "population_2024": 1655618,
+    "population_2023": 1592324,
+    "growth_rate": 0.0397,
+    "slug": "n-djamena"
+  },
+  {
+    "city": "Marseille",
+    "country": "France",
+    "population_2024": 1635707,
+    "population_2023": 1627549,
+    "growth_rate": 0.005,
+    "slug": "marseille"
+  },
+  {
+    "city": "Cordoba",
+    "country": "Argentina",
+    "population_2024": 1625937,
+    "population_2023": 1611651,
+    "growth_rate": 0.0089,
+    "slug": "cordoba"
+  },
+  {
+    "city": "Jodhpur",
+    "country": "India",
+    "population_2024": 1625325,
+    "population_2023": 1586547,
+    "growth_rate": 0.0244,
+    "slug": "jodhpur"
+  },
+  {
+    "city": "Kathmandu",
+    "country": "Nepal",
+    "population_2024": 1621642,
+    "population_2023": 1571010,
+    "growth_rate": 0.0322,
+    "slug": "kathmandu"
+  },
+  {
+    "city": "Rosario",
+    "country": "Argentina",
+    "population_2024": 1613041,
+    "population_2023": 1594096,
+    "growth_rate": 0.0119,
+    "slug": "rosario"
+  },
+  {
+    "city": "Tegucigalpa",
+    "country": "Honduras",
+    "population_2024": 1609261,
+    "population_2023": 1568025,
+    "growth_rate": 0.0263,
+    "slug": "tegucigalpa"
+  },
+  {
+    "city": "Ciudad Juarez",
+    "country": "Mexico",
+    "population_2024": 1604085,
+    "population_2023": 1582313,
+    "growth_rate": 0.0138,
+    "slug": "ciudad-juarez"
+  },
+  {
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "population_2024": 1603201,
+    "population_2023": 1578128,
+    "growth_rate": 0.0159,
+    "slug": "harare"
+  },
+  {
+    "city": "Karaj",
+    "country": "Iran",
+    "population_2024": 1603011,
+    "population_2023": 1593608,
+    "growth_rate": 0.0059,
+    "slug": "karaj"
+  },
+  {
+    "city": "Medina",
+    "country": "Saudi Arabia",
+    "population_2024": 1598976,
+    "population_2023": 1572571,
+    "growth_rate": 0.0168,
+    "slug": "medina"
+  },
+  {
+    "city": "Jining Shandong",
+    "country": "China",
+    "population_2024": 1595963,
+    "population_2023": 1569560,
+    "growth_rate": 0.0168,
+    "slug": "jining-shandong"
+  },
+  {
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "population_2024": 1593284,
+    "population_2023": 1566999,
+    "growth_rate": 0.0168,
+    "slug": "abu-dhabi"
+  },
+  {
+    "city": "Munich",
+    "country": "Germany",
+    "population_2024": 1584507,
+    "population_2023": 1576416,
+    "growth_rate": 0.0051,
+    "slug": "munich"
+  },
+  {
+    "city": "Ranchi",
+    "country": "India",
+    "population_2024": 1584237,
+    "population_2023": 1547258,
+    "growth_rate": 0.0239,
+    "slug": "ranchi"
+  },
+  {
+    "city": "Daejon",
+    "country": "South Korea",
+    "population_2024": 1581705,
+    "population_2023": 1577436,
+    "growth_rate": 0.0027,
+    "slug": "daejon"
+  },
+  {
+    "city": "Zhangjiakou",
+    "country": "China",
+    "population_2024": 1568122,
+    "population_2023": 1536171,
+    "growth_rate": 0.0208,
+    "slug": "zhangjiakou"
+  },
+  {
+    "city": "Edmonton",
+    "country": "Canada",
+    "population_2024": 1567615,
+    "population_2023": 1544448,
+    "growth_rate": 0.015,
+    "slug": "edmonton"
+  },
+  {
+    "city": "Mandalay",
+    "country": "Myanmar",
+    "population_2024": 1563021,
+    "population_2023": 1531860,
+    "growth_rate": 0.0203,
+    "slug": "mandalay"
+  },
+  {
+    "city": "Gaoxiong",
+    "country": "Taiwan",
+    "population_2024": 1559085,
+    "population_2023": 1552899,
+    "growth_rate": 0.004,
+    "slug": "gaoxiong"
+  },
+  {
+    "city": "Kota",
+    "country": "India",
+    "population_2024": 1558468,
+    "population_2023": 1516795,
+    "growth_rate": 0.0275,
+    "slug": "kota"
+  },
+  {
+    "city": "Natal",
+    "country": "Brazil",
+    "population_2024": 1556413,
+    "population_2023": 1535316,
+    "growth_rate": 0.0137,
+    "slug": "natal"
+  },
+  {
+    "city": "Nouakchott",
+    "country": "Mauritania",
+    "population_2024": 1552146,
+    "population_2023": 1491958,
+    "growth_rate": 0.0403,
+    "slug": "nouakchott"
+  },
+  {
+    "city": "Jabalpur",
+    "country": "India",
+    "population_2024": 1551004,
+    "population_2023": 1522121,
+    "growth_rate": 0.019,
+    "slug": "jabalpur"
+  },
+  {
+    "city": "Huainan",
+    "country": "China",
+    "population_2024": 1538603,
+    "population_2023": 1512668,
+    "growth_rate": 0.0171,
+    "slug": "huainan"
+  },
+  {
+    "city": "Grande Sao Luis",
+    "country": "Brazil",
+    "population_2024": 1536017,
+    "population_2023": 1523629,
+    "growth_rate": 0.0081,
+    "slug": "grande-sao-luis"
+  },
+  {
+    "city": "Asansol",
+    "country": "India",
+    "population_2024": 1534081,
+    "population_2023": 1505033,
+    "growth_rate": 0.0193,
+    "slug": "asansol"
+  },
+  {
+    "city": "Philadelphia",
+    "country": "United States",
+    "population_2024": 1533916,
+    "population_2023": 1550587,
+    "growth_rate": -0.0107,
+    "slug": "philadelphia"
+  },
+  {
+    "city": "Yekaterinburg",
+    "country": "Russia",
+    "population_2024": 1532970,
+    "population_2023": 1527728,
+    "growth_rate": 0.0034,
+    "slug": "yekaterinburg"
+  },
+  {
+    "city": "Gwangju",
+    "country": "South Korea",
+    "population_2024": 1532902,
+    "population_2023": 1529472,
+    "growth_rate": 0.0022,
+    "slug": "gwangju"
+  },
+  {
+    "city": "Yiwu",
+    "country": "China",
+    "population_2024": 1525749,
+    "population_2023": 1483320,
+    "growth_rate": 0.0286,
+    "slug": "yiwu"
+  },
+  {
+    "city": "Chaozhou",
+    "country": "China",
+    "population_2024": 1520628,
+    "population_2023": 1496298,
+    "growth_rate": 0.0163,
+    "slug": "chaozhou"
+  },
+  {
+    "city": "Gwalior",
+    "country": "India",
+    "population_2024": 1508846,
+    "population_2023": 1475016,
+    "growth_rate": 0.0229,
+    "slug": "gwalior"
+  },
+  {
+    "city": "Ganzhou",
+    "country": "China",
+    "population_2024": 1508037,
+    "population_2023": 1459678,
+    "growth_rate": 0.0331,
+    "slug": "ganzhou"
+  },
+  {
+    "city": "San Antonio",
+    "country": "United States",
+    "population_2024": 1506593,
+    "population_2023": 1489751,
+    "growth_rate": 0.0113,
+    "slug": "san-antonio"
+  },
+  {
+    "city": "Homs",
+    "country": "Syria",
+    "population_2024": 1499603,
+    "population_2023": 1443429,
+    "growth_rate": 0.0389,
+    "slug": "homs"
+  },
+  {
+    "city": "Niamey",
+    "country": "Niger",
+    "population_2024": 1496258,
+    "population_2023": 1437233,
+    "growth_rate": 0.0411,
+    "slug": "niamey"
+  },
+  {
+    "city": "Mombasa",
+    "country": "Kenya",
+    "population_2024": 1495223,
+    "population_2023": 1440396,
+    "growth_rate": 0.0381,
+    "slug": "mombasa"
+  },
+  {
+    "city": "Allahabad",
+    "country": "India",
+    "population_2024": 1493346,
+    "population_2023": 1465152,
+    "growth_rate": 0.0192,
+    "slug": "allahabad"
+  },
+  {
+    "city": "Basra",
+    "country": "Iraq",
+    "population_2024": 1485156,
+    "population_2023": 1448124,
+    "growth_rate": 0.0256,
+    "slug": "basra"
+  },
+  {
+    "city": "Kisangani",
+    "country": "DR Congo",
+    "population_2024": 1483513,
+    "population_2023": 1423395,
+    "growth_rate": 0.0422,
+    "slug": "kisangani"
+  },
+  {
+    "city": "San Jose",
+    "country": "Costa Rica",
+    "population_2024": 1482460,
+    "population_2023": 1461989,
+    "growth_rate": 0.014,
+    "slug": "san-jose"
+  },
+  {
+    "city": "Amritsar",
+    "country": "India",
+    "population_2024": 1480470,
+    "population_2023": 1451748,
+    "growth_rate": 0.0198,
+    "slug": "amritsar"
+  },
+  {
+    "city": "Taizhou Jiangsu",
+    "country": "China",
+    "population_2024": 1477600,
+    "population_2023": 1446810,
+    "growth_rate": 0.0213,
+    "slug": "taizhou-jiangsu"
+  },
+  {
+    "city": "Chon Buri",
+    "country": "Thailand",
+    "population_2024": 1472709,
+    "population_2023": 1454222,
+    "growth_rate": 0.0127,
+    "slug": "chon-buri"
+  },
+  {
+    "city": "Jiaxing",
+    "country": "China",
+    "population_2024": 1470917,
+    "population_2023": 1424982,
+    "growth_rate": 0.0322,
+    "slug": "jiaxing"
+  },
+  {
+    "city": "Weihai",
+    "country": "China",
+    "population_2024": 1465926,
+    "population_2023": 1429315,
+    "growth_rate": 0.0256,
+    "slug": "weihai"
+  },
+  {
+    "city": "Hai Phong",
+    "country": "Vietnam",
+    "population_2024": 1463650,
+    "population_2023": 1422974,
+    "growth_rate": 0.0286,
+    "slug": "hai-phong"
+  },
+  {
+    "city": "Ottawa",
+    "country": "Canada",
+    "population_2024": 1451571,
+    "population_2023": 1437188,
+    "growth_rate": 0.01,
+    "slug": "ottawa"
+  },
+  {
+    "city": "Zurich",
+    "country": "Switzerland",
+    "population_2024": 1443349,
+    "population_2023": 1431538,
+    "growth_rate": 0.0083,
+    "slug": "zurich"
+  },
+  {
+    "city": "Taian Shandong",
+    "country": "China",
+    "population_2024": 1441911,
+    "population_2023": 1416064,
+    "growth_rate": 0.0183,
+    "slug": "taian-shandong"
+  },
+  {
+    "city": "Queretaro",
+    "country": "Mexico",
+    "population_2024": 1436818,
+    "population_2023": 1413474,
+    "growth_rate": 0.0165,
+    "slug": "queretaro"
+  },
+  {
+    "city": "Joao Pessoa",
+    "country": "Brazil",
+    "population_2024": 1435125,
+    "population_2023": 1421827,
+    "growth_rate": 0.0094,
+    "slug": "joao-pessoa"
+  },
+  {
+    "city": "Kaifeng",
+    "country": "China",
+    "population_2024": 1434463,
+    "population_2023": 1398262,
+    "growth_rate": 0.0259,
+    "slug": "kaifeng"
+  },
+  {
+    "city": "Cochabamba",
+    "country": "Bolivia",
+    "population_2024": 1430688,
+    "population_2023": 1400250,
+    "growth_rate": 0.0217,
+    "slug": "cochabamba"
+  },
+  {
+    "city": "Konya",
+    "country": "Turkey",
+    "population_2024": 1429935,
+    "population_2023": 1407632,
+    "growth_rate": 0.0158,
+    "slug": "konya"
+  },
+  {
+    "city": "Liuyang",
+    "country": "China",
+    "population_2024": 1428802,
+    "population_2023": 1373523,
+    "growth_rate": 0.0402,
+    "slug": "liuyang"
+  },
+  {
+    "city": "Liuan",
+    "country": "China",
+    "population_2024": 1427894,
+    "population_2023": 1378077,
+    "growth_rate": 0.0361,
+    "slug": "liuan"
+  },
+  {
+    "city": "Rizhao",
+    "country": "China",
+    "population_2024": 1426583,
+    "population_2023": 1391258,
+    "growth_rate": 0.0254,
+    "slug": "rizhao"
+  },
+  {
+    "city": "Kharkiv",
+    "country": "Ukraine",
+    "population_2024": 1418978,
+    "population_2023": 1421052,
+    "growth_rate": -0.0015,
+    "slug": "kharkiv"
+  },
+  {
+    "city": "Dhanbad",
+    "country": "India",
+    "population_2024": 1414532,
+    "population_2023": 1389776,
+    "growth_rate": 0.0178,
+    "slug": "dhanbad"
+  },
+  {
+    "city": "Nanchong",
+    "country": "China",
+    "population_2024": 1412714,
+    "population_2023": 1377572,
+    "growth_rate": 0.0255,
+    "slug": "nanchong"
+  },
+  {
+    "city": "Dongying",
+    "country": "China",
+    "population_2024": 1410791,
+    "population_2023": 1379377,
+    "growth_rate": 0.0228,
+    "slug": "dongying"
+  },
+  {
+    "city": "Belgrade",
+    "country": "Serbia",
+    "population_2024": 1410697,
+    "population_2023": 1408144,
+    "growth_rate": 0.0018,
+    "slug": "belgrade"
+  },
+  {
+    "city": "Zunyi",
+    "country": "China",
+    "population_2024": 1406091,
+    "population_2023": 1376453,
+    "growth_rate": 0.0215,
+    "slug": "zunyi"
+  },
+  {
+    "city": "Zhanjiang",
+    "country": "China",
+    "population_2024": 1399310,
+    "population_2023": 1371998,
+    "growth_rate": 0.0199,
+    "slug": "zhanjiang"
+  },
+  {
+    "city": "Bucaramanga",
+    "country": "Colombia",
+    "population_2024": 1396632,
+    "population_2023": 1381498,
+    "growth_rate": 0.011,
+    "slug": "bucaramanga"
+  },
+  {
+    "city": "Uyo",
+    "country": "Nigeria",
+    "population_2024": 1393453,
+    "population_2023": 1329284,
+    "growth_rate": 0.0483,
+    "slug": "uyo"
+  },
+  {
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "population_2024": 1391205,
+    "population_2023": 1381005,
+    "growth_rate": 0.0074,
+    "slug": "copenhagen"
+  },
+  {
+    "city": "Shiyan",
+    "country": "China",
+    "population_2024": 1387377,
+    "population_2023": 1354025,
+    "growth_rate": 0.0246,
+    "slug": "shiyan"
+  },
+  {
+    "city": "Taizhong",
+    "country": "Taiwan",
+    "population_2024": 1381855,
+    "population_2023": 1369066,
+    "growth_rate": 0.0093,
+    "slug": "taizhong"
+  },
+  {
+    "city": "Bareilly",
+    "country": "India",
+    "population_2024": 1380715,
+    "population_2023": 1348664,
+    "growth_rate": 0.0238,
+    "slug": "bareilly"
+  },
+  {
+    "city": "Pointe Noire",
+    "country": "Republic of the Congo",
+    "population_2024": 1379368,
+    "population_2023": 1336387,
+    "growth_rate": 0.0322,
+    "slug": "pointe-noire"
+  },
+  {
+    "city": "Adelaide",
+    "country": "Australia",
+    "population_2024": 1379280,
+    "population_2023": 1366783,
+    "growth_rate": 0.0091,
+    "slug": "adelaide"
+  },
+  {
+    "city": "Suweon",
+    "country": "South Korea",
+    "population_2024": 1378229,
+    "population_2023": 1365352,
+    "growth_rate": 0.0094,
+    "slug": "suweon"
+  },
+  {
+    "city": "Mwanza",
+    "country": "Tanzania",
+    "population_2024": 1378014,
+    "population_2023": 1310754,
+    "growth_rate": 0.0513,
+    "slug": "mwanza"
+  },
+  {
+    "city": "Mianyang Sichuan",
+    "country": "China",
+    "population_2024": 1376449,
+    "population_2023": 1351383,
+    "growth_rate": 0.0185,
+    "slug": "mianyang-sichuan"
+  },
+  {
+    "city": "Samut Prakan",
+    "country": "Thailand",
+    "population_2024": 1376146,
+    "population_2023": 1358871,
+    "growth_rate": 0.0127,
+    "slug": "samut-prakan"
+  },
+  {
+    "city": "Maceio",
+    "country": "Brazil",
+    "population_2024": 1375984,
+    "population_2023": 1363510,
+    "growth_rate": 0.0091,
+    "slug": "maceio"
+  },
+  {
+    "city": "San Diego",
+    "country": "United States",
+    "population_2024": 1375452,
+    "population_2023": 1378307,
+    "growth_rate": -0.0021,
+    "slug": "san-diego"
+  },
+  {
+    "city": "Qom",
+    "country": "Iran",
+    "population_2024": 1373800,
+    "population_2023": 1354174,
+    "growth_rate": 0.0145,
+    "slug": "qom"
+  },
+  {
+    "city": "Antalya",
+    "country": "Turkey",
+    "population_2024": 1372400,
+    "population_2023": 1347240,
+    "growth_rate": 0.0187,
+    "slug": "antalya"
+  },
+  {
+    "city": "Joinville",
+    "country": "Brazil",
+    "population_2024": 1361992,
+    "population_2023": 1348521,
+    "growth_rate": 0.01,
+    "slug": "joinville"
+  },
+  {
+    "city": "Tengzhou",
+    "country": "China",
+    "population_2024": 1360779,
+    "population_2023": 1322916,
+    "growth_rate": 0.0286,
+    "slug": "tengzhou"
+  },
+  {
+    "city": "Yingkou",
+    "country": "China",
+    "population_2024": 1355564,
+    "population_2023": 1323174,
+    "growth_rate": 0.0245,
+    "slug": "yingkou"
+  },
+  {
+    "city": "Ad Dammam",
+    "country": "Saudi Arabia",
+    "population_2024": 1352912,
+    "population_2023": 1329291,
+    "growth_rate": 0.0178,
+    "slug": "ad-dammam"
+  },
+  {
+    "city": "Suzhou",
+    "country": "China",
+    "population_2024": 1349994,
+    "population_2023": 1310433,
+    "growth_rate": 0.0302,
+    "slug": "suzhou"
+  },
+  {
+    "city": "Tanger",
+    "country": "Morocco",
+    "population_2024": 1348848,
+    "population_2023": 1314178,
+    "growth_rate": 0.0264,
+    "slug": "tanger"
+  },
+  {
+    "city": "Freetown",
+    "country": "Sierra Leone",
+    "population_2024": 1347559,
+    "population_2023": 1309168,
+    "growth_rate": 0.0293,
+    "slug": "freetown"
+  },
+  {
+    "city": "Helsinki",
+    "country": "Finland",
+    "population_2024": 1346810,
+    "population_2023": 1337786,
+    "growth_rate": 0.0067,
+    "slug": "helsinki"
+  },
+  {
+    "city": "Aligarh",
+    "country": "India",
+    "population_2024": 1346018,
+    "population_2023": 1312369,
+    "growth_rate": 0.0256,
+    "slug": "aligarh"
+  },
+  {
+    "city": "Moradabad",
+    "country": "India",
+    "population_2024": 1335966,
+    "population_2023": 1301740,
+    "growth_rate": 0.0263,
+    "slug": "moradabad"
+  },
+  {
+    "city": "Pekan Baru",
+    "country": "Indonesia",
+    "population_2024": 1334532,
+    "population_2023": 1303355,
+    "growth_rate": 0.0239,
+    "slug": "pekan-baru"
+  },
+  {
+    "city": "Maoming",
+    "country": "China",
+    "population_2024": 1333930,
+    "population_2023": 1303900,
+    "growth_rate": 0.023,
+    "slug": "maoming"
+  },
+  {
+    "city": "Lilongwe",
+    "country": "Malawi",
+    "population_2024": 1333096,
+    "population_2023": 1276316,
+    "growth_rate": 0.0445,
+    "slug": "lilongwe"
+  },
+  {
+    "city": "Porto",
+    "country": "Portugal",
+    "population_2024": 1329301,
+    "population_2023": 1324652,
+    "growth_rate": 0.0035,
+    "slug": "porto"
+  },
+  {
+    "city": "Prague",
+    "country": "Czech Republic",
+    "population_2024": 1327947,
+    "population_2023": 1323339,
+    "growth_rate": 0.0035,
+    "slug": "prague"
+  },
+  {
+    "city": "Astana",
+    "country": "Kazakhstan",
+    "population_2024": 1324111,
+    "population_2023": 1291280,
+    "growth_rate": 0.0254,
+    "slug": "astana"
+  },
+  {
+    "city": "Jieyang",
+    "country": "China",
+    "population_2024": 1320779,
+    "population_2023": 1282479,
+    "growth_rate": 0.0299,
+    "slug": "jieyang"
+  },
+  {
+    "city": "Fushun Liaoning",
+    "country": "China",
+    "population_2024": 1317276,
+    "population_2023": 1304565,
+    "growth_rate": 0.0097,
+    "slug": "fushun-liaoning"
+  },
+  {
+    "city": "Mysore",
+    "country": "India",
+    "population_2024": 1316461,
+    "population_2023": 1288245,
+    "growth_rate": 0.0219,
+    "slug": "mysore"
+  },
+  {
+    "city": "Abomey Calavi",
+    "country": "Benin",
+    "population_2024": 1314916,
+    "population_2023": 1252890,
+    "growth_rate": 0.0495,
+    "slug": "abomey-calavi"
+  },
+  {
+    "city": "Ruian",
+    "country": "China",
+    "population_2024": 1314784,
+    "population_2023": 1281790,
+    "growth_rate": 0.0257,
+    "slug": "ruian"
+  },
+  {
+    "city": "Fes",
+    "country": "Morocco",
+    "population_2024": 1313311,
+    "population_2023": 1290039,
+    "growth_rate": 0.018,
+    "slug": "fes"
+  },
+  {
+    "city": "Port Elizabeth",
+    "country": "South Africa",
+    "population_2024": 1312631,
+    "population_2023": 1295928,
+    "growth_rate": 0.0129,
+    "slug": "port-elizabeth"
+  },
+  {
+    "city": "Florianopolis",
+    "country": "Brazil",
+    "population_2024": 1309895,
+    "population_2023": 1294486,
+    "growth_rate": 0.0119,
+    "slug": "florianopolis"
+  },
+  {
+    "city": "Ahvaz",
+    "country": "Iran",
+    "population_2024": 1309372,
+    "population_2023": 1293619,
+    "growth_rate": 0.0122,
+    "slug": "ahvaz"
+  },
+  {
+    "city": "Bukavu",
+    "country": "DR Congo",
+    "population_2024": 1308469,
+    "population_2023": 1248783,
+    "growth_rate": 0.0478,
+    "slug": "bukavu"
+  },
+  {
+    "city": "Nnewi",
+    "country": "Nigeria",
+    "population_2024": 1300993,
+    "population_2023": 1239186,
+    "growth_rate": 0.0499,
+    "slug": "nnewi"
+  },
+  {
+    "city": "Kazan",
+    "country": "Russia",
+    "population_2024": 1296232,
+    "population_2023": 1291884,
+    "growth_rate": 0.0034,
+    "slug": "kazan"
+  },
+  {
+    "city": "Jinhua",
+    "country": "China",
+    "population_2024": 1296065,
+    "population_2023": 1257941,
+    "growth_rate": 0.0303,
+    "slug": "jinhua"
+  },
+  {
+    "city": "Dallas",
+    "country": "United States",
+    "population_2024": 1295447,
+    "population_2023": 1297495,
+    "growth_rate": -0.0016,
+    "slug": "dallas"
+  },
+  {
+    "city": "San Luis Potosi",
+    "country": "Mexico",
+    "population_2024": 1292133,
+    "population_2023": 1273325,
+    "growth_rate": 0.0148,
+    "slug": "san-luis-potosi"
+  },
+  {
+    "city": "Baoji",
+    "country": "China",
+    "population_2024": 1290231,
+    "population_2023": 1261077,
+    "growth_rate": 0.0231,
+    "slug": "baoji"
+  },
+  {
+    "city": "Durg Bhilainagar",
+    "country": "India",
+    "population_2024": 1289673,
+    "population_2023": 1266034,
+    "growth_rate": 0.0187,
+    "slug": "durg-bhilainagar"
+  },
+  {
+    "city": "Bhubaneswar",
+    "country": "India",
+    "population_2024": 1289254,
+    "population_2023": 1257642,
+    "growth_rate": 0.0251,
+    "slug": "bhubaneswar"
+  },
+  {
+    "city": "Kigali",
+    "country": "Rwanda",
+    "population_2024": 1287952,
+    "population_2023": 1247551,
+    "growth_rate": 0.0324,
+    "slug": "kigali"
+  },
+  {
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "population_2024": 1287540,
+    "population_2023": 1288114,
+    "growth_rate": -0.0004,
+    "slug": "sofia"
+  },
+  {
+    "city": "Pingdingshan Henan",
+    "country": "China",
+    "population_2024": 1285750,
+    "population_2023": 1256581,
+    "growth_rate": 0.0232,
+    "slug": "pingdingshan-henan"
+  },
+  {
+    "city": "Dublin",
+    "country": "Ireland",
+    "population_2024": 1284551,
+    "population_2023": 1270172,
+    "growth_rate": 0.0113,
+    "slug": "dublin"
+  },
+  {
+    "city": "Puning",
+    "country": "China",
+    "population_2024": 1282756,
+    "population_2023": 1254160,
+    "growth_rate": 0.0228,
+    "slug": "puning"
+  },
+  {
+    "city": "Chifeng",
+    "country": "China",
+    "population_2024": 1279544,
+    "population_2023": 1252414,
+    "growth_rate": 0.0217,
+    "slug": "chifeng"
+  },
+  {
+    "city": "Zhuzhou",
+    "country": "China",
+    "population_2024": 1277238,
+    "population_2023": 1254519,
+    "growth_rate": 0.0181,
+    "slug": "zhuzhou"
+  },
+  {
+    "city": "Bujumbura",
+    "country": "Burundi",
+    "population_2024": 1277050,
+    "population_2023": 1206767,
+    "growth_rate": 0.0582,
+    "slug": "bujumbura"
+  },
+  {
+    "city": "Zhenjiang Jiangsu",
+    "country": "China",
+    "population_2024": 1275395,
+    "population_2023": 1250668,
+    "growth_rate": 0.0198,
+    "slug": "zhenjiang-jiangsu"
+  },
+  {
+    "city": "Liupanshui",
+    "country": "China",
+    "population_2024": 1272872,
+    "population_2023": 1230644,
+    "growth_rate": 0.0343,
+    "slug": "liupanshui"
+  },
+  {
+    "city": "Barquisimeto",
+    "country": "Venezuela",
+    "population_2024": 1267872,
+    "population_2023": 1254192,
+    "growth_rate": 0.0109,
+    "slug": "barquisimeto"
+  },
+  {
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "population_2024": 1266792,
+    "population_2023": 1232447,
+    "growth_rate": 0.0279,
+    "slug": "islamabad"
+  },
+  {
+    "city": "Huaibei",
+    "country": "China",
+    "population_2024": 1264856,
+    "population_2023": 1236271,
+    "growth_rate": 0.0231,
+    "slug": "huaibei"
+  },
+  {
+    "city": "Tasikmalaya",
+    "country": "Indonesia",
+    "population_2024": 1258124,
+    "population_2023": 1213778,
+    "growth_rate": 0.0365,
+    "slug": "tasikmalaya"
+  },
+  {
+    "city": "Maracay",
+    "country": "Venezuela",
+    "population_2024": 1256553,
+    "population_2023": 1242945,
+    "growth_rate": 0.0109,
+    "slug": "maracay"
+  },
+  {
+    "city": "Bogor",
+    "country": "Indonesia",
+    "population_2024": 1256155,
+    "population_2023": 1231445,
+    "growth_rate": 0.0201,
+    "slug": "bogor"
+  },
+  {
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "population_2024": 1253228,
+    "population_2023": 1220634,
+    "growth_rate": 0.0267,
+    "slug": "da-nang"
+  },
+  {
+    "city": "Nizhniy Novgorod",
+    "country": "Russia",
+    "population_2024": 1250302,
+    "population_2023": 1251332,
+    "growth_rate": -0.0008,
+    "slug": "nizhniy-novgorod"
+  },
+  {
+    "city": "Nanyang Henan",
+    "country": "China",
+    "population_2024": 1250300,
+    "population_2023": 1224629,
+    "growth_rate": 0.021,
+    "slug": "nanyang-henan"
+  },
+  {
+    "city": "Xiangtan Hunan",
+    "country": "China",
+    "population_2024": 1249380,
+    "population_2023": 1223912,
+    "growth_rate": 0.0208,
+    "slug": "xiangtan-hunan"
+  },
+  {
+    "city": "Pizhou",
+    "country": "China",
+    "population_2024": 1247177,
+    "population_2023": 1207275,
+    "growth_rate": 0.0331,
+    "slug": "pizhou"
+  },
+  {
+    "city": "Tiruchirappalli",
+    "country": "India",
+    "population_2024": 1244978,
+    "population_2023": 1221960,
+    "growth_rate": 0.0188,
+    "slug": "tiruchirappalli"
+  },
+  {
+    "city": "Chelyabinsk",
+    "country": "Russia",
+    "population_2024": 1243883,
+    "population_2023": 1240926,
+    "growth_rate": 0.0024,
+    "slug": "chelyabinsk"
+  },
+  {
+    "city": "Mendoza",
+    "country": "Argentina",
+    "population_2024": 1242319,
+    "population_2023": 1226427,
+    "growth_rate": 0.013,
+    "slug": "mendoza"
+  },
+  {
+    "city": "Luohe",
+    "country": "China",
+    "population_2024": 1241152,
+    "population_2023": 1197935,
+    "growth_rate": 0.0361,
+    "slug": "luohe"
+  },
+  {
+    "city": "Xiongan",
+    "country": "China",
+    "population_2024": 1240158,
+    "population_2023": 1183042,
+    "growth_rate": 0.0483,
+    "slug": "xiongan"
+  },
+  {
+    "city": "Chandigarh",
+    "country": "India",
+    "population_2024": 1239699,
+    "population_2023": 1214775,
+    "growth_rate": 0.0205,
+    "slug": "chandigarh"
+  },
+  {
+    "city": "Merida",
+    "country": "Mexico",
+    "population_2024": 1239654,
+    "population_2023": 1220603,
+    "growth_rate": 0.0156,
+    "slug": "merida"
+  },
+  {
+    "city": "Jinzhou",
+    "country": "China",
+    "population_2024": 1238377,
+    "population_2023": 1215376,
+    "growth_rate": 0.0189,
+    "slug": "jinzhou"
+  },
+  {
+    "city": "Benxi",
+    "country": "China",
+    "population_2024": 1237550,
+    "population_2023": 1216852,
+    "growth_rate": 0.017,
+    "slug": "benxi"
+  },
+  {
+    "city": "Binzhou",
+    "country": "China",
+    "population_2024": 1233584,
+    "population_2023": 1200222,
+    "growth_rate": 0.0278,
+    "slug": "binzhou"
+  },
+  {
+    "city": "Aba",
+    "country": "Nigeria",
+    "population_2024": 1230407,
+    "population_2023": 1188803,
+    "growth_rate": 0.035,
+    "slug": "aba"
+  },
+  {
+    "city": "Chiang Mai",
+    "country": "Thailand",
+    "population_2024": 1228773,
+    "population_2023": 1213348,
+    "growth_rate": 0.0127,
+    "slug": "chiang-mai"
+  },
+  {
+    "city": "Bazhong",
+    "country": "China",
+    "population_2024": 1225591,
+    "population_2023": 1175989,
+    "growth_rate": 0.0422,
+    "slug": "bazhong"
+  },
+  {
+    "city": "Quetta",
+    "country": "Pakistan",
+    "population_2024": 1221495,
+    "population_2023": 1190348,
+    "growth_rate": 0.0262,
+    "slug": "quetta"
+  },
+  {
+    "city": "Kaduna",
+    "country": "Nigeria",
+    "population_2024": 1221451,
+    "population_2023": 1187398,
+    "growth_rate": 0.0287,
+    "slug": "kaduna"
+  },
+  {
+    "city": "Guilin",
+    "country": "China",
+    "population_2024": 1218067,
+    "population_2023": 1196841,
+    "growth_rate": 0.0177,
+    "slug": "guilin"
+  },
+  {
+    "city": "Saharanpur",
+    "country": "India",
+    "population_2024": 1207856,
+    "population_2023": 1171689,
+    "growth_rate": 0.0309,
+    "slug": "saharanpur"
+  },
+  {
+    "city": "Hubli Dharwad",
+    "country": "India",
+    "population_2024": 1205428,
+    "population_2023": 1181194,
+    "growth_rate": 0.0205,
+    "slug": "hubli-dharwad"
+  },
+  {
+    "city": "Yueqing",
+    "country": "China",
+    "population_2024": 1201400,
+    "population_2023": 1169864,
+    "growth_rate": 0.027,
+    "slug": "yueqing"
+  },
+  {
+    "city": "Guwahati",
+    "country": "India",
+    "population_2024": 1199455,
+    "population_2023": 1176330,
+    "growth_rate": 0.0197,
+    "slug": "guwahati"
+  },
+  {
+    "city": "Mexicali",
+    "country": "Mexico",
+    "population_2024": 1196982,
+    "population_2023": 1178477,
+    "growth_rate": 0.0157,
+    "slug": "mexicali"
+  },
+  {
+    "city": "Salem",
+    "country": "India",
+    "population_2024": 1194757,
+    "population_2023": 1169953,
+    "growth_rate": 0.0212,
+    "slug": "salem"
+  },
+  {
+    "city": "Maputo",
+    "country": "Mozambique",
+    "population_2024": 1193253,
+    "population_2023": 1162793,
+    "growth_rate": 0.0262,
+    "slug": "maputo"
+  },
+  {
+    "city": "Tripoli",
+    "country": "Libya",
+    "population_2024": 1192436,
+    "population_2023": 1183292,
+    "growth_rate": 0.0077,
+    "slug": "tripoli"
+  },
+  {
+    "city": "Haifa",
+    "country": "Israel",
+    "population_2024": 1186475,
+    "population_2023": 1174429,
+    "growth_rate": 0.0103,
+    "slug": "haifa"
+  },
+  {
+    "city": "Bandar Lampung",
+    "country": "Indonesia",
+    "population_2024": 1186233,
+    "population_2023": 1162242,
+    "growth_rate": 0.0206,
+    "slug": "bandar-lampung"
+  },
+  {
+    "city": "Bobo Dioulasso",
+    "country": "Burkina Faso",
+    "population_2024": 1185053,
+    "population_2023": 1128646,
+    "growth_rate": 0.05,
+    "slug": "bobo-dioulasso"
+  },
+  {
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "population_2024": 1181817,
+    "population_2023": 1174025,
+    "growth_rate": 0.0066,
+    "slug": "amsterdam"
+  },
+  {
+    "city": "Shimkent",
+    "country": "Kazakhstan",
+    "population_2024": 1181020,
+    "population_2023": 1155073,
+    "growth_rate": 0.0225,
+    "slug": "shimkent"
+  },
+  {
+    "city": "Omsk",
+    "country": "Russia",
+    "population_2024": 1180677,
+    "population_2023": 1180745,
+    "growth_rate": -0.0001,
+    "slug": "omsk"
+  },
+  {
+    "city": "Aguascalientes",
+    "country": "Mexico",
+    "population_2024": 1179301,
+    "population_2023": 1161448,
+    "growth_rate": 0.0154,
+    "slug": "aguascalientes"
+  },
+  {
+    "city": "Hargeysa",
+    "country": "Somalia",
+    "population_2024": 1176617,
+    "population_2023": 1127198,
+    "growth_rate": 0.0438,
+    "slug": "hargeysa"
+  },
+  {
+    "city": "Krasnoyarsk",
+    "country": "Russia",
+    "population_2024": 1173095,
+    "population_2023": 1166792,
+    "growth_rate": 0.0054,
+    "slug": "krasnoyarsk"
+  },
+  {
+    "city": "Xinxiang",
+    "country": "China",
+    "population_2024": 1160840,
+    "population_2023": 1140599,
+    "growth_rate": 0.0177,
+    "slug": "xinxiang"
+  },
+  {
+    "city": "Siliguri",
+    "country": "India",
+    "population_2024": 1159371,
+    "population_2023": 1126249,
+    "growth_rate": 0.0294,
+    "slug": "siliguri"
+  },
+  {
+    "city": "Wenling",
+    "country": "China",
+    "population_2024": 1159259,
+    "population_2023": 1131361,
+    "growth_rate": 0.0247,
+    "slug": "wenling"
+  },
+  {
+    "city": "Samara",
+    "country": "Russia",
+    "population_2024": 1154451,
+    "population_2023": 1155732,
+    "growth_rate": -0.0011,
+    "slug": "samara"
+  },
+  {
+    "city": "Zaozhuang",
+    "country": "China",
+    "population_2024": 1150859,
+    "population_2023": 1133629,
+    "growth_rate": 0.0152,
+    "slug": "zaozhuang"
+  },
+  {
+    "city": "Cologne",
+    "country": "Germany",
+    "population_2024": 1149014,
+    "population_2023": 1143715,
+    "growth_rate": 0.0046,
+    "slug": "cologne"
+  },
+  {
+    "city": "Yongin",
+    "country": "South Korea",
+    "population_2024": 1147967,
+    "population_2023": 1135671,
+    "growth_rate": 0.0108,
+    "slug": "yongin"
+  },
+  {
+    "city": "Ufa",
+    "country": "Russia",
+    "population_2024": 1146786,
+    "population_2023": 1144799,
+    "growth_rate": 0.0017,
+    "slug": "ufa"
+  },
+  {
+    "city": "Fuyang",
+    "country": "China",
+    "population_2024": 1146343,
+    "population_2023": 1120694,
+    "growth_rate": 0.0229,
+    "slug": "fuyang"
+  },
+  {
+    "city": "Ikorodu",
+    "country": "Nigeria",
+    "population_2024": 1145224,
+    "population_2023": 1093308,
+    "growth_rate": 0.0475,
+    "slug": "ikorodu"
+  },
+  {
+    "city": "Bien Hoa",
+    "country": "Vietnam",
+    "population_2024": 1142997,
+    "population_2023": 1110824,
+    "growth_rate": 0.029,
+    "slug": "bien-hoa"
+  },
+  {
+    "city": "Jalandhar",
+    "country": "India",
+    "population_2024": 1142682,
+    "population_2023": 1118826,
+    "growth_rate": 0.0213,
+    "slug": "jalandhar"
+  },
+  {
+    "city": "Panjin",
+    "country": "China",
+    "population_2024": 1142542,
+    "population_2023": 1120675,
+    "growth_rate": 0.0195,
+    "slug": "panjin"
+  },
+  {
+    "city": "Ma'anshan",
+    "country": "China",
+    "population_2024": 1140264,
+    "population_2023": 1112680,
+    "growth_rate": 0.0248,
+    "slug": "ma-anshan"
+  },
+  {
+    "city": "Cuernavaca",
+    "country": "Mexico",
+    "population_2024": 1140169,
+    "population_2023": 1123843,
+    "growth_rate": 0.0145,
+    "slug": "cuernavaca"
+  },
+  {
+    "city": "Rostov on Don",
+    "country": "Russia",
+    "population_2024": 1139641,
+    "population_2023": 1138854,
+    "growth_rate": 0.0007,
+    "slug": "rostov-on-don"
+  },
+  {
+    "city": "Chihuahua",
+    "country": "Mexico",
+    "population_2024": 1135342,
+    "population_2023": 1116295,
+    "growth_rate": 0.0171,
+    "slug": "chihuahua"
+  },
+  {
+    "city": "Fuzhou Jiangxi",
+    "country": "China",
+    "population_2024": 1131718,
+    "population_2023": 1100271,
+    "growth_rate": 0.0286,
+    "slug": "fuzhou-jiangxi"
+  },
+  {
+    "city": "Tshikapa",
+    "country": "DR Congo",
+    "population_2024": 1131226,
+    "population_2023": 1077108,
+    "growth_rate": 0.0502,
+    "slug": "tshikapa"
+  },
+  {
+    "city": "Shangrao",
+    "country": "China",
+    "population_2024": 1130887,
+    "population_2023": 1106736,
+    "growth_rate": 0.0218,
+    "slug": "shangrao"
+  },
+  {
+    "city": "Samarinda",
+    "country": "Indonesia",
+    "population_2024": 1128176,
+    "population_2023": 1100324,
+    "growth_rate": 0.0253,
+    "slug": "samarinda"
+  },
+  {
+    "city": "Bishkek",
+    "country": "Kyrgyzstan",
+    "population_2024": 1127721,
+    "population_2023": 1104742,
+    "growth_rate": 0.0208,
+    "slug": "bishkek"
+  },
+  {
+    "city": "Zhaoqing",
+    "country": "China",
+    "population_2024": 1127601,
+    "population_2023": 1103202,
+    "growth_rate": 0.0221,
+    "slug": "zhaoqing"
+  },
+  {
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "population_2024": 1123376,
+    "population_2023": 1116052,
+    "growth_rate": 0.0066,
+    "slug": "san-salvador"
+  },
+  {
+    "city": "Yichun Jiangxi",
+    "country": "China",
+    "population_2024": 1122041,
+    "population_2023": 1078630,
+    "growth_rate": 0.0402,
+    "slug": "yichun-jiangxi"
+  },
+  {
+    "city": "Chenzhou",
+    "country": "China",
+    "population_2024": 1119791,
+    "population_2023": 1084969,
+    "growth_rate": 0.0321,
+    "slug": "chenzhou"
+  },
+  {
+    "city": "Sekondi Takoradi",
+    "country": "Ghana",
+    "population_2024": 1119534,
+    "population_2023": 1077929,
+    "growth_rate": 0.0386,
+    "slug": "sekondi-takoradi"
+  },
+  {
+    "city": "Leshan",
+    "country": "China",
+    "population_2024": 1116497,
+    "population_2023": 1087409,
+    "growth_rate": 0.0267,
+    "slug": "leshan"
+  },
+  {
+    "city": "Aden",
+    "country": "Yemen",
+    "population_2024": 1116193,
+    "population_2023": 1079670,
+    "growth_rate": 0.0338,
+    "slug": "aden"
+  },
+  {
+    "city": "Goyang",
+    "country": "South Korea",
+    "population_2024": 1114079,
+    "population_2023": 1105283,
+    "growth_rate": 0.008,
+    "slug": "goyang"
+  },
+  {
+    "city": "Diyarbakir",
+    "country": "Turkey",
+    "population_2024": 1113333,
+    "population_2023": 1096937,
+    "growth_rate": 0.0149,
+    "slug": "diyarbakir"
+  },
+  {
+    "city": "Asmara",
+    "country": "Eritrea",
+    "population_2024": 1111748,
+    "population_2023": 1072666,
+    "growth_rate": 0.0364,
+    "slug": "asmara"
+  },
+  {
+    "city": "Dezhou",
+    "country": "China",
+    "population_2024": 1108356,
+    "population_2023": 1080680,
+    "growth_rate": 0.0256,
+    "slug": "dezhou"
+  },
+  {
+    "city": "Jingzhou Hubei",
+    "country": "China",
+    "population_2024": 1108067,
+    "population_2023": 1089886,
+    "growth_rate": 0.0167,
+    "slug": "jingzhou-hubei"
+  },
+  {
+    "city": "Managua",
+    "country": "Nicaragua",
+    "population_2024": 1107118,
+    "population_2023": 1094510,
+    "growth_rate": 0.0115,
+    "slug": "managua"
+  },
+  {
+    "city": "Johor Bahru",
+    "country": "Malaysia",
+    "population_2024": 1107001,
+    "population_2023": 1086214,
+    "growth_rate": 0.0191,
+    "slug": "johor-bahru"
+  },
+  {
+    "city": "Kermanshah",
+    "country": "Iran",
+    "population_2024": 1101611,
+    "population_2023": 1084623,
+    "growth_rate": 0.0157,
+    "slug": "kermanshah"
+  },
+  {
+    "city": "Nyala",
+    "country": "Sudan",
+    "population_2024": 1101314,
+    "population_2023": 1056952,
+    "growth_rate": 0.042,
+    "slug": "nyala"
+  },
+  {
+    "city": "Oslo",
+    "country": "Norway",
+    "population_2024": 1100868,
+    "population_2023": 1085992,
+    "growth_rate": 0.0137,
+    "slug": "oslo"
+  },
+  {
+    "city": "Kirkuk",
+    "country": "Iraq",
+    "population_2024": 1100390,
+    "population_2023": 1074884,
+    "growth_rate": 0.0237,
+    "slug": "kirkuk"
+  },
+  {
+    "city": "Yerevan",
+    "country": "Armenia",
+    "population_2024": 1097542,
+    "population_2023": 1094813,
+    "growth_rate": 0.0025,
+    "slug": "yerevan"
+  },
+  {
+    "city": "Cartagena",
+    "country": "Colombia",
+    "population_2024": 1096463,
+    "population_2023": 1087599,
+    "growth_rate": 0.0082,
+    "slug": "cartagena"
+  },
+  {
+    "city": "Changshu",
+    "country": "China",
+    "population_2024": 1093687,
+    "population_2023": 1059902,
+    "growth_rate": 0.0319,
+    "slug": "changshu"
+  },
+  {
+    "city": "Huzhou",
+    "country": "China",
+    "population_2024": 1091811,
+    "population_2023": 1067651,
+    "growth_rate": 0.0226,
+    "slug": "huzhou"
+  },
+  {
+    "city": "Xuchang",
+    "country": "China",
+    "population_2024": 1091744,
+    "population_2023": 1063876,
+    "growth_rate": 0.0262,
+    "slug": "xuchang"
+  },
+  {
+    "city": "Solapur",
+    "country": "India",
+    "population_2024": 1088131,
+    "population_2023": 1070322,
+    "growth_rate": 0.0166,
+    "slug": "solapur"
+  },
+  {
+    "city": "Lille",
+    "country": "France",
+    "population_2024": 1085199,
+    "population_2023": 1079120,
+    "growth_rate": 0.0056,
+    "slug": "lille"
+  },
+  {
+    "city": "Mersin",
+    "country": "Turkey",
+    "population_2024": 1084817,
+    "population_2023": 1069402,
+    "growth_rate": 0.0144,
+    "slug": "mersin"
+  },
+  {
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "population_2024": 1084471,
+    "population_2023": 1082245,
+    "growth_rate": 0.0021,
+    "slug": "tbilisi"
+  },
+  {
+    "city": "Perm",
+    "country": "Russia",
+    "population_2024": 1084120,
+    "population_2023": 1081768,
+    "growth_rate": 0.0022,
+    "slug": "perm"
+  },
+  {
+    "city": "Voronezh",
+    "country": "Russia",
+    "population_2024": 1083724,
+    "population_2023": 1080808,
+    "growth_rate": 0.0027,
+    "slug": "voronezh"
+  },
+  {
+    "city": "Denpasar",
+    "country": "Indonesia",
+    "population_2024": 1075244,
+    "population_2023": 1053041,
+    "growth_rate": 0.0211,
+    "slug": "denpasar"
+  },
+  {
+    "city": "Toulouse",
+    "country": "France",
+    "population_2024": 1070746,
+    "population_2023": 1060460,
+    "growth_rate": 0.0097,
+    "slug": "toulouse"
+  },
+  {
+    "city": "Blantyre Limbe",
+    "country": "Malawi",
+    "population_2024": 1070625,
+    "population_2023": 1030974,
+    "growth_rate": 0.0385,
+    "slug": "blantyre-limbe"
+  },
+  {
+    "city": "Aracaju",
+    "country": "Brazil",
+    "population_2024": 1070122,
+    "population_2023": 1056986,
+    "growth_rate": 0.0124,
+    "slug": "aracaju"
+  },
+  {
+    "city": "Marrakech",
+    "country": "Morocco",
+    "population_2024": 1067172,
+    "population_2023": 1049690,
+    "growth_rate": 0.0167,
+    "slug": "marrakech"
+  },
+  {
+    "city": "Qujing",
+    "country": "China",
+    "population_2024": 1066897,
+    "population_2023": 1038964,
+    "growth_rate": 0.0269,
+    "slug": "qujing"
+  },
+  {
+    "city": "Yueyang",
+    "country": "China",
+    "population_2024": 1064166,
+    "population_2023": 1048889,
+    "growth_rate": 0.0146,
+    "slug": "yueyang"
+  },
+  {
+    "city": "Ilorin",
+    "country": "Nigeria",
+    "population_2024": 1063713,
+    "population_2023": 1030498,
+    "growth_rate": 0.0322,
+    "slug": "ilorin"
+  },
+  {
+    "city": "Tampico",
+    "country": "Mexico",
+    "population_2024": 1062567,
+    "population_2023": 1047251,
+    "growth_rate": 0.0146,
+    "slug": "tampico"
+  },
+  {
+    "city": "Antwerp",
+    "country": "Belgium",
+    "population_2024": 1061089,
+    "population_2023": 1057215,
+    "growth_rate": 0.0037,
+    "slug": "antwerp"
+  },
+  {
+    "city": "Teresina",
+    "country": "Brazil",
+    "population_2024": 1059657,
+    "population_2023": 1050459,
+    "growth_rate": 0.0088,
+    "slug": "teresina"
+  },
+  {
+    "city": "Guiping",
+    "country": "China",
+    "population_2024": 1055921,
+    "population_2023": 1020399,
+    "growth_rate": 0.0348,
+    "slug": "guiping"
+  },
+  {
+    "city": "Warangal",
+    "country": "India",
+    "population_2024": 1055604,
+    "population_2023": 1031090,
+    "growth_rate": 0.0238,
+    "slug": "warangal"
+  },
+  {
+    "city": "Changwon",
+    "country": "South Korea",
+    "population_2024": 1055373,
+    "population_2023": 1054442,
+    "growth_rate": 0.0009,
+    "slug": "changwon"
+  },
+  {
+    "city": "Padang",
+    "country": "Indonesia",
+    "population_2024": 1052849,
+    "population_2023": 1033645,
+    "growth_rate": 0.0186,
+    "slug": "padang"
+  },
+  {
+    "city": "Saltillo",
+    "country": "Mexico",
+    "population_2024": 1050320,
+    "population_2023": 1034126,
+    "growth_rate": 0.0157,
+    "slug": "saltillo"
+  },
+  {
+    "city": "Xintai",
+    "country": "China",
+    "population_2024": 1049486,
+    "population_2023": 1023756,
+    "growth_rate": 0.0251,
+    "slug": "xintai"
+  },
+  {
+    "city": "Cancun",
+    "country": "Mexico",
+    "population_2024": 1045005,
+    "population_2023": 1022604,
+    "growth_rate": 0.0219,
+    "slug": "cancun"
+  },
+  {
+    "city": "Cebu City",
+    "country": "Philippines",
+    "population_2024": 1042613,
+    "population_2023": 1024945,
+    "growth_rate": 0.0172,
+    "slug": "cebu-city"
+  },
+  {
+    "city": "San Miguel De Tucuman",
+    "country": "Argentina",
+    "population_2024": 1039226,
+    "population_2023": 1026767,
+    "growth_rate": 0.0121,
+    "slug": "san-miguel-de-tucuman"
+  },
+  {
+    "city": "Hamah",
+    "country": "Syria",
+    "population_2024": 1034498,
+    "population_2023": 995747,
+    "growth_rate": 0.0389,
+    "slug": "hamah"
+  },
+  {
+    "city": "Acapulco De Juarez",
+    "country": "Mexico",
+    "population_2024": 1032772,
+    "population_2023": 1018976,
+    "growth_rate": 0.0135,
+    "slug": "acapulco-de-juarez"
+  },
+  {
+    "city": "Warri",
+    "country": "Nigeria",
+    "population_2024": 1031425,
+    "population_2023": 986921,
+    "growth_rate": 0.0451,
+    "slug": "warri"
+  },
+  {
+    "city": "Kayseri",
+    "country": "Turkey",
+    "population_2024": 1025507,
+    "population_2023": 1013240,
+    "growth_rate": 0.0121,
+    "slug": "kayseri"
+  },
+  {
+    "city": "Chengde",
+    "country": "China",
+    "population_2024": 1024521,
+    "population_2023": 993097,
+    "growth_rate": 0.0316,
+    "slug": "chengde"
+  },
+  {
+    "city": "Owerri",
+    "country": "Nigeria",
+    "population_2024": 1022922,
+    "population_2023": 983352,
+    "growth_rate": 0.0402,
+    "slug": "owerri"
+  },
+  {
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "population_2024": 1021919,
+    "population_2023": 1018012,
+    "growth_rate": 0.0038,
+    "slug": "rotterdam"
+  },
+  {
+    "city": "Pingxiang Jiangxi",
+    "country": "China",
+    "population_2024": 1021575,
+    "population_2023": 999721,
+    "growth_rate": 0.0219,
+    "slug": "pingxiang-jiangxi"
+  },
+  {
+    "city": "Zhucheng",
+    "country": "China",
+    "population_2024": 1019600,
+    "population_2023": 991208,
+    "growth_rate": 0.0286,
+    "slug": "zhucheng"
+  },
+  {
+    "city": "Songkhla",
+    "country": "Thailand",
+    "population_2024": 1017784,
+    "population_2023": 1005007,
+    "growth_rate": 0.0127,
+    "slug": "songkhla"
+  },
+  {
+    "city": "Valparaiso",
+    "country": "Chile",
+    "population_2024": 1016585,
+    "population_2023": 1008599,
+    "growth_rate": 0.0079,
+    "slug": "valparaiso"
+  },
+  {
+    "city": "Dehradun",
+    "country": "India",
+    "population_2024": 1016402,
+    "population_2023": 991876,
+    "growth_rate": 0.0247,
+    "slug": "dehradun"
+  },
+  {
+    "city": "Nonthaburi",
+    "country": "Thailand",
+    "population_2024": 1013672,
+    "population_2023": 1000947,
+    "growth_rate": 0.0127,
+    "slug": "nonthaburi"
+  },
+  {
+    "city": "Leiyang",
+    "country": "China",
+    "population_2024": 1013191,
+    "population_2023": 978327,
+    "growth_rate": 0.0356,
+    "slug": "leiyang"
+  },
+  {
+    "city": "Dushanbe",
+    "country": "Tajikistan",
+    "population_2024": 1012794,
+    "population_2023": 986899,
+    "growth_rate": 0.0262,
+    "slug": "dushanbe"
+  },
+  {
+    "city": "Nampula",
+    "country": "Mozambique",
+    "population_2024": 1012582,
+    "population_2023": 969322,
+    "growth_rate": 0.0446,
+    "slug": "nampula"
+  },
+  {
+    "city": "Misratah",
+    "country": "Libya",
+    "population_2024": 1011119,
+    "population_2023": 984193,
+    "growth_rate": 0.0274,
+    "slug": "misratah"
+  },
+  {
+    "city": "Krasnodar",
+    "country": "Russia",
+    "population_2024": 1010552,
+    "population_2023": 1001155,
+    "growth_rate": 0.0094,
+    "slug": "krasnodar"
+  },
+  {
+    "city": "Laiwu",
+    "country": "China",
+    "population_2024": 1009727,
+    "population_2023": 986248,
+    "growth_rate": 0.0238,
+    "slug": "laiwu"
+  },
+  {
+    "city": "Bordeaux",
+    "country": "France",
+    "population_2024": 1009594,
+    "population_2023": 1000475,
+    "growth_rate": 0.0091,
+    "slug": "bordeaux"
+  },
+  {
+    "city": "Jixi Heilongjiang",
+    "country": "China",
+    "population_2024": 1008989,
+    "population_2023": 993175,
+    "growth_rate": 0.0159,
+    "slug": "jixi-heilongjiang"
+  },
+  {
+    "city": "San Pedro Sula",
+    "country": "Honduras",
+    "population_2024": 1008220,
+    "population_2023": 982021,
+    "growth_rate": 0.0267,
+    "slug": "san-pedro-sula"
+  },
+  {
+    "city": "Odesa",
+    "country": "Ukraine",
+    "population_2024": 1007596,
+    "population_2023": 1007716,
+    "growth_rate": -0.0001,
+    "slug": "odesa"
+  },
+  {
+    "city": "Jiujiang",
+    "country": "China",
+    "population_2024": 1004247,
+    "population_2023": 982777,
+    "growth_rate": 0.0218,
+    "slug": "jiujiang"
+  },
+  {
+    "city": "Lubango",
+    "country": "Angola",
+    "population_2024": 1003016,
+    "population_2023": 958548,
+    "growth_rate": 0.0464,
+    "slug": "lubango"
+  },
+  {
+    "city": "Morelia",
+    "country": "Mexico",
+    "population_2024": 1002461,
+    "population_2023": 988744,
+    "growth_rate": 0.0139,
+    "slug": "morelia"
+  },
+  {
+    "city": "Jos",
+    "country": "Nigeria",
+    "population_2024": 1001155,
+    "population_2023": 970129,
+    "growth_rate": 0.032,
+    "slug": "jos"
+  },
+  {
+    "city": "Sylhet",
+    "country": "Bangladesh",
+    "population_2024": 999374,
+    "population_2023": 964291,
+    "growth_rate": 0.0364,
+    "slug": "sylhet"
+  },
+  {
+    "city": "Agadir",
+    "country": "Morocco",
+    "population_2024": 998146,
+    "population_2023": 979248,
+    "growth_rate": 0.0193,
+    "slug": "agadir"
+  },
+  {
+    "city": "Volgograd",
+    "country": "Russia",
+    "population_2024": 993352,
+    "population_2023": 995078,
+    "growth_rate": -0.0017,
+    "slug": "volgograd"
+  },
+  {
+    "city": "Mudanjiang",
+    "country": "China",
+    "population_2024": 992414,
+    "population_2023": 975348,
+    "growth_rate": 0.0175,
+    "slug": "mudanjiang"
+  },
+  {
+    "city": "Jacksonville",
+    "country": "United States",
+    "population_2024": 990931,
+    "population_2023": 981125,
+    "growth_rate": 0.01,
+    "slug": "jacksonville"
+  },
+  {
+    "city": "Guigang",
+    "country": "China",
+    "population_2024": 990310,
+    "population_2023": 967428,
+    "growth_rate": 0.0237,
+    "slug": "guigang"
+  },
+  {
+    "city": "Fort Worth",
+    "country": "United States",
+    "population_2024": 989842,
+    "population_2023": 973275,
+    "growth_rate": 0.017,
+    "slug": "fort-worth"
+  },
+  {
+    "city": "Najaf",
+    "country": "Iraq",
+    "population_2024": 987814,
+    "population_2023": 958487,
+    "growth_rate": 0.0306,
+    "slug": "najaf"
+  },
+  {
+    "city": "Bangui",
+    "country": "Central African Republic",
+    "population_2024": 985965,
+    "population_2023": 958335,
+    "growth_rate": 0.0288,
+    "slug": "bangui"
+  },
+  {
+    "city": "Rajshahi",
+    "country": "Bangladesh",
+    "population_2024": 983707,
+    "population_2023": 961991,
+    "growth_rate": 0.0226,
+    "slug": "rajshahi"
+  },
+  {
+    "city": "Hengshui",
+    "country": "China",
+    "population_2024": 983694,
+    "population_2023": 955663,
+    "growth_rate": 0.0293,
+    "slug": "hengshui"
+  },
+  {
+    "city": "Austin",
+    "country": "United States",
+    "population_2024": 983126,
+    "population_2023": 978786,
+    "growth_rate": 0.0044,
+    "slug": "austin"
+  },
+  {
+    "city": "Jerusalem",
+    "country": "Israel",
+    "population_2024": 983097,
+    "population_2023": 969804,
+    "growth_rate": 0.0137,
+    "slug": "jerusalem"
+  },
+  {
+    "city": "Zhangzhou",
+    "country": "China",
+    "population_2024": 980054,
+    "population_2023": 955519,
+    "growth_rate": 0.0257,
+    "slug": "zhangzhou"
+  },
+  {
+    "city": "Xinyu",
+    "country": "China",
+    "population_2024": 979303,
+    "population_2023": 952278,
+    "growth_rate": 0.0284,
+    "slug": "xinyu"
+  },
+  {
+    "city": "Linfen",
+    "country": "China",
+    "population_2024": 978614,
+    "population_2023": 951822,
+    "growth_rate": 0.0281,
+    "slug": "linfen"
+  },
+  {
+    "city": "Tianmen",
+    "country": "China",
+    "population_2024": 978317,
+    "population_2023": 953768,
+    "growth_rate": 0.0257,
+    "slug": "tianmen"
+  },
+  {
+    "city": "Ciudad Guayana",
+    "country": "Venezuela",
+    "population_2024": 978202,
+    "population_2023": 964266,
+    "growth_rate": 0.0145,
+    "slug": "ciudad-guayana"
+  },
+  {
+    "city": "Zamboanga City",
+    "country": "Philippines",
+    "population_2024": 977081,
+    "population_2023": 960349,
+    "growth_rate": 0.0174,
+    "slug": "zamboanga-city"
+  },
+  {
+    "city": "Yangjiang",
+    "country": "China",
+    "population_2024": 976606,
+    "population_2023": 956079,
+    "growth_rate": 0.0215,
+    "slug": "yangjiang"
+  },
+  {
+    "city": "Taiz",
+    "country": "Yemen",
+    "population_2024": 974518,
+    "population_2023": 940600,
+    "growth_rate": 0.0361,
+    "slug": "taiz"
+  },
+  {
+    "city": "Cucuta",
+    "country": "Colombia",
+    "population_2024": 972485,
+    "population_2023": 963045,
+    "growth_rate": 0.0098,
+    "slug": "cucuta"
+  },
+  {
+    "city": "Arequipa",
+    "country": "Peru",
+    "population_2024": 971296,
+    "population_2023": 958998,
+    "growth_rate": 0.0128,
+    "slug": "arequipa"
+  },
+  {
+    "city": "Liling",
+    "country": "China",
+    "population_2024": 970907,
+    "population_2023": 936997,
+    "growth_rate": 0.0362,
+    "slug": "liling"
+  },
+  {
+    "city": "Antipolo",
+    "country": "Philippines",
+    "population_2024": 968288,
+    "population_2023": 946653,
+    "growth_rate": 0.0229,
+    "slug": "antipolo"
+  },
+  {
+    "city": "Veracruz",
+    "country": "Mexico",
+    "population_2024": 968070,
+    "population_2023": 955226,
+    "growth_rate": 0.0134,
+    "slug": "veracruz"
+  },
+  {
+    "city": "Reynosa",
+    "country": "Mexico",
+    "population_2024": 967627,
+    "population_2023": 951417,
+    "growth_rate": 0.017,
+    "slug": "reynosa"
+  },
+  {
+    "city": "Khulna",
+    "country": "Bangladesh",
+    "population_2024": 965483,
+    "population_2023": 955104,
+    "growth_rate": 0.0109,
+    "slug": "khulna"
+  },
+  {
+    "city": "Deyang",
+    "country": "China",
+    "population_2024": 963160,
+    "population_2023": 939166,
+    "growth_rate": 0.0255,
+    "slug": "deyang"
+  },
+  {
+    "city": "Pathum Thani",
+    "country": "Thailand",
+    "population_2024": 962126,
+    "population_2023": 950048,
+    "growth_rate": 0.0127,
+    "slug": "pathum-thani"
+  },
+  {
+    "city": "Bengbu",
+    "country": "China",
+    "population_2024": 959784,
+    "population_2023": 944465,
+    "growth_rate": 0.0162,
+    "slug": "bengbu"
+  },
+  {
+    "city": "Jiangyin",
+    "country": "China",
+    "population_2024": 959250,
+    "population_2023": 933395,
+    "growth_rate": 0.0277,
+    "slug": "jiangyin"
+  },
+  {
+    "city": "Southampton",
+    "country": "United Kingdom",
+    "population_2024": 959202,
+    "population_2023": 951531,
+    "growth_rate": 0.0081,
+    "slug": "southampton"
+  },
+  {
+    "city": "Villahermosa",
+    "country": "Mexico",
+    "population_2024": 958118,
+    "population_2023": 943530,
+    "growth_rate": 0.0155,
+    "slug": "villahermosa"
+  },
+  {
+    "city": "Baishan",
+    "country": "China",
+    "population_2024": 956976,
+    "population_2023": 927532,
+    "growth_rate": 0.0317,
+    "slug": "baishan"
+  },
+  {
+    "city": "Nice",
+    "country": "France",
+    "population_2024": 951808,
+    "population_2023": 948149,
+    "growth_rate": 0.0039,
+    "slug": "nice"
+  },
+  {
+    "city": "Oran",
+    "country": "Algeria",
+    "population_2024": 950768,
+    "population_2023": 935947,
+    "growth_rate": 0.0158,
+    "slug": "oran"
+  },
+  {
+    "city": "West Rand",
+    "country": "South Africa",
+    "population_2024": 947734,
+    "population_2023": 934341,
+    "growth_rate": 0.0143,
+    "slug": "west-rand"
+  },
+  {
+    "city": "Cabinda",
+    "country": "Angola",
+    "population_2024": 947634,
+    "population_2023": 904676,
+    "growth_rate": 0.0475,
+    "slug": "cabinda"
+  },
+  {
+    "city": "Umuahia",
+    "country": "Nigeria",
+    "population_2024": 947460,
+    "population_2023": 904139,
+    "growth_rate": 0.0479,
+    "slug": "umuahia"
+  },
+  {
+    "city": "Bogra",
+    "country": "Bangladesh",
+    "population_2024": 944877,
+    "population_2023": 905814,
+    "growth_rate": 0.0431,
+    "slug": "bogra"
+  },
+  {
+    "city": "Bahawalpur",
+    "country": "Pakistan",
+    "population_2024": 944812,
+    "population_2023": 919654,
+    "growth_rate": 0.0274,
+    "slug": "bahawalpur"
+  },
+  {
+    "city": "Seongnam",
+    "country": "South Korea",
+    "population_2024": 942159,
+    "population_2023": 941508,
+    "growth_rate": 0.0007,
+    "slug": "seongnam"
+  },
+  {
+    "city": "Guntur",
+    "country": "India",
+    "population_2024": 940205,
+    "population_2023": 918324,
+    "growth_rate": 0.0238,
+    "slug": "guntur"
+  },
+  {
+    "city": "Dnipro",
+    "country": "Ukraine",
+    "population_2024": 936766,
+    "population_2023": 941586,
+    "growth_rate": -0.0051,
+    "slug": "dnipro"
+  },
+  {
+    "city": "Campo Grande",
+    "country": "Brazil",
+    "population_2024": 934936,
+    "population_2023": 926095,
+    "growth_rate": 0.0095,
+    "slug": "campo-grande"
+  },
+  {
+    "city": "Malang",
+    "country": "Indonesia",
+    "population_2024": 933392,
+    "population_2023": 919443,
+    "growth_rate": 0.0152,
+    "slug": "malang"
+  },
+  {
+    "city": "Londrina",
+    "country": "Brazil",
+    "population_2024": 932892,
+    "population_2023": 922425,
+    "growth_rate": 0.0113,
+    "slug": "londrina"
+  },
+  {
+    "city": "Dandong",
+    "country": "China",
+    "population_2024": 932648,
+    "population_2023": 917936,
+    "growth_rate": 0.016,
+    "slug": "dandong"
+  },
+  {
+    "city": "San Jose",
+    "country": "United States",
+    "population_2024": 932636,
+    "population_2023": 951934,
+    "growth_rate": -0.0203,
+    "slug": "san-jose"
+  },
+  {
+    "city": "Changzhi",
+    "country": "China",
+    "population_2024": 930620,
+    "population_2023": 910743,
+    "growth_rate": 0.0218,
+    "slug": "changzhi"
+  },
+  {
+    "city": "Hermosillo",
+    "country": "Mexico",
+    "population_2024": 929961,
+    "population_2023": 915060,
+    "growth_rate": 0.0163,
+    "slug": "hermosillo"
+  },
+  {
+    "city": "Bhiwandi",
+    "country": "India",
+    "population_2024": 924670,
+    "population_2023": 906581,
+    "growth_rate": 0.02,
+    "slug": "bhiwandi"
+  },
+  {
+    "city": "La Plata",
+    "country": "Argentina",
+    "population_2024": 923715,
+    "population_2023": 914036,
+    "growth_rate": 0.0106,
+    "slug": "la-plata"
+  },
+  {
+    "city": "Liverpool",
+    "country": "United Kingdom",
+    "population_2024": 922871,
+    "population_2023": 917032,
+    "growth_rate": 0.0064,
+    "slug": "liverpool"
+  },
+  {
+    "city": "Ashgabat",
+    "country": "Turkmenistan",
+    "population_2024": 921601,
+    "population_2023": 902353,
+    "growth_rate": 0.0213,
+    "slug": "ashgabat"
+  },
+  {
+    "city": "Concepcion",
+    "country": "Chile",
+    "population_2024": 920916,
+    "population_2023": 911862,
+    "growth_rate": 0.0099,
+    "slug": "concepcion"
+  },
+  {
+    "city": "Charlotte",
+    "country": "United States",
+    "population_2024": 920325,
+    "population_2023": 909022,
+    "growth_rate": 0.0124,
+    "slug": "charlotte"
+  },
+  {
+    "city": "Puducherry",
+    "country": "India",
+    "population_2024": 919280,
+    "population_2023": 897983,
+    "growth_rate": 0.0237,
+    "slug": "puducherry"
+  },
+  {
+    "city": "Changde",
+    "country": "China",
+    "population_2024": 919026,
+    "population_2023": 898338,
+    "growth_rate": 0.023,
+    "slug": "changde"
+  },
+  {
+    "city": "Bergamo",
+    "country": "Italy",
+    "population_2024": 918675,
+    "population_2023": 913376,
+    "growth_rate": 0.0058,
+    "slug": "bergamo"
+  },
+  {
+    "city": "Firozabad",
+    "country": "India",
+    "population_2024": 918218,
+    "population_2023": 894388,
+    "growth_rate": 0.0266,
+    "slug": "firozabad"
+  },
+  {
+    "city": "Erbil",
+    "country": "Iraq",
+    "population_2024": 917639,
+    "population_2023": 896716,
+    "growth_rate": 0.0233,
+    "slug": "erbil"
+  },
+  {
+    "city": "Tyumen",
+    "country": "Russia",
+    "population_2024": 916862,
+    "population_2023": 903815,
+    "growth_rate": 0.0144,
+    "slug": "tyumen"
+  },
+  {
+    "city": "Trujillo",
+    "country": "Peru",
+    "population_2024": 916632,
+    "population_2023": 903896,
+    "growth_rate": 0.0141,
+    "slug": "trujillo"
+  },
+  {
+    "city": "Liaoyang",
+    "country": "China",
+    "population_2024": 916238,
+    "population_2023": 900692,
+    "growth_rate": 0.0173,
+    "slug": "liaoyang"
+  },
+  {
+    "city": "Shangqiu",
+    "country": "China",
+    "population_2024": 915823,
+    "population_2023": 895111,
+    "growth_rate": 0.0231,
+    "slug": "shangqiu"
+  },
+  {
+    "city": "Ulsan",
+    "country": "South Korea",
+    "population_2024": 914300,
+    "population_2023": 912734,
+    "growth_rate": 0.0017,
+    "slug": "ulsan"
+  },
+  {
+    "city": "Tuxtla Gutierrez",
+    "country": "Mexico",
+    "population_2024": 913075,
+    "population_2023": 897694,
+    "growth_rate": 0.0171,
+    "slug": "tuxtla-gutierrez"
+  },
+  {
+    "city": "Columbus",
+    "country": "United States",
+    "population_2024": 909676,
+    "population_2023": 908823,
+    "growth_rate": 0.0009,
+    "slug": "columbus"
+  },
+  {
+    "city": "Kuerle",
+    "country": "China",
+    "population_2024": 906765,
+    "population_2023": 875496,
+    "growth_rate": 0.0357,
+    "slug": "kuerle"
+  },
+  {
+    "city": "Soshanguve",
+    "country": "South Africa",
+    "population_2024": 905868,
+    "population_2023": 892254,
+    "growth_rate": 0.0153,
+    "slug": "soshanguve"
+  },
+  {
+    "city": "Xingtai",
+    "country": "China",
+    "population_2024": 904070,
+    "population_2023": 886381,
+    "growth_rate": 0.02,
+    "slug": "xingtai"
+  },
+  {
+    "city": "Culiacan",
+    "country": "Mexico",
+    "population_2024": 903910,
+    "population_2023": 888620,
+    "growth_rate": 0.0172,
+    "slug": "culiacan"
+  },
+  {
+    "city": "Quzhou",
+    "country": "China",
+    "population_2024": 902621,
+    "population_2023": 871457,
+    "growth_rate": 0.0358,
+    "slug": "quzhou"
+  },
+  {
+    "city": "Cherthala",
+    "country": "India",
+    "population_2024": 901820,
+    "population_2023": 870465,
+    "growth_rate": 0.036,
+    "slug": "cherthala"
+  },
+  {
+    "city": "Huangshi",
+    "country": "China",
+    "population_2024": 893107,
+    "population_2023": 876930,
+    "growth_rate": 0.0184,
+    "slug": "huangshi"
+  },
+  {
+    "city": "Fuxin",
+    "country": "China",
+    "population_2024": 889767,
+    "population_2023": 876131,
+    "growth_rate": 0.0156,
+    "slug": "fuxin"
+  },
+  {
+    "city": "Lokoja",
+    "country": "Nigeria",
+    "population_2024": 885882,
+    "population_2023": 839046,
+    "growth_rate": 0.0558,
+    "slug": "lokoja"
+  },
+  {
+    "city": "Hufuf Mubarraz",
+    "country": "Saudi Arabia",
+    "population_2024": 884753,
+    "population_2023": 872438,
+    "growth_rate": 0.0141,
+    "slug": "hufuf-mubarraz"
+  },
+  {
+    "city": "Libreville",
+    "country": "Gabon",
+    "population_2024": 883920,
+    "population_2023": 869773,
+    "growth_rate": 0.0163,
+    "slug": "libreville"
+  },
+  {
+    "city": "Yongzhou",
+    "country": "China",
+    "population_2024": 883326,
+    "population_2023": 860522,
+    "growth_rate": 0.0265,
+    "slug": "yongzhou"
+  },
+  {
+    "city": "Xinghua",
+    "country": "China",
+    "population_2024": 882986,
+    "population_2023": 861978,
+    "growth_rate": 0.0244,
+    "slug": "xinghua"
+  },
+  {
+    "city": "Donetsk",
+    "country": "Ukraine",
+    "population_2024": 882209,
+    "population_2023": 887716,
+    "growth_rate": -0.0062,
+    "slug": "donetsk"
+  },
+  {
+    "city": "Yibin",
+    "country": "China",
+    "population_2024": 881480,
+    "population_2023": 864910,
+    "growth_rate": 0.0192,
+    "slug": "yibin"
+  },
+  {
+    "city": "Enugu",
+    "country": "Nigeria",
+    "population_2024": 875552,
+    "population_2023": 846560,
+    "growth_rate": 0.0342,
+    "slug": "enugu"
+  },
+  {
+    "city": "Tainan",
+    "country": "Taiwan",
+    "population_2024": 875392,
+    "population_2023": 869625,
+    "growth_rate": 0.0066,
+    "slug": "tainan"
+  },
+  {
+    "city": "Indianapolis (balance)",
+    "country": "United States",
+    "population_2024": 874089,
+    "population_2023": 877355,
+    "growth_rate": -0.0037,
+    "slug": "indianapolis-balance"
+  },
+  {
+    "city": "Xinyang",
+    "country": "China",
+    "population_2024": 873268,
+    "population_2023": 855191,
+    "growth_rate": 0.0211,
+    "slug": "xinyang"
+  },
+  {
+    "city": "Ipoh",
+    "country": "Malaysia",
+    "population_2024": 872424,
+    "population_2023": 857225,
+    "growth_rate": 0.0177,
+    "slug": "ipoh"
+  },
+  {
+    "city": "Luzhou",
+    "country": "China",
+    "population_2024": 870714,
+    "population_2023": 857683,
+    "growth_rate": 0.0152,
+    "slug": "luzhou"
+  },
+  {
+    "city": "Banghazi",
+    "country": "Libya",
+    "population_2024": 870502,
+    "population_2023": 859209,
+    "growth_rate": 0.0131,
+    "slug": "banghazi"
+  },
+  {
+    "city": "Maiduguri",
+    "country": "Nigeria",
+    "population_2024": 870201,
+    "population_2023": 844747,
+    "growth_rate": 0.0301,
+    "slug": "maiduguri"
+  },
+  {
+    "city": "Yangquan",
+    "country": "China",
+    "population_2024": 869585,
+    "population_2023": 851630,
+    "growth_rate": 0.0211,
+    "slug": "yangquan"
+  },
+  {
+    "city": "Huaihua",
+    "country": "China",
+    "population_2024": 869575,
+    "population_2023": 843754,
+    "growth_rate": 0.0306,
+    "slug": "huaihua"
+  },
+  {
+    "city": "Xiaogan",
+    "country": "China",
+    "population_2024": 869479,
+    "population_2023": 849580,
+    "growth_rate": 0.0234,
+    "slug": "xiaogan"
+  },
+  {
+    "city": "Tianshui",
+    "country": "China",
+    "population_2024": 858672,
+    "population_2023": 837479,
+    "growth_rate": 0.0253,
+    "slug": "tianshui"
+  },
+  {
+    "city": "Bunia",
+    "country": "DR Congo",
+    "population_2024": 856339,
+    "population_2023": 812090,
+    "growth_rate": 0.0545,
+    "slug": "bunia"
+  },
+  {
+    "city": "Bozhou",
+    "country": "China",
+    "population_2024": 854946,
+    "population_2023": 830125,
+    "growth_rate": 0.0299,
+    "slug": "bozhou"
+  },
+  {
+    "city": "Kottayam",
+    "country": "India",
+    "population_2024": 853635,
+    "population_2023": 818628,
+    "growth_rate": 0.0428,
+    "slug": "kottayam"
+  },
+  {
+    "city": "Zhuji",
+    "country": "China",
+    "population_2024": 852608,
+    "population_2023": 834782,
+    "growth_rate": 0.0214,
+    "slug": "zhuji"
+  },
+  {
+    "city": "Kunshan",
+    "country": "China",
+    "population_2024": 851399,
+    "population_2023": 826414,
+    "growth_rate": 0.0302,
+    "slug": "kunshan"
+  },
+  {
+    "city": "Quebec City",
+    "country": "Canada",
+    "population_2024": 851061,
+    "population_2023": 844249,
+    "growth_rate": 0.0081,
+    "slug": "quebec-city"
+  },
+  {
+    "city": "Palermo",
+    "country": "Italy",
+    "population_2024": 850233,
+    "population_2023": 849687,
+    "growth_rate": 0.0006,
+    "slug": "palermo"
+  },
+  {
+    "city": "Winnipeg",
+    "country": "Canada",
+    "population_2024": 849251,
+    "population_2023": 841108,
+    "growth_rate": 0.0097,
+    "slug": "winnipeg"
+  },
+  {
+    "city": "Orumiyeh",
+    "country": "Iran",
+    "population_2024": 848443,
+    "population_2023": 835900,
+    "growth_rate": 0.015,
+    "slug": "orumiyeh"
+  },
+  {
+    "city": "Eskisehir",
+    "country": "Turkey",
+    "population_2024": 848002,
+    "population_2023": 834065,
+    "growth_rate": 0.0167,
+    "slug": "eskisehir"
+  },
+  {
+    "city": "Benguela",
+    "country": "Angola",
+    "population_2024": 843207,
+    "population_2023": 809468,
+    "growth_rate": 0.0417,
+    "slug": "benguela"
+  },
+  {
+    "city": "Jincheng",
+    "country": "China",
+    "population_2024": 841928,
+    "population_2023": 818057,
+    "growth_rate": 0.0292,
+    "slug": "jincheng"
+  },
+  {
+    "city": "Valencia",
+    "country": "Spain",
+    "population_2024": 839770,
+    "population_2023": 838301,
+    "growth_rate": 0.0018,
+    "slug": "valencia"
+  },
+  {
+    "city": "Heze",
+    "country": "China",
+    "population_2024": 838928,
+    "population_2023": 826777,
+    "growth_rate": 0.0147,
+    "slug": "heze"
+  },
+  {
+    "city": "Saratov",
+    "country": "Russia",
+    "population_2024": 837687,
+    "population_2023": 838377,
+    "growth_rate": -0.0008,
+    "slug": "saratov"
+  },
+  {
+    "city": "Nellore",
+    "country": "India",
+    "population_2024": 837660,
+    "population_2023": 816293,
+    "growth_rate": 0.0262,
+    "slug": "nellore"
+  },
+  {
+    "city": "Huludao",
+    "country": "China",
+    "population_2024": 836344,
+    "population_2023": 821132,
+    "growth_rate": 0.0185,
+    "slug": "huludao"
+  },
+  {
+    "city": "Zanzibar",
+    "country": "Tanzania",
+    "population_2024": 835850,
+    "population_2023": 800010,
+    "growth_rate": 0.0448,
+    "slug": "zanzibar"
+  },
+  {
+    "city": "Barcelona Puerto La Cruz",
+    "country": "Venezuela",
+    "population_2024": 835805,
+    "population_2023": 825581,
+    "growth_rate": 0.0124,
+    "slug": "barcelona-puerto-la-cruz"
+  },
+  {
+    "city": "Bikaner",
+    "country": "India",
+    "population_2024": 835802,
+    "population_2023": 818566,
+    "growth_rate": 0.0211,
+    "slug": "bikaner"
+  },
+  {
+    "city": "Haicheng",
+    "country": "China",
+    "population_2024": 834639,
+    "population_2023": 821192,
+    "growth_rate": 0.0164,
+    "slug": "haicheng"
+  },
+  {
+    "city": "Gebze",
+    "country": "Turkey",
+    "population_2024": 831360,
+    "population_2023": 813394,
+    "growth_rate": 0.0221,
+    "slug": "gebze"
+  },
+  {
+    "city": "Taixing",
+    "country": "China",
+    "population_2024": 830623,
+    "population_2023": 811451,
+    "growth_rate": 0.0236,
+    "slug": "taixing"
+  },
+  {
+    "city": "Liaocheng",
+    "country": "China",
+    "population_2024": 830004,
+    "population_2023": 813369,
+    "growth_rate": 0.0205,
+    "slug": "liaocheng"
+  },
+  {
+    "city": "Zhumadian",
+    "country": "China",
+    "population_2024": 829361,
+    "population_2023": 804537,
+    "growth_rate": 0.0309,
+    "slug": "zhumadian"
+  },
+  {
+    "city": "Newcastle Upon Tyne",
+    "country": "United Kingdom",
+    "population_2024": 828712,
+    "population_2023": 823431,
+    "growth_rate": 0.0064,
+    "slug": "newcastle-upon-tyne"
+  },
+  {
+    "city": "Langfang",
+    "country": "China",
+    "population_2024": 827967,
+    "population_2023": 807833,
+    "growth_rate": 0.0249,
+    "slug": "langfang"
+  },
+  {
+    "city": "Bucheon",
+    "country": "South Korea",
+    "population_2024": 826919,
+    "population_2023": 826981,
+    "growth_rate": -0.0001,
+    "slug": "bucheon"
+  },
+  {
+    "city": "Sulaimaniya",
+    "country": "Iraq",
+    "population_2024": 823199,
+    "population_2023": 800793,
+    "growth_rate": 0.028,
+    "slug": "sulaimaniya"
+  },
+  {
+    "city": "Xalapa",
+    "country": "Mexico",
+    "population_2024": 822863,
+    "population_2023": 811041,
+    "growth_rate": 0.0146,
+    "slug": "xalapa"
+  },
+  {
+    "city": "Malanje",
+    "country": "Angola",
+    "population_2024": 822471,
+    "population_2023": 783243,
+    "growth_rate": 0.0501,
+    "slug": "malanje"
+  },
+  {
+    "city": "Anqiu",
+    "country": "China",
+    "population_2024": 821765,
+    "population_2023": 791931,
+    "growth_rate": 0.0377,
+    "slug": "anqiu"
+  },
+  {
+    "city": "Sorocaba",
+    "country": "Brazil",
+    "population_2024": 821435,
+    "population_2023": 813320,
+    "growth_rate": 0.01,
+    "slug": "sorocaba"
+  },
+  {
+    "city": "Gaomi",
+    "country": "China",
+    "population_2024": 821154,
+    "population_2023": 797964,
+    "growth_rate": 0.0291,
+    "slug": "gaomi"
+  },
+  {
+    "city": "Dasmarinas",
+    "country": "Philippines",
+    "population_2024": 820886,
+    "population_2023": 802600,
+    "growth_rate": 0.0228,
+    "slug": "dasmarinas"
+  },
+  {
+    "city": "Cagayan De Oro City",
+    "country": "Philippines",
+    "population_2024": 820297,
+    "population_2023": 803194,
+    "growth_rate": 0.0213,
+    "slug": "cagayan-de-oro-city"
+  },
+  {
+    "city": "Hanchuan",
+    "country": "China",
+    "population_2024": 818761,
+    "population_2023": 795835,
+    "growth_rate": 0.0288,
+    "slug": "hanchuan"
+  },
+  {
+    "city": "Meishan",
+    "country": "China",
+    "population_2024": 818037,
+    "population_2023": 796756,
+    "growth_rate": 0.0267,
+    "slug": "meishan"
+  },
+  {
+    "city": "Bologna",
+    "country": "Italy",
+    "population_2024": 816848,
+    "population_2023": 814332,
+    "growth_rate": 0.0031,
+    "slug": "bologna"
+  },
+  {
+    "city": "Ar Rayyan",
+    "country": "Qatar",
+    "population_2024": 815869,
+    "population_2023": 798382,
+    "growth_rate": 0.0219,
+    "slug": "ar-rayyan"
+  },
+  {
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "population_2024": 814980,
+    "population_2023": 814524,
+    "growth_rate": 0.0006,
+    "slug": "thessaloniki"
+  },
+  {
+    "city": "Muzaffarnagar",
+    "country": "India",
+    "population_2024": 814491,
+    "population_2023": 791214,
+    "growth_rate": 0.0294,
+    "slug": "muzaffarnagar"
+  },
+  {
+    "city": "Kayamkulam",
+    "country": "India",
+    "population_2024": 813379,
+    "population_2023": 786192,
+    "growth_rate": 0.0346,
+    "slug": "kayamkulam"
+  },
+  {
+    "city": "Nottingham",
+    "country": "United Kingdom",
+    "population_2024": 813078,
+    "population_2023": 806757,
+    "growth_rate": 0.0078,
+    "slug": "nottingham"
+  },
+  {
+    "city": "Nakhon Ratchasima",
+    "country": "Thailand",
+    "population_2024": 811446,
+    "population_2023": 801853,
+    "growth_rate": 0.012,
+    "slug": "nakhon-ratchasima"
+  },
+  {
+    "city": "Danyang",
+    "country": "China",
+    "population_2024": 810450,
+    "population_2023": 789755,
+    "growth_rate": 0.0262,
+    "slug": "danyang"
+  },
+  {
+    "city": "Ibb",
+    "country": "Yemen",
+    "population_2024": 810149,
+    "population_2023": 771514,
+    "growth_rate": 0.0501,
+    "slug": "ibb"
+  },
+  {
+    "city": "Amravati",
+    "country": "India",
+    "population_2024": 808263,
+    "population_2023": 792620,
+    "growth_rate": 0.0197,
+    "slug": "amravati"
+  },
+  {
+    "city": "Jiaozuo",
+    "country": "China",
+    "population_2024": 808079,
+    "population_2023": 796509,
+    "growth_rate": 0.0145,
+    "slug": "jiaozuo"
+  },
+  {
+    "city": "Vereeniging",
+    "country": "South Africa",
+    "population_2024": 802900,
+    "population_2023": 793927,
+    "growth_rate": 0.0113,
+    "slug": "vereeniging"
+  },
+  {
+    "city": "Gorakhpur",
+    "country": "India",
+    "population_2024": 801634,
+    "population_2023": 788276,
+    "growth_rate": 0.0169,
+    "slug": "gorakhpur"
+  },
+  {
+    "city": "Gaza",
+    "country": "Palestine",
+    "population_2024": 800636,
+    "population_2023": 778187,
+    "growth_rate": 0.0288,
+    "slug": "gaza"
+  },
+  {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "population_2024": 800529,
+    "population_2023": 796437,
+    "growth_rate": 0.0051,
+    "slug": "frankfurt"
+  },
+  {
+    "city": "Anqing",
+    "country": "China",
+    "population_2024": 795987,
+    "population_2023": 779535,
+    "growth_rate": 0.0211,
+    "slug": "anqing"
+  },
+  {
+    "city": "Niigata",
+    "country": "Japan",
+    "population_2024": 795916,
+    "population_2023": 797865,
+    "growth_rate": -0.0024,
+    "slug": "niigata"
+  },
+  {
+    "city": "Oshogbo",
+    "country": "Nigeria",
+    "population_2024": 795808,
+    "population_2023": 771515,
+    "growth_rate": 0.0315,
+    "slug": "oshogbo"
+  },
+  {
+    "city": "Linhai",
+    "country": "China",
+    "population_2024": 795777,
+    "population_2023": 776076,
+    "growth_rate": 0.0254,
+    "slug": "linhai"
+  },
+  {
+    "city": "Shaoguan",
+    "country": "China",
+    "population_2024": 794279,
+    "population_2023": 784230,
+    "growth_rate": 0.0128,
+    "slug": "shaoguan"
+  },
+  {
+    "city": "Erduosi Ordoss",
+    "country": "China",
+    "population_2024": 794143,
+    "population_2023": 774321,
+    "growth_rate": 0.0256,
+    "slug": "erduosi-ordoss"
+  },
+  {
+    "city": "Merca",
+    "country": "Somalia",
+    "population_2024": 793545,
+    "population_2023": 760129,
+    "growth_rate": 0.044,
+    "slug": "merca"
+  },
+  {
+    "city": "Bur Sa'id",
+    "country": "Egypt",
+    "population_2024": 792925,
+    "population_2023": 778280,
+    "growth_rate": 0.0188,
+    "slug": "bur-sa-id"
+  },
+  {
+    "city": "Kitwe",
+    "country": "Zambia",
+    "population_2024": 792350,
+    "population_2023": 762981,
+    "growth_rate": 0.0385,
+    "slug": "kitwe"
+  },
+  {
+    "city": "Yan'an",
+    "country": "China",
+    "population_2024": 791839,
+    "population_2023": 767188,
+    "growth_rate": 0.0321,
+    "slug": "yan-an"
+  },
+  {
+    "city": "Cuttack",
+    "country": "India",
+    "population_2024": 789558,
+    "population_2023": 775559,
+    "growth_rate": 0.0181,
+    "slug": "cuttack"
+  },
+  {
+    "city": "Hamilton",
+    "country": "Canada",
+    "population_2024": 786843,
+    "population_2023": 781047,
+    "growth_rate": 0.0074,
+    "slug": "hamilton"
+  },
+  {
+    "city": "Zaria",
+    "country": "Nigeria",
+    "population_2024": 786197,
+    "population_2023": 766007,
+    "growth_rate": 0.0264,
+    "slug": "zaria"
+  },
+  {
+    "city": "Banjarmasin",
+    "country": "Indonesia",
+    "population_2024": 785125,
+    "population_2023": 770959,
+    "growth_rate": 0.0184,
+    "slug": "banjarmasin"
+  },
+  {
+    "city": "Dengzhou",
+    "country": "China",
+    "population_2024": 783041,
+    "population_2023": 759150,
+    "growth_rate": 0.0315,
+    "slug": "dengzhou"
+  },
+  {
+    "city": "Belgaum",
+    "country": "India",
+    "population_2024": 783020,
+    "population_2023": 767161,
+    "growth_rate": 0.0207,
+    "slug": "belgaum"
+  },
+  {
+    "city": "Malegaon",
+    "country": "India",
+    "population_2024": 781925,
+    "population_2023": 764628,
+    "growth_rate": 0.0226,
+    "slug": "malegaon"
+  },
+  {
+    "city": "Goma",
+    "country": "DR Congo",
+    "population_2024": 781875,
+    "population_2023": 744247,
+    "growth_rate": 0.0506,
+    "slug": "goma"
+  },
+  {
+    "city": "Zigong",
+    "country": "China",
+    "population_2024": 779684,
+    "population_2023": 768075,
+    "growth_rate": 0.0151,
+    "slug": "zigong"
+  },
+  {
+    "city": "Qingyuan",
+    "country": "China",
+    "population_2024": 778628,
+    "population_2023": 766782,
+    "growth_rate": 0.0154,
+    "slug": "qingyuan"
+  },
+  {
+    "city": "Yuncheng",
+    "country": "China",
+    "population_2024": 777193,
+    "population_2023": 754711,
+    "growth_rate": 0.0298,
+    "slug": "yuncheng"
+  },
+  {
+    "city": "Shaoyang",
+    "country": "China",
+    "population_2024": 776404,
+    "population_2023": 761169,
+    "growth_rate": 0.02,
+    "slug": "shaoyang"
+  },
+  {
+    "city": "Yanji",
+    "country": "China",
+    "population_2024": 775672,
+    "population_2023": 757224,
+    "growth_rate": 0.0244,
+    "slug": "yanji"
+  },
+  {
+    "city": "Tirupati",
+    "country": "India",
+    "population_2024": 775455,
+    "population_2023": 752744,
+    "growth_rate": 0.0302,
+    "slug": "tirupati"
+  },
+  {
+    "city": "Maturin",
+    "country": "Venezuela",
+    "population_2024": 775097,
+    "population_2023": 758185,
+    "growth_rate": 0.0223,
+    "slug": "maturin"
+  },
+  {
+    "city": "Yuxi",
+    "country": "China",
+    "population_2024": 774356,
+    "population_2023": 750102,
+    "growth_rate": 0.0323,
+    "slug": "yuxi"
+  },
+  {
+    "city": "Akure",
+    "country": "Nigeria",
+    "population_2024": 773141,
+    "population_2023": 744371,
+    "growth_rate": 0.0387,
+    "slug": "akure"
+  },
+  {
+    "city": "Tongliao",
+    "country": "China",
+    "population_2024": 772756,
+    "population_2023": 756158,
+    "growth_rate": 0.022,
+    "slug": "tongliao"
+  },
+  {
+    "city": "Sialkot",
+    "country": "Pakistan",
+    "population_2024": 770962,
+    "population_2023": 753325,
+    "growth_rate": 0.0234,
+    "slug": "sialkot"
+  },
+  {
+    "city": "Tongling",
+    "country": "China",
+    "population_2024": 770032,
+    "population_2023": 752916,
+    "growth_rate": 0.0227,
+    "slug": "tongling"
+  },
+  {
+    "city": "Krakow",
+    "country": "Poland",
+    "population_2024": 769396,
+    "population_2023": 769417,
+    "growth_rate": 0.0,
+    "slug": "krakow"
+  },
+  {
+    "city": "Ansan",
+    "country": "South Korea",
+    "population_2024": 768822,
+    "population_2023": 766703,
+    "growth_rate": 0.0028,
+    "slug": "ansan"
+  },
+  {
+    "city": "Wuzhou",
+    "country": "China",
+    "population_2024": 768512,
+    "population_2023": 751679,
+    "growth_rate": 0.0224,
+    "slug": "wuzhou"
+  },
+  {
+    "city": "Dazhou",
+    "country": "China",
+    "population_2024": 767532,
+    "population_2023": 748257,
+    "growth_rate": 0.0258,
+    "slug": "dazhou"
+  },
+  {
+    "city": "Suining Sichuan",
+    "country": "China",
+    "population_2024": 765887,
+    "population_2023": 750097,
+    "growth_rate": 0.0211,
+    "slug": "suining-sichuan"
+  },
+  {
+    "city": "Mangalore",
+    "country": "India",
+    "population_2024": 763312,
+    "population_2023": 749073,
+    "growth_rate": 0.019,
+    "slug": "mangalore"
+  },
+  {
+    "city": "Jiamusi",
+    "country": "China",
+    "population_2024": 761903,
+    "population_2023": 749763,
+    "growth_rate": 0.0162,
+    "slug": "jiamusi"
+  },
+  {
+    "city": "Al Hudaydah",
+    "country": "Yemen",
+    "population_2024": 759157,
+    "population_2023": 734699,
+    "growth_rate": 0.0333,
+    "slug": "al-hudaydah"
+  },
+  {
+    "city": "Seattle",
+    "country": "United States",
+    "population_2024": 757992,
+    "population_2023": 753624,
+    "growth_rate": 0.0058,
+    "slug": "seattle"
+  },
+  {
+    "city": "Sargodha",
+    "country": "Pakistan",
+    "population_2024": 757915,
+    "population_2023": 741818,
+    "growth_rate": 0.0217,
+    "slug": "sargodha"
+  },
+  {
+    "city": "Nay Pyi Taw",
+    "country": "Myanmar",
+    "population_2024": 757823,
+    "population_2023": 722836,
+    "growth_rate": 0.0484,
+    "slug": "nay-pyi-taw"
+  },
+  {
+    "city": "Tamale",
+    "country": "Ghana",
+    "population_2024": 757506,
+    "population_2023": 729768,
+    "growth_rate": 0.038,
+    "slug": "tamale"
+  },
+  {
+    "city": "Sao Jose Dos Campos",
+    "country": "Brazil",
+    "population_2024": 757137,
+    "population_2023": 749188,
+    "growth_rate": 0.0106,
+    "slug": "sao-jose-dos-campos"
+  },
+  {
+    "city": "Bacoor",
+    "country": "Philippines",
+    "population_2024": 757035,
+    "population_2023": 739682,
+    "growth_rate": 0.0235,
+    "slug": "bacoor"
+  },
+  {
+    "city": "Dongtai",
+    "country": "China",
+    "population_2024": 756344,
+    "population_2023": 738200,
+    "growth_rate": 0.0246,
+    "slug": "dongtai"
+  },
+  {
+    "city": "Zhangjiagang",
+    "country": "China",
+    "population_2024": 755752,
+    "population_2023": 733810,
+    "growth_rate": 0.0299,
+    "slug": "zhangjiagang"
+  },
+  {
+    "city": "Nanded Waghala",
+    "country": "India",
+    "population_2024": 755577,
+    "population_2023": 738552,
+    "growth_rate": 0.0231,
+    "slug": "nanded-waghala"
+  },
+  {
+    "city": "Xianyang Shaanxi",
+    "country": "China",
+    "population_2024": 754446,
+    "population_2023": 743491,
+    "growth_rate": 0.0147,
+    "slug": "xianyang-shaanxi"
+  },
+  {
+    "city": "Amara",
+    "country": "Iraq",
+    "population_2024": 753708,
+    "population_2023": 729276,
+    "growth_rate": 0.0335,
+    "slug": "amara"
+  },
+  {
+    "city": "Zarqa",
+    "country": "Jordan",
+    "population_2024": 753392,
+    "population_2023": 748428,
+    "growth_rate": 0.0066,
+    "slug": "zarqa"
+  },
+  {
+    "city": "Bhavnagar",
+    "country": "India",
+    "population_2024": 751493,
+    "population_2023": 737128,
+    "growth_rate": 0.0195,
+    "slug": "bhavnagar"
+  },
+  {
+    "city": "Sheffield",
+    "country": "United Kingdom",
+    "population_2024": 751303,
+    "population_2023": 745876,
+    "growth_rate": 0.0073,
+    "slug": "sheffield"
+  },
+  {
+    "city": "Huambo",
+    "country": "Angola",
+    "population_2024": 751297,
+    "population_2023": 727641,
+    "growth_rate": 0.0325,
+    "slug": "huambo"
+  },
+  {
+    "city": "Ribeirao Preto",
+    "country": "Brazil",
+    "population_2024": 750174,
+    "population_2023": 742115,
+    "growth_rate": 0.0109,
+    "slug": "ribeirao-preto"
+  },
+  {
+    "city": "Panzhihua",
+    "country": "China",
+    "population_2024": 750036,
+    "population_2023": 738495,
+    "growth_rate": 0.0156,
+    "slug": "panzhihua"
+  }
+]
