@@ -1,110 +1,102 @@
-code,region,chefLieu,nom,typeLiaison,zone,latitude,longitude,slug
-01,84,01053,Ain,5,metro,46.064217,5.449417,ain
-02,32,02408,Aisne,5,metro,49.453534,3.608257,aisne
-03,84,03190,Allier,5,metro,46.3673,3.142987,allier
-04,93,04070,Alpes-de-Haute-Provence,4,metro,44.163892,6.232415,alpes-de-haute-provence
-05,93,05061,Hautes-Alpes,4,metro,44.656662,6.247819,hautes-alpes
-06,93,06088,Alpes-Maritimes,4,metro,43.920558,7.176664,alpes-maritimes
-07,84,07186,Ardèche,5,metro,44.815229,4.374054,ardeche
-08,44,08105,Ardennes,4,metro,49.698414,4.709415,ardennes
-09,76,09122,Ariège,5,metro,42.944,1.5010000000000001,ariege
-10,44,10387,Aube,5,metro,48.320393,4.125766,aube
-11,76,11069,Aude,5,metro,43.054414,2.464493,aude
-12,76,12202,Aveyron,5,metro,44.316638,2.64518,aveyron
-13,93,13055,Bouches-du-Rhône,4,metro,43.543304,5.021764,bouches-du-rhone
-14,28,14118,Calvados,2,metro,49.091042,-0.356614,calvados
-15,84,15014,Cantal,2,metro,45.048116,2.716409,cantal
-16,75,16015,Charente,3,metro,45.66561,0.241924,charente
-17,75,17300,Charente-Maritime,3,metro,45.729931,-0.777828,charente-maritime
-18,24,18033,Cher,2,metro,47.024685,2.426959,cher
-19,75,19272,Corrèze,3,metro,45.343809,1.877742,correze
-21,27,21231,Côte-d'Or,3,metro,47.46555,4.792297,cote-d-or
-22,53,22278,Côtes-d'Armor,4,metro,48.451445,-2.786331,cotes-d-armor
-23,75,23096,Creuse,3,metro,46.059411,1.992842,creuse
-24,75,24322,Dordogne,3,metro,45.142934,0.703131,dordogne
-25,27,25056,Doubs,2,metro,47.066947,6.380464,doubs
-26,84,26362,Drôme,3,metro,44.729879,5.238619,drome
-27,28,27229,Eure,5,metro,49.075817,1.049949,eure
-28,24,28085,Eure-et-Loir,1,metro,48.447452,1.377161,eure-et-loir
-29,53,29232,Finistère,2,metro,48.257474,-4.26304,finistere
-2A,94,2A004,Corse-du-Sud,3,metro,41.871785,8.973712,corse-du-sud
-2B,94,2B033,Haute-Corse,3,metro,42.421934,9.066317,haute-corse
-30,76,30189,Gard,2,metro,43.959991,4.054192,gard
-31,76,31555,Haute-Garonne,3,metro,43.305066,1.244925,haute-garonne
-32,76,32013,Gers,2,metro,43.694554,0.459609,gers
-33,75,33063,Gironde,3,metro,44.884251,-0.47333699999999995,gironde
-34,76,34172,Hérault,5,metro,43.591166,3.367207,herault
-35,53,35238,Ille-et-Vilaine,1,metro,48.168105,-1.652987,ille-et-vilaine
-36,24,36044,Indre,5,metro,46.812017,1.535931,indre
-37,24,37261,Indre-et-Loire,1,metro,47.223217,0.709322,indre-et-loire
-38,84,38185,Isère,5,metro,45.289669,5.55148,isere
-39,27,39300,Jura,2,metro,46.783104,5.729106,jura
-40,75,40192,Landes,4,metro,44.010072,-0.694072,landes
-41,24,41018,Loir-et-Cher,2,metro,47.659385,1.414207,loir-et-cher
-42,84,42218,Loire,3,metro,45.754057,4.225577,loire
-43,84,43157,Haute-Loire,3,metro,45.085724,3.78593,haute-loire
-44,52,44109,Loire-Atlantique,3,metro,47.346818,-1.752692,loire-atlantique
-45,24,45234,Loiret,2,metro,47.913784,2.320709,loiret
-46,76,46042,Lot,2,metro,44.625147,1.596335,lot
-47,75,47001,Lot-et-Garonne,2,metro,44.369126,0.46862299999999996,lot-et-garonne
-48,76,48095,Lozère,3,metro,44.542613,3.489919,lozere
-49,52,49007,Maine-et-Loire,0,metro,47.389695,-0.5598339999999999,maine-et-loire
-50,28,50502,Manche,3,metro,49.09192,-1.342297,manche
-51,44,51108,Marne,3,metro,48.961144,4.21828,marne
-52,44,52121,Haute-Marne,3,metro,48.132831,5.258848,haute-marne
-53,52,53130,Mayenne,3,metro,48.150687,-0.644079,mayenne
-54,44,54395,Meurthe-et-Moselle,0,metro,48.956267,6.276536,meurthe-et-moselle
-55,44,55029,Meuse,3,metro,49.013887,5.37138,meuse
-56,53,56260,Morbihan,2,metro,47.746977,-2.883949,morbihan
-57,44,57463,Moselle,3,metro,49.018482,6.764343,moselle
-58,27,58194,Nièvre,3,metro,47.119859,3.537924,nievre
-59,32,59350,Nord,2,metro,50.528865,3.14785,nord
-60,32,60057,Oise,5,metro,49.409381,2.426108,oise
-61,28,61001,Orne,5,metro,48.577079,0.057956,orne
-62,32,62041,Pas-de-Calais,2,metro,50.513739,2.373076,pas-de-calais
-63,84,63113,Puy-de-Dôme,2,metro,45.771304,3.186207,puy-de-dome
-64,75,64445,Pyrénées-Atlantiques,4,metro,43.186959,-0.882296,pyrenees-atlantiques
-65,76,65440,Hautes-Pyrénées,4,metro,43.142116,0.15922799999999998,hautes-pyrenees
-66,76,66136,Pyrénées-Orientales,4,metro,42.625993,2.450218,pyrenees-orientales
-67,44,67482,Bas-Rhin,2,metro,48.599128,7.585385,bas-rhin
-68,44,68066,Haut-Rhin,2,metro,47.866335,7.232457,haut-rhin
-69,84,69123,Rhône,2,metro,45.879514,4.701336,rhone
-70,27,70550,Haute-Saône,3,metro,47.638427,6.098146,haute-saone
-71,27,71270,Saône-et-Loire,0,metro,46.656179,4.542444,saone-et-loire
-72,52,72181,Sarthe,3,metro,48.02603,0.23296899999999998,sarthe
-73,84,73065,Savoie,3,metro,45.495147,6.403646,savoie
-74,84,74010,Haute-Savoie,3,metro,46.04514,6.425648,haute-savoie
-75,11,75056,Paris,0,metro,48.859161,2.345901,paris
-76,28,76540,Seine-Maritime,3,metro,49.661557,0.927917,seine-maritime
-77,11,77288,Seine-et-Marne,0,metro,48.619879,2.974395,seine-et-marne
-78,11,78646,Yvelines,4,metro,48.761592,1.836919,yvelines
-79,75,79191,Deux-Sèvres,4,metro,46.538998,-0.33580299999999996,deux-sevres
-80,32,80021,Somme,3,metro,49.969026,2.29137,somme
-81,76,81004,Tarn,2,metro,43.792172,2.239716,tarn
-82,76,82121,Tarn-et-Garonne,2,metro,44.082056,1.367237,tarn-et-garonne
-83,93,83137,Var,2,metro,43.394407,6.294842,var
-84,93,84007,Vaucluse,2,metro,44.045027,5.203283,vaucluse
-85,52,85191,Vendée,3,metro,46.67523,-1.468278,vendee
-86,75,86194,Vienne,3,metro,46.612381,0.555286,vienne
-87,75,87085,Haute-Vienne,3,metro,45.919452,1.269595,haute-vienne
-88,44,88160,Vosges,4,metro,48.16332,6.296381,vosges
-89,27,89024,Yonne,5,metro,47.856237,3.594545,yonne
-90,27,90010,Territoire de Belfort,2,metro,47.629078,6.948721,territoire-de-belfort
-91,11,91228,Essonne,5,metro,48.530395,2.250147,essonne
-92,11,92050,Hauts-de-Seine,4,metro,48.840228,2.241115,hauts-de-seine
-93,11,93008,Seine-Saint-Denis,3,metro,48.909918,2.445427,seine-saint-denis
-94,11,94028,Val-de-Marne,2,metro,48.774866,2.461937,val-de-marne
-95,11,95500,Val-d'Oise,2,metro,49.070438,2.099664,val-d-oise
-971,1,97105,Guadeloupe,3,drom,,,guadeloupe
-972,2,97209,Martinique,3,drom,,,martinique
-973,3,97302,Guyane,3,drom,,,guyane
-974,4,97411,La Réunion,0,drom,,,la-reunion
-976,6,97611,Mayotte,0,drom,,,mayotte
-975,975,97502,Saint-Pierre-et-Miquelon,0,com,,,saint-pierre-et-miquelon
-977,977,97701,Saint-Barthélemy,0,com,,,saint-barthelemy
-978,978,97801,Saint-Martin,0,com,,,saint-martin
-984,984,97502,Terres australes et antarctiques françaises,0,com,,,terres-australes-et-antarctiques-francaises
-986,986,98613,Wallis et Futuna,0,com,,,wallis-et-futuna
-987,987,98735,Polynésie française,0,com,,,polynesie-francaise
-988,988,98818,Nouvelle-Calédonie,0,com,,,nouvelle-caledonie
-989,989,98901,Île de Clipperton,0,com,,,ile-de-clipperton
+code,region,chefLieu,nom,typeLiaison,zone,latitude,longitude,slug,region_nom,name_fr,iso_3166_2,label_lat,label_lng,label_source,area_km2,bbox_min_lng,bbox_min_lat,bbox_max_lng,bbox_max_lat
+01,84,01053,Ain,5,metro,46.064217,5.449417,ain,Auvergne-Rhône-Alpes,Ain,FR-01,46.084,5.37744,natural-earth,5652.57,4.746738,45.643749,6.1364,46.511219
+02,32,02408,Aisne,5,metro,49.453534,3.608257,aisne,Hauts-de-France,Aisne,FR-02,49.5667,3.51554,natural-earth,7443.612,2.96425,48.846945,4.250222,50.060099
+03,84,03190,Allier,5,metro,46.3673,3.142987,allier,Auvergne-Rhône-Alpes,Allier,FR-03,46.408,3.18698,natural-earth,7346.271,2.253896,45.957035,4.001447,46.793216
+04,93,04070,Alpes-de-Haute-Provence,4,metro,44.163892,6.232415,alpes-de-haute-provence,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence,FR-04,44.0454,6.24822,natural-earth,6951.478,5.502575,43.671582,6.945601,44.660923
+05,93,05061,Hautes-Alpes,4,metro,44.656662,6.247819,hautes-alpes,Provence-Alpes-Côte d'Azur,Hautes-Alpes,FR-05,44.6732,6.37648,natural-earth,5530.454,5.426726,44.188676,7.055155,45.124788
+06,93,06088,Alpes-Maritimes,4,metro,43.920558,7.176664,alpes-maritimes,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,FR-06,43.8699,7.18651,natural-earth,4151.957,6.636387,43.480346,7.691912,44.354623
+07,84,07186,Ardèche,5,metro,44.815229,4.374054,ardeche,Auvergne-Rhône-Alpes,Ardèche,FR-07,44.8014,4.4999,natural-earth,5649.606,3.868469,44.281719,4.892571,45.365707
+08,44,08105,Ardennes,4,metro,49.698414,4.709415,ardennes,Grand Est,Ardennes,FR-08,49.5403,4.62417,natural-earth,5175.306,4.033879,49.235015,5.391166,50.161332
+09,76,09122,Ariège,5,metro,42.944,1.5010000000000001,ariege,Occitanie,Ariège,FR-09,42.9046,1.53654,natural-earth,4972.799,0.832485,42.567646,2.168752,43.30844
+10,44,10387,Aube,5,metro,48.320393,4.125766,aube,Grand Est,Aube,FR-10,48.3125,4.16252,natural-earth,6136.998,3.389487,47.922292,4.862446,48.710736
+11,76,11069,Aude,5,metro,43.054414,2.464493,aude,Occitanie,Aude,FR-11,43.1004,2.48157,natural-earth,6348.922,1.696516,42.652161,3.244314,43.442254
+12,76,12202,Aveyron,5,metro,44.316638,2.64518,aveyron,Occitanie,Aveyron,FR-12,44.2884,2.66383,natural-earth,8799.974,1.833999,43.690435,3.447517,44.935351
+13,93,13055,Bouches-du-Rhône,4,metro,43.543304,5.021764,bouches-du-rhone,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,FR-13,43.5324,5.40444,natural-earth,5172.494,4.205903,43.160429,5.813225,43.932826
+14,28,14118,Calvados,2,metro,49.091042,-0.356614,calvados,Normandie,Calvados,FR-14,49.0601,-0.288724,natural-earth,5643.998,-1.146911,48.752298,0.431418,49.434715
+15,84,15014,Cantal,2,metro,45.048116,2.716409,cantal,Auvergne-Rhône-Alpes,Cantal,FR-15,45.1592,2.74821,natural-earth,5780.875,2.058713,44.622339,3.369734,45.480042
+16,75,16015,Charente,3,metro,45.66561,0.241924,charente,Nouvelle-Aquitaine,Charente,FR-16,45.6998,0.154828,natural-earth,5962.718,-0.459266,45.192024,0.924111,46.138463
+17,75,17300,Charente-Maritime,3,metro,45.729931,-0.777828,charente-maritime,Nouvelle-Aquitaine,Charente-Maritime,FR-17,45.8441,-0.714301,natural-earth,6759.543,-1.555816,45.101145,0.000336,46.362442
+18,24,18033,Cher,2,metro,47.024685,2.426959,cher,Centre-Val de Loire,Cher,FR-18,47.1356,2.51907,natural-earth,7300.259,1.774387,46.419801,3.075564,47.624353
+19,75,19272,Corrèze,3,metro,45.343809,1.877742,correze,Nouvelle-Aquitaine,Corrèze,FR-19,45.355,1.90105,natural-earth,5897.43,1.238913,44.932868,2.525456,45.760874
+21,27,21231,Côte-d'Or,3,metro,47.46555,4.792297,cote-d-or,Bourgogne-Franche-Comté,Côte-d'Or,FR-21,47.4003,4.76991,natural-earth,8790.707,4.064926,46.902661,5.521714,48.022026
+22,53,22278,Côtes-d'Armor,4,metro,48.451445,-2.786331,cotes-d-armor,Bretagne,Côtes-d'Armor,FR-22,48.4383,-2.93239,natural-earth,7095.891,-3.638539,48.034451,-1.908879,48.876654
+23,75,23096,Creuse,3,metro,46.059411,1.992842,creuse,Nouvelle-Aquitaine,Creuse,FR-23,46.0705,2.04281,natural-earth,5580.937,1.385119,45.673896,2.597746,46.452002
+24,75,24322,Dordogne,3,metro,45.142934,0.703131,dordogne,Nouvelle-Aquitaine,Dordogne,FR-24,45.1592,0.780505,natural-earth,9264.333,-0.033556,44.574533,1.45864,45.710337
+25,27,25056,Doubs,2,metro,47.066947,6.380464,doubs,Bourgogne-Franche-Comté,Doubs,FR-25,47.1584,6.31895,natural-earth,5192.917,5.698835,46.557588,7.044303,47.562863
+26,84,26362,Drôme,3,metro,44.729879,5.238619,drome,Auvergne-Rhône-Alpes,Drôme,FR-26,44.7407,5.13443,natural-earth,6525.34,4.657529,44.12178,5.830627,45.343932
+27,28,27229,Eure,5,metro,49.075817,1.049949,eure,Normandie,Eure,FR-27,49.0414,0.92951,natural-earth,6026.422,0.294264,48.665088,1.78344,49.4936
+28,24,28085,Eure-et-Loir,1,metro,48.447452,1.377161,eure-et-loir,Centre-Val de Loire,Eure-et-Loir,FR-28,48.3564,1.36704,natural-earth,5843.795,0.775114,47.950933,1.999738,48.939549
+29,53,29232,Finistère,2,metro,48.257474,-4.26304,finistere,Bretagne,Finistère,FR-29,48.3309,-3.92644,natural-earth,6734.506,-5.132802,47.773749,-3.385848,48.733222
+2A,94,2A004,Corse-du-Sud,3,metro,41.871785,8.973712,corse-du-sud,Corse,Corse-du-Sud,FR-2A,41.8449,9.02252,natural-earth,3967.31,8.545258,41.365912,9.403005,42.386705
+2B,94,2B033,Haute-Corse,3,metro,42.421934,9.066317,haute-corse,Corse,Haute-Corse,FR-2B,42.3996,9.2309,natural-earth,4685.52,8.570486,41.834053,9.559581,43.017401
+30,76,30189,Gard,2,metro,43.959991,4.054192,gard,Occitanie,Gard,FR-30,43.9914,4.18939,natural-earth,5863.775,3.28615,43.459906,4.849812,44.457852
+31,76,31555,Haute-Garonne,3,metro,43.305066,1.244925,haute-garonne,Occitanie,Haute-Garonne,FR-31,43.5457,1.41673,natural-earth,6361.348,0.441635,42.684476,2.053132,43.918324
+32,76,32013,Gers,2,metro,43.694554,0.459609,gers,Occitanie,Gers,FR-32,43.6809,0.537496,natural-earth,6281.357,-0.267906,43.310934,1.192331,44.072814
+33,75,33063,Gironde,3,metro,44.884251,-0.47333699999999995,gironde,Nouvelle-Aquitaine,Gironde,FR-33,44.7339,-0.515546,natural-earth,10132.142,-1.260365,44.197959,0.32217,45.57331
+34,76,34172,Hérault,5,metro,43.591166,3.367207,herault,Occitanie,Hérault,FR-34,43.5524,3.27316,natural-earth,6169.666,2.555163,43.219428,4.1807,43.970652
+35,53,35238,Ille-et-Vilaine,1,metro,48.168105,-1.652987,ille-et-vilaine,Bretagne,Ille-et-Vilaine,FR-35,48.1428,-1.65623,natural-earth,6712.864,-2.287347,47.632626,-1.039333,48.712144
+36,24,36044,Indre,5,metro,46.812017,1.535931,indre,Centre-Val de Loire,Indre,FR-36,46.8003,1.61636,natural-earth,6930.682,0.880751,46.350939,2.19468,47.289215
+37,24,37261,Indre-et-Loire,1,metro,47.223217,0.709322,indre-et-loire,Centre-Val de Loire,Indre-et-Loire,FR-37,47.2903,0.713649,natural-earth,6128.169,0.06676,46.743228,1.362356,47.706147
+38,84,38185,Isère,5,metro,45.289669,5.55148,isere,Auvergne-Rhône-Alpes,Isère,FR-38,45.2478,5.4175,natural-earth,7907.16,4.755373,44.708977,6.369726,45.879955
+39,27,39300,Jura,2,metro,46.783104,5.729106,jura,Bourgogne-Franche-Comté,Jura,FR-39,46.732,5.72845,natural-earth,4934.927,5.250154,46.260686,6.206645,47.292215
+40,75,40192,Landes,4,metro,44.010072,-0.694072,landes,Nouvelle-Aquitaine,Landes,FR-40,43.9644,-0.792307,natural-earth,9382.256,-1.513987,43.489989,0.13549,44.529768
+41,24,41018,Loir-et-Cher,2,metro,47.659385,1.414207,loir-et-cher,Centre-Val de Loire,Loir-et-Cher,FR-41,47.5484,1.59234,natural-earth,6346.77,0.60197,47.186274,2.258642,48.130713
+42,84,42218,Loire,3,metro,45.754057,4.225577,loire,Auvergne-Rhône-Alpes,Loire,FR-42,45.706,4.16239,natural-earth,4881.178,3.674692,45.236496,4.769826,46.276199
+43,84,43157,Haute-Loire,3,metro,45.085724,3.78593,haute-loire,Auvergne-Rhône-Alpes,Haute-Loire,FR-43,45.1254,3.72362,natural-earth,4994.487,3.103535,44.750912,4.478166,45.421891
+44,52,44109,Loire-Atlantique,3,metro,47.346818,-1.752692,loire-atlantique,Pays de la Loire,Loire-Atlantique,FR-44,47.3637,-1.6025,natural-earth,6728.99,-2.556386,46.859947,-0.923779,47.825194
+45,24,45234,Loiret,2,metro,47.913784,2.320709,loiret,Centre-Val de Loire,Loiret,FR-45,47.9007,2.19238,natural-earth,6693.023,1.5159,47.484992,3.117927,48.339069
+46,76,46042,Lot,2,metro,44.625147,1.596335,lot,Occitanie,Lot,FR-46,44.6327,1.61079,natural-earth,5095.658,0.998269,44.220481,2.205315,45.045049
+47,75,47001,Lot-et-Garonne,2,metro,44.369126,0.46862299999999996,lot-et-garonne,Nouvelle-Aquitaine,Lot-et-Garonne,FR-47,44.3829,0.449742,natural-earth,5367.668,-0.14064,43.967321,1.077211,44.762338
+48,76,48095,Lozère,3,metro,44.542613,3.489919,lozere,Occitanie,Lozère,FR-48,44.4909,3.54811,natural-earth,5169.583,2.980114,44.113441,3.993999,44.956796
+49,52,49007,Maine-et-Loire,0,metro,47.389695,-0.5598339999999999,maine-et-loire,Pays de la Loire,Maine-et-Loire,FR-49,47.3771,-0.527847,natural-earth,7298.9,-1.33926,46.988091,0.241772,47.809539
+50,28,50502,Manche,3,metro,49.09192,-1.342297,manche,Normandie,Manche,FR-50,49.1637,-1.34727,natural-earth,6020.649,-1.945627,48.462929,-0.736813,49.726386
+51,44,51108,Marne,3,metro,48.961144,4.21828,marne,Grand Est,Marne,FR-51,49.022,4.26395,natural-earth,8075.345,3.394914,48.525804,5.03414,49.407292
+52,44,52121,Haute-Marne,3,metro,48.132831,5.258848,haute-marne,Grand Est,Haute-Marne,FR-52,48.1552,5.24076,natural-earth,6318.492,4.63727,47.588307,5.89782,48.693279
+53,52,53130,Mayenne,3,metro,48.150687,-0.644079,mayenne,Pays de la Loire,Mayenne,FR-53,48.1562,-0.635312,natural-earth,5226.281,-1.242964,47.735052,-0.052728,48.561278
+54,44,54395,Meurthe-et-Moselle,0,metro,48.956267,6.276536,meurthe-et-moselle,Grand Est,Meurthe-et-Moselle,FR-54,48.7055,6.27603,natural-earth,5209.097,5.464123,48.357493,7.08865,49.549431
+55,44,55029,Meuse,3,metro,49.013887,5.37138,meuse,Grand Est,Meuse,FR-55,48.9505,5.50884,natural-earth,6194.49,4.906919,48.411864,5.849568,49.608817
+56,53,56260,Morbihan,2,metro,47.746977,-2.883949,morbihan,Bretagne,Morbihan,FR-56,47.8699,-2.89359,natural-earth,6714.797,-3.732477,47.296617,-2.051668,48.207464
+57,44,57463,Moselle,3,metro,49.018482,6.764343,moselle,Grand Est,Moselle,FR-57,49.0845,6.51862,natural-earth,6092.597,5.924099,48.523442,7.644932,49.499409
+58,27,58194,Nièvre,3,metro,47.119859,3.537924,nievre,Bourgogne-Franche-Comté,Nièvre,FR-58,47.1505,3.56837,natural-earth,6864.171,2.855969,46.649965,4.224052,47.57876
+59,32,59350,Nord,2,metro,50.528865,3.14785,nord,Hauts-de-France,Nord,FR-59,50.403,3.22709,natural-earth,5546.78,2.063324,49.969045,4.210316,51.087541
+60,32,60057,Oise,5,metro,49.409381,2.426108,oise,Hauts-de-France,Oise,FR-60,49.3967,2.64323,natural-earth,5935.926,1.679157,49.067803,3.169387,49.765622
+61,28,61001,Orne,5,metro,48.577079,0.057956,orne,Normandie,Orne,FR-61,48.6533,0.063214,natural-earth,6155.92,-0.862706,48.180833,0.979812,48.970596
+62,32,62041,Pas-de-Calais,2,metro,50.513739,2.373076,pas-de-calais,Hauts-de-France,Pas-de-Calais,FR-62,50.4661,2.3614,natural-earth,6736.741,1.555186,50.018033,3.169299,51.01432
+63,84,63113,Puy-de-Dôme,2,metro,45.771304,3.186207,puy-de-dome,Auvergne-Rhône-Alpes,Puy-de-Dôme,FR-63,45.8135,3.26844,natural-earth,7916.427,2.398234,45.288616,3.969192,46.262664
+64,75,64445,Pyrénées-Atlantiques,4,metro,43.186959,-0.882296,pyrenees-atlantiques,Nouvelle-Aquitaine,Pyrénées-Atlantiques,FR-64,43.259,-0.74999,natural-earth,7897.371,-1.797172,42.772636,0.023232,43.592063
+65,76,65440,Hautes-Pyrénées,4,metro,43.142116,0.15922799999999998,hautes-pyrenees,Occitanie,Hautes-Pyrénées,FR-65,43.0599,0.13923,natural-earth,4533.361,-0.317059,42.668689,0.644904,43.611751
+66,76,66136,Pyrénées-Orientales,4,metro,42.625993,2.450218,pyrenees-orientales,Occitanie,Pyrénées-Orientales,FR-66,42.5738,2.54908,natural-earth,4227.382,1.707006,42.325661,3.18157,42.9138
+67,44,67482,Bas-Rhin,2,metro,48.599128,7.585385,bas-rhin,Grand Est,Bas-Rhin,FR-67,48.6179,7.56628,natural-earth,4622.86,6.977073,48.121353,8.200305,49.065683
+68,44,68066,Haut-Rhin,2,metro,47.866335,7.232457,haut-rhin,Grand Est,Haut-Rhin,FR-68,47.886,7.25359,natural-earth,3400.424,6.868923,47.416797,7.621116,48.303407
+69,84,69123,Rhône,2,metro,45.879514,4.701336,rhone,Auvergne-Rhône-Alpes,Rhône,FR-69,45.841,4.64841,natural-earth,3268.979,4.252639,45.444457,5.156902,46.299193
+70,27,70550,Haute-Saône,3,metro,47.638427,6.098146,haute-saone,Bourgogne-Franche-Comté,Haute-Saône,FR-70,47.6973,6.16722,natural-earth,5287.906,5.374892,47.260442,6.836012,48.008699
+71,27,71270,Saône-et-Loire,0,metro,46.656179,4.542444,saone-et-loire,Bourgogne-Franche-Comté,Saône-et-Loire,FR-71,46.6789,4.5138,natural-earth,8669.269,3.62488,46.171752,5.458828,47.155325
+72,52,72181,Sarthe,3,metro,48.02603,0.23296899999999998,sarthe,Pays de la Loire,Sarthe,FR-72,47.9682,0.170679,natural-earth,6235.674,-0.444313,47.580221,0.912883,48.474091
+73,84,73065,Savoie,3,metro,45.495147,6.403646,savoie,Auvergne-Rhône-Alpes,Savoie,FR-73,45.4832,6.47098,natural-earth,6151.361,5.600486,45.053585,7.160679,45.938766
+74,84,74010,Haute-Savoie,3,metro,46.04514,6.425648,haute-savoie,Auvergne-Rhône-Alpes,Haute-Savoie,FR-74,46.0502,6.51823,natural-earth,4682.233,5.824211,45.683564,7.022083,46.457372
+75,11,75056,Paris,0,metro,48.859161,2.345901,paris,Île-de-France,Paris,FR-75,48.8594,2.34347,natural-earth,128.972,2.226804,48.815832,2.47342,48.901217
+76,28,76540,Seine-Maritime,3,metro,49.661557,0.927917,seine-maritime,Normandie,Seine-Maritime,FR-76,49.5936,1.1513,natural-earth,6189.037,0.075369,49.256307,1.769487,50.06572
+77,11,77288,Seine-et-Marne,0,metro,48.619879,2.974395,seine-et-marne,Île-de-France,Seine-et-Marne,FR-77,48.5515,2.84201,natural-earth,5878.109,2.390661,48.121661,3.537802,49.1062
+78,11,78646,Yvelines,4,metro,48.761592,1.836919,yvelines,Île-de-France,Yvelines,FR-78,48.8191,1.90058,natural-earth,2254.438,1.443457,48.44412,2.22654,49.082591
+79,75,79191,Deux-Sèvres,4,metro,46.538998,-0.33580299999999996,deux-sevres,Nouvelle-Aquitaine,Deux-Sèvres,FR-79,46.5681,-0.300826,natural-earth,6091.985,-0.946004,45.969713,0.204704,47.100635
+80,32,80021,Somme,3,metro,49.969026,2.29137,somme,Hauts-de-France,Somme,FR-80,49.8757,2.36029,natural-earth,6216.152,1.373069,49.575009,3.193073,50.375678
+81,76,81004,Tarn,2,metro,43.792172,2.239716,tarn,Occitanie,Tarn,FR-81,43.8024,2.13731,natural-earth,5831.165,1.548442,43.383191,2.934477,44.19451
+82,76,82121,Tarn-et-Garonne,2,metro,44.082056,1.367237,tarn-et-garonne,Occitanie,Tarn-et-Garonne,FR-82,44.0657,1.23277,natural-earth,3696.078,0.741738,43.773777,1.977443,44.392747
+83,93,83137,Var,2,metro,43.394407,6.294842,var,Provence-Alpes-Côte d'Azur,Var,FR-83,43.4095,6.27103,natural-earth,6010.437,5.672189,42.987128,6.933185,43.806538
+84,93,84007,Vaucluse,2,metro,44.045027,5.203283,vaucluse,Provence-Alpes-Côte d'Azur,Vaucluse,FR-84,43.9981,5.21543,natural-earth,3466.472,4.657529,43.666034,5.753775,44.42887
+85,52,85191,Vendée,3,metro,46.67523,-1.468278,vendee,Pays de la Loire,Vendée,FR-85,46.6893,-1.31827,natural-earth,6552.34,-2.382924,46.27912,-0.555286,47.076322
+86,75,86194,Vienne,3,metro,46.612381,0.555286,vienne,Nouvelle-Aquitaine,Vienne,FR-86,46.5338,0.412746,natural-earth,6965.801,-0.109043,46.053517,1.194682,47.160588
+87,75,87085,Haute-Vienne,3,metro,45.919452,1.269595,haute-vienne,Nouvelle-Aquitaine,Haute-Vienne,FR-87,45.8465,1.21857,natural-earth,5495.161,0.635896,45.446473,1.909387,46.39706
+88,44,88160,Vosges,4,metro,48.16332,6.296381,vosges,Grand Est,Vosges,FR-88,48.2445,6.67053,natural-earth,5975.967,5.422397,47.818998,7.209038,48.523442
+89,27,89024,Yonne,5,metro,47.856237,3.594545,yonne,Bourgogne-Franche-Comté,Yonne,FR-89,47.7715,3.64262,natural-earth,7469.481,2.830876,47.312331,4.341145,48.411744
+90,27,90010,Territoire de Belfort,2,metro,47.629078,6.948721,territoire-de-belfort,Bourgogne-Franche-Comté,Territoire de Belfort,FR-90,47.6568,6.93675,natural-earth,656.622,6.759082,47.426844,7.151492,47.824165
+91,11,91228,Essonne,5,metro,48.530395,2.250147,essonne,Île-de-France,Essonne,FR-91,48.5629,2.29588,natural-earth,1832.947,1.91934,48.276744,2.575993,48.776072
+92,11,92050,Hauts-de-Seine,4,metro,48.840228,2.241115,hauts-de-seine,Île-de-France,Hauts-de-Seine,FR-92,48.8557,2.19706,natural-earth,166.643,2.151613,48.730105,2.331965,48.958127
+93,11,93008,Seine-Saint-Denis,3,metro,48.909918,2.445427,seine-saint-denis,Île-de-France,Seine-Saint-Denis,FR-93,48.9289,2.51916,natural-earth,233.108,2.266596,48.807471,2.592385,49.009784
+94,11,94028,Val-de-Marne,2,metro,48.774866,2.461937,val-de-marne,Île-de-France,Val-de-Marne,FR-94,48.7752,2.5155,natural-earth,234.751,2.316518,48.689522,2.598977,48.859201
+95,11,95500,Val-d'Oise,2,metro,49.070438,2.099664,val-d-oise,Île-de-France,Val-d'Oise,FR-95,49.0754,2.23366,natural-earth,1339.288,1.619875,48.882881,2.583332,49.230664
+971,1,97105,Guadeloupe,3,drom,,,guadeloupe,Guadeloupe,Guadeloupe,FR-GP,16.1881,-61.6822,natural-earth,1663.025,-61.797841,15.846991,-60.989247,16.513088
+972,2,97209,Martinique,3,drom,,,martinique,Martinique,Martinique,FR-MQ,14.7245,-61.064,natural-earth,1101.442,-61.228831,14.408108,-60.810414,14.876899
+973,3,97302,Guyane,3,drom,,,guyane,Guyane,Guyane,FR-GF,3.85831,-53.1324,natural-earth,83551.735,-54.615292,2.110673,-51.649037,5.744765
+974,4,97411,La Réunion,0,drom,,,la-reunion,La Réunion,La Réunion,FR-RE,-21.1155,55.5405,natural-earth,2589.51,55.225434,-21.370782,55.854503,-20.861423
+976,6,97611,Mayotte,0,drom,,,mayotte,Mayotte,Mayotte,FR-YT,-12.7767,45.2769,natural-earth,396.412,45.042491,-12.98919,45.290863,-12.647231

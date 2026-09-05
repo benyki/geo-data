@@ -3,66 +3,44 @@
 ```
 .
 ├── README.md
+├── LICENSE
+├── PROVENANCE.md
 ├── .gitignore
-├── requirements.txt
 ├── docs/
 │   ├── db-suggestion.md
 │   └── tree.md
 ├── scripts/
-│   ├── add_slugs.py
-│   ├── add_world_slugs.py
-│   ├── align_country_names.py
+│   ├── build_geo.py          # rebuilds admin1 + countries + France from Natural Earth
 │   ├── check_duplicates.py
-│   ├── convert_csv_to_json.py
-│   ├── convert_json_to_csv.py
-│   ├── enrich_code_postaux.py
-│   ├── enrich_communes.py
-│   ├── enrich_google_countries.py
-│   ├── enrich_regions.py
 │   ├── get_lat_long.py
-│   ├── load_france_db.py
-│   ├── load_world_db.py
-│   ├── process_departements.py
-│   ├── process_google_countries.py
 │   └── sort_az.py
-├── france-csv/
-│   ├── codes-postaux.csv
-│   ├── communes.csv
-│   ├── departements.csv
-│   └── regions.csv
-├── france-json/
-│   ├── codes-postaux.json
-│   ├── communes.json
-│   ├── departements.json
-│   └── regions.json
-├── world-csv/
-│   ├── bucket-list.csv
-│   ├── cities.csv
-│   ├── countries-by-google.csv
-│   ├── countries.csv
-│   ├── major_cities.csv
-│   └── states.csv
-├── world-json/
-│   ├── cities.json
-│   ├── countries-by-google.json
-│   ├── countries.json
-│   ├── major_cities.json
-│   └── states.json
-├── data-not-enriched/
-├── migrations/
-├── yard/
-└── venv/
+├── france/
+│   ├── regions.csv|.json|.geojson        # 18 - metropolitaines + DROM
+│   ├── departements.csv|.json|.geojson   # 101
+│   ├── collectivites.csv|.json|.geojson  # 8 - COM
+│   ├── communes.csv|.json
+│   └── codes-postaux.csv|.json
+├── world/
+│   ├── admin1.csv|.json|.geojson|.parquet   # 3,493 - top tier per country
+│   ├── admin2.csv|.json|.geojson|.parquet   # 1,237 - 12 countries
+│   ├── countries.csv|.json
+│   ├── countries-by-google.csv|.json
+│   ├── countries-emoji.json
+│   ├── cities.csv|.json
+│   ├── major_cities.csv|.json
+│   └── bucket-list.csv
+└── .cache/                   # Natural Earth downloads (gitignored)
 ```
 
-## Directory Descriptions
+## Directory descriptions
 
-- **docs/**: Project documentation and specifications
-- **scripts/**: Data processing and enrichment scripts
-- **france-csv/**: French geographic data in CSV format
-- **france-json/**: French geographic data in JSON format  
-- **world-csv/**: World geographic data in CSV format
-- **world-json/**: World geographic data in JSON format
-- **data-not-enriched/**: Raw data files before processing
-- **migrations/**: Database migration files
-- **yard/**: Additional documentation and resources
-- **venv/**: Python virtual environment 
+- **docs/** — documentation and schema notes
+- **scripts/** — data processing and build scripts
+- **france/** — French administrative data. Régions, départements and
+  collectivités are three separate datasets, not views of one level.
+- **world/** — global data. `admin1` is each country's top-tier division;
+  `admin2` holds the second tier for the 12 countries that have one.
+- **.cache/** — regenerable Natural Earth source files, never committed
+
+Only the scripts listed above are committed; `.gitignore` allowlists them
+individually.

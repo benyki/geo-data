@@ -1,0 +1,38 @@
+Open Geo Datasets — licence
+===========================
+
+The boundary, name, label-point and area data in this repository is derived from
+Natural Earth, which is in the PUBLIC DOMAIN.
+
+    "All versions of Natural Earth raster + vector map data found on this website
+     are in the public domain. You may use the maps in any manner, including
+     modifying the content and design... Crediting the authors is unnecessary."
+     — https://www.naturalearthdata.com/about/terms-of-use/
+
+Accordingly, the maintainers of this repository place their own contributions
+(the build scripts, the France region dissolve, the computed areas and repaired
+label points, the file layout) into the public domain under CC0 1.0:
+
+    https://creativecommons.org/publicdomain/zero/1.0/
+
+WHAT THIS MEANS FOR YOU
+
+  - Commercial use: permitted.
+  - Redistribution, including inside a closed-source mobile app: permitted.
+  - Shipping derived data offline (region name, ISO code, a label lat/lng):
+    permitted.
+  - Attribution: NOT required, in-app or anywhere else.
+  - Share-alike: does NOT apply.
+
+  A credit is welcome but is not a condition of use. If you would like to give
+  one, "Made with Natural Earth" is the phrase Natural Earth suggests.
+
+PER-FILE EXCEPTIONS
+
+  Not every file in this repository is public domain. The French administrative
+  reference data (INSEE codes, chef-lieu, commune and postal-code files) comes
+  from data.gouv.fr under the Licence Ouverte / Open Licence 2.0, which DOES
+  require attribution.
+
+  See PROVENANCE.md for the source and licence of every file. Check it before
+  redistributing anything from france/communes.* or france/codes-postaux.*.

@@ -1,32 +1,24 @@
+# Project
 /yard/
-/scripts/*
-!/scripts/enrich_major_cities.py
-!/scripts/enrich_postaux.py
-!/scripts/check_duplicates.py
-!/scripts/sort_az.py
-!/scripts/get_lat_long.py
 /migrations/
 /data-not-enriched/
 /venv/
 requirements.txt
-.DS_Store
-**/.DS_Store
+# Natural Earth downloads, re-fetched by scripts/build_geo.py
+.cache/
 
-
-/yard/
+# Scripts: only the committed, documented ones
 /scripts/*
+!/scripts/build_geo.py
+!/scripts/check_duplicates.py
 !/scripts/enrich_major_cities.py
 !/scripts/enrich_postaux.py
-!/scripts/check_duplicates.py
-!/scripts/sort_az.py
 !/scripts/get_lat_long.py
-/migrations/
-/data-not-enriched/
-/venv/
-requirements.txt
+!/scripts/sort_az.py
 
 # macOS
 .DS_Store
+**/.DS_Store
 .AppleDouble
 .LSOverride
 ._*
@@ -59,4 +51,4 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 .mypy_cache/
-.ruff_cache/.DS_Store
+.ruff_cache/

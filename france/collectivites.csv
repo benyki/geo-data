@@ -1,0 +1,9 @@
+code,chefLieu,nom,typeLiaison,zone,latitude,longitude,slug,name_fr,departement_count,label_lat,label_lng,label_source,area_km2,bbox_min_lng,bbox_min_lat,bbox_max_lng,bbox_max_lat,iso_3166_1
+975,97502,Saint-Pierre-et-Miquelon,0,com,46.8374544,-56.2120555,saint-pierre-et-miquelon,Saint-Pierre-et-Miquelon,1,47.040344,-56.332352,natural-earth,242.114,-56.396596,46.752753,-56.144765,47.141262,PM
+977,97701,Saint-Barthélemy,0,com,17.8967693,-62.825598,saint-barthelemy,Saint-Barthélemy,1,17.901987,-62.833193,natural-earth,24.501,-62.86734,17.881985,-62.791656,17.929145,BL
+978,97801,Saint-Martin,0,com,18.0814066,-63.0467131,saint-martin,Saint-Martin,1,18.081302,-63.049399,natural-earth,68.5,-63.14684,18.033391,-63.010732,18.122138,MF
+984,97502,Terres australes et antarctiques françaises,0,com,-49.237442,69.622759,terres-australes-et-antarctiques-francaises,Terres australes et antarctiques françaises,1,-49.303721,69.122136,natural-earth,7256.956,39.728282,-49.721612,77.585216,-11.550632,TF
+986,98613,Wallis et Futuna,0,com,-13.289402,-176.204224,wallis-et-futuna,Wallis et Futuna,1,-14.286415,-178.137436,natural-earth,139.85,-178.18574,-14.319431,-176.1256,-13.208917,WF
+987,98735,Polynésie française,0,com,-17.0243749,-144.6434898,polynesie-francaise,Polynésie française,1,-17.628081,-149.46157,natural-earth,3348.224,-154.536977,-27.641209,-134.942983,-7.950128,PF
+988,98818,Nouvelle-Calédonie,0,com,-21.3019905,165.4880773,nouvelle-caledonie,Nouvelle-Calédonie,1,-21.064697,165.084004,natural-earth,18892.23,163.615733,-22.670668,171.343765,-19.623712,NC
+989,98901,Île de Clipperton,0,com,10.3021287,-109.217835,ile-de-clipperton,Île de Clipperton,1,10.2973,-109.222,natural-earth,5.022,-109.234242,10.281562,-109.210357,10.311021,
