@@ -34,5 +34,9 @@ PER-FILE EXCEPTIONS
   from data.gouv.fr under the Licence Ouverte / Open Licence 2.0, which DOES
   require attribution.
 
+  The flag images in flags/ are rendered from flag-icons, which is MIT licensed:
+  free to use and redistribute, commercially too, but the copyright and
+  permission notice in flags/LICENSE-flag-icons must be kept with them.
+
   See PROVENANCE.md for the source and licence of every file. Check it before
   redistributing anything from france/communes.* or france/codes-postaux.*.

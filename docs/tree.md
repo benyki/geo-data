@@ -14,6 +14,10 @@
 │   ├── check_duplicates.py
 │   ├── get_lat_long.py
 │   └── sort_az.py
+├── flags/
+│   ├── 1x1/<cc>.png          # 46 square country flags, 192x192 (flag-icons, MIT)
+│   ├── LICENSE-flag-icons
+│   └── README.md
 ├── france/
 │   ├── regions.csv|.json|.geojson        # 18 - metropolitaines + DROM
 │   ├── departements.csv|.json|.geojson   # 101
@@ -36,6 +40,8 @@
 
 - **docs/** — documentation and schema notes
 - **scripts/** — data processing and build scripts
+- **flags/** — square country flag images to crop round or rounded-square,
+  named by lowercase ISO alpha-2 code. MIT, not public domain.
 - **france/** — French administrative data. Régions, départements and
   collectivités are three separate datasets, not views of one level.
 - **world/** — global data. `admin1` is each country's top-tier division;

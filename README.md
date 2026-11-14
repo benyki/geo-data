@@ -115,6 +115,14 @@ pre-existing `latitude`/`longitude` (the chef-lieu, e.g. Bordeaux for
 Nouvelle-Aquitaine) still sits alongside the new `label_lat`/`label_lng` (the
 region's actual visual centre). `label_source` records how each was derived.
 
+## Flags
+
+`flags/1x1/` holds 46 square country flags as PNG (192×192), named by lowercase
+ISO 3166-1 alpha-2 code, so they join onto `world/countries.csv` with
+`lower(iso2)`. They are drawn 1:1 so they crop cleanly to a circle or a rounded
+square; use them in a UI in place of flag emoji. MIT licensed (flag-icons), not
+public domain. See [flags/README.md](./flags/README.md).
+
 ## Assigning points to regions
 
 `admin1.parquet` is GeoParquet, so DuckDB's spatial extension reads the geometry
@@ -151,7 +159,7 @@ column and never drops a row, so re-running produces byte-identical files.
 See [PROVENANCE.md](./PROVENANCE.md) for the source and licence of every file.
 In short: boundaries, names, label points and areas are **Natural Earth (public
 domain)**; French administrative codes are **data.gouv.fr (Licence Ouverte
-2.0)**; the two city files have **unresolved provenance and should be treated as
+2.0)**; the flag images are **flag-icons (MIT, keep the notice)**; the two city files have **unresolved provenance and should be treated as
 ODbL**.
 
 ## Contributing

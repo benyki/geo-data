@@ -17,6 +17,7 @@ Source and licence for every data file. Check this before redistributing.
 | `world/cities.*` | see "Known issue" below | **Unresolved** | **Assume ODbL** |
 | `world/major_cities.*` | population aggregation, enriched via Nominatim | **Unresolved** | **Assume ODbL** |
 | `world/bucket-list.csv` | hand-curated | Public domain | Not required |
+| `flags/1x1/*.png` | flag-icons v7.5.0, 1x1 SVGs rendered to PNG | **MIT** | **Keep the licence notice** (`flags/LICENSE-flag-icons`) |
 
 *Note on France:* the geometry, label points and areas are Natural Earth (public
 domain). The `code`, `chefLieu` and `zone` columns are INSEE identifiers from
@@ -36,6 +37,12 @@ redistribute the French files wholesale, credit data.gouv.fr.
 - Regions, departements, communes, postal codes
 - Licence: **Licence Ouverte / Open Licence 2.0** — attribution required
 - Attribution string: `Source: data.gouv.fr`
+
+### flag-icons — square country flags
+- `flags/1x1/<cc>.png`, 46 countries, 192×192, rendered with librsvg from the `flags/1x1/` SVGs
+- Source: <https://github.com/lipis/flag-icons> v7.5.0 (npm `flag-icons@7.5.0`), added 2026-11-14
+- Licence: **MIT**, copyright (c) 2013 Panayiotis Lipiridis. The notice in
+  `flags/LICENSE-flag-icons` must travel with the files.
 
 ## Known issue — the city files are not licence-clean
 
