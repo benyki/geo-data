@@ -3,6 +3,8 @@
 ```
 .
 ├── README.md
+├── AGENTS.md                 # agent rules; says to install skills/geo-data
+├── CLAUDE.md                 # points to AGENTS.md
 ├── LICENSE
 ├── PROVENANCE.md
 ├── .gitignore
@@ -14,6 +16,8 @@
 │   ├── check_duplicates.py
 │   ├── get_lat_long.py
 │   └── sort_az.py
+├── skills/
+│   └── geo-data/             # the agent skill for this repo (copy to ~/.agents/skills/)
 ├── flags/
 │   ├── 1x1/<cc>.png          # 250 square country flags, 192x192 (flag-icons, MIT)
 │   ├── LICENSE-flag-icons

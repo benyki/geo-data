@@ -162,6 +162,12 @@ domain)**; French administrative codes are **data.gouv.fr (Licence Ouverte
 2.0)**; the flag images are **flag-icons (MIT, keep the notice)**; the two city files have **unresolved provenance and should be treated as
 ODbL**.
 
+## For coding agents
+
+[`skills/geo-data/`](./skills/geo-data/) is an agent skill describing every file,
+its licence, the join keys and the data this repository does not hold.
+[`AGENTS.md`](./AGENTS.md) says how to install it.
+
 ## Contributing
 
 If you find an error, have a suggestion, or want to add a dataset, please open
