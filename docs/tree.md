@@ -15,7 +15,7 @@
 │   ├── get_lat_long.py
 │   └── sort_az.py
 ├── flags/
-│   ├── 1x1/<cc>.png          # 46 square country flags, 192x192 (flag-icons, MIT)
+│   ├── 1x1/<cc>.png          # 250 square country flags, 192x192 (flag-icons, MIT)
 │   ├── LICENSE-flag-icons
 │   └── README.md
 ├── france/

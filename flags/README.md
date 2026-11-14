@@ -8,18 +8,11 @@ letters and no flag.
 
 | Folder | Files | Format |
 | --- | --- | --- |
-| `1x1/` | 46 | PNG, 192×192 (a 64pt tile at 3x), about 300 KB in all |
+| `1x1/` | 250 | PNG, 192×192 (a 64pt tile at 3x), about 2 MB in all |
 
-File names are lowercase ISO 3166-1 alpha-2 codes, so a flag joins onto
-`world/countries.csv` with `lower(iso2)`:
-
-```
-ar au bd br ca cn co cz de dk es fi fr gb gr hk hr hu id il in ir it jp kr mx
-my nl no pe ph pk pl pt ro ru sa se sk th tr tw ua us vn za
-```
-
-This is not every country: it is the set our apps needed so far. `countries.csv`
-has 250 rows; a country without a file here has no flag yet.
+File names are lowercase ISO 3166-1 alpha-2 codes. **Every row of
+`world/countries.csv` has a flag**: join with `lower(iso2)`, so France is
+`1x1/fr.png` and Indonesia `1x1/id.png`.
 
 ## Using them
 
@@ -46,7 +39,7 @@ PNG and not the SVGs because iOS's SVG renderer drops `<use>` parts (China's
 stars, Korea's trigrams, India's wheel) and shifts flags that clip a
 transformed group (Japan, Vietnam, Iran, Saudi Arabia).
 
-## Adding a country
+## Adding or re-rendering a flag
 
 ```bash
 npm pack flag-icons --pack-destination "$TMPDIR"
@@ -54,4 +47,8 @@ tar -xzf "$TMPDIR"/flag-icons-*.tgz -C "$TMPDIR"
 rsvg-convert -w 192 -h 192 "$TMPDIR/package/flags/1x1/<cc>.svg" -o flags/1x1/<cc>.png
 ```
 
-Use the `1x1` folder of flag-icons, never `4x3`.
+Use the `1x1` folder of flag-icons, never `4x3`. flag-icons also has 21 flags
+that are not countries in `countries.csv` and are not included here: `eu`,
+`un`, `gb-eng`, `gb-sct`, `gb-wls`, `gb-nir`, `es-ct`, `es-ga`, `es-pv`,
+`arab`, `asean`, `cefta`, `eac`, `ic`, `cp`, `dg`, `pc`, `sh-ac`, `sh-hl`,
+`sh-ta`, `xx`.

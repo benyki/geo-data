@@ -117,8 +117,8 @@ region's actual visual centre). `label_source` records how each was derived.
 
 ## Flags
 
-`flags/1x1/` holds 46 square country flags as PNG (192×192), named by lowercase
-ISO 3166-1 alpha-2 code, so they join onto `world/countries.csv` with
+`flags/1x1/` holds 250 square country flags as PNG (192×192), one for every row
+of `world/countries.csv`, named by lowercase ISO 3166-1 alpha-2 code: join with
 `lower(iso2)`. They are drawn 1:1 so they crop cleanly to a circle or a rounded
 square; use them in a UI in place of flag emoji. MIT licensed (flag-icons), not
 public domain. See [flags/README.md](./flags/README.md).

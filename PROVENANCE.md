@@ -39,7 +39,7 @@ redistribute the French files wholesale, credit data.gouv.fr.
 - Attribution string: `Source: data.gouv.fr`
 
 ### flag-icons — square country flags
-- `flags/1x1/<cc>.png`, 46 countries, 192×192, rendered with librsvg from the `flags/1x1/` SVGs
+- `flags/1x1/<cc>.png`, 250 countries (every row of `world/countries.csv`), 192×192, rendered with librsvg from the `flags/1x1/` SVGs
 - Source: <https://github.com/lipis/flag-icons> v7.5.0 (npm `flag-icons@7.5.0`), added 2026-11-14
 - Licence: **MIT**, copyright (c) 2013 Panayiotis Lipiridis. The notice in
   `flags/LICENSE-flag-icons` must travel with the files.
